@@ -1,0 +1,281 @@
+{
+ "aggiornato": "2026-11-06T16:35:30+00:00",
+ "filing": [
+  {
+   "tipo": "8-K",
+   "data": "2026-11-05",
+   "link": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526449835/d174184d8k.htm"
+  },
+  {
+   "tipo": "10-Q",
+   "data": "2026-10-29",
+   "link": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/goog-20260930.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-10-28",
+   "link": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/goog-20261028.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-08-10",
+   "link": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526342390/d171253d8k.htm"
+  },
+  {
+   "tipo": "10-Q",
+   "data": "2026-07-23",
+   "link": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-07-22",
+   "link": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/goog-20260722.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-06-11",
+   "link": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526267578/d57679d8k.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-06-05",
+   "link": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526259830/d36818d8k.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-06-05",
+   "link": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000059/goog-20260602.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-06-04",
+   "link": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526257724/d83560d8k.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-05-21",
+   "link": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526234488/d144566d8k.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-05-11",
+   "link": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526216986/d109021d8k.htm"
+  }
+ ],
+ "bilancio": {
+  "ricavi": {
+   "2022-12-31": 282836000000,
+   "2023-12-31": 307394000000,
+   "2024-12-31": 350018000000,
+   "2025-12-31": 402836000000
+  },
+  "utile_operativo": {
+   "2022-12-31": 74842000000,
+   "2023-12-31": 84293000000,
+   "2024-12-31": 112390000000,
+   "2025-12-31": 129039000000
+  },
+  "utile_netto": {
+   "2022-12-31": 59972000000,
+   "2023-12-31": 73795000000,
+   "2024-12-31": 100118000000,
+   "2025-12-31": 132170000000
+  },
+  "ricerca_sviluppo": {
+   "2022-12-31": 39500000000,
+   "2023-12-31": 45427000000,
+   "2024-12-31": 49326000000,
+   "2025-12-31": 61087000000
+  },
+  "capex": {
+   "2022-12-31": 31485000000,
+   "2023-12-31": 32251000000,
+   "2024-12-31": 52535000000,
+   "2025-12-31": 91447000000
+  }
+ },
+ "errori": {
+  "brevetti": "EPO_KEY/EPO_SECRET non impostati"
+ },
+ "norme_usa": [
+  {
+   "titolo": "Renewal of Agency Information Collection Activities: Submission for OMB Review; Comment Requested; Ocean Transportation Intermediaries; 3072-0018",
+   "data": "2026-11-02",
+   "tipo": "Notice",
+   "agenzie": [
+    "Federal Maritime Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/02/2026-22350/renewal-of-agency-information-collection-activities-submission-for-omb-review-comment-requested"
+  },
+  {
+   "titolo": "Certain Dynamic Random Access Memory (DRAM) Devices, Products Containing the Same and Components Thereof (II); Notice of a Commission Determination Not To Review an Initial Determination Granting a Joint Motion To Terminate the Investigation as to All Respondents and To Limit Service of the Settlement Agreement; Termination of the Investigation",
+   "data": "2026-11-02",
+   "tipo": "Notice",
+   "agenzie": [
+    "International Trade Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/02/2026-22283/certain-dynamic-random-access-memory-dram-devices-products-containing-the-same-and-components"
+  },
+  {
+   "titolo": "Additional Reconsideration Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review",
+   "data": "2026-10-29",
+   "tipo": "Proposed Rule",
+   "agenzie": [
+    "Environmental Protection Agency"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/10/29/2026-22082/additional-reconsideration-standards-of-performance-for-new-reconstructed-and-modified-sources-and"
+  },
+  {
+   "titolo": "Further Definition of “Swap”-Inclusions",
+   "data": "2026-10-19",
+   "tipo": "Proposed Rule",
+   "agenzie": [
+    "Commodity Futures Trading Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/10/19/2026-21377/further-definition-of-swap-inclusions"
+  },
+  {
+   "titolo": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Permit the Listing of Binary Options Overlying Key Performance Indicators Reported by Certain Issuers of Stock",
+   "data": "2026-10-16",
+   "tipo": "Notice",
+   "agenzie": [
+    "Securities and Exchange Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/10/16/2026-21149/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order"
+  },
+  {
+   "titolo": "Extending the Reporting Deadline Under the Greenhouse Gas Reporting Rule for Reporting Year 2025 to March 10, 2027",
+   "data": "2026-10-14",
+   "tipo": "Rule",
+   "agenzie": [
+    "Environmental Protection Agency"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/10/14/2026-20982/extending-the-reporting-deadline-under-the-greenhouse-gas-reporting-rule-for-reporting-year-2025-to"
+  }
+ ],
+ "news": [
+  {
+   "titolo": "Il valore in borsa di Alphabet, la società che possiede Google, è diminuito di circa 500 miliardi di dollari in un solo giorno - Il Post",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qcGdCYWFGb3JYM1JZSzlWdXZjem1SWEpISEpqbGF6YVYzU1dqMS1pUHhRekFQOG9acEVBNkNoN3AzQTliRHd1dDcxbE9nZEo3QXFrUi1FS3BzWHhZazZJLUQ1dkZqbjdXNGpfRVBNVTROaFZhenlMUQ?oc=5",
+   "data": "Fri, 30 Oct 2026 10:07:34 GMT",
+   "fonte": "Il Post"
+  },
+  {
+   "titolo": "Agcom, Alphabet/Google supera per la prima volta la Rai nel Sistema Integrato delle Comunicazioni - Brand News",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb1BzTVpKNURhb3k1a3JDcnRab2F5WU1vNHl2M2Q2LXgydEhvS2ZWeXZWVW1XT0tybEd6dHBnZFRXSzh0SEpsRDJncHlSWlZNQzJKenR5Z1M4aXRzWU5ELUcxelRtRHRNckMycmVlLWNLRlBfNzRRYkRKZU9xSFZMMjJUZmdmbjJmLW9GdEdWcGNrS3NtemZXaDBrdXpndWJBQ19DSHdJY3h0dTVIbEt1RC1TbVJ2Y19UUTdzTXJxOEVHczg?oc=5",
+   "data": "Thu, 22 Oct 2026 12:52:14 GMT",
+   "fonte": "Brand News"
+  },
+  {
+   "titolo": "La trimestrale di Alphabet delude le attese. Il titolo crolla in Borsa - Forbes Italia",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHR0QW10Q3h3WnFwelJqYWpNQjhtZ0dkdzlIb1pkblMyUm1tSVh5cHNDcW9jZE00aWZWV3Awb1pJU2dld25BNTE3aUxmZm5IZmhrLU5VNDNlbGdIQ1FqNTFKMTg2MnVpZEJxbjJjQzFuejN3ejdFdFJRdG9icGFwRnZTUUpFQ25PN3VQXw?oc=5",
+   "data": "Thu, 29 Oct 2026 08:20:35 GMT",
+   "fonte": "Forbes Italia"
+  },
+  {
+   "titolo": "Google: trimestrali disastrose. Titolo affonda a -7%. Male tutte le metriche, tranne il cloud - Criptovaluta.it",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZZ2RVY1VobnRoc21UWWVRU1Z6aFJLYUl0bWN0dU5rZmJIeFRIajJFcHBqLUI3TGdKSmZGNmI4dklPSk5mdU9WVG04cFdTQVFkNmRrX2hid2Nac2dPU3J5TEttNWs0M18wcUJyVHpERUFvNkJG?oc=5",
+   "data": "Wed, 28 Oct 2026 07:00:00 GMT",
+   "fonte": "Criptovaluta.it"
+  },
+  {
+   "titolo": "Traballa l’AI trade: cosa dicono i crolli di Intel e Google - We Wealth",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMElKOFA0bE9oaHVyRWgyZEJ6dmZlb2tyNzhXNGhNRWl5ZGNhSm8zYUUxZFVBQ2lQTG1MbHZ0RTdtM3dPNkk4R0pobDFvSEZ1c1Vtc1JILV9POXpUZ1NQbjZRS3I1Vm5VME5pRWlzRlVmRGZqOHdHZ0VlZ3ZmTXl4MmFHX0YyUE5nc1VtWHgyblZaUQ?oc=5",
+   "data": "Fri, 30 Oct 2026 17:15:34 GMT",
+   "fonte": "We Wealth"
+  },
+  {
+   "titolo": "Alphabet: Google prevede un investimento di 17 Mrd USD per un data center nel Wyoming - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSURscFBhaDE0U3p0bkRHMnBSd1g2ajFJeXdfLTM0OUNlWTFnRThQRUdFcXQ0R29FbnVRQ0RpY0pjb2VobGxnVTZvdHp6NVFERFY0RXM5NERiMGlHbVZUNDZwZ1lRMXdnTHZaWE1hSW0wS2RTRnN4SUdhbGVkaG1BbTZUY3pzSnJGVE9lVkZ2dExpckJPMDE5UEM2SXcxYzdaemVnMENBaGVFVHJTcS1LMkx3Vmpaa3ZTX3dsS1FUdzJFTE5OQl81VFZ0Q3VPSUd4eTdlNmtn?oc=5",
+   "data": "Thu, 05 Nov 2026 18:01:31 GMT",
+   "fonte": "MarketScreener Italia"
+  },
+  {
+   "titolo": "Azioni Alphabet: Google primo operatore media italiano per fatturato, cosa fare? - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtc2RubDRaRkdtc21uM01tWWNSSWN6a3ZZVk45M01kckJvb2M2Mjdmek9LUXYxdkNzOWs1TmFaZGlWSk5iSWs4QnNZNGdtOWk4OEIxbnAzcU1DWjBibHR4VHFLdjRVdUxwWWdYRzlzMA?oc=5",
+   "data": "Mon, 02 Nov 2026 08:00:03 GMT",
+   "fonte": "TradingView"
+  },
+  {
+   "titolo": "Alphabet spenderà oltre 200 miliardi nell’AI. E nel 2027 investirà ancora di più - Fortune Italia",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ01fUXI3TnVVTFZzd2kxcEJ0TkhjcUNmZW1TVkVPWEtOLTVtR1BrUG1FdTJOSkUzTXNHYTdERko1dzFubmw2WXlDTkJJRF82ODBqSF9ianA3bzJXT0ZsR3lkTmstcjNzbktqQnZUSjBNNGowYXRNTzFkXzVoT3B0YXBRRDEwMVBYc3RDRWI5VzJkc3plVkwxdW5qdlpIUTRvN2FDVmJjRkFPc2RvXzlPeDJKekNNalV3?oc=5",
+   "data": "Tue, 13 Oct 2026 07:00:00 GMT",
+   "fonte": "Fortune Italia"
+  },
+  {
+   "titolo": "L'AI fa bruciare ad Alphabet (Google) miliardi su miliardi. E il titolo scivola in Borsa di oltre 11 punti - StartupItalia",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqSXZUUWM1Sy1YWTRPM1g3YTFqYlBhc2x5ckhSYVpteXhCN1NHRGFXRmt0SGJYd3NuTGExVzE4bkVFbU92V3JNcHNRemVlSl93X3lJeTVod0tLc3dvaXRIRk0yQlNobll1anJKLXExQ0ZYUGpBWm5v?oc=5",
+   "data": "Thu, 29 Oct 2026 07:00:00 GMT",
+   "fonte": "StartupItalia"
+  },
+  {
+   "titolo": "Conviene Comjprare Azioni Alphabet Google Novembre 2026 ? Target Price - Finanza Italiacom",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhWWd3SzZJREFmVWcyd0FxYWlEdGpObUljbGZQMjlyeE1wUFBrOWwzQmlINTkzbEdzT0xodGFhWmhJQkZJU0N4ODFCMFUyRE1RNUhrWFJDTUhsMG9Dc01XUTF4Wnd4a1hnMW5wUlZ4aw?oc=5",
+   "data": "Thu, 29 Oct 2026 17:18:18 GMT",
+   "fonte": "Finanza Italiacom"
+  }
+ ],
+ "news_legali": [
+  {
+   "titolo": "Google: trimestrali disastrose. Titolo affonda a -7%. Male tutte le metriche, tranne il cloud - Criptovaluta.it",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZZ2RVY1VobnRoc21UWWVRU1Z6aFJLYUl0bWN0dU5rZmJIeFRIajJFcHBqLUI3TGdKSmZGNmI4dklPSk5mdU9WVG04cFdTQVFkNmRrX2hid2Nac2dPU3J5TEttNWs0M18wcUJyVHpERUFvNkJG?oc=5",
+   "data": "Wed, 28 Oct 2026 07:00:00 GMT",
+   "fonte": "Criptovaluta.it"
+  },
+  {
+   "titolo": "Il valore in borsa di Alphabet, la società che possiede Google, è diminuito di circa 500 miliardi di dollari in un solo giorno - Il Post",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qcGdCYWFGb3JYM1JZSzlWdXZjem1SWEpISEpqbGF6YVYzU1dqMS1pUHhRekFQOG9acEVBNkNoN3AzQTliRHd1dDcxbE9nZEo3QXFrUi1FS3BzWHhZazZJLUQ1dkZqbjdXNGpfRVBNVTROaFZhenlMUQ?oc=5",
+   "data": "Fri, 30 Oct 2026 10:07:34 GMT",
+   "fonte": "Il Post"
+  },
+  {
+   "titolo": "Alphabet, l’IA si mangia la cassa di Google: il titolo sprofonda in Borsa - Borsa&Finanza",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcl9zMVcxdDhCQXBPbjlkeW9NNmVqUTl2N25TWlhBS1V2NlFSU0YtdzhwTm96LUFqWUpTVi1PSjhxTWVHUTVDdVYwdHdvZl8tWGZQckl2RFc5N3hKeThRMGJUNlEyZjVIc1kzMlBlRnd5cW1UdW5IVzZINlRFcW9DdFU5blNkOWt4U1BlSjBSRVpUZ25WSGc?oc=5",
+   "data": "Thu, 29 Oct 2026 11:00:00 GMT",
+   "fonte": "Borsa&Finanza"
+  },
+  {
+   "titolo": "Conviene Comjprare Azioni Alphabet Google Novembre 2026 ? Target Price - Finanza Italiacom",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhWWd3SzZJREFmVWcyd0FxYWlEdGpObUljbGZQMjlyeE1wUFBrOWwzQmlINTkzbEdzT0xodGFhWmhJQkZJU0N4ODFCMFUyRE1RNUhrWFJDTUhsMG9Dc01XUTF4Wnd4a1hnMW5wUlZ4aw?oc=5",
+   "data": "Thu, 29 Oct 2026 17:18:18 GMT",
+   "fonte": "Finanza Italiacom"
+  },
+  {
+   "titolo": "Alphabet perde il 12,6% e brucia 500 miliardi, l'AI Mode rende meno - Pasquale Pillitteri",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YYnl3Wkd0M0RtRzdHV2pEY0lLVHo1V2gwODRNdjNQaHh2cXRIdE9tWU1vcGlPeGZ1NFFDbzBEdXZ4YlpDdERMZkoyMExCODJBcGw0SzBPdjdyMmh6eFgzMjR6YUdIZGxWcEJFR011SWEzd1YtRFBj?oc=5",
+   "data": "Fri, 30 Oct 2026 11:09:04 GMT",
+   "fonte": "Pasquale Pillitteri"
+  },
+  {
+   "titolo": "Il sorpasso di Google sulla Rai e la sfida per il mercato editoriale italiano - BusinessCommunity.it",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbnpUWENsVDhpLVpQUHUtSHRzd1RrMElucExRNHg1NkxheWJCcWVnQWpnT1BYUjltYU5kQVhmcWFCSWc1akdZZnBjWURwT041SVctUE52UFBfZDBaWXpFbW93OXA0NFZENmJrZ01WaTdPa3JYb1YyVFNmZXlXOUc4TU5PenZzV1NrR2NRc2dPWEFSRUpXOVV5TTZ1bHlnZ0k2TlNXM3BnYTNmSTNWelNTajJzTThXMkE1cjg3cURCN3lHV3plN0Y4WTBNTzJQa1o4cFNKeVM0T3dfSEJwc0VN0gHeAUFVX3lxTE8tUi1tRENqQmVrZTJCYkxfOHpqYmNPRzN0Y3hKOVFwazRrZU9KRm5QZ19UUThsY1FWdm40VlZBX1N2TElMQUYxcGVUdmxVbkVQLTRGYUZhdWFsck5MRUg0Qm9hM3YwWWVmSGQ0d1pLS0dQS19HNW5ERFgxRlEwYUhwLV9Hd2xJbmJjdXBQcHZITXlRejYyWFNvbWgzTmlWTks3LXB3emNHSnhvTHZHNXhKT3VXS3Vwdm1PMVdFUEQ1ZjFBS2VJNjNRVzR1blBvQ3duUGxRRzllVFJTalduQQ?oc=5",
+   "data": "Thu, 22 Oct 2026 09:34:36 GMT",
+   "fonte": "BusinessCommunity.it"
+  },
+  {
+   "titolo": "Google, Alphabet sfida i mercati dopo i conti deludenti: mega emissione di bond in sette tranche. Ma a che prezzo? - FIRSTonline",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcGVvTFA2S2t6MzJLRGlRWkhRNnp2V0xHd1pEbTV5M1FKWHJwV29zRUVKdVJFV1lmeFhta3ZlN3d6LWlVU0FSOHRXVTdUVUd2M01TQmh6MkstN3FjMGFmbnFvTFFpYVpWZUJPLTRoUUJfa1JfdzMzdFltQld5bkxOVWRJVTNfVnN2NEg3bWFzZTdYV2o5bGUtVFR4MWtTSERsa0c4Z3ZkakNkbFZMNXlzNjBmOGI1NUhUY09NajRHeHMxZk5jWmQ1MXE5ZkM2TUtBSXBHRTd3Yw?oc=5",
+   "data": "Mon, 02 Nov 2026 12:01:10 GMT",
+   "fonte": "FIRSTonline"
+  },
+  {
+   "titolo": "Google sfida l'UE: non vuole dare agli assistenti AI rivali gli stessi accessi di Gemini - IlSoftware.it",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOczhpWU9KOHRKR0VfQTgzWmk0Wl9aV0JFaGN1VDNxWEFhblZHb3EyejJjRUtrRGU1Q2lXWng4cXBoUjZWTEYyc2Y2TE9heUsxTHN1REVFS2lPdkhWelB5bFBBZ295ZWhNY0loV0JQM3p3S3dJVTBkZGZfTHpWSjlUQ1FrVm9saXFUR2I1Z1JsamNlQTVD?oc=5",
+   "data": "Tue, 29 Sep 2026 07:00:00 GMT",
+   "fonte": "IlSoftware.it"
+  },
+  {
+   "titolo": "Google lancia Gemini 4 Argon: può recuperare il ritardo su OpenAI e Anthropic? - Dove Investire",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcDJCeXlpSXdZclJ0anBtZjBFQ2ZoeDM5RXF2YXZueUQwSmZyWDJMSWdvdVdCT2lXM3d4cFd5dUd4YUozNUdJcHV1TzdnYmR0LVpSWHdKbVV2VXFJYjJsU1h3Vy02Tk93b195UGFhS1YyRlY4NTVrRkVLTGtvR3VwMHhBQQ?oc=5",
+   "data": "Fri, 02 Oct 2026 07:00:00 GMT",
+   "fonte": "Dove Investire"
+  },
+  {
+   "titolo": "Ciulli brinda, Google banna e l'Ordine dei Giornalisti buca una notizia diventata Tesi di Laurea - Matrice Digitale",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0lkcjJnWHVqSWJtZENOc21XNmpLdnZNRVN3cEJNNkZJZ0JBWHdMRGpjZVFvZ0M0T1Q5RGk0eTFNZEJ4a0dITFJkbG5Jdjd4eGVvSE1Nb0ZtZEZ6S1ExTGRGZWNrMjNCRmE1SU9uVDhvZC0tVGs0dHAwMzNvR1lBQzV6OHcyUQ?oc=5",
+   "data": "Sat, 31 Oct 2026 11:00:00 GMT",
+   "fonte": "Matrice Digitale"
+  }
+ ],
+ "news_brevetti": []
+}

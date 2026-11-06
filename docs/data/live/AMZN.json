@@ -1,0 +1,319 @@
+{
+ "aggiornato": "2026-11-06T16:35:32+00:00",
+ "filing": [
+  {
+   "tipo": "10-Q",
+   "data": "2026-10-30",
+   "link": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/amzn-20260930.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-10-29",
+   "link": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20261029.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-09-14",
+   "link": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926107526/tm2624614d5_8k.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-09-09",
+   "link": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000036/amzn-20260908.htm"
+  },
+  {
+   "tipo": "10-Q",
+   "data": "2026-07-31",
+   "link": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-07-30",
+   "link": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/amzn-20260730.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-07-09",
+   "link": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926082293/tm2619352d4_8k.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-06-12",
+   "link": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926073562/tm2613616d5_8k.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-06-10",
+   "link": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926072140/tm2613616d4_8k.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-05-22",
+   "link": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926065717/tm2614288d1_8k.htm"
+  },
+  {
+   "tipo": "10-Q",
+   "data": "2026-04-30",
+   "link": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/amzn-20260331.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-04-29",
+   "link": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000012/amzn-20260429.htm"
+  }
+ ],
+ "bilancio": {
+  "ricavi": {
+   "2022-12-31": 513983000000,
+   "2023-12-31": 574785000000,
+   "2024-12-31": 637959000000,
+   "2025-12-31": 716924000000
+  },
+  "utile_operativo": {
+   "2022-12-31": 12248000000,
+   "2023-12-31": 36852000000,
+   "2024-12-31": 68593000000,
+   "2025-12-31": 79975000000
+  },
+  "utile_netto": {
+   "2022-12-31": -2722000000,
+   "2023-12-31": 30425000000,
+   "2024-12-31": 59248000000,
+   "2025-12-31": 77670000000
+  },
+  "capex": {
+   "2013-12-31": 3444000000,
+   "2014-12-31": 4893000000,
+   "2015-12-31": 4589000000,
+   "2016-12-31": 6737000000
+  }
+ },
+ "errori": {
+  "brevetti": "EPO_KEY/EPO_SECRET non impostati"
+ },
+ "norme_usa": [
+  {
+   "titolo": "Privacy Act of 1974; System of Records",
+   "data": "2026-11-03",
+   "tipo": "Notice",
+   "agenzie": [
+    "Transportation Department",
+    null
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/03/2026-22436/privacy-act-of-1974-system-of-records"
+  },
+  {
+   "titolo": "Privacy Act of 1974; System of Records",
+   "data": "2026-10-23",
+   "tipo": "Notice",
+   "agenzie": [
+    "Veterans Affairs Department"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/10/23/2026-21697/privacy-act-of-1974-system-of-records"
+  },
+  {
+   "titolo": "Parts and Accessories Necessary for Safe Operation; Application for Exemption From Aurora Operations, Inc (USDOT #341156)",
+   "data": "2026-10-09",
+   "tipo": "Notice",
+   "agenzie": [
+    "Transportation Department",
+    "Federal Motor Carrier Safety Administration"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/10/09/2026-20734/parts-and-accessories-necessary-for-safe-operation-application-for-exemption-from-aurora-operations"
+  },
+  {
+   "titolo": "Music Streaming Fraud",
+   "data": "2026-10-07",
+   "tipo": "Notice",
+   "agenzie": [
+    "Library of Congress",
+    "Copyright Office, Library of Congress"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/10/07/2026-20537/music-streaming-fraud"
+  },
+  {
+   "titolo": "Privacy Act of 1974; System of Records",
+   "data": "2026-10-07",
+   "tipo": "Notice",
+   "agenzie": [
+    "Justice Department"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/10/07/2026-20531/privacy-act-of-1974-system-of-records"
+  },
+  {
+   "titolo": "Transparency in Coverage",
+   "data": "2026-10-06",
+   "tipo": "Rule",
+   "agenzie": [
+    "Treasury Department",
+    "Internal Revenue Service",
+    "Labor Department",
+    "Employee Benefits Security Administration",
+    "Health and Human Services Department"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/10/06/2026-20447/transparency-in-coverage"
+  }
+ ],
+ "news": [
+  {
+   "titolo": "Amazon annuncia i nuovi Amazon Alexa Tablet: hardware premium, Android e Alexa+ integrata. Disponibili anche due versioni Kids per i più piccoli, con incluso un anno di abbonamento al servizio Kids+ - About Amazon Italia",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdUdJdE5OQl84Y0ZYQzlENEY1bVpkX2V4U0JIcWt2VnhnZkcxR3pRcTNEbmdoOF9scUhXelJhcWpwQ0VXQjFXWnhXMGFDZ1JsM3pPbUtoWWYtUWYzemNoZkg3eEh4aFF5bUsxZmZJQ2k1cnlhQXBBS0tYSVFGdkgwZkdqWlZ3RVVnSmtNZzZFdjdsXzJCQ0xSZUs2aUo5ZnhtN0oyd3Bzbm5NVHROZ0FZM1NRaTFzQQ?oc=5",
+   "data": "Thu, 08 Oct 2026 07:00:00 GMT",
+   "fonte": "About Amazon Italia"
+  },
+  {
+   "titolo": "Amazon, investimenti ben oltre le attese nel terzo trimestre e ricavi sotto il consensus - Borsa Italiana",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTWR4QjYycUVRdVBNWHAtZ3U1WHpuSDBIakZrbXI4S0h0R1RTU0ZRbDIxV2U1b2RwU1c3VjlzaE1UMlJVbm5kamlQVG00VE54RHNZN3BwZ1dNNUY0VWZBVnkwVUt3djRfOHdWOUJZdDJ5UFE5R0VFMnRDLTR4UHRHZVdEMGxpSlhFd1pNLWNicFA0MUM0SUliLWFUSmEzcjFDbjRWeFJLYXpwdEhHZXNLamwtMVFUREpmTkstNG4wVDQ0Y25TbC1ISnpuMnZrYmtOUnVTY0djaVFfa0s1WXZCQmQzLWM5cElqSWo1RE1BX3Qzd2dIYnk0Tk9IbTktVk0?oc=5",
+   "data": "Fri, 30 Oct 2026 06:50:00 GMT",
+   "fonte": "Borsa Italiana"
+  },
+  {
+   "titolo": "In attesa della trimestale, il titolo Amazon è sottovalutato? - Morningstar",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOajRGWGdiTlA4aVlpU2xtM0I0dXJ6d1FyeHZxNGcyRnZYVlloTkE0aGJEUlV3T3RDcmFlMG1kYmZJNDR2MmYyS0owQi1NUXI2aFRSN0RjRWI4dS1RUU1icjRzUDFFT3V6d2pZV3FfSEZyS3Bxc1J5MTd5ai1mb0Z0SkJMTnZOUENuWDNFdnFGdWgxYUhySUN0eEx2UQ?oc=5",
+   "data": "Mon, 26 Oct 2026 11:11:35 GMT",
+   "fonte": "Morningstar"
+  },
+  {
+   "titolo": "Tragedia alla Amazon di Settecamini, malore fatale per un 25enne - RaiNews",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQV05CLURZWXdWOUdlTkwxeG1SNnF1VzBYMmJrenZiTWF4VE1fUGlhcGRnNkFLTWFJdDdJc3plMEctQmxZc0hqX0xPNzhCb2duZlBPUFJDSlVpMFVYS1huX0lvYlhhcU53eEMzUDhPUElvY19HS0xELU1pd0pabDFjclg0bU9pQTNoa3lrT0ZXcHFwS1ZmX3Z4MjZSXzRYMkdNVjNsTjcxRmhqSlk2cnc2Y3RCN2JGUmhHN2dkTmJ2X3dhY1pZM3RVOVZHckVjcHRTdGgzcmI2WmZ4TnczUzZ4aVpmZkxrajIyR0w00gHwAUFVX3lxTE4wN0VkdFlUajhrZXpPUWVzYzNxcHhJMlFKM2ZTbVNnSWluMk9jU3dXYWNibHJGbHVIcDQyYU52TXNPRTUzU3pieDNEa2xEc3RiNXhLT1FSOVN1UjI3RzRyTmstSUlSRVlwbEYweFNaemtSTjdwcGE4bmR6YlQydEFWN2s4UW9WNnFPM05Odmg1ZndteUNfWjJsZlFzZGcxLVNiUUlWdzJvdVMyTTRmc0Q3emY2dVgya090R3BOZWZYcVNOZXRpWFR0QjJMS21FWVdEZDlQQ0x5bzdHY1pvcXNJQ1VpaFBoVnU3N1dQVDJlbw?oc=5",
+   "data": "Thu, 08 Oct 2026 07:00:00 GMT",
+   "fonte": "RaiNews"
+  },
+  {
+   "titolo": "Angela Renzelli vince la borsa di studio “Amazon Women in Innovation” 2026 per Roma Tor Vergata - UniRoma2",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNek1FczJqMFVhTFkzdDYyU3B3NEwtbUpXZjBZbk9CeFptSmNEZVljeTRZcE14ZGdMdHEyS21YWXgxM3Vfa2tud0lvVEY2YVllbHU5Qk1zTU5ISDFFYy16THN6cnZ5NkRtM0p3YmZhUmQtQTFKT1U1b08xNzVpVmVYT24wR25DcTFHbkVJQUtBUFF5dlFWMmhOcFBlMWRUSTVJb2FBal9VM3FYY1FRZ1RLQW1mQmZLdkNCcU9iR0FrQkJmQnhlaTk4OXNR?oc=5",
+   "data": "Sat, 31 Oct 2026 15:41:03 GMT",
+   "fonte": "UniRoma2"
+  },
+  {
+   "titolo": "Milano, le palline di gel che potevano stravolgere Amazon: il colosso assolto per la responsabilità della commercializzazione - Corriere Milano",
+   "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxObFk2Rm80VWJVR1ZmZkttclVPak9aRGJ5eU54NElZYUFfVllGbHhRUDBMS2kyb1FDXy1DaUtYelRHNmF4VE82ZXRRd1l5Vl9jYUVTNU0tY0hxRmw1TnE0dXZ2NHd1Vno2MlNmQXpCS2pYUmx0VHFXVzdwOHE1Rk1NdGk4ZEdudFF6dEt6bXFXczdmNlZkUEVPY3RCQVpoTDJvVS1MTmotVXYxR1hYSzZBdVZJdnB2bkRTWmtGS1FHcV81NHl0Z2J0Y1ppWjBqcUhFcS1sb3ZMQWRwYVpsSG51UGt2UFZuT3hoc0hONGdVeTVSUEVPRG9lTGwzZ3RkdzFPbTkwT0ZVa19FUWxmal9DSi1sd0dyc0Rvb3I2b0VZdS1ScHNaMXBKWEFDRThqRWZkbXRfSDg0WVZKYTRkQ1FFanpvbWpQUdIBywJBVV95cUxPX2otTFFUdlQ3cTV0d3d5Q0c5YWhiOVpaV2hadnF4VnJYbzFNRWFoNjNRRlBhMlROdVlwY0ZtaDJiRk12SEhCanpOZWduM21LdE9VMkFPTl8yOVBFNHI0ZVlTX3RXTk9UeElDd0dCOEY5ZkkwaEtUdEJyZlZVLUhQYkV4LWdHWGNfWnlSMkpiN3NGU09lNk56Z09QY21WQmtDa1lwVHBfVXo3S3pyU3U4WUlsTUxNWU0xMG5SZXJIUVgxTnFMbjd5bXVFazlITW5DSkt1MElyRlZaa1JPV3hlX3ZNbkhVRERPd1o1TlRxdlZTaUdPdEFmUGdpZlU0RFE0aFZIWTAxR2JTX01XQ19tWllBYXZWVHE4R2ZFVG4ySGkwaTR4cU5jWENVS183ZXh1MkdJU3MxdzNLbHR0WWN5VjRwLXU0V1c2NU1V?oc=5",
+   "data": "Mon, 12 Oct 2026 07:00:00 GMT",
+   "fonte": "Corriere Milano"
+  },
+  {
+   "titolo": "Scopri i giochi gratis di ottobre con Amazon Luna e Prime Gaming: Star Wars e DOOM in regalo - Everyeye.it",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRG5Sb2VvZGNGdDhFY1NzRHk2bnY2dXZ6YjFMTXozVl9XR0tyRVdCX1NMRlJHMVkyYVlmbEFDZmVCQTJ2T2hDNUhBcDQxQ0hTTFlHMEpsUi16Zy02aVY0dzJmMHNkLW5oQktrSzdiX2hZM09DRG1CYWNkTVpkdUlHOEtWY1BuSGtTTFd4M2NDUEZ6YnRTdWpGNWJ5dWt4YWdKcmFRWTR3WWExRVhiU1hTMmI0U2JlNTFRUWVn?oc=5",
+   "data": "Sat, 31 Oct 2026 22:22:00 GMT",
+   "fonte": "Everyeye.it"
+  },
+  {
+   "titolo": "Amazon punta su 3.000 camion elettrici Tata. E l’accordo arriva mentre si chiude l’Opa su Iveco - Uomini e Trasporti",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdl85TF94SGZVc2JWOVkwLW0xUmFnekVZWlUxMGk1R3FBS0NGd2hJaUFGc3NLS1Vpa1hreEhfTlZxakdtM0M2MG9iY3R3aEdiZndCV1ludzhIS0VHYzFLWm9QOFVEZ2Jnb0FJSmI3SURXdHN6cS1YcUFBckh2V3BWRkpEUWl0bEVhcVp2ZmJxRlN6cUwtOGwyVGxObHR6VVRJSXBOekMxOW1tczAwblJlQmkwZkdmbE1tM2UwUTRWUU1VLTBXQkF0b2w2cUszRkdmNFJGek9sbC1QWEZUZXZjTW13?oc=5",
+   "data": "Wed, 28 Oct 2026 07:00:00 GMT",
+   "fonte": "Uomini e Trasporti"
+  },
+  {
+   "titolo": "Alexa ora può anche vedere: Amazon presenta 5 nuove linee per lo smart living ultramoderno - Libero",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbVVsejI5R0dCSkhRcTUzbVdQSk1VUThzaGZkT2w0YlJaeGF5UzFlcDIwVy1pd01LRDJEVGRQWWFIVnJoVnBRdjNoaVhtWjZGYzNQbjhqaHFmVlhac0IwU2Z3UjROamZxTnQ3TDdzVWFRQ2VUYkhyR3FtcnlwU1JxVWpXQy0yN3FWMTJkRWg4TUtlUdIBlwFBVV95cUxQeDU5N3BOQnVjT3VxWUNpWmp5YUlaOTFvbmxFU2pBcHl5NXY2MEZFNW5hRUFmWFgzMHUteFRrUHZXdHU1ajZhLTZSNGxfNHhvZWluT0tKeTRkWUFYQzZvMFhOaEJ3cGZVc3MtajVQUE9tWjY1LUhoekRVWENkaTdqRVdSOXhvOFVBV1Mya21WY2dKVk11bHJn?oc=5",
+   "data": "Thu, 29 Oct 2026 15:30:00 GMT",
+   "fonte": "Libero"
+  },
+  {
+   "titolo": "Amazon costruirà 12 reattori nucleari per i propri data center - Sky TG24",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZXdXT1czYm91WXNtTFRsbExmYk9kZmVjMHZNUVNmdE5sTU5lRFNTT1BKblpCZ1AzZHNpUFVrRFRUYWRMSWY3WG1sQm5xS0hxZUhOemRaakRsMVRWWlFWdU9WaG1tR2ZGTVBSU2dXQ1I2dEZHZlZETVRIbXczeFljc01KQQ?oc=5",
+   "data": "Fri, 23 Oct 2026 07:00:00 GMT",
+   "fonte": "Sky TG24"
+  }
+ ],
+ "news_legali": [
+  {
+   "titolo": "Sanzioni antitrust ad Amazon, sul termine per avvio istruttoria il Cds investe la Consulta - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTGNDSUhsempwSVlWWEU5QnEwa1ZZdnBTVll1UGFtNUgyU0JUcVZvSjVWSFVHTV96V29rY3F2RExLZVlEZHV4SEd6a2VoMW1EMXdmakpJX0t0S3FRMzFacW5rWDlWbGY4VWRrN1BaMzN6NGR0dGs4eTVGc1dUdjhpZ0Zrdl8xY09GRnFOUHF1ajlTck81ckdYOFNPcGl6T2tBbnJfM0pVN25HMnlUVENRZnZNdGpGN1hhdlRET1VXZmNyVWVa?oc=5",
+   "data": "Tue, 22 Sep 2026 07:00:00 GMT",
+   "fonte": "Il Sole 24 ORE"
+  },
+  {
+   "titolo": "Amazon esagera per la fine del Prime Day: set LEGO nerd a meno di 7 euro - Everyeye.it",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLWNfQTI3ak84UXRFVmlOVnliTmNPZlk0RXp6UmdIM2ZNUzIxMmQ1U2c2bDgwaGtlaFNoMmpSM0FwOE14OTFIc1pTTVY2YXhGVEw4WEozdkxpMWRUbUtFekdUMEhEcnV6X1VSZ1piZlQzTkUzaFUyQjJRaUVUSGZRaWZmVFBnb1FYc2RGcFB3ZnQ5Y3c?oc=5",
+   "data": "Wed, 07 Oct 2026 07:00:00 GMT",
+   "fonte": "Everyeye.it"
+  },
+  {
+   "titolo": "Amazon sospende voli società che gestiva cargo precipitato a Miami - Sky TG24",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UZGtlakpRYktzaUJ1TmdhTWlpbnpMellCUjJtdFk4czBGQ2JyOGRqTVY4Z1ZaLWwyN0s4VWNaZlVwWDZJYzY4Z2FwWllSWXdlWTVrbDBTV2FoUmZFQkRIN2NVa2hMbGpCVzEzNWxyN3FhckE?oc=5",
+   "data": "Mon, 14 Sep 2026 07:00:00 GMT",
+   "fonte": "Sky TG24"
+  },
+  {
+   "titolo": "Amazon LEO, più di mille satelliti costruiti e 100 pronti per il lancio - Key4biz",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR2p6c0dxeHBFcUNmdjBJT1p6LWNxVDBreFpEUExiMlRLeHByQXZmYTFVOWVSekZOaHBhQzZmeHFiWTg0QzJUbEdPMHJBTlBLZG9SMWVXOTlucExTNTY0ZTdyaVN6aFVta21JOFBnQl9ER1ZDa3ZEdFNZTmMtTENXUHFaaVhRNk9XN3VTU2tENktBcWlnMXVpc2Y4QnQxbnU0b2tz?oc=5",
+   "data": "Mon, 12 Oct 2026 07:00:00 GMT",
+   "fonte": "Key4biz"
+  },
+  {
+   "titolo": "Schieratevi con Awajún e le donne di Wampis! - amazonwatch.org",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4SWtmOW5XTHo1M243c2xsTF9TbUgzOV85eXFIVUxGSXI4SmE4dGRxMnNtVTQ3VFdFOC1rR2VVYWNwczljQjk4aE5feE96R1VYTUkwMFNubW80ckozX0xyTVE5QVFmOUhBeXVOcEFTYmVnRWVVVGthcElsMm8xQQ?oc=5",
+   "data": "Wed, 30 Sep 2026 01:52:20 GMT",
+   "fonte": "amazonwatch.org"
+  },
+  {
+   "titolo": "Le divisioni di Microsoft e Amazon potrebbero essere sottoposte a un'ulteriore vigilanza antitrust dell'UE - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZHZzR21jdEliSDBQa3ZSSzBDRnpTdjgxSTQ5V2hoeV9kRnhXdTM0S1BPTl9pUkhweEVlZ0txX2QtZ0Vnczg3cFNmWkV5ckxOWXBNSUZHbUQ3OXZaWExDMWFOOVVqaWpzSmpoamxUMEV4cXRrV1o5Y0ZlWnktcTY1T2NfTnRYOTB4czU5VTZScW1yZk94cGtQNGZmRmNIUHdrX0dOaXZXaTU4WFlPVFBTS19zOGxhM2Y1WjZPekw0OUFTcWs4OEpsQnAzcmRuaFR0MnVaNHlLaEdRT2Y2SFY1TWdwdTVNXzVBR1ln?oc=5",
+   "data": "Fri, 02 Oct 2026 07:00:00 GMT",
+   "fonte": "MarketScreener Italia"
+  },
+  {
+   "titolo": "Amazon rinuncia al data center da 427 mln di dollari in Virginia e dona i terreni alla contea - Fortune Italia",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZmlmUnl6YnhUOW5CV0FjbS1paC1hNVdoaWRBTUlXc1hfRDlCSVFzci01MUZfaVNOdlkteFp5MThLYVZQNU8ybF9yRzdsXy1jdUtJaGM1Q1o2MzMwYm5iRlRLejZpQkJBdVcza3hPUl9wbTBacll1OEtjWS1HcEFJc25Pcng0TG1DUVNhN2gtVG1qREY4M0tYc3hueHpMYmtxczhXSlozajhSUm9RbEdMUDRFY0RmdUZVNlFEYzFvTjFJMndGMFl2alpieEc?oc=5",
+   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "fonte": "Fortune Italia"
+  },
+  {
+   "titolo": "Amazon Prime Air 767, le immagini dall’alto dopo l’incidente a Miami: cosa è successo in pista - Il Messaggero",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLWdUSHVxbGt2ajNtYUJSUHF2V1pDdUVseHNURk14ZnI2U3FmRmxSTlhmckVfNGx3cjF3X0RTWDV2dHpWZm04SmlOQ3kwRUNjaFFwcFptTEFhZzFnTHplaUdGZTFINVJzQlh6dUdFR0ltNXVFNjdSRmhPbDVfMHoxZVFlQXNpS3ptYlAtbkhtMmZHY3MwaXJ1Yjl6UzdZYzFENGc3UWJSX3p2MlhkQVgtYXl30gG3AUFVX3lxTE0wb2dmb2FmQVZFYklqcG1oM19wYThpOUNvVkx1bndnREtRNHBMWERWNWMzRzFnM0dMOWZwdm5uOU1mTDhQUC1ZR0xLRTlBYlV5bmQ0ckpWT05xN2NwMTNpX2xPVGFHQUJxVm5jS2JaUEpmZ3N5OWlFX3MzNEx6NW5Kd3ljNUs1Y1BLRnRlNFA5UFl0S1RpNGxWek5pX3E2dC00ZEdJaUZxRzhocGFic00yYS11LWZhbw?oc=5",
+   "data": "Thu, 10 Sep 2026 07:00:00 GMT",
+   "fonte": "Il Messaggero"
+  },
+  {
+   "titolo": "Amazon e Buy Box: se l’algoritmo corre più veloce della giustizia - Agenda Digitale",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVzhKNUU4aTBQd1VPVkxlRDBMSlVZMnkwcDNyX29RX19pVF9yYk04ZmRDbmpTTE5aZ3ctU0N0Ui04TktHa3pHWkVwdncxSGd3OXRLN1VwTWJtYkdMREFieFc3REd5RjVMdlRtZ0dfNk5Uc3Vad1J4N3FGMVJ2cHYySEctLWZETS02am9BZG5tTTFTbkx0bE5yLVdZUFgxSHRjV29Rd1F0YTY0Z3dPZmZQdWpjMHlFZ0djNFVHaw?oc=5",
+   "data": "Mon, 14 Sep 2026 07:00:00 GMT",
+   "fonte": "Agenda Digitale"
+  },
+  {
+   "titolo": "Maxi truffa ad Amazon, oltre la condanna dovrà risarcire il colosso per oltre 500mila euro - RiminiToday",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVpOR2xnLXJpRWd3elRQaEdCTVlJWDE2SFUxVEFhZFoxX2NXZ0RHZFo1UGJvaS1ibUtxQ1lCemprcE40UkVkSUgzZTFQM0FZaWxvSGViU3ZGcXVNalpsY3ViZWZNN2VYay1SbGg2Znc1OTl4TXRlZUJHVlhqNkJNcm82ZlU4bl9MdXJhVVVlenllRXJDN0RTeXpvczhDTVRjQjh0T0o4aWk3RU1RT1Y5djV1VTc?oc=5",
+   "data": "Wed, 21 Oct 2026 07:00:00 GMT",
+   "fonte": "RiminiToday"
+  }
+ ],
+ "news_brevetti": [
+  {
+   "titolo": "Amazon: regala Disney+ per guardare Toy Story 5, Mandalorian & Grogu e King Marracash - Everyeye.it",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVFBpYnhHd1M5UElHODFCbkpBU1UzWkVDTnBESzZ5QjJXdjFpRlF1TXhKMmNoN29McHpZQ2xEMkF4RDNkY25JcHFqbDNaOHhpZlFRcVhjUzFCRGNZUWJZcWZUc19Id19fNjRIVnIxQWU3V3JfdHJSWlhueFJOWlEtUlRPV05RWGc4cWRZT2xBNFllZ3o1S09FVzg0ZkwtUUhtY2Q4RjZNSkZzbW5qVDdYaC1EOWdsbHJHQ2c?oc=5",
+   "data": "Wed, 23 Sep 2026 07:00:00 GMT",
+   "fonte": "Everyeye.it"
+  },
+  {
+   "titolo": "Spunta una domanda di brevetto Microsoft per un'IA che riscrive le parole in diretta - Pasquale Pillitteri",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT0pOOHFyczRDb2VaZ2lOa2tQNUotN292Mnl6S0t6cTlxQ0tWMlhicG1qektJMXF1ZXg4dDUwb2VYN19CWnh0VmFIbnF4Sk5pOEtTWjZzUGo1alFWZTB3X3plX09qRk5IZWR3TkozTkdQaktZdzF5ZC14eG1ZNExwd20xSlR1MTJYcWxUNUJUemh3LTA?oc=5",
+   "data": "Fri, 06 Nov 2026 07:02:23 GMT",
+   "fonte": "Pasquale Pillitteri"
+  },
+  {
+   "titolo": "Apple dovrà pagare un extra di 184 milioni a Masimo per violazione di brevetto - TuttoTech.net",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNW5TVmo3Y0h4NkFmMGg0d21WZlo4QkROZ0VrNUFpdzlSU1k2OVFPQ2drdERsV0RwV1ZKSWlyWVowVzJybmg5OHE0ZTlHSkwzd3RUeHRTY05KT2V6MmJhZXdXUkRoUGhnLVk5Z21ROFpKXzZEMzRhYjFaX1ljQkFjd2V3NzJjRGJOcUtFQXpZSTBTT1EyNVRlSThrZFZjYnlBSEJuUGNNdUNsOU9jbFE4MHhR?oc=5",
+   "data": "Wed, 07 Oct 2026 07:00:00 GMT",
+   "fonte": "TuttoTech.net"
+  },
+  {
+   "titolo": "Sony punta a NPC che imparano dal vostro stile di gioco - SpazioGames",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMzIxYl9JWXNvS3d0UU5FZmFvdDg2Z0ZHMUtjYjRWQ00yOENmWjU4RlZLV2dLYjMwRHR6cUFIa2k5b0NpMk9YM1czWG1MOXFCc1hxVW9wbmFneF9EZVJiWHMyTTZEYV96NDlVc3hTZUtUMHVmcXVzanVOWFlZdXJRb0NMUFg3UUFIdjdqck51Qnk3ekE?oc=5",
+   "data": "Thu, 08 Oct 2026 07:00:00 GMT",
+   "fonte": "SpazioGames"
+  },
+  {
+   "titolo": "Apple Glasses e privacy: ecco come eviteranno le registrazioni \"spia\" - macitynet.it",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdHY1N0IzN3ZYV0J0eFQ1RS0wU3pXcXNTNDMtSVRmR2NHVjhkdDQzSEtiODhMZHpxaExWdEFWN0k4QUJ5ZVpsX0gwS2NJNHJadlFyd1ZGMG9sLUlOX08wYjNkQ1lTOWhDNzBBYk9lcDlqYW41dEotd3hWMW4tWWNsdFdmLUhYOVJBNHJHdjhKNGZIS1FtR2dZ?oc=5",
+   "data": "Fri, 14 Aug 2026 07:00:00 GMT",
+   "fonte": "macitynet.it"
+  },
+  {
+   "titolo": "La voglia di privacy Apple guarda alla conduzione ossea - WeAr news",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fYm1kSkpuS0luU0h3amF1MTdHN2tVbXZfcFphVThkeDF1dllPcXVGSWFOTDNIay1pY09iZTJjUUpQX0VZWEloZ2liZGxSclNOQUdvM3hUS1BBWllTbWhwZW1WSklvcDB3T2Q2MlZnNFM5TTlmZlE?oc=5",
+   "data": "Thu, 05 Nov 2026 15:47:59 GMT",
+   "fonte": "WeAr news"
+  }
+ ]
+}

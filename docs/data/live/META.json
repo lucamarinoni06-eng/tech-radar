@@ -1,0 +1,284 @@
+{
+ "aggiornato": "2026-11-06T16:35:37+00:00",
+ "filing": [
+  {
+   "tipo": "8-K",
+   "data": "2026-11-05",
+   "link": "https://www.sec.gov/Archives/edgar/data/1326801/000119312526450074/d166273d8k.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-10-29",
+   "link": "https://www.sec.gov/Archives/edgar/data/1326801/000119312526438017/d183592d8k.htm"
+  },
+  {
+   "tipo": "10-Q",
+   "data": "2026-10-22",
+   "link": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/meta-20260930.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-10-21",
+   "link": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-20261019.htm"
+  },
+  {
+   "tipo": "10-Q",
+   "data": "2026-07-30",
+   "link": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026050705/meta-20260630.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-07-29",
+   "link": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026050596/meta-20260729.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-05-29",
+   "link": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026039193/meta-20260527.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-05-04",
+   "link": "https://www.sec.gov/Archives/edgar/data/1326801/000119312526204128/d134616d8k.htm"
+  },
+  {
+   "tipo": "10-Q",
+   "data": "2026-04-30",
+   "link": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026028526/meta-20260331.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-04-29",
+   "link": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026028364/meta-20260429.htm"
+  },
+  {
+   "tipo": "DEF 14A",
+   "data": "2026-04-16",
+   "link": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026025532/meta-20260416.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-04-14",
+   "link": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026025108/meta-20260408.htm"
+  }
+ ],
+ "bilancio": {
+  "ricavi": {
+   "2022-12-31": 116609000000,
+   "2023-12-31": 134902000000,
+   "2024-12-31": 164501000000,
+   "2025-12-31": 200966000000
+  },
+  "utile_operativo": {
+   "2022-12-31": 28944000000,
+   "2023-12-31": 46751000000,
+   "2024-12-31": 69380000000,
+   "2025-12-31": 83276000000
+  },
+  "utile_netto": {
+   "2022-12-31": 23200000000,
+   "2023-12-31": 39098000000,
+   "2024-12-31": 62360000000,
+   "2025-12-31": 60458000000
+  },
+  "ricerca_sviluppo": {
+   "2022-12-31": 35338000000,
+   "2023-12-31": 38483000000,
+   "2024-12-31": 43873000000,
+   "2025-12-31": 57372000000
+  },
+  "capex": {
+   "2022-12-31": 31431000000,
+   "2023-12-31": 27266000000,
+   "2024-12-31": 37256000000,
+   "2025-12-31": 69691000000
+  }
+ },
+ "errori": {
+  "brevetti": "EPO_KEY/EPO_SECRET non impostati"
+ },
+ "norme_usa": [
+  {
+   "titolo": "Medicare Program: Hospital Outpatient Prospective Payment and Ambulatory Surgical Center Payment Systems; and Quality Reporting Programs; including the Hospital Outpatient Quality Reporting Program and Ambulatory Surgical Center Quality Program; Request for Information on Strengthening the Standardization and Comparability of Hospital Price Transparency (HPT) Data; Prior Authorization; Accrediting Organization (AO) Deeming for Emergency Medical Treatment and Labor Act (EMTALA); and Notices of Closure of Teaching Hospitals and Opportunities To Apply for Available Slots",
+   "data": "2026-11-06",
+   "tipo": "Rule",
+   "agenzie": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22739/medicare-program-hospital-outpatient-prospective-payment-and-ambulatory-surgical-center-payment"
+  },
+  {
+   "titolo": "Medicare and Medicaid Programs; Organ Procurement Organizations Conditions for Coverage: Revisions to the Conditions for Coverage",
+   "data": "2026-11-03",
+   "tipo": "Rule",
+   "agenzie": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/03/2026-22381/medicare-and-medicaid-programs-organ-procurement-organizations-conditions-for-coverage-revisions-to"
+  },
+  {
+   "titolo": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Permit the Listing of Binary Options Overlying Key Performance Indicators Reported by Certain Issuers of Stock",
+   "data": "2026-10-16",
+   "tipo": "Notice",
+   "agenzie": [
+    "Securities and Exchange Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/10/16/2026-21149/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order"
+  },
+  {
+   "titolo": "Global Benchmark for Efficient Drug Pricing (GLOBE) Model",
+   "data": "2026-10-02",
+   "tipo": "Rule",
+   "agenzie": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20281/global-benchmark-for-efficient-drug-pricing-globe-model"
+  },
+  {
+   "titolo": "Self-Regulatory Organizations; North American Derivatives Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change Relating to Rules Governing Contract Specifications for Perpetual Cash-Settled Single Stock Security Futures",
+   "data": "2026-10-02",
+   "tipo": "Notice",
+   "agenzie": [
+    "Securities and Exchange Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20194/self-regulatory-organizations-north-american-derivatives-exchange-inc-notice-of-filing-and-immediate"
+  },
+  {
+   "titolo": "Rule on Impersonation of Government and Businesses",
+   "data": "2026-10-01",
+   "tipo": "Proposed Rule",
+   "agenzie": [
+    "Federal Trade Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/10/01/2026-20143/rule-on-impersonation-of-government-and-businesses"
+  }
+ ],
+ "news": [
+  {
+   "titolo": "Meta Platforms, nel terzo trimestre ricavi e utili battono il consensus - Borsa Italiana",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPck55NmNocFhzdFJjMHRLNjNsU1dZbnlKNFJTWUMzZldtOUxiX2hfeXlyWkZieUJKLTB2SGY1ZXNzOXF0VjB0M0dNNzV6WFRnSmF4dXNENFp5N3JNSUJveE1MV1BuTHpMcGx6RFBYRDgySF8tWm1PeUZjdkFKVDJxZXY4djlsUzFiX05SbE40NFhQemVXWktOVTFtUm56bVprblFmcUx0SlZDT3h5WTdzWjB4MnpjSllwUHhYYXg5WjR0SVd5ZXczaGRObmZnNWc4M3l4dkp0ZS1YNmN6V0pvVVNwR2JNY3pGd3c?oc=5",
+   "data": "Thu, 22 Oct 2026 08:12:00 GMT",
+   "fonte": "Borsa Italiana"
+  },
+  {
+   "titolo": "Gli EPS di Meta Platforms hanno battuto le aspettative per 3,83$, il fatturato supera le previsioni - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMG1qNnpHY1JKdGw2R3pkUmJHa1Z0d25Zb1ZGMTFETm11NDFKaEo2T2pzaW8wcUctYWdxY2NwcVl2LUYwRnp0ZlFmOGpsWEhudkFpQXVxWUpETURqR2pSZ0ZnREVZSmh1dmYycVdySjlzMFFsTURVQ2NjUzFUd2xVdXNUcTJ3UVgyd0tDRlRIWm1wYVhjT2hLN1VrZlZkMTRqdjlSMDBDdVJnMnZNOXV4YkVZdFVqeGRsN2g0bE9QcHdHRHppRTBUdDFjMDA0Sy12eVR0dkJHSzFiWjg?oc=5",
+   "data": "Wed, 21 Oct 2026 07:00:00 GMT",
+   "fonte": "Investing.com"
+  },
+  {
+   "titolo": "Meta in calo dopo la trimestrale. Il titolo è sottovalutato dal mercato? - Morningstar",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNkM5UUE3XzBxNDQ3RWtBNjROaDVya0VGZDNtR19ZMkNFS0ZZNmRucFpCRW5yQW44b2VkRXdyRWpCNW1UQklMT2ZhNjcxNXpTeFpkelFUNWt6WW9RM2k1U0RRRC1jblZSZzkya0ZhdHlsUVNRM2h3Vm9MdkRuUUxkSnBmc1F6TFRVdURWMHE4bzN0NmZWM1ZZYkZkdlVwdWIyOGxQb2hULXdnZw?oc=5",
+   "data": "Mon, 02 Nov 2026 11:06:09 GMT",
+   "fonte": "Morningstar"
+  },
+  {
+   "titolo": "Meta Platforms raccoglie 9 miliardi attraverso la sua prima emissione obbligazionaria in euro - Teleborsa",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUEFESWJweFVkd3Q0QTJPRHpDaldZQS1wRnptRk04dVdDcUtueC1OUTZUYnotQXVsRkVyaHhVOENubDlKTUJ0SjRrLUlCNGZQNWNBSmVXUlRuNUtNakwzcm5TRVA2czQtZXM5RE5PbmRRTXFnQUJzRm42alpBWVVhXzJ5ZlFrdEFOYkw3cWdfX2k0bkRZQUdHNWtNNnZpbzVVNnd0WjN4M0RkTGc2ZGlQQlpoV0t5ZnQ2ZnJ6SDhvMW9RX3lJQlZvdnQzM1VBVzBxU3AtZmY0dmtZekk?oc=5",
+   "data": "Wed, 04 Nov 2026 19:19:43 GMT",
+   "fonte": "Teleborsa"
+  },
+  {
+   "titolo": "BPA CW PUT META PLATFORMS 600 E 111126 - Milano Finanza",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3hpTGJaY004bzRpYjJoazRYSjFhZEJKWDNaMG55bW12TFlEVDdSblIyODU4NDczbTQycmtkdGpDblZ5R1lSTU1oVnMtTkJPRU9MdVZjbXNxMVdyT2s3T245cG9zRWdiUTgyNUlFU2ZEU3l2elc2dXloNENxdERDVzlaNXhQOEJIa3pZQUttUmR3bnJDaDR5aFZmRnY?oc=5",
+   "data": "Fri, 06 Nov 2026 15:10:07 GMT",
+   "fonte": "Milano Finanza"
+  },
+  {
+   "titolo": "Meta Platforms, i conti del 3° trimestre 2026 - SoldiOnline.it",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZHQzQVlQQ21kdG5jaFVUaDQ2ODN5Z2Y4RGpjVzllcUdSbWN3X1E4azJQcTB2YlZSQl9oSmx4Si1pUFlWWTRFUFJ3WVhRN29vdkE4bjRlbG4waFhpMG56VW1kOE5CcUF4dFNIU1hxWVJaRm1zU2QwVzVIZU00Z1pjMGJ2RW90azJBajRSMWpPSHVNcnJtM3c?oc=5",
+   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "fonte": "SoldiOnline.it"
+  },
+  {
+   "titolo": "Meta Platforms, Inc.: da New Street è Buy - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVlFhdVhDSkJsU0hSUWFGMFZCdTJHOUhkU3hGUGl5RUlEMnV2LVlHaWw1Zld6TW05TW9MVm5GY2xsNkVRR2NBYTVINHZzZGpLT1kzTFNPbmJSemVwMVE2VENTcTNSQjYzX2ptZ1N6QjYxdUJmbDVlZ1h3Qm81RmZycEhwTUhPOENwb1VQcTZCemt1ZTJmdUhvVQ?oc=5",
+   "data": "Tue, 27 Oct 2026 10:08:08 GMT",
+   "fonte": "MarketScreener Italia"
+  },
+  {
+   "titolo": "Meta Platforms, Inc.: prospettiva positiva di Bernstein - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGhMT01fLURSNlRkMlFsdzRDcjJ1YVdmOUVsT2FYSjltN3J2UEk3SEdzLWc4eWZYQnBOdGxrdkFuamk5NmVEb3prVHZ6cDdBdmtNc0pMaFpQQTFYeGtBcnZZMmNZbVdGUkI5dkR1RHlGMjY2bXpqVW1iZUZEYndDUkRZQWNiQnRHSXVwWV82TEVGRU5iU1JRMVYza1VVTGdyd05qTkxTcnk4RFU?oc=5",
+   "data": "Fri, 06 Nov 2026 09:14:31 GMT",
+   "fonte": "MarketScreener Italia"
+  },
+  {
+   "titolo": "Meta Platforms: il colosso pubblicitario che voleva incassare tutto - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcDZvZmFFb3NsVGx4cTlzaGF1SW5VTnQ3aDJtWHhIamtoOFdUbHJjZ0NwU2lIQjdiQkpDcVVhRzlaYUtRNjl3cVV3OTdJbzdkX1RCT2xTYkw0YXF3ckp3MUtOX0JtTzk5NlVyb0JraHVkbmZvV1daMjhuZnd5UXk5ZkJ6dDRVSDNhSmcxV05ET0xjckcxSlBnNmZQbWhiNmVXOGRBNDg4emNpZXFhcVN2SmZFZ2lSVk5VV0tJaWp3?oc=5",
+   "data": "Fri, 09 Oct 2026 07:00:00 GMT",
+   "fonte": "MarketScreener Italia"
+  },
+  {
+   "titolo": "Meta Platforms introduce strumenti di intelligenza artificiale per affinare gli algoritmi di Facebook - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQY1hJV0tDNnJqU1EwZkttQmRacWVvckpabGxnd3NlQ2tlY0FKOUViWE9pVUxyZzhZV1haall1Vms5anVRMFIweHJWQTFRWHZvbF9qRFh2RnMxV0N5Z2l0cllrQkVNWGNzRXROT2M4WWRVc3ZmdUZTYjRqRGh1UmlzV2d1VjVKNW9hZXN2TjQ5aXZHbUhfMEZZSnhfNmNDaGl5UjlRalFkS2dUeHRqQTZzTndCRV9iaU1Zc2cwSjNnY25iWVltb0NuY0E0aEt2Q1lPSEwtRWk4bUs2Q1FxSlJCbzhXUWNCOW51ajVj?oc=5",
+   "data": "Tue, 13 Oct 2026 07:00:00 GMT",
+   "fonte": "MarketScreener Italia"
+  }
+ ],
+ "news_legali": [
+  {
+   "titolo": "Meta Platforms raccoglie 9 miliardi attraverso la sua prima emissione obbligazionaria in euro - Teleborsa",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUEFESWJweFVkd3Q0QTJPRHpDaldZQS1wRnptRk04dVdDcUtueC1OUTZUYnotQXVsRkVyaHhVOENubDlKTUJ0SjRrLUlCNGZQNWNBSmVXUlRuNUtNakwzcm5TRVA2czQtZXM5RE5PbmRRTXFnQUJzRm42alpBWVVhXzJ5ZlFrdEFOYkw3cWdfX2k0bkRZQUdHNWtNNnZpbzVVNnd0WjN4M0RkTGc2ZGlQQlpoV0t5ZnQ2ZnJ6SDhvMW9RX3lJQlZvdnQzM1VBVzBxU3AtZmY0dmtZekk?oc=5",
+   "data": "Wed, 04 Nov 2026 19:19:43 GMT",
+   "fonte": "Teleborsa"
+  },
+  {
+   "titolo": "Editori e inserzionisti chiedono alle autorità antitrust dell'UE e del Regno Unito di sospendere le nuove condizioni commerciali di Meta - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaFNTeG5IcVljb1J5TFlodVpORER5T1AzaWpWMzRXWG9aYlpIMG1Nd0tkdFFIWkRUdlpyWmhBSTljNXIyYW8wMUIzdlQxMlJBbWFWSTlkM20wSDdPWlBPNHlINTNUUkZwa1Z1ZXI4ckxoQmFiLUdBUnZsUnpRVmprdjN6R01BV0NuVFNMeHVQU01KYXNQWXVEMlprNHdHakFYbURFSDFEanJEVVJiMEg5SzRlZXRCMXphOXBYYjdPM2kyREZPS2JmQkV2TEJFVloyTTQtY09nTzVtZUVISzF0eU1CS3EyUWQ5QmZJ?oc=5",
+   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "fonte": "MarketScreener Italia"
+  },
+  {
+   "titolo": "Essilux e Meta svelano una nuova generazione di AI glasses - FashionNetwork Italia",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSFpJSnVmOGZxdWFKNTA0b2hUaEFwYkoyeVNXNGNqZGQ5SzlzN0dIcVpoT0ZKN1V5R1VJT1U1NGZwLXppLUszbWJPR2RSLVhVc2daTV9nZ0ZMVkZVZUNDRlJOWlNWa1FRS19QMHhraTBCNjNLSWNNV093ZVJJejZ2T01wSk9FY19Ga0lIckFlY016WTBFdkJOYXowZ3BxaGhGN3l1VVhmc1JJZw?oc=5",
+   "data": "Thu, 24 Sep 2026 07:00:00 GMT",
+   "fonte": "FashionNetwork Italia"
+  },
+  {
+   "titolo": "Meta vende le sue azioni: punta a raccogliere fino 95 miliardi per l’AI - Borsa&Finanza",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZUFMcnVLNUlZWEIxWG1EaktxcWFBc2VxM0FzY0ZSYkhaREtNSXBDczRQQ25hWnZFTTdzRUVrUmkwZGdtSTBJZFZ5eXBuem9XSWUzUkNTV0lPek1Ob2pENGhHakJlQjJ5V21GSVJTX0pyZE5JQUxTam4zZXR1Vl9WRGtoUjQ0bU92RDAwWGRxOFo?oc=5",
+   "data": "Mon, 26 Oct 2026 07:00:00 GMT",
+   "fonte": "Borsa&Finanza"
+  },
+  {
+   "titolo": "Il direttore contabile di Meta Platforms Aaron Anderson vende $2 milioni - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQWF2bEg4TnZTT1NsZTBwSmN5VllKUGNvTjNRQTZ0MVdacVNudTFzdVlIdmRybnpsQkVBZldaWFZmMnVHLVVFM1g5Y3doTG9zV25aYUFLQXE4NTZTZmZtQVNvLW5Pd0NEVElJQUItUEFPakV5aXRua3lMVC0xa0gyckFSa3ZMeWZvd0ljZldXc0UwMFlHR1ByazBtZFFDVl9aZ1Y3S3Z1b2lFdzduNVo4QU5JejZFNnZYTWFSNEM5SkpXMy1xZVg1d2RtYTgxenp6?oc=5",
+   "data": "Wed, 09 Sep 2026 07:00:00 GMT",
+   "fonte": "Investing.com"
+  },
+  {
+   "titolo": "Mercato azionario USA: come orientare il portafoglio per il resto del 2026 - Morningstar",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaUowTUVCMzVkcDRiak5ZdmhTaXdhX1Jod2xpdDIxekViZ3RsTFJITVQ1dC1oUGc3bFI2YjlwX3ZoYmQzVG9oUWhtRWNmLXhaVnE3SWZoZnV3emo0aFRZNXo5VDM2ajRLejZsS1A5Z0ZWT2NGUVNjOFpWRklwT2VzMzJVQ1Z3NHM0UzdETThCR0NQNEpkZVhwRDdUWjRvLTBtSEF3Uk1sSW5kcTBmN3VDcXVKSkJ0QQ?oc=5",
+   "data": "Fri, 06 Nov 2026 09:34:34 GMT",
+   "fonte": "Morningstar"
+  },
+  {
+   "titolo": "BPA CW PUT META PLATFORMS 600 E 111126 - Milano Finanza",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM3hpTGJaY004bzRpYjJoazRYSjFhZEJKWDNaMG55bW12TFlEVDdSblIyODU4NDczbTQycmtkdGpDblZ5R1lSTU1oVnMtTkJPRU9MdVZjbXNxMVdyT2s3T245cG9zRWdiUTgyNUlFU2ZEU3l2elc2dXloNENxdERDVzlaNXhQOEJIa3pZQUttUmR3bnJDaDR5aFZmRnY?oc=5",
+   "data": "Fri, 06 Nov 2026 15:10:07 GMT",
+   "fonte": "Milano Finanza"
+  },
+  {
+   "titolo": "US: Meta ordered to pay $25 billion for misleading users about privacy - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQzAwWHBhNllpR2FUdWszYUR1bHJsRUdBVFVNWjdqdGRMc2tYbVJnZjRZZlFLOXhBT3d5SDhxYm1NNHg3NlRjSjhZTWN0dUZsUkVvWm03LXdkWGNCWG9HckkwR3E2d0h0WDBITzY4MHYycTJ0Q3dJR3FZeE1YY3ZLRkF3UW1ET25CUFhzU2x2V2puZVB4S3JyYzVtWmNVNVJpUmdFVTFHNFViTFV0OC14NHQ1YTQ0UFh2VlhIWm5uOThHZmNJdHc?oc=5",
+   "data": "Wed, 21 Oct 2026 07:00:00 GMT",
+   "fonte": "Il Sole 24 ORE"
+  },
+  {
+   "titolo": "UK Opens Investigation Into Instagram Instants. Here’s What the Worst Case Means for Meta Stock. - TIKR.com",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORmdvUjFMV09OUUFmWmJqbHdXcmI3UHRoRzgzT21EZ1V2NWpya0ctaUNUSXdsNHg5N2NTbFdJWFc4WGdIYWFrQVpGdk14cFRGdjdqZ1dhcFAwOFo5SHV1d09DOWI0NkNHMVB3QldBRHVIUC1sOFV6a081R21fS0FlR01lRi1SS2RpeVNNVGMzSHdNVXFQUngwTnNTT0JycXhGMVZ1Mk5UTUhiOWdvQWdiYzVmVFB3ejRNSDF2NjNQMA?oc=5",
+   "data": "Wed, 07 Oct 2026 07:00:00 GMT",
+   "fonte": "TIKR.com"
+  },
+  {
+   "titolo": "Meta Platforms, Inc.: prospettiva positiva di Bernstein - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGhMT01fLURSNlRkMlFsdzRDcjJ1YVdmOUVsT2FYSjltN3J2UEk3SEdzLWc4eWZYQnBOdGxrdkFuamk5NmVEb3prVHZ6cDdBdmtNc0pMaFpQQTFYeGtBcnZZMmNZbVdGUkI5dkR1RHlGMjY2bXpqVW1iZUZEYndDUkRZQWNiQnRHSXVwWV82TEVGRU5iU1JRMVYza1VVTGdyd05qTkxTcnk4RFU?oc=5",
+   "data": "Fri, 06 Nov 2026 09:14:31 GMT",
+   "fonte": "MarketScreener Italia"
+  }
+ ],
+ "news_brevetti": []
+}

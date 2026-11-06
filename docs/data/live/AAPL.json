@@ -1,0 +1,321 @@
+{
+ "aggiornato": "2026-11-06T16:35:24+00:00",
+ "filing": [
+  {
+   "tipo": "10-K",
+   "data": "2026-11-03",
+   "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/aapl-20260926.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-11-02",
+   "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000024/aapl-20261102.htm"
+  },
+  {
+   "tipo": "10-Q",
+   "data": "2026-07-31",
+   "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-07-30",
+   "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000018/aapl-20260730.htm"
+  },
+  {
+   "tipo": "10-Q",
+   "data": "2026-05-01",
+   "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000013/aapl-20260328.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-04-30",
+   "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000011/aapl-20260430.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-04-20",
+   "link": "https://www.sec.gov/Archives/edgar/data/320193/000114036126015711/ef20071035_8k.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-02-24",
+   "link": "https://www.sec.gov/Archives/edgar/data/320193/000114036126006577/ef20060722_8k.htm"
+  },
+  {
+   "tipo": "10-Q",
+   "data": "2026-01-30",
+   "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000006/aapl-20251227.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-01-29",
+   "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000005/aapl-20260129.htm"
+  },
+  {
+   "tipo": "DEF 14A",
+   "data": "2026-01-08",
+   "link": "https://www.sec.gov/Archives/edgar/data/320193/000130817926000008/aapl014016-def14a.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-01-02",
+   "link": "https://www.sec.gov/Archives/edgar/data/320193/000114036126000199/ef20060722_8k.htm"
+  }
+ ],
+ "bilancio": {
+  "ricavi": {
+   "2023-09-30": 383285000000,
+   "2024-09-28": 391035000000,
+   "2025-09-27": 416161000000,
+   "2026-09-26": 478834000000
+  },
+  "utile_operativo": {
+   "2023-09-30": 114301000000,
+   "2024-09-28": 123216000000,
+   "2025-09-27": 133050000000,
+   "2026-09-26": 158063000000
+  },
+  "utile_netto": {
+   "2023-09-30": 96995000000,
+   "2024-09-28": 93736000000,
+   "2025-09-27": 112010000000,
+   "2026-09-26": 132175000000
+  },
+  "ricerca_sviluppo": {
+   "2023-09-30": 29915000000,
+   "2024-09-28": 31370000000,
+   "2025-09-27": 34550000000,
+   "2026-09-26": 45765000000
+  },
+  "capex": {
+   "2023-09-30": 10959000000,
+   "2024-09-28": 9447000000,
+   "2025-09-27": 12715000000,
+   "2026-09-26": 9041000000
+  }
+ },
+ "errori": {
+  "brevetti": "EPO_KEY/EPO_SECRET non impostati"
+ },
+ "norme_usa": [
+  {
+   "titolo": "TBL Group, Inc.-Acquisition of Control-Horizon Motor Coach, Inc.",
+   "data": "2026-10-29",
+   "tipo": "Notice",
+   "agenzie": [
+    "Surface Transportation Board"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/10/29/2026-22035/tbl-group-inc-acquisition-of-control-horizon-motor-coach-inc"
+  },
+  {
+   "titolo": "Medicare Program; Implementation of Sections 6219, 6220, and 6224 of the Consolidated Appropriations Act, 2026",
+   "data": "2026-10-20",
+   "tipo": "Proposed Rule",
+   "agenzie": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/10/20/2026-21420/medicare-program-implementation-of-sections-6219-6220-and-6224-of-the-consolidated-appropriations"
+  },
+  {
+   "titolo": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Permit the Listing of Binary Options Overlying Key Performance Indicators Reported by Certain Issuers of Stock",
+   "data": "2026-10-16",
+   "tipo": "Notice",
+   "agenzie": [
+    "Securities and Exchange Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/10/16/2026-21149/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order"
+  },
+  {
+   "titolo": "Schedules of Controlled Substances: Temporary Placement of 7- Hydroxymitragynine and Mitragynine Pseudoindoxyl Above a Specified Threshold in Schedule I",
+   "data": "2026-10-14",
+   "tipo": "Proposed Rule",
+   "agenzie": [
+    "Justice Department",
+    "Drug Enforcement Administration"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/10/14/2026-20943/schedules-of-controlled-substances-temporary-placement-of-7--hydroxymitragynine-and-mitragynine"
+  },
+  {
+   "titolo": "Use of Salt Substitutes To Reduce the Sodium Content in Standardized Foods",
+   "data": "2026-10-13",
+   "tipo": "Rule",
+   "agenzie": [
+    "Health and Human Services Department",
+    "Food and Drug Administration"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/10/13/2026-20848/use-of-salt-substitutes-to-reduce-the-sodium-content-in-standardized-foods"
+  },
+  {
+   "titolo": "First Student, Inc.-Acquisition of Control-Autumn Transportation Inc. and Ambassador Wheelchair Services, Inc.",
+   "data": "2026-10-09",
+   "tipo": "Notice",
+   "agenzie": [
+    "Surface Transportation Board"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/10/09/2026-20783/first-student-inc-acquisition-of-control-autumn-transportation-inc-and-ambassador-wheelchair"
+  }
+ ],
+ "news": [
+  {
+   "titolo": "Apple: ricavi trimestrali a 114,5 miliardi (+12%), ma guidance sui margini delude - Borsa Italiana",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSUM4RkJDZGFydFdweDZ4dHNIQTA3aUk4SVFGUmU3LWJwclFISTVfaXVKRWgtVHRZZENaSjdqYmlGRTU0bERoU1UzS0hyNERyZjZpa0xzSExkYUlzS2FUSTVmaVJzUjVjTnI5ekVxQ0tUT3VyclpSTVVaOFJyc0xmUnVVVTJOTnlrSUdEMWozbG9iZGpPNVg0eHRUbmEtVUVGTGVqZmNCMm9KWENsaXNjUFpqVTJlTnd5TmZXT21mRkY4aFctV0VybUxleEdtMUpUaEU2YnRGR0dZaTZNRG9majBvV3BkUmlhU0Vtelln?oc=5",
+   "data": "Tue, 03 Nov 2026 07:01:00 GMT",
+   "fonte": "Borsa Italiana"
+  },
+  {
+   "titolo": "Apple batte le previsioni sugli utili nel primo trimestre di Ternus: perché il titolo scende? - Yahoo Finanza",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaWppX1JadzI0OFp1aklyRUpQTGpPajA3SEx2M2lVUUNIWGdqcWVrMkREQ20zWFhIbTFYR2JnVnRqdHM1LTZBTzFubTRka052ZW1nT3g0blZxMENqQWc2N0FtZ2IyYm16czdsaUpFbjNfS29KS29kRTlVME5uX05QUXVHOTRtZ1QzNkpj?oc=5",
+   "data": "Mon, 02 Nov 2026 21:44:20 GMT",
+   "fonte": "Yahoo Finanza"
+  },
+  {
+   "titolo": "Apple lancia HomeView, ma in Europa arrivano solo HomePod Mini 2 e Apple TV - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVjMtUWs4cGFwbEZKRlNyeEZ4VWx4OFh5NTZyb0c1UllGSzdPYnBxUWlMUWgzc1FmWWQybUU0b25WajdmRmVsU3RDZ0lVSEV3S0ZYaGNGQ09ISTYyM2pFR1ZmbGtXXzlWTElqa0c4ZlE3dDh3N2hhandTYTc1YUJhYjFCRXJJQ3ZvYTkwX3VHX1RpVks2NElJQkExSmI2UWtoMk82NGVWUjZmcWs4dGFqbWdn?oc=5",
+   "data": "Tue, 13 Oct 2026 07:00:00 GMT",
+   "fonte": "Il Sole 24 ORE"
+  },
+  {
+   "titolo": "Apple ha infine ceduto ai MacBook con schermo touch - Il Post",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zN3l2R2RNdDhDajV4WTU1LXBkd2FpNnd1WUZNQ2JLZlFsRTJhYkJySmY3R0ZFb0J1bXhHNGo2R25ON2YxY3FZQW1OTkRUZFdiVXVYWkZOMTRWVlFJRjJwVWhhd0dKSDZi?oc=5",
+   "data": "Thu, 29 Oct 2026 07:00:00 GMT",
+   "fonte": "Il Post"
+  },
+  {
+   "titolo": "Apple, ecco i nuovi MacBook Pro e iMac con il chip M6 - Sky TG24",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRmUzVWJLWWctMUJTWTF2YXlGclpHbkQ0WTF1cWFZWEtzMlQ0d3FVaGxpdGdHTm5vWWIyU1NjZXR3eElZTVVDSHRtYnI0VTlmRTJWMnBiZDI3WVI3N3FEbnZ3UmNPUmQ3c2ZyR2NSR1pIOUExOVB4Vi1Za2lITndPcEdCbmFFUQ?oc=5",
+   "data": "Tue, 27 Oct 2026 07:00:00 GMT",
+   "fonte": "Sky TG24"
+  },
+  {
+   "titolo": "Dopo l'iPhone pieghevole, il prossimo lancio Apple punta alla casa intelligente - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdVEwUTRUMDhybF8zdTB0bHdGMHVCZU1iOGdJMjMxWUZ1dUJfdkdKTlFnNWZhYU1oZ25jTEE2S2pZMWJ3bTRYVnN1MnZWR1gyODZDd0xEY0ZZRFIxYU5uOHJ4dW9oNXRkaEhHMzBUX3kxdnFnLU9KRE85SXZjNDRVWGtpcHc0OTdQTHVyamwxRjVuOTJPTEVEZWQtQk55SEEwc2Z6WWVuLTlqbWZzY1luWjVR?oc=5",
+   "data": "Fri, 09 Oct 2026 07:00:00 GMT",
+   "fonte": "Euronews.com"
+  },
+  {
+   "titolo": "iPhone 20 Pro, Apple prepara una rivoluzione nel design - iPhone Italia",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOamhlSzU0eEFJbnFmbnA5Z3A4M1lnUVFuWm1VSVcyTTBTODdsVTd6M0dDMEd1SGFIMTItZWsySUtvN2pyLU9naXdPNThkMU9wLXFiOWMxaWc1QlRyOGdQZHBMZkhadTFtY0dfdm5lTkVKR3JuOUFnR1NaaElMdjBVbkRXajRxUUt3RHEyN0x0RGhENjlz?oc=5",
+   "data": "Thu, 05 Nov 2026 08:08:02 GMT",
+   "fonte": "iPhone Italia"
+  },
+  {
+   "titolo": "Apple riconosce i problemi al display di “un piccolo numero” di iPhone Duo: cosa fare se è difettoso - la Repubblica",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN1Q4Q2ZrSXV3LUFpSkVaR2FOYVlfM3hlbU1yY0pUcERSTE5Bd3pZTEFXTU4xS244UkdXbW9rb2hpMWdUNjNQQ2lrOTU3MFJxZnllcWpPbDJDRVlmOXVxWDNzemdFUnh4NjZWUWp5M3RHR1pmTmxKYkQtNjEzb0pCS3VhOXVNbC15Z25tdlVaSklTSUE1N3pGRXI0VjE2Tk5CWGltOUJ1c19ZbHNL0gGyAUFVX3lxTE9vWks2RFJ5aHZOdXFnV2JBTW1uazlZMGJXaE5iWkVwbUFwVlV5SWZidGtkQV9WVkowUVI2allfU2ZIdVVOUHduMTJxeDJUREhadkFiX1M0QjdlZW9nUW5QQjRqWHRYVF9RLWRfcm96WVZoVEFnU1A1N1dYSFV2emw5VDBmYl9ZMnFCMkhHcnZjbjlEMkRuSEhjeUtoNUt2eEZEOEU4cndzamtEREc0MHJsN1E?oc=5",
+   "data": "Tue, 27 Oct 2026 07:00:00 GMT",
+   "fonte": "la Repubblica"
+  },
+  {
+   "titolo": "Apple, ultima raffica di novità del 2026: tutto quello che arriva mercoledì - macitynet.it",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGJYdzBJZVBMQTBScThSUmdvOEJDblhKMC1wU1htZ0RhZ3JkUVRiZHhjbjRHRUNPUUp0UklKdFB6OEV3Sm15SkJWVmRlMlFvXzJUaHhsTTdnT1k0N000WGdES0xyYUZJMUM5cUxZLWtCRFJrSEJFX0h5c25IUU45ck9YTTFONnhyVXZMSnF0TGVPTUZ3UHhJY2pRSm51bnlM?oc=5",
+   "data": "Mon, 26 Oct 2026 07:00:00 GMT",
+   "fonte": "macitynet.it"
+  },
+  {
+   "titolo": "iPhone Duo difficile da trovare, Apple non sa quando finiranno le attese - Fastweb",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSThaU2djaVVhTGotVFUydzQzeWdFS2czbHZtNTdyUmtkdzEzZlpLSVV5NjZEOFdpZVoxNXdaYzZTdlBqeDVQVGJYaElhdjlXeHdiaE1KNlpkT2pWelBGcmxNazNzY2Y3NTVGNnEwckNnWTZqV2JRUnh0dWcxeDVkY2QxWWh0UjN6TjhBcUdkV3ROdDZUZ2l5QzRWNXgwOHBhQkNuckZ1SUg4cjVJOUZSN1lLeXJKZWx4WnRnTEtLdmlCUTBITU9NOQ?oc=5",
+   "data": "Tue, 03 Nov 2026 17:05:02 GMT",
+   "fonte": "Fastweb"
+  }
+ ],
+ "news_legali": [
+  {
+   "titolo": "Apple conferma la produzione di Mac Mini negli Stati Uniti entro fine 2026 - TuttoTech.net",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTmZTT3R6TWpYcktsb3NFaXh4am1weUVOZkFPR24wT044MVBlOUdDbmJYNVRFWmM0dkZYaUd2bGZQTXZuUkZGOXhvRmxYU0UwcUxsZ29seG41RTJ0Y2F3Y0otOU5vTndpQWpZQjVVeE9SYXdIZVoyUHVha3FiRlVweWo2cE9QZ1ZLSWF2RkVQN2pmRkYxNzhkdXpobWcwaWFyZmFFZExQbWY0T2pjaEE?oc=5",
+   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "fonte": "TuttoTech.net"
+  },
+  {
+   "titolo": "Una iGuida per ogni prodotto Apple di fine estate 2026, tiriamo le somme - macitynet.it",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HTkN3dGRSZjZlRmFHemlfSmE0RnR4dTRIQ2dhcFMzRkpNYnI1UWZmTFk0NkJvT3NGS25lV2k3b2E1cF9yYVdBQTdOT0dMdGhiTGN4R0t0LVJ5SlBKdW0zMkx6V09mbzlJX2hUUEtsOGQ4Zw?oc=5",
+   "data": "Sun, 20 Sep 2026 07:00:00 GMT",
+   "fonte": "macitynet.it"
+  },
+  {
+   "titolo": "Apple prepara il Mac con il touchscreen: l'evento è vicino? - SmartWorld",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPelI3Q0o3R2ZBZ2Y5WVJlVm1sS0lKVUJNSTl0ekpRaTdwOGRCc0hrdnRXTGdBN0UzZE9hOVNvVTF3SXlZckFjUlBFeXRtRWI2YnRwTG9wRU45Wmg1NWQxZjk0cVJBSDRsYzVXYmpWc0EwbnlnVlRCeW1wWGl3MGpTVnhvZHVOeENKN25hNGstOA?oc=5",
+   "data": "Fri, 09 Oct 2026 07:00:00 GMT",
+   "fonte": "SmartWorld"
+  },
+  {
+   "titolo": "Tutti i prodotti che Apple presenterà da qui a fine anno - Tom's Hardware",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSHlTVkZqelF4UEVJMXhacG5RQjJEdG5weWlDTWxfN3JJVXpXZkRfX1RuTEpielc5ekVhaFE2MGN2YWQ5bHAyMkxoTlpMVWVvLXphQXpEcE9RcHlSQnN1VlNJOFBoeXUzZTVYSmVfa3RjVVVGWkxqMVlMUWc4S3RscXVxSVJEa2w3Snk4WXFNb2p5RXc?oc=5",
+   "data": "Wed, 16 Sep 2026 07:00:00 GMT",
+   "fonte": "Tom's Hardware"
+  },
+  {
+   "titolo": "Apple, doppia dose di annunci a ottobre. Prima nuovi prodotti per la smart home, poi i Mac a fine mese - DDay.it",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORUZKTFN0dFNjcTdjVFR1QjBYejVGNGVxWVIxVUFGMGxwZDZtS3pTR1JncDRPQm15R0F1NmZ1ejMwRVpRa0xZalJhR2xJTndvY2RuNU5uaEhLd1AxREtxUFhuZ3J6bjFUdzRybHJVbFAtTzRuaG1XaXl1SlFVa3JfeDJHdjBxS0ZReFJTZnRWUjcwcGlZT1BVVF9BZ2MzclFzZTJsWkpqLVo2WE8xNEQ4d3AxMXJlLVlvM3FvelNPT01aSjJBS0pyeDdEZTN2UFFT?oc=5",
+   "data": "Tue, 06 Oct 2026 07:00:00 GMT",
+   "fonte": "DDay.it"
+  },
+  {
+   "titolo": "Apple invita i media a un nuovo evento a fine ottobre: attesi MacBook Pro touch - HDblog.it",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSGhobFBIa1JOUHlKWWVsSVdicXN1OTN4VDFsYmZXMjRKbFRHdmhocVJqRWZqMExQeUV1S3hIbmlhUTl5NDdvazJ5WE5tVGxHODNLWFhuYzlubEtSeFZSQXVqVTNjY3Y0LTl4T0h0MW5VM1JlTEcxSENCdFN2T0lqbVUyNnE2RnVNdFFCT1hRRQ?oc=5",
+   "data": "Thu, 15 Oct 2026 07:00:00 GMT",
+   "fonte": "HDblog.it"
+  },
+  {
+   "titolo": "Apple alla fine ha ceduto. Hanno presentato l'iPhone Duo, l'iPhone 18, l'Apple Watch 12... - Računalniške novice",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdWRjNTl2NE1FbzJpYnl1MlNBQTF3dW5MR01zTEcyV256M2wzaEk0TzQ0RExHa0llUDREZHpQZkdWcnk5S0V2cldRWnhRMFowSVlhWEtiN3l0cVhFLWgxUVh6bTVvVXYwNnhDb0Y1UTNrdjdTWnlJRUpUYXpXSWg0NnhUcUlob201VjZVZFZNWlBxUHNHTlRSZkhFSU5QRzJGNUxZTVRvMWdEUmM?oc=5",
+   "data": "Thu, 10 Sep 2026 07:00:00 GMT",
+   "fonte": "Računalniške novice"
+  },
+  {
+   "titolo": "Il nuovo Apple Watch ascolta le conversazioni, ma che fine fanno i dati? Apple spiega come funziona Siri Recap - Hardware Upgrade",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc012TlRuSXJuLVlXQ2VlN2J0Tk9lWjk0WHBnaENfS3dYTEFtZWJRZzZ6SW9uT0ljSjBTR0NZZ1BjWjhBeVZsM2tUUHFwdEpnYlZqZ0pXOGQwOXJKbk1hazhzV2pjMnhwY1lyV2VfSXJNcldVN05DbEw2Tkt6aDY5Z3BSMkpFNjRlTkFwVndJNFhDX3N0Y1dyaDg2LXVSVWhUWWFFZGtVUG5mcHQ3aFFsblhuYWk5cjM1dzctR09GSXlIS0lOZnZTYWtqUkNVZy1fdEFRSDBDVDctM3hJY0YwTDViaGhSUWNfS2lacw?oc=5",
+   "data": "Fri, 11 Sep 2026 07:00:00 GMT",
+   "fonte": "Hardware Upgrade"
+  },
+  {
+   "titolo": "iPhone Duo è la migliore Apple degli ultimi anni (e non farà la fine del Vision Pro) - iPhone Italia",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFBmQlhOV1ZjSGFTX29iMXZJNk41X3czWVFBOHRuaXJpR1ZUNHVOT21tTFBmQk1oTUJaQkxvNlVna3A4aHFqeVE1N3NISmlTMDAxTGYyUE5MYUFmOEFsYzg2X3R1RmdIX2lBNHlsWFoyaFdCMnYwUVpLU3M2QTh1Yk9xMUNrVllFejdwMm1Hd2dHS0pYcEt2YnhyeDZ0RmpGRGRCYnFiWGM3MGxhRnFNM1YxMFBBVjJpUFE?oc=5",
+   "data": "Fri, 11 Sep 2026 07:00:00 GMT",
+   "fonte": "iPhone Italia"
+  },
+  {
+   "titolo": "Apple prepara una seconda ondata: MacBook Ultra e M6 a fine ottobre - Matrice Digitale",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTnh4UnhoTG9WNEI4WU5lWGVWcUotZjJ5eERiQ0lNMTRrRzRxUDRVREZhUDh0bnFMR2JWakwxSnREc2NIVnQxcEJ5S1NuR1RBZERhVVJrX1JLTzNMckhDZWdOemhRSDJoZi10Y08waWs0WXpPUTI1ZXJSWWxrWkdCWlkwRGtVX1JqT2lCbXYtMzRuZw?oc=5",
+   "data": "Tue, 06 Oct 2026 07:00:00 GMT",
+   "fonte": "Matrice Digitale"
+  }
+ ],
+ "news_brevetti": [
+  {
+   "titolo": "Apple dovrà pagare un extra di 184 milioni a Masimo per violazione di brevetto - TuttoTech.net",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNW5TVmo3Y0h4NkFmMGg0d21WZlo4QkROZ0VrNUFpdzlSU1k2OVFPQ2drdERsV0RwV1ZKSWlyWVowVzJybmg5OHE0ZTlHSkwzd3RUeHRTY05KT2V6MmJhZXdXUkRoUGhnLVk5Z21ROFpKXzZEMzRhYjFaX1ljQkFjd2V3NzJjRGJOcUtFQXpZSTBTT1EyNVRlSThrZFZjYnlBSEJuUGNNdUNsOU9jbFE4MHhR?oc=5",
+   "data": "Wed, 07 Oct 2026 07:00:00 GMT",
+   "fonte": "TuttoTech.net"
+  },
+  {
+   "titolo": "Panasonic ha invalidato il brevetto RAW di RED: nel 2019 Apple aveva fallito - Fotografi Digitali",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOVp5bFpNQlN4Rlk1LTJramFvN2h5WTBkVkl1U0ppRzc1azlRV0Z3dTNJZzdrWTFmZ1dyUzVEeVUxM095VnotWnBqMU41QnFSV1o5Zjh2dmtIX2JSUlNyUUpfVTlqTEYxcUdUQ19PZml2cnJqdHNHdmFyNU04aXpxU3I0QjNHMlk2RDladGRBOXFLdGV6cHh5cnZ2bFF0ME9Xa3dKMjVubDBBdUxQWFJJZmlDN3NFa3VkMWg3dC1QbkdnbjQ?oc=5",
+   "data": "Mon, 10 Aug 2026 07:00:00 GMT",
+   "fonte": "Fotografi Digitali"
+  },
+  {
+   "titolo": "Apple condannata a pagare oltre 5,7 miliardi di dollari per violazione di brevetti - Adnkronos",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYW8zeXNvWWZNcGdQXzBYc1FWaEpDSUwzUGNSanh1OGtmazJVSmxEamJacHpNZTBqSTJ4bk9EWUZrbnBRUXZiMGk3UjB2SFpuNG1FNU9zZ0xLbjhDcDdwb00xbEF6X2NyZTVBcXl4bW5WeXdtN2dHSHR0RnlPWTBMcFlQM2NuUm5sbnJ0MXpSTU9DdXJSY2xQS2s5TGY2Vlh2S1pZTVpOZUJUbHVNSXhQWGJ1bEREeG5vS0pBQ3cwSktaMDBmWnA1aEtSMnJyR3g0SWFPRjB2WGU0dw?oc=5",
+   "data": "Mon, 28 Sep 2026 07:00:00 GMT",
+   "fonte": "Adnkronos"
+  },
+  {
+   "titolo": "Apple pensa al Camera Control su iPad: un brevetto mostra come potrebbe funzionare - HDblog.it",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbzVaQjg5UDZ0d0RLdHVRclRpWUlubGtBZVNNZ1VGanJJZ0dkSzlkQ2ZIYWx0eHlVd18zNkdySE5TMWVIMHNTZGl4Z1JRU1NZS2VKOXlOdjZFekk4ZTZoeC1aTFVfMy1yV2p3QkRYRTM4UmFJVVRuSFVEc0lSbUMyNGtleFFLamZUaVJLR0ZvWUM?oc=5",
+   "data": "Wed, 19 Aug 2026 07:00:00 GMT",
+   "fonte": "HDblog.it"
+  },
+  {
+   "titolo": "Duo, l’iPhone pieghevole la scommessa Apple al costo di 2000 dollari - la Repubblica",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMGZ1cjV5OEw1cXU4Ml93MTVULVpBZUIyZUtlNmg4bU5jaFFlTW1SM2NWYVNKREcyeHNyWVR6bFJ6QnMyZEswcU1fMTdaNzEwdzhoamtwbEdwSms2MExNMnh2QUNKRE1wMVJWMUx3QmI0c3FIa2NGSHl0MnZnQnQ3cm91Z3diWWN6THhqSUs5RmRqcTQxaThWQUFIc0RMMUJ6SW9Wa015S0dfenZ0V2x1T2g2N0ZtcDZaM2NjSVJfM2YxUdIBxwFBVV95cUxOVGozLVlGSXJlQnVzU2k5OVdjcDRlOVlSRWk2TE02SFhWMnFtSXNQMGNNZzhWbUtDR083aHdBOHEyT1BVc2FnV2RnNnJlbWJJUTQ3ajdmQUN6WW9NNTFYZi1fYllUTGxBcUdXN09vZkQtYkY3cms3TTBXUXZwRW9YcWJSczFaUi0yVGI4YXBlNFlDSUVyclEzZ3NFSy03T2xWRkVpM1g5TTRrakl0cEc1enRSZDAyYmRkYk1naEsxRmFaTHB2LTVr?oc=5",
+   "data": "Thu, 10 Sep 2026 07:00:00 GMT",
+   "fonte": "la Repubblica"
+  },
+  {
+   "titolo": "La voglia di privacy Apple guarda alla conduzione ossea - WeAr news",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fYm1kSkpuS0luU0h3amF1MTdHN2tVbXZfcFphVThkeDF1dllPcXVGSWFOTDNIay1pY09iZTJjUUpQX0VZWEloZ2liZGxSclNOQUdvM3hUS1BBWllTbWhwZW1WSklvcDB3T2Q2MlZnNFM5TTlmZlE?oc=5",
+   "data": "Thu, 05 Nov 2026 15:47:59 GMT",
+   "fonte": "WeAr news"
+  }
+ ]
+}

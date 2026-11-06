@@ -1,0 +1,315 @@
+{
+ "aggiornato": "2026-11-06T16:35:34+00:00",
+ "filing": [
+  {
+   "tipo": "10-Q",
+   "data": "2026-10-29",
+   "link": "https://www.sec.gov/Archives/edgar/data/1045450/000104545026000051/epr-20260930.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-10-28",
+   "link": "https://www.sec.gov/Archives/edgar/data/1045450/000104545026000050/epr-20261028.htm"
+  },
+  {
+   "tipo": "10-Q",
+   "data": "2026-07-30",
+   "link": "https://www.sec.gov/Archives/edgar/data/1045450/000104545026000042/epr-20260630.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-07-29",
+   "link": "https://www.sec.gov/Archives/edgar/data/1045450/000104545026000040/epr-20260729.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-07-20",
+   "link": "https://www.sec.gov/Archives/edgar/data/1045450/000104545026000033/epr-20260717.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-05-07",
+   "link": "https://www.sec.gov/Archives/edgar/data/1045450/000104545026000030/epr-20260505.htm"
+  },
+  {
+   "tipo": "10-Q",
+   "data": "2026-05-07",
+   "link": "https://www.sec.gov/Archives/edgar/data/1045450/000104545026000024/epr-20260331.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-05-06",
+   "link": "https://www.sec.gov/Archives/edgar/data/1045450/000104545026000022/epr-20260506.htm"
+  },
+  {
+   "tipo": "DEF 14A",
+   "data": "2026-03-26",
+   "link": "https://www.sec.gov/Archives/edgar/data/1045450/000104545026000016/epr-20260313.htm"
+  },
+  {
+   "tipo": "10-K",
+   "data": "2026-02-26",
+   "link": "https://www.sec.gov/Archives/edgar/data/1045450/000104545026000007/epr-20251231.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-02-25",
+   "link": "https://www.sec.gov/Archives/edgar/data/1045450/000104545026000003/epr-20260225.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2025-12-05",
+   "link": "https://www.sec.gov/Archives/edgar/data/1045450/000119312525309958/d10275d8k.htm"
+  }
+ ],
+ "bilancio": {
+  "ricavi": {
+   "2022-12-31": 658031000,
+   "2023-12-31": 705668000,
+   "2024-12-31": 698068000,
+   "2025-12-31": 718357000
+  },
+  "utile_operativo": {
+   "2022-12-31": 310959000,
+   "2023-12-31": 306399000,
+   "2024-12-31": 315672000,
+   "2025-12-31": 414301000
+  },
+  "utile_netto": {
+   "2022-12-31": 176229000,
+   "2023-12-31": 173046000,
+   "2024-12-31": 146066000,
+   "2025-12-31": 274936000
+  },
+  "capex": {
+   "2022-12-31": 402519000,
+   "2023-12-31": 269428000,
+   "2024-12-31": 263920000
+  }
+ },
+ "errori": {
+  "brevetti": "EPO_KEY/EPO_SECRET non impostati"
+ },
+ "norme_usa": [
+  {
+   "titolo": "Outbound Investment Security Program Regulations",
+   "data": "2026-10-26",
+   "tipo": "Proposed Rule",
+   "agenzie": [
+    "Treasury Department",
+    "Investment Security Office"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/10/26/2026-21786/outbound-investment-security-program-regulations"
+  },
+  {
+   "titolo": "The Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule III for Model Years 2022 to 2031 Passenger Cars and Light Trucks",
+   "data": "2026-09-30",
+   "tipo": "Rule",
+   "agenzie": [
+    "Transportation Department",
+    "National Highway Traffic Safety Administration"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/09/30/2026-19964/the-safer-affordable-fuel-efficient-safe-vehicles-rule-iii-for-model-years-2022-to-2031-passenger"
+  },
+  {
+   "titolo": "Introduction to the Unified Agenda of Federal Regulatory and Deregulatory Actions-2026",
+   "data": "2026-08-14",
+   "tipo": "Notice",
+   "agenzie": [
+    "Regulatory Information Service Center"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/08/14/2026-16603/introduction-to-the-unified-agenda-of-federal-regulatory-and-deregulatory-actions-2026"
+  },
+  {
+   "titolo": "Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media",
+   "data": "2026-07-17",
+   "tipo": "Rule",
+   "agenzie": [
+    "Homeland Security Department"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant"
+  },
+  {
+   "titolo": "Enhanced Favorable Treatment for the United Arab Emirates Under the Export Administration Regulations",
+   "data": "2026-07-14",
+   "tipo": "Rule",
+   "agenzie": [
+    "Commerce Department",
+    "Industry and Security Bureau"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/07/14/2026-14132/enhanced-favorable-treatment-for-the-united-arab-emirates-under-the-export-administration"
+  },
+  {
+   "titolo": "Revision to License Review Policy for Advanced Computing Commodities",
+   "data": "2026-01-15",
+   "tipo": "Rule",
+   "agenzie": [
+    "Commerce Department",
+    "Industry and Security Bureau"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/01/15/2026-00789/revision-to-license-review-policy-for-advanced-computing-commodities"
+  }
+ ],
+ "news": [
+  {
+   "titolo": "Il titolo di Nvidia presenta un campanello di allarme critico, il trade sull’IA si sta rompendo? - Yahoo Finanza",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVDBHR0pqSk9aUUVvTHZ1N3FZVks4azhmVmtNX1lidFJXSHZOc1NWZHNxWnRqdTh6ajBXa1dRdGViM0otU3o4eTNHSU4yVnM2OTlHT3Fldkpra3o4MV9yWk1NX3piV0lJQk45VWNSUjNObE5TeU9aVWNMeTBWcmQ2Ny1iSzJOMWM?oc=5",
+   "data": "Thu, 08 Oct 2026 07:00:00 GMT",
+   "fonte": "Yahoo Finanza"
+  },
+  {
+   "titolo": "NVIDIA presenta DSX POD, il data center AI pronto in 14 giorni - Fastweb",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRWN5X2tBVlZxMW01SzFXOVJObjVMbXR1MWVEblowNnIyQ0w5QndCX2QwREU2Q3dzdlJOWmJsQnh3a1JadmdzQWNYNGVidzdQbFhMdW44MW5YZ0FkWXFSNkM1eUR2c2lQMF9taE9BVjRIMUZ5Tnh4NW9SNU1LaGh1Q082N3VPbFhSVzl2cFRncXMySWxWczNGS0EtVVBmbDJmM3QzTVFlSjViVzdscjRRa0lNd1QzUUkwQ1ZDU1ljX2E?oc=5",
+   "data": "Sat, 24 Oct 2026 10:02:41 GMT",
+   "fonte": "Fastweb"
+  },
+  {
+   "titolo": "La via francese all’Intelligenza Artificiale: così Parigi blinda la sua sovranità tecnologica sull’asse Nvidia-Mistral - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSVBTN1JDU0lzNlZzOGgxdnM5T0psQ2dxZkFFQ0NCTGpEOXI1QzBEWFk1R1Zra3psTTB4Rm9NZkpsaXItLW45VV9TVjdYUDFILTJwczZZblFlTWw3dTJQclVMR0wzQkNuVjVDaFJfakppXzNxaF9oVEowck1iVXJ6RnpjZy00TVhYMUdaRjB0YzhMbUlMdGdFLUt4TkRVN1dCWjJOWi1fZE5FQnlRdUlwVW1GTHRuc3RtdkZuS2o2WWQ3THUwbzI4QlFLUEhsQnoySjNZbGhVRjFXMHh3cW9tV3VuM3A5Y3Z6aG5v?oc=5",
+   "data": "Tue, 13 Oct 2026 07:00:00 GMT",
+   "fonte": "Il Sole 24 ORE"
+  },
+  {
+   "titolo": "Microsoft e NVIDIA spingono sull’I.A. locale: ecco i pc RTX Spark - Sky TG24",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xQnZqYkstZGdGNzI0TTNyZVJFTDhJdmU4enNsMFNYaTVtbXJEWmpfN2NLR21fQjdjMHJEdlk0VHp0ZE94a3F5eE5QWE8yNjljcDNkU3hGNU05WTBkbTFjVEtydFJHUEQ0R1RING0yODFkbzNRYXNJTnZDSVk?oc=5",
+   "data": "Thu, 08 Oct 2026 07:00:00 GMT",
+   "fonte": "Sky TG24"
+  },
+  {
+   "titolo": "Indovina chip | Il Piano Marshall di Nvidia per aiutare l’Europa a trovare il suo posto nella corsa all’IA - Linkiesta.it",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZERJd1AxRzh6SUpqN0ticm01VHk1TEdLTFRST0pjazRGTjV3QllITkdidVcxa2ZKM2QzdlRrMGFKX195ZUY0YTFnR2x4RHFFc25Bd2p6NVlFQUNQNjdwU3ZWaE12Y3RSTElEZVRPM3dZeENta2ZjUkFPVGxQWVRyOGUyY1o3c2pUSG1hU2dFWlNRcFhfb2tjb0Z3WQ?oc=5",
+   "data": "Fri, 16 Oct 2026 07:00:00 GMT",
+   "fonte": "Linkiesta.it"
+  },
+  {
+   "titolo": "Nvidia e Meta ampliano la collaborazione su Muse - Borsa Italiana",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTWJKM1NGRGFLNTBrNmE4T3lISFo4OUxydzQ1ckRtRHRDcElqcERHbU8tN2xyWEY3R0R3dS1ZZnNONjg2bW14Vy1yQnZYTVlWN0FsRFhQaHVuZ1llR2tKTUxTcVFsVGo3ZG5NT29fcFlqc1NfM3dBQlpVZndWUmJkWDFZS0JoWTZCNlBPdVJNMURtRlJGdWI0bmdmcU5ZcmhtQVhtSGxHdGRYMDN6VDdLNmlCdndkMlpMTkhRTEk1N1k4RjBuVlVOWkFvLWhrcXhIQ19pX25sZw?oc=5",
+   "data": "Tue, 27 Oct 2026 11:38:00 GMT",
+   "fonte": "Borsa Italiana"
+  },
+  {
+   "titolo": "Goldman Sachs conferma il rating su Nvidia con outlook sull’IA - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUGVIcmEzR3g2dTJGZkxmeUVjNnVvOUVUTUNtYXl1anpFMjFYV19Ec2VQNmNRWjhNSkk1eTlWUEhmcDlnbFJYQXQwOXYzcUFtM0pkbTl5ZXI5NmhBY3ZFOFJJaE1hUEJma1VONElhejJBbzc1bHJBNWJjWkdFdTFVTnRIOFZlYVF1TEZzUUpJR1ZNWHdMWDZ0TWFGUWFubEoxM0ZnTllVOWpoSUV1NzVhRzFSaFpES0l2WVEzUg?oc=5",
+   "data": "Wed, 21 Oct 2026 07:00:00 GMT",
+   "fonte": "Investing.com"
+  },
+  {
+   "titolo": "NVIDIA DLSS 5 arriva su Hogwarts Legacy con GeForce NOW: nuova luce per il mondo magico - TuttoTech.net",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWmxxQXJldDlnMWlpMXpDc2h1SHhqUEpfa0N6N1l6UmtwRS1kM1RySFYzR2lQY1ZpVFB4SGdPZGF0Q0VEZ2hKOTQyT3EzdVBSbE5uNjBfSWU0LW5nNGdOb2VPVm5EVXF1RUhteGxtbUN1MEJlQm5wU3BpVFRQZTBoR05UME1LZ0tHd2xkWldhRTRadw?oc=5",
+   "data": "Thu, 05 Nov 2026 19:00:30 GMT",
+   "fonte": "TuttoTech.net"
+  },
+  {
+   "titolo": "La quota di Nvidia nel mercato cinese dei chip per l'intelligenza artificiale cala mentre Huawei riduce il divario, secondo un rapporto - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPV0FFMDFldFZEVHcxcV80WHpwVlJoaDJhSVIyT2RHOWxJV1JXdXhEREdxZ3hWVG1JTlM1eFEwWXdRQkpyTU1UZHVBQzE4NjE5WTR6TXJmMHJoanJ0ajRkZjdfWmhNYzJ1NkVhYmV0dnNwZkV1cm1jWFFjMXRZZmdRaVpWX2JSbEN2dGRnTWFwVjZiNW84Y2l5NzRZam9RM3ViYTM0aE1mUHNlVDkyNXBkNGtZaFRPaEFrRnFCcWo3MHVValQySFJqZk1rYzBRNkNVdHg5UzA4MFM3d1RSQ1Z0NFAtbEZzS3RMTlVN?oc=5",
+   "data": "Tue, 13 Oct 2026 07:00:00 GMT",
+   "fonte": "MarketScreener Italia"
+  },
+  {
+   "titolo": "Nvidia trema nel pre-market: ecco cosa sta spingendo gli investitori a scaricare i titoli dell’intelligenza artificiale - Yahoo Finanza",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX21ucE5TZWhxY1pQUGc0S2s0aTV1dW9lNll6SzZyRnZvWWIzakRjWkdJMFZWUzRJM2NUc3ZDRUxHc3pIQ05DOU9RQlQ1VjRvdW5QakhnTlExd3BaTHlxdzZVNlR0dEFObU82UVhXVW5NV2ZTNHpVNnc5RjVmdnZPRk5HQWtvUQ?oc=5",
+   "data": "Thu, 05 Nov 2026 15:21:04 GMT",
+   "fonte": "Yahoo Finanza"
+  }
+ ],
+ "news_legali": [
+  {
+   "titolo": "Elon Musk: SpaceXAI punta a 1,2 milioni di chip Nvidia per Colossus 2 entro fine anno - Yahoo Finanza",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdmVWUlAwLU9tWlpMNWdsbFNlMzZ5eGUyWndjUGRXUEdzWDI4SFJOZG1XLVU2ZXB0YjZpSWkxNHJiQ0tMREctY3lTNVRrb0ZSYkk2TFlWUWFQT1RjSmNlN2FfdE92SC1ianFqZUR1MmF0dDhSRktzVEQ3bHZhODR0V0J2TVE?oc=5",
+   "data": "Fri, 25 Sep 2026 07:00:00 GMT",
+   "fonte": "Yahoo Finanza"
+  },
+  {
+   "titolo": "NVIDIA GeForce RTX 5080 16 GB verso la fine? La variante da 24 GB potrebbe arrivare a gennaio - TuttoTech.net",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcENnbzl3emh5Vzl3SjBDb1lTREVHZmtKWVpOOUtBMm9sb0prUFpmSjJ3ZGdCUHRtTkJHMEVkZ2NQbXBvM1RsbWRWdGxiNnZ0VExrc3pIYlBka2VnekJTdjhrVk5rS21yZUttRWxkdTVBTllnbnhTQ25DNWVmRUhGd3JMQjg5eUw0SG45VXR3?oc=5",
+   "data": "Sun, 01 Nov 2026 14:27:31 GMT",
+   "fonte": "TuttoTech.net"
+  },
+  {
+   "titolo": "Musk: il data center Colossus 2 raddoppierà i chip Nvidia entro fine anno - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRFZEOG9qaFdQU1dFeE45Z2dQU0lsVUYzcVdtcW1sdGJBMklaVGdodzhWck1CVDR6NGYxWXIwQlVrRC00N29Ed3Bua2Q4Y083T3JhU1RFLUxPdlE3d1RpN2cxSEZPVUc1SHlSaEFmbmVKSlNrekIxNHk2R0VJUDg4VV9MS2wzMmFlYl96dldhTHVOMkJpbGhSS0xHXzBnbU4tQlNYRGRYd2h1aTlLcFBEOTRBdGJ3UFlleEJZdFdhZ0RyZWtkVTZxOGFiRQ?oc=5",
+   "data": "Fri, 25 Sep 2026 07:00:00 GMT",
+   "fonte": "Investing.com"
+  },
+  {
+   "titolo": "La scheda grafica NVIDIA DGX Spark da 64 GB sarà disponibile dal 23 ottobre al prezzo di 4,999 dollari, e due unità possono essere collegate in cluster fino a 128 GB tramite ConnectX-7. - StorageReview.com",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXpoMDFPR1NnUnc4UmdFWXV2ZWJacmtFQ1BidG44ZUdpbnV1bV9tQl85T3pPcEZVdER4cWpYSml1WTZYNFgxRnZ2NjF1dUdSWEM4Uy16M1JuX0JxQjRJWDBabHVSeW9kYlpTUXdVanRXUThCdXhpd2ZXaUVTTTZWTV9qemU3TGdjSlZuN1hrelVEbjJLTkxUbF9nMFVJdEVtWGNIaNIBqgFBVV95cUxQWHY2dXVRQ0RwWkdYWjg0TThCOGNHbGI2TUJ4bk5kRUJwZGtVRVg1UFdNSWNueHQybmRxb21DcFJTSzdOMUhuX2QzWVpzejliMVM0SG5NRVlYbThhaVVlQTNUVGpMVVVURWJ6WHZTNDJNRjR2NzVHRWJLWm5zdHpNWTl5c2g4SV9FX1MwTXRwRjE0WmU0VzdXdzVlblZlMkUzS1h5bkZuQlBTUQ?oc=5",
+   "data": "Fri, 02 Oct 2026 07:00:00 GMT",
+   "fonte": "StorageReview.com"
+  },
+  {
+   "titolo": "NVIDIA smentisce la fine della RTX 5090, ma i partner raccontano un'altra storia - Hardware Upgrade",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT2hEVnBsWnpSYkRDOHBpUjU0WjhYV0l6TnZENGc2eW10dGh1TzBFYWxmUWM5UEJkNVp1WjZXcEd1TW05QjBBc0w5S0RYcHN4TzdFdGYxOUtuNHZBdkhfeXlpaXpiM1UxX3hMbjhQU2lTc1piZ3lWVWdvSVRLX2RKNW9RQlZyLVNCaXl1YlFncndvaWJmSDFleXJVRllhZUxlOEJJdVBneXlJeVRrMng2eC1nX2t1eE8yUnotN24xckRmWXlMT21ZSA?oc=5",
+   "data": "Tue, 27 Oct 2026 07:00:00 GMT",
+   "fonte": "Hardware Upgrade"
+  },
+  {
+   "titolo": "Anthropic rinvia a metà ottobre l’ipo al Nasdaq. Nvidia tratta per entrare come anchor investor con 10 mld $. Intanto arriva un revolver da 15 mld - BeBeez",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOLUNCZzRuR2dqRWlXZFYwMGZuOFNmY3E0WTF3TnRYN05WLTQ5enJ4Q1FYNE10YzV5Mzg0M0lubHJTZUxncWF1SmstMEZLQXJnSm5UcVRxOU5LbWJtSk9qMncycXVFRmtiX1lwMzlCTklQVHZlTWRlSVo0R2Jvbm1vUVNBS0xIMmxJNWFWemJscEtBMmRVeGFPQWZYdFNEUEtZM3F3WENwanlMRk1QNG5hWlc3RkVTM2VyQjhxd3VUc3RsTS0zc244eFdpb3BOQkdja19xZF9KZ2l2VHdmU1hXeV9HdmhFM3RKQjVxQWhLb1AyYndGYW91RHIxOWNSWDRTUExmWndheTlVZjZPeERjMWt0TQ?oc=5",
+   "data": "Fri, 18 Sep 2026 07:00:00 GMT",
+   "fonte": "BeBeez"
+  },
+  {
+   "titolo": "NVIDIA RTX 5090 sparisce dal marketplace ufficiale: è davvero la fine per la top gamma? - Everyeye Tech",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZEEzel93ZkZQaXM4NWIxSU1NbnJtZVNvYkdoTVBpM1dnYlpVaFpRTEN6cFc2ZmtPMjREUDUtYWhGV0UtdXBZQzQ0U21lSTN2NUlnZzFyYnZXZUxBc1I0ME8wQUZoVlVuZkxZRXRQay14NVQ4TXlxU1dJUnJnZHZWTnpJaXZmaHZSRXFNV2NveG9LY0lSNnhjVXhVWi1RNXNDZW1TWkgzQ0ptZU1rb2c?oc=5",
+   "data": "Fri, 16 Oct 2026 07:00:00 GMT",
+   "fonte": "Everyeye Tech"
+  },
+  {
+   "titolo": "Fastweb + Vodafone accelera sull’intelligenza artificiale: più potenza al supercomputer Nvidia - CorCom",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMmFsb0NXcW1Yd08wNGNyMmNjLUhMWTZ2S1FHTEVXZW5JVldPc0lScWRwczFjcXlvTzJUV2wyX2M3djg5YVpoajdTbF9PMmpJQXVWdmhNbkRBWGFpeU5YeXpWYVN4VHVFVW9vWU4ya01ndUVjYTRUZDFPc3hjeGZJVG1IM3Qtd3QtaW1RaUVrOXFsOVZDU2dwaDRXbk1hdXFaSi0zbUpxT0N6S0s0ejZrTjM1TURPWlJUNEpqSnRrelpmWVZOY0JHQ1VB?oc=5",
+   "data": "Wed, 21 Oct 2026 07:00:00 GMT",
+   "fonte": "CorCom"
+  },
+  {
+   "titolo": "AI, Musk: \"Colossus 2 raddoppierà i chip Nvidia entro fine anno\" - la Repubblica",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNUxnTDF2QXFkWmlMRmZkTmMycDBVT0lGeHFTcUlQTVZkUWFHRVJYa3dyeTNVaWV4anZMU3AyNmJxaWtEZVZjR2FLWWJCOVNvMlNUZDNxM1cxam9EMGhnQnk1bDVwT3VURGd2VW1yU3lNZlllUk9MVlRyYkZvVmFGd21qaW9HaFAxRjVRNEtGYjRoc2pKZkt5TWRzTzVQeDA3YlVqR1ZFNlFLODU2ZWdKS2p3?oc=5",
+   "data": "Fri, 25 Sep 2026 07:00:00 GMT",
+   "fonte": "la Repubblica"
+  },
+  {
+   "titolo": "Nvidia, il DOJ chiede conto dell'acquisto di Hugging Face da 12,9 miliardi - Pasquale Pillitteri",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzRCcDU5NDVjWlJvTEtWREdUdG1od3I5eTZ2RWdJb1h0OVNfcXpKcHRYQ0tObWg2ODlDLVhnOENiMWl4eHNkS055cWxfajd3RGVjUGJrekFMSm1EODZ5NVZBdlhJVWRFajlNTW5tYk1rd1JYZ0FHaXR5aDh0NzFXSVFLSDZjdW53dVZFdjBSdXdaNXU2WFE?oc=5",
+   "data": "Fri, 30 Oct 2026 16:40:16 GMT",
+   "fonte": "Pasquale Pillitteri"
+  }
+ ],
+ "news_brevetti": [
+  {
+   "titolo": "L’ING. VITO MAGNANIMO PROGETTISTA NVIDIA PER LA GUIDA AUTONOMA - Teleischia",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeFh6QkYwMi1aWXViSmplczAyQWhZYmhMR0tpOXZhN00tQzJoNFdpb0wxeTR5VWg2WGxZQlEtckplNjRsRHNVMG00MkE1QmowY2RKc1FMRzhzM19CbWlzMy1kNG5FWWUtUUdub1lCRmhlVlZQY0xTSlhwVmFBOGllbElPRGVwZEYwMzQ1UlVBalBpaW9rRzdINm5MRkc2SnVocXREMENqbWxTMXFQ?oc=5",
+   "data": "Thu, 13 Aug 2026 07:00:00 GMT",
+   "fonte": "Teleischia"
+  },
+  {
+   "titolo": "Spunta una domanda di brevetto Microsoft per un'IA che riscrive le parole in diretta - Pasquale Pillitteri",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT0pOOHFyczRDb2VaZ2lOa2tQNUotN292Mnl6S0t6cTlxQ0tWMlhicG1qektJMXF1ZXg4dDUwb2VYN19CWnh0VmFIbnF4Sk5pOEtTWjZzUGo1alFWZTB3X3plX09qRk5IZWR3TkozTkdQaktZdzF5ZC14eG1ZNExwd20xSlR1MTJYcWxUNUJUemh3LTA?oc=5",
+   "data": "Fri, 06 Nov 2026 07:02:23 GMT",
+   "fonte": "Pasquale Pillitteri"
+  },
+  {
+   "titolo": "PlayStation brevetta la generazione predittiva dei frame: la tecnologia di Sony per abbattere l'input lag - Multiplayer",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa0JELUVzVDl3ZFpNV0tfVk1GVmJmVUVoZkg2UXZSY1V1MWc1QTZGS29YVkd5ZmZtcVh5X1dEdk1tS1pySUpmU1FNUVM0aU43aktRblVJTjFmWkxZYlNPUVE0dTZRenRZYkI3eDFvMlZ0bS1vQ1A2VlZzR3A3aHVnMVJtdHp0R1czRXVQSHpEYmY1bVYzUk4tMDBWV0pwNVNSd1ZWMDEwZk1aQkFTN1pCX1BIUjVtWVhydzVOV2t3?oc=5",
+   "data": "Fri, 16 Oct 2026 07:00:00 GMT",
+   "fonte": "Multiplayer"
+  },
+  {
+   "titolo": "Micron Agrees to Pay $600 Million to Resolve Netlist Patent Lawsuit - TIKR.com",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNazNmV1dhaDJxUmd5N3MyUUduNXp0eDVLekNtWXRMbG0zUG1vRmN6MzdRbTBGTWlnOWtQSHJQSC1WT2lpa0dzZGNCS1Fpcm9BUFVNUXNqNmFpRXdDbFNFVlhxWlhwNU1ZcE81WnhORnplZWMxdXJsMmhORHhmN1l1WEZWNldGdw?oc=5",
+   "data": "Wed, 07 Oct 2026 07:00:00 GMT",
+   "fonte": "TIKR.com"
+  },
+  {
+   "titolo": "Store Update 2.4.0 - ARC Raiders",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56NEVXNzBDcGpoY3h2RXhZWi1QaFRKUTdHVmtoMzBBVUVhb1pzOEFtS09wOEswemd4ODRHNGtodHNERHpGRHZmZXNtUExXdjItVk1pdGk4TGl1WUxYMkE?oc=5",
+   "data": "Tue, 03 Nov 2026 12:40:01 GMT",
+   "fonte": "ARC Raiders"
+  },
+  {
+   "titolo": "Sony svela in due brevetti la PlayStation che si ripara da sola con l'IA - Pasquale Pillitteri",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONXF2TUxuYmt6YktoZ1BIdU9tZVBnbVNvYU1zbGFTRnVwVUdhUm5aZG5hemtjTm1YeWhoMGFvN05vakY4NWlXSWwzZVI4Sk1hS2JfanlOd2tnYU13b3dnNkxnVWMyamhuTVZldXlDVzhGbU1BSE0yN1RpZWstN0JGN3JMTklvQ0Z0Z21tSkxwRy0?oc=5",
+   "data": "Fri, 25 Sep 2026 07:00:00 GMT",
+   "fonte": "Pasquale Pillitteri"
+  }
+ ]
+}

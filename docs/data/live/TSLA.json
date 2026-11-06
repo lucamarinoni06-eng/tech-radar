@@ -1,0 +1,321 @@
+{
+ "aggiornato": "2026-11-06T16:35:39+00:00",
+ "filing": [
+  {
+   "tipo": "10-Q",
+   "data": "2026-10-22",
+   "link": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026066775/tsla-20260930.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-10-21",
+   "link": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026066738/tsla-20261021.htm"
+  },
+  {
+   "tipo": "DEF 14A",
+   "data": "2026-10-19",
+   "link": "https://www.sec.gov/Archives/edgar/data/1318605/000110465926116700/tm267596-1_def14a.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-10-02",
+   "link": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026064366/tsla-20261002.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-09-29",
+   "link": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026063820/tsla-20260929.htm"
+  },
+  {
+   "tipo": "10-Q",
+   "data": "2026-07-23",
+   "link": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026049270/tsla-20260630.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-07-22",
+   "link": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026049213/tsla-20260722.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-07-02",
+   "link": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026046717/tsla-20260702.htm"
+  },
+  {
+   "tipo": "10-Q",
+   "data": "2026-04-23",
+   "link": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026026673/tsla-20260331.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-04-22",
+   "link": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026026551/tsla-20260422.htm"
+  },
+  {
+   "tipo": "8-K",
+   "data": "2026-04-02",
+   "link": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026022956/tsla-20260402.htm"
+  },
+  {
+   "tipo": "10-K",
+   "data": "2026-01-29",
+   "link": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm"
+  }
+ ],
+ "bilancio": {
+  "ricavi": {
+   "2022-12-31": 81462000000,
+   "2023-12-31": 96773000000,
+   "2024-12-31": 97690000000,
+   "2025-12-31": 94827000000
+  },
+  "utile_operativo": {
+   "2022-12-31": 13656000000,
+   "2023-12-31": 8891000000,
+   "2024-12-31": 7076000000,
+   "2025-12-31": 4355000000
+  },
+  "utile_netto": {
+   "2022-12-31": 12556000000,
+   "2023-12-31": 14997000000,
+   "2024-12-31": 7091000000,
+   "2025-12-31": 3794000000
+  },
+  "ricerca_sviluppo": {
+   "2022-12-31": 3075000000,
+   "2023-12-31": 3969000000,
+   "2024-12-31": 4540000000,
+   "2025-12-31": 6411000000
+  },
+  "capex": {
+   "2022-12-31": 7158000000,
+   "2023-12-31": 8898000000,
+   "2024-12-31": 11339000000,
+   "2025-12-31": 8527000000
+  }
+ },
+ "errori": {
+  "brevetti": "EPO_KEY/EPO_SECRET non impostati"
+ },
+ "norme_usa": [
+  {
+   "titolo": "Foreign-Trade Zone (FTZ) 84; Authorization of Production Activity; Tesla, Inc.; (Battery Storage Products and Components); Brookshire, Texas",
+   "data": "2026-11-02",
+   "tipo": "Notice",
+   "agenzie": [
+    "Commerce Department",
+    "Foreign-Trade Zones Board"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/02/2026-22301/foreign-trade-zone-ftz-84-authorization-of-production-activity-tesla-inc-battery-storage-products"
+  },
+  {
+   "titolo": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Permit the Listing of Binary Options Overlying Key Performance Indicators Reported by Certain Issuers of Stock",
+   "data": "2026-10-16",
+   "tipo": "Notice",
+   "agenzie": [
+    "Securities and Exchange Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/10/16/2026-21149/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order"
+  },
+  {
+   "titolo": "New Mexico Institute of Mining and Technology et.al, Notice of Decision on Application for Duty-Free Entry of Scientific Instruments",
+   "data": "2026-10-06",
+   "tipo": "Notice",
+   "agenzie": [
+    "Commerce Department",
+    "International Trade Administration"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/10/06/2026-20490/new-mexico-institute-of-mining-and-technology-etal-notice-of-decision-on-application-for-duty-free"
+  },
+  {
+   "titolo": "Self-Regulatory Organizations; North American Derivatives Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change Relating to Rules Governing Contract Specifications for Perpetual Cash-Settled Single Stock Security Futures",
+   "data": "2026-10-02",
+   "tipo": "Notice",
+   "agenzie": [
+    "Securities and Exchange Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20194/self-regulatory-organizations-north-american-derivatives-exchange-inc-notice-of-filing-and-immediate"
+  },
+  {
+   "titolo": "The Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule III for Model Years 2022 to 2031 Passenger Cars and Light Trucks",
+   "data": "2026-09-30",
+   "tipo": "Rule",
+   "agenzie": [
+    "Transportation Department",
+    "National Highway Traffic Safety Administration"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/09/30/2026-19964/the-safer-affordable-fuel-efficient-safe-vehicles-rule-iii-for-model-years-2022-to-2031-passenger"
+  },
+  {
+   "titolo": "Self-Regulatory Organizations; BOX Exchange LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Rule 5050 To Amend the Short Term Option Series Program With Respect to Qualifying Securities",
+   "data": "2026-09-29",
+   "tipo": "Notice",
+   "agenzie": [
+    "Securities and Exchange Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/09/29/2026-19868/self-regulatory-organizations-box-exchange-llc-notice-of-filing-and-immediate-effectiveness-of-a"
+  }
+ ],
+ "news": [
+  {
+   "titolo": "Tesla supera le attese, ma per il futuro non basta - InsideEVs Italia",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BcjNsQmt3bHpTM0NqZWFJSTBrOUFpNDVMQlFYLUE1UjJFS1lxT3lrT0dPeThrbm0xS3VTaUhoaEFuV1BoRS1LXzJXZWF3M1lpTWxNTzNDVHRxbnNqeTkzc3RVWFE0SjNwSVZ3UXFvdFlsUWdU?oc=5",
+   "data": "Sat, 10 Oct 2026 07:00:00 GMT",
+   "fonte": "InsideEVs Italia"
+  },
+  {
+   "titolo": "Auto più vendute in Europa a settembre 2026: la classifica top 50 | Quattroruote.it - Quattroruote",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWVVhSDRsdlNicHFHdnVjVVB0Uk9JR05hRDA1ZnlUREJHTnoyU21oMGY1TEFZZjVkd285ODYwR1BWcDJ2dUhSUFR4bnI2MG5MRkFXUFg1UVF5bHlGVDlSOGkwSTVIeXlOR09VN1lJb3dHNDBiUU5DSDVlR3g1ekR1Y1RBcnhCVkZnaWZFX1FLVdIBlAFBVV95cUxNSVlCUjVsNnBqTV9DVnIwbEw1WFpUZUVmZVd1R0djdl9MWk1pRDhLN0RrRU1YVjlzaGVreUdQejFVYVpHc0pIaEpLak9JVkl2R0pOVnZxOVk0OFBwdjRYOEJ3OHEzd09jYmxfRWZKMTNmc0prYUdoYXBQQjdaazVwQ1dKRTdjamVEWWxHUFctdzJWeHct?oc=5",
+   "data": "Wed, 21 Oct 2026 07:00:00 GMT",
+   "fonte": "Quattroruote"
+  },
+  {
+   "titolo": "La Roadster vola (quasi) come un razzo: Tesla svela l'auto del futuro - RaiNews",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdzFXYWFFNVREa0R5QldtWUd4M3RIdV94Yk1sYWhVQldkSkFZY0k1TTJsOU5FLVZmMEhaNl9ZYWhkOTUwdG51QUpWRFN6aTJSeWVOcU5IZlpRbGpHMmdUVkhqVVJfR3Q2ME94S09yN1BITnRROGY4bE1wQnZ1U3dSbW53RTNYNmFuNWx3a1hxQlduS2N5Q0t1Ry1BM3k0bGwtOEIwYjhEV2pQZjlHVWJzddIBtgFBVV95cUxNRUpCdkx6Y1R3cGpWTjdLM2NnOFBBbkNocWdld3I4eThMMjR3SnNybWRZSjB1S0s2cTJIY0pqSGpOUTVYOEg1S3M2VjdPc1RJNWpOb0I3cU5Kay1DZkxsY0JURm5pcXRIQ2xpLWdSVHFWRTFLYXFGVDVMekZMTVc5UnNOcHdpajZlM1U4MkN0cWFveUtXTFM5eTNnUUNVTUUtS3AyWmU4eUJCcklOUlZjck0zRlN2UQ?oc=5",
+   "data": "Thu, 15 Oct 2026 07:00:00 GMT",
+   "fonte": "RaiNews"
+  },
+  {
+   "titolo": "Tesla è in calo di quasi il 20% quest’anno. Cosa aspettarsi dalla trimestrale ? - Morningstar",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN2J0ZENpT3Ntb1BIVlN0ZzFkWVBjTzhfUnBSRk5XSkNFQS1EXzU4RldEeldQLUh5Y1k5RFJaeDNQaVpOWXprQ1o1WjUzeWRfNEd3Y0NxTEdjVk53N1ZTYk9kdUJPamtjc0lOV2FXdjQ1VzNFYXFZenNOa3VpaWl1UmFGd0pjdG5CbmRYVXlfdEFYMDh2WF9SeGNybjN5TDk3RkE2Qmowa0cwekJMYzRN?oc=5",
+   "data": "Fri, 16 Oct 2026 07:00:00 GMT",
+   "fonte": "Morningstar"
+  },
+  {
+   "titolo": "Nuova Tesla Model 3: come cambia nel 2027 una delle auto elettriche più vendute in Italia - Moveo by Telepass",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WQ0FzQnlYb2xveUt5WUwwWGFUX0h0LWNCVk9uXzRtelVoMHV0ekZEc19LZVlNdVpDX3RMb1o0T3VTYkZ5UXN5N0JnbElleXZ3alhPWVhiU1ZRQ1cydEdxYU5n?oc=5",
+   "data": "Sat, 17 Oct 2026 07:00:00 GMT",
+   "fonte": "Moveo by Telepass"
+  },
+  {
+   "titolo": "Tesla aggiorna la Model 3 2027: scatto record, più km e nuovo schermo - HDmotori",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mYmkwQVdNTHhQRE9JQ2lxQUJqZEVzdjBIX0w1NUFNSlo3UmQwNm5odWxxQWFFUW50T2hRc1BLSFFuVmJmaHBTZnJoeGJhcHFnNExicmRYUTZtQkVpXzI5VHdRbFVic1l4Zk5NWEVjNmVvM2gz?oc=5",
+   "data": "Mon, 12 Oct 2026 07:00:00 GMT",
+   "fonte": "HDmotori"
+  },
+  {
+   "titolo": "Tesla svela la nuova Roadster con propulsori SpaceX. Uno show per Musk: l’auto vola - la Repubblica",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdjBpaERFa0NvNmNGZEJuVE9HbjlzNWdVcFZ0WWdGMnItVDVSRkpqVW82YW1UM25NRm12R2FvY3FGQkVpTkFWNS1aMUJURjNOM2RSWmFKRlBTNm8xRTdadG5SZ1JjNDduMG5BZXNwcW5CSzhwMW9mVDRYRk9tUTc0SF9KVXJkZEJVdm5fOG5CSld3ZDU2ZEtJczRXc0dTMXBLWV8wZVdDLXp4OXFwSEl6amZ5cHR4MEk4WEFnM2JqaFhWWDJiLUFvY9IBzgFBVV95cUxNVkRQOU9JWENlWVRnMEprdGk3Z3c2MWlobEtIYU1uUWo2cE5RUko2UkFCTmhGdnhLMzdETGZQaUdJZVpHNFpMYWNkeUUycGZyTEM1eElPdDRiYjZ4bUl5M1FmZVoydEFuX3hoeTJQbmxiYWl1M3ZNckgzbXpLZmJIUUpPbGhtOXJsbEZWZE8yTGlhYVRlUnBrQkt3T2RLREJna0k0NmxVUWdMbHNGWGZMckZfVkxrOTlTZEJhTXN3ZnpSVlNMTGp1ci1vXy0zdw?oc=5",
+   "data": "Fri, 16 Oct 2026 07:00:00 GMT",
+   "fonte": "la Repubblica"
+  },
+  {
+   "titolo": "La nuova Tesla Roadster fa tante cose strane - Motor1.com Italia",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NdU9MN3A4LVNMSjZPRHFHR0RRT1FGUklmUWRNV2lSMm1UTzh2UEs0Vks1WFQxdldNVFMwM2VCN1ZhMlpOR3Z5bVVkUURIRVBnTmVKQzdRZ2U0SVNBMnhRNXZwbFgxVXJWRV8tek5sUnIxcnhsSWJZQkV0dWNKaVk?oc=5",
+   "data": "Fri, 16 Oct 2026 07:00:00 GMT",
+   "fonte": "Motor1.com Italia"
+  },
+  {
+   "titolo": "Tesla, debutta la folle Roadster. Accelera da 0 a 100 km/h in un secondo e quasi “vola”. Ma è ancora un prototipo - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbm92MWkyX2IyOWFrdTMyaWROTUVOMkE3OE9ieUhBeUMzMXB1UWpqNFJqR2piSlEtUHM5X0RoYURpVzhFUTZGSGhYS0tNc242VHRrX014UTZCQ2VkWXJrUzBmdGJMTzVWa1FDMU9nMDZ6RVZzOG9kVVVUVlVWc3ZxN0ZuZS1IbUZ0aFA3MW4takJJb0UyTkhaME1rMXFrTlhtbXZJcmR3?oc=5",
+   "data": "Thu, 15 Oct 2026 07:00:00 GMT",
+   "fonte": "Il Sole 24 ORE"
+  },
+  {
+   "titolo": "Tesla fuori dalla Top-10 dei costruttori più innovativi - Vaielettrico",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORkZZZWxhSU03UXpDTzdIaVo5Z2hxbWlNZUJuWkJGcWwtS2kzRkxndjBVWURrUGRhUERwckdDNExKakxfcWQyVnFjVVNFeFlxRlhjWWQ1Qm9RbWFORk9TUThYOU95Um03SC1ZbWJTMUxvZmZwLURfUHE4WDRZVWVQODVWWlB6LW81NE9ycWE2ZEVnMGF1RUxBakxGSi1VYVk?oc=5",
+   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "fonte": "Vaielettrico"
+  }
+ ],
+ "news_legali": [
+  {
+   "titolo": "Dan Ives spiega in dettaglio perché il 2027 potrebbe essere l'anno d'oro di Tesla grazie ai robotaxi e a Optimus - Yahoo Finanza",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORl9UeElyMnluY1VZeUpaMFZ3TWF1VVBCM1VXWUJXMzRwOHA5WHMtWmUwTXlndmo3dzF6NmdvVmg5N3pvUUxKRFRvWXhCX1VRNklGQ21hM1BYSmk2NTFNUWFwNXpUTmpScUIzWFRQcWVVZGVEbmJGUmFsaExjcVYtcmNoYUVSSnJlS1Q5R1JLcjRaelE?oc=5",
+   "data": "Sun, 04 Oct 2026 07:00:00 GMT",
+   "fonte": "Yahoo Finanza"
+  },
+  {
+   "titolo": "Alla fine in Svezia ha vinto Elon Musk - Internazionale",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHgxZ05kTG11SGpxc202TVdmNGVBVG54VmlRQU10Z0R3ZEswUWpINUVad1RmU08tRkd6YnB5UGIzYnI1ZTdhN3lYajNwWEhoQl91Y3lBSnhncHdvallnTlMxNTRTdDdqQjZoMzJaSmxxRTZaMUdlZ1R2azVBc05rNzFvbnhwVkIwTVRiNWI0R3hIUDNyU21rYzJKMUhhNTVYRUdVc2RB?oc=5",
+   "data": "Sat, 24 Oct 2026 07:00:00 GMT",
+   "fonte": "Internazionale"
+  },
+  {
+   "titolo": "Elon Musk alza l'asticella ancora una volta: un altro progetto molto ambizioso - Virgilio",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT3ppVWZyNFh0d0otNnV5Rmp6azFnTXpLMVE5RnVPN1lSN0gtcTlqYWhhTU9hekpGN2p5WXJyZktTMzZKWUlYdjNieFo4UmktMTJmeDdfaE5RSEdHSHpvaWFEZE9Cc0F2c2txMTRGeHVyMzdKdXR1ZUtoamdnaGhLN19CMW9GWXFaUXRobTlsMTA3cTBzY2JHQ3ZvYw?oc=5",
+   "data": "Sat, 24 Oct 2026 07:00:00 GMT",
+   "fonte": "Virgilio"
+  },
+  {
+   "titolo": "Tesla Cybercab, vendite ai privati entro fine 2026: arriva la conferma. - MotorBox",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWjJKNHVjVmtmUF9SN0hwTHY3Wm9yZ0VFM3VMeUYyekZrQ0VRcDFWYXJKRWZza3NDemJMM3JQV2ItLVNDcldRUEFOaTNFYUpQNDB0ekN6NkZnMmxqZHZIcjI4eWQ1cDFGMU82WEJVeUVfUUIxY0d5NnpvajEyMzF4THZMTDRSdG42U0UweEhaM2w0bU9XeUwtSk9R?oc=5",
+   "data": "Thu, 22 Oct 2026 08:34:26 GMT",
+   "fonte": "MotorBox"
+  },
+  {
+   "titolo": "Tesla, consegne del camion elettrico Semi in Europa entro fine 2027 - Shipmag",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN2Q3bWlpYjNNY2Q2QzZDNnBoN3Z5eWRxTzBwUEdIN2E1aG1MeWh2VUZlZTNrNjg3d2JPZDZkWUFxZ2tTaXFaSXVOLVBON0lmeXN0UnhiRWJhcUxSclhEYUVpa3l6TGxad1Zfb1daOFp4LXRhWURMQlVld0huWHFVOFZXZmxKd1p4XzhmZ3RwNjhQb25Q?oc=5",
+   "data": "Sat, 03 Oct 2026 07:00:00 GMT",
+   "fonte": "Shipmag"
+  },
+  {
+   "titolo": "Tesla Cybercab: le prime consegne ai clienti entro la fine dell’anno - Motorionline.com",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbFFTU2RlekFWZ3Z4ZTRNcjZmQzRsNGVYY1hSeGkxZTk2VkFFYW16a0pEc2RWZ0xVTWdHNmowdEh5NmsxY0lPTDBvVkpVV3ZIS1otMHhWWUxMa3M0OHZsUmF6bG5ZVFhQNHVzM1FfY082LVlLeEY4clpIajVib0VHX2l6aVQtZ2Z0cC1qTDJPWTYtdG9RWWI0a1h5eEE?oc=5",
+   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "fonte": "Motorionline.com"
+  },
+  {
+   "titolo": "Tesla Roadster, ci siamo: fine della telenovela | FP - Auto Elettriche - Auto - FormulaPassion",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZlJWOEZyX1ltdlI1ckJ2V1g1MmZNbEFkNUJFU2xDVFA4U3dMVFZMRmQwaklCbHVwWnRJUnhiZTJueU5rNmk5TVEtdmYwZ2NSUUlqelVoRXl4d2hVS3RkQXNBd0RzZ2VhREJUUVFLNmhaVEZOaTJ6Rk9iLUpBWl9TdlNEaUJJN0Z2cmdzWk05U3BPT1VxZ1Y1UjJrMDFkd0Rf?oc=5",
+   "data": "Sun, 13 Sep 2026 07:00:00 GMT",
+   "fonte": "FormulaPassion"
+  },
+  {
+   "titolo": "Tesla vuole consegnare i primi Cybercab ai clienti entro fine anno, ma senza guida autonoma fino al 2027 - TuttoTech.net",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWXA0VkRaNGhnQU9oQlpHVEtEQklOT1R6b29RcFFwc0tGOVJRYjk0Uy1tR3JMNmtHdzdwV0gyekxzN2I0aHFsOTRaMGRyaGRuSmpVYS11MjkyOGRkZ0pZMTcwN2RNV2pHWTNjeGZpMmVabF9QZ01NV2RzUHdFcC03aTk0aU9lbUlwVkhNZG1VU3lxTDJQZ1p1am1UNk11TVlJTTVaNEFDOA?oc=5",
+   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "fonte": "TuttoTech.net"
+  },
+  {
+   "titolo": "Tesla vuole vendere il Cybercab ai clienti entro fine 2026, ma quando arriva la vera guida autonoma? - Everyeye Auto",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ0lWZExZdGk1NkpmVGcwMHdPTXZseUM3MkM1aDl0X1F2TEFBd0gxZ1VzNHRHWGlDZE5XNVVDbVJ6X1F5UUVDYU1Ed2tia0NVYkN5dHRTYVRRUjRDZDJUOHNVSFJUb25zQ0FXRm9Vc3hpcDAxTy1IMTRMc1BRekpoN3hEOEJJVE1YeEYxdExmOXlHRjVIQmJ4cjFReW5TSkE2azkzcXBicjJ0Q2FEM1BUSGRjeFV5anhwNkVkdlFwTmVMc1ZG?oc=5",
+   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "fonte": "Everyeye Auto"
+  },
+  {
+   "titolo": "Caos prenotazioni per il robot umanoide di Tesla: costa meno di 20.000 euro, ma slittano le vendite - Autoappassionati.it",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONkFQcmktWUYzcEw0NmRjRFVpc2pXVVBUT18yenpmMVlZZV9VVmV5bE5WRXlBNGF5VTZhZ0xxS0FIOWRqVDlTMlFjZ1RXMVhodXhMVXUyU1l1MUIxVjJfSWVycHpIVzJKTzZFbXdKbXhrNGo1VnNSallsRWlJTUY1Q0c4Tk52c2RSY0JfS3ZmaC1WbEc4M3FJalFmUzJodFNFc0h6UVdLWng2WHlYams0WHIyT0JaNEZNb0Q3S2RGWFJoaEZZQ1dYay10Ql8?oc=5",
+   "data": "Thu, 05 Nov 2026 16:56:00 GMT",
+   "fonte": "Autoappassionati.it"
+  }
+ ],
+ "news_brevetti": [
+  {
+   "titolo": "Tesla Roadster: il brevetto svela design e ala mobile della supercar elettrica | Quattroruote.it - Quattroruote",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdFJQVEVYb2hOWFJmX2tkTzV3Um4xQm93WnE3ZWl3Y2xSQ0ZFUzVlckRtQnRjQ1RIWUZQZXJVTGNfM1BsbE12UzZOZmxhWkh5VlE1YVhKdUY2U1dNOUZEM2t4aU1JeFB0UlY3MjBXWEczQlVGa1IzdGY2UzdFMTM2VWpPY9IBiAFBVV95cUxQMmxuVkF2RDBJZUVIOXNYQlpMNm4xVnNENUdKaFlIb29sMHFmUU5GNmtNOTZQLVZzMDRnQllBY0w5NnB5d0M2WGtUU2JrUzg3dVQzWWZSUW1RcGY5LTZfOEUzTHNOajlld0YyWFBiWVBzaHRpRVg3MWxFbVZLRElrbVlpUmI5Vzlh?oc=5",
+   "data": "Tue, 29 Sep 2026 07:00:00 GMT",
+   "fonte": "Quattroruote"
+  },
+  {
+   "titolo": "Un brevetto Tesla svela una possibile ala posteriore attiva per la nuova Roadster - TuttoTech.net",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQXA1c2lSdHNocnpjaVIxUmlRckcweExBOWVCZjdmc01IYkhyeHItSnBtM2lEVWRaMlhKQVJ6dUVhdFQtb1RMUF93RjR1VGotRjRNdjVNemFLZEdlM0JfY3d0STlyX2RoRUNSY2d3YWxqejYwUGhtTTRab1RHTUp5WThhS1BhNERiOW9iN2VjbWlncTk0My04?oc=5",
+   "data": "Wed, 30 Sep 2026 07:00:00 GMT",
+   "fonte": "TuttoTech.net"
+  },
+  {
+   "titolo": "Tesla, brevetto per le ventole che aumentano la deportanza - Motorionline.com",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeWh5SDdpbzNIM1p5cy1wQnEtTVg1MWUtTW9GS2ZDWGpUN082OW5WZlFueHh5NHp1cVFEc2RqR0k1MHk5aTN6aTFpaTExRF9CNHZYUTB2OXU4V0RSTGNEVlBBb2dkblhpNGg2WTc0NVc1N1NuNmE1REZuQ2V6WmVuM3Bld0dIYmNvWGc0RFhyR1k?oc=5",
+   "data": "Wed, 30 Sep 2026 07:00:00 GMT",
+   "fonte": "Motorionline.com"
+  },
+  {
+   "titolo": "Tesla brevetta la ricarica wireless che “vede” il metallo - InsideEVs Italia",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5M3B4T2dHSlZwRWlVQXVPc0x5SUxnb29WX3RMd3VDMzhGbFpheUtUN3BuTUp6QVZuYS1vbGpvVjBHMDZzT3BIY29JNExrOUZPMWJTUENYazVDWDN2RlVjaDVBbkZmVXE4b3p5Z0lpbENqeWZUMGVKZFZncWg?oc=5",
+   "data": "Fri, 02 Oct 2026 07:00:00 GMT",
+   "fonte": "InsideEVs Italia"
+  },
+  {
+   "titolo": "Tesla Roadster, ultima sorpresa prima del debutto. Brevetto svela un'ala attiva: fino a 700 kg di deportanza - MotorBox",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XR1FQWUwzSXhpd0pBdllYdHNHd0gzMS1ZbzktaWdoVkxEMVN5dGZXNkFpbDJ5LTBzMFJJVUc3dzZGekg3eVhZelZWOTdBdUM4MnJDY21EV2lyNmhZLTRwQXIxd3RweDZBTjZ4ZDNyZW5LMmpNSFppdV84LUFJQQ?oc=5",
+   "data": "Thu, 01 Oct 2026 07:00:00 GMT",
+   "fonte": "MotorBox"
+  },
+  {
+   "titolo": "Tesla Roadster, il brevetto svela l’ala da 700 kg: ecco come sarà la nuova supercar elettrica - Automoto.it",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVnVFTGxkRG81NEQ2VkVQVjNMcjhKazdxeVlOTFlEUno4X1Fpc04xQW1wVzVMUW9TVy16b2xlaW9CNGRSdHhJZXlhbnppN2dhWUJfdGt3QjJwbEdLei1lYzd2bG91MWVRVXRKakMxRUdVQ3JqWTlJTEdaQXlxdTZLd19SWDg3S1EwRnZRcGFDTmt1ZTNyRWFKR2dxYjRTUW9lc1ZlU2w2WUQ3dFZWdjlIMEtySkxmM1dmYXl1NGtCM1JsY1U?oc=5",
+   "data": "Mon, 28 Sep 2026 07:00:00 GMT",
+   "fonte": "Automoto.it"
+  }
+ ]
+}
