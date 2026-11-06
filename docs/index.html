@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="it"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Tech Radar · Big 7</title>
+<style>
+:root{--bg:#eef1f4;--card:#fff;--tx:#0f1b24;--mu:#5a6b79;--bd:#d5dce2;--ac:#0b6b82;--ac2:#dcecf0;--ok:#157347;--ko:#b42318;--wa:#9a5b00}
+@media (prefers-color-scheme:dark){:root{--bg:#0d1419;--card:#141d24;--tx:#e7eef3;--mu:#93a4b1;--bd:#25323c;--ac:#59b8cf;--ac2:#16303a;--ok:#4cc38a;--ko:#ff8a80;--wa:#f0b35a}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--tx);font:15px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+.w{max-width:1040px;margin:0 auto;padding:16px}
+h1{font-size:22px;margin:0}h2{font-size:16px;margin:0 0 8px}h3{font-size:14px;margin:12px 0 4px}
+.mu{color:var(--mu);font-size:13px}
+.tabs{display:flex;gap:6px;overflow-x:auto;margin:12px 0}
+.tabs button{padding:8px 14px;border:1px solid var(--bd);background:var(--card);color:var(--tx);border-radius:8px;font:600 13px inherit;cursor:pointer;white-space:nowrap}
+.tabs button[aria-pressed=true]{background:var(--ac);border-color:var(--ac);color:#fff}
+.card{background:var(--card);border:1px solid var(--bd);border-radius:10px;padding:14px;margin-bottom:12px}
+.g{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px}
+ul{margin:4px 0;padding-left:18px}li{margin:2px 0}
+a{color:var(--ac)}
+table{width:100%;border-collapse:collapse;font-size:13px}td,th{padding:5px 6px;border-bottom:1px solid var(--bd);text-align:left}td.n,th.n{text-align:right;font-variant-numeric:tabular-nums}
+.sc{overflow-x:auto}
+.bar{display:flex;align-items:center;gap:8px;margin:4px 0;font-size:13px}.bar i{display:block;height:14px;background:var(--ac);border-radius:3px}
+.warn{background:var(--ac2);border-radius:8px;padding:8px 10px;font-size:13px;margin-bottom:12px}
+.err{color:var(--wa);font-size:13px}
+.item{padding:6px 0;border-bottom:1px solid var(--bd)}.item:last-child{border:0}
+</style></head><body><div class="w">
+<h1>Tech Radar · Big 7</h1>
+<p class="mu" id="up">Caricamento…</p>
+<div class="warn" id="nota"></div>
+<div class="tabs" id="tabs" role="group" aria-label="Aziende"></div>
+<div id="out"></div>
+</div>
+<script>
+const $=i=>document.getElementById(i);
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const L=a=>"<ul>"+(a||[]).map(x=>"<li>"+esc(x)+"</li>").join("")+"</ul>";
+const safe=u=>/^https?:\/\//.test(u||"")?esc(u):"#";
+const link=(t,u)=>`<a href="${safe(u)}" target="_blank" rel="noopener">${esc(t)}</a>`;
+const bn=v=>(v/1e9).toLocaleString("it-IT",{maximumFractionDigits:1})+" mld";
+const dtf=s=>{const d=new Date(s);return isNaN(d)?esc(s):d.toLocaleDateString("it-IT")};
+let CFG,cur="_settore";
+async function get(u){try{const r=await fetch(u,{cache:"no-store"});return r.ok?await r.json():null}catch(e){return null}}
+async function init(){
+ CFG=await get("data/companies.json");
+ if(!CFG){$("out").innerHTML="<div class='card err'>Impossibile leggere data/companies.json. Avvia un server locale (python -m http.server -d docs) invece di aprire il file direttamente.</div>";return}
+ $("nota").textContent=CFG.nota;
+ $("tabs").innerHTML=[["_settore","Settore"],...CFG.aziende.map(c=>[c.ticker,c.ticker])].map(([k,l])=>`<button aria-pressed="${k===cur}" onclick="cur='${k}';show()">${l}</button>`).join("");
+ show();
+}
+function errs(d){return d&&d.errori?"<p class='err'>Fonti non aggiornate: "+Object.entries(d.errori).map(([k,v])=>esc(k+" ("+v+")")).join("; ")+"</p>":""}
+function newsList(a){return a&&a.length?a.map(n=>`<div class="item">${link(n.titolo,n.link)}<br><span class="mu">${esc(n.fonte)} · ${dtf(n.data)}</span></div>`).join(""):"<p class='mu'>Nessun dato (esegui l'aggiornamento).</p>"}
+function frList(a){return a&&a.length?a.map(n=>`<div class="item">${link(n.titolo,n.link)}<br><span class="mu">${esc(n.tipo)} · ${dtf(n.data)} · ${esc((n.agenzie||[]).join(", "))}</span></div>`).join(""):"<p class='mu'>Nessun dato.</p>"}
+async function show(){
+ [...$("tabs").children].forEach(b=>b.setAttribute("aria-pressed",b.textContent===(cur==="_settore"?"Settore":cur)));
+ const live=await get(`data/live/${cur}.json`);
+ $("up").textContent=live&&live.aggiornato?"Dati live aggiornati il "+dtf(live.aggiornato):"Dati live non ancora scaricati: esegui scripts/fetch.py o l'azione su GitHub.";
+ if(cur==="_settore"){const s=CFG.settore;
+  $("out").innerHTML=`<div class="g"><div class="card"><h2>Catena del valore</h2>${L(s.catena_del_valore)}</div><div class="card"><h2>Fattori che influenzano il settore</h2>${L(s.fattori)}</div></div><div class="card"><h2>Norme e regole chiave</h2>${L(s.norme)}</div>${errs(live)}<div class="g"><div class="card"><h2>News di settore (ultime 2 settimane)</h2>${newsList(live&&live.news)}</div><div class="card"><h2>Documenti del Federal Register (USA)</h2>${frList(live&&live.norme_usa)}</div></div>`;return}
+ const c=CFG.aziende.find(x=>x.ticker===cur);
+ let fin="<p class='mu'>Nessun dato di bilancio (serve SEC_USER_AGENT).</p>";
+ if(live&&live.bilancio&&Object.keys(live.bilancio).length){const b=live.bilancio,ys=[...new Set(Object.values(b).flatMap(o=>Object.keys(o)))].sort();
+  const lab={ricavi:"Ricavi",utile_operativo:"Utile operativo",utile_netto:"Utile netto",ricerca_sviluppo:"R&S",capex:"Capex"};
+  fin=`<div class="sc"><table><tr><th>Anno fiscale (fine)</th>${ys.map(y=>`<th class="n">${y}</th>`).join("")}</tr>${Object.entries(b).map(([k,o])=>`<tr><td>${lab[k]||k}</td>${ys.map(y=>`<td class="n">${o[y]!=null?bn(o[y]):"–"}</td>`).join("")}</tr>`).join("")}${b.ricavi&&b.ricerca_sviluppo?`<tr><td>R&S / ricavi</td>${ys.map(y=>`<td class="n">${b.ricavi[y]&&b.ricerca_sviluppo[y]?(b.ricerca_sviluppo[y]/b.ricavi[y]*100).toFixed(1)+"%":"–"}</td>`).join("")}</tr>`:""}</table></div>`}
+ let pat="<p class='mu'>Nessun dato brevettuale (servono EPO_KEY e EPO_SECRET).</p>";
+ if(live&&live.brevetti){const p=live.brevetti,mx=Math.max(1,...Object.values(p.per_anno)),mc=Math.max(1,...Object.values(p.per_classe_anno_precedente));
+  pat=`<h3>Pubblicazioni per anno (EPO)</h3>${Object.entries(p.per_anno).map(([y,n])=>`<div class="bar"><span style="width:48px">${y}</span><i style="width:${n/mx*60}%"></i>${n.toLocaleString("it-IT")}</div>`).join("")}<h3>Per classe CPC nel ${p.anno_classi}</h3>${Object.entries(p.per_classe_anno_precedente).map(([k,n])=>`<div class="bar"><span style="width:48px">${k}</span><i style="width:${n/mc*60}%"></i>${n.toLocaleString("it-IT")}</div>`).join("")}<p class="mu">${link("Apri la ricerca su Espacenet",p.link)}. I conteggi contano pubblicazioni, non famiglie: una famiglia può comparire più volte.</p>`}
+ const fil=live&&live.filing?`<div class="sc"><table><tr><th>Tipo</th><th>Data</th><th>Documento</th></tr>${live.filing.map(f=>`<tr><td>${esc(f.tipo)}</td><td>${f.data}</td><td>${link("SEC EDGAR",f.link)}</td></tr>`).join("")}</table></div>`:"<p class='mu'>Nessun filing.</p>";
+ $("out").innerHTML=`<div class="card"><h2>${esc(c.nome)} · ${esc(c.ticker)}</h2><p class="mu">${esc(c.sottosettore)}</p><h3>Segmenti</h3>${L(c.segmenti)}</div>
+ <div class="g"><div class="card"><h2>Concorrenti</h2>${L(c.concorrenti)}</div><div class="card"><h2>Clienti</h2><p>${esc(c.clienti)}</p></div><div class="card"><h2>Fornitori e dipendenze</h2>${L(c.fornitori)}</div><div class="card"><h2>Norme e contenziosi</h2>${L(c.norme)}</div></div>
+ ${errs(live)}<div class="card"><h2>Dati di bilancio (SEC, 10-K)</h2>${fin}</div>
+ <div class="card"><h2>Brevetti</h2>${pat}<p class="mu">Classi seguite: ${esc(c.cpc.join(", "))}. Titolari cercati: ${esc(c.brevetti.join(", "))}.</p></div>
+ <div class="card"><h2>Ultimi documenti presentati alla SEC</h2>${fil}</div>
+ <div class="g"><div class="card"><h2>News (30 giorni)</h2>${newsList(live&&live.news)}</div><div class="card"><h2>News legali e antitrust (60 giorni)</h2>${newsList(live&&live.news_legali)}</div></div>
+ <div class="g"><div class="card"><h2>News sui brevetti (90 giorni)</h2>${newsList(live&&live.news_brevetti)}</div><div class="card"><h2>Federal Register</h2>${frList(live&&live.norme_usa)}</div></div>`}
+init();
+</script></body></html>
