@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-06T16:35:32+00:00",
+ "aggiornato": "2026-11-07T11:34:36+00:00",
  "filing": [
   {
    "tipo": "10-Q",
@@ -156,28 +156,16 @@
  ],
  "news": [
   {
-   "titolo": "Amazon annuncia i nuovi Amazon Alexa Tablet: hardware premium, Android e Alexa+ integrata. Disponibili anche due versioni Kids per i più piccoli, con incluso un anno di abbonamento al servizio Kids+ - About Amazon Italia",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdUdJdE5OQl84Y0ZYQzlENEY1bVpkX2V4U0JIcWt2VnhnZkcxR3pRcTNEbmdoOF9scUhXelJhcWpwQ0VXQjFXWnhXMGFDZ1JsM3pPbUtoWWYtUWYzemNoZkg3eEh4aFF5bUsxZmZJQ2k1cnlhQXBBS0tYSVFGdkgwZkdqWlZ3RVVnSmtNZzZFdjdsXzJCQ0xSZUs2aUo5ZnhtN0oyd3Bzbm5NVHROZ0FZM1NRaTFzQQ?oc=5",
-   "data": "Thu, 08 Oct 2026 07:00:00 GMT",
-   "fonte": "About Amazon Italia"
-  },
-  {
-   "titolo": "Amazon, investimenti ben oltre le attese nel terzo trimestre e ricavi sotto il consensus - Borsa Italiana",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTWR4QjYycUVRdVBNWHAtZ3U1WHpuSDBIakZrbXI4S0h0R1RTU0ZRbDIxV2U1b2RwU1c3VjlzaE1UMlJVbm5kamlQVG00VE54RHNZN3BwZ1dNNUY0VWZBVnkwVUt3djRfOHdWOUJZdDJ5UFE5R0VFMnRDLTR4UHRHZVdEMGxpSlhFd1pNLWNicFA0MUM0SUliLWFUSmEzcjFDbjRWeFJLYXpwdEhHZXNLamwtMVFUREpmTkstNG4wVDQ0Y25TbC1ISnpuMnZrYmtOUnVTY0djaVFfa0s1WXZCQmQzLWM5cElqSWo1RE1BX3Qzd2dIYnk0Tk9IbTktVk0?oc=5",
-   "data": "Fri, 30 Oct 2026 06:50:00 GMT",
+   "titolo": "Amazon in calo a Wall Street, attesi i conti trimestrali: sotto esame gli investimenti nell'AI - Borsa Italiana",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQa055eExJblF0U3puUE84Tm1lRHJ1WGVzNjhQTUwzREc0RlJzdnZXd3ZvMVpZb0lxeGZobG1EeGQxbTI0eVJReUJtT1VEdXpaWERhWVE3WHRUZlAxNmtHU1RTNGdCZnVNM0wwUElxRXYyN1ROaktHS1R6ay1Rdm1hemNrWEFvYmlXSHFCdTNKMVV1VFYtMXhGaVd3VkFpcTAyT0tUTVA4UGpJYTV2cHV5SFU0X0JOa18yeHJpZ2ppWk9PVHNUdGp5c0ZRUklqY2phWE5ScUZCdmp6OUV6QmFOUjVaaDVfYkNfbUttRi12ekZVUE5jaF94SUFPTVVBRmNWZ01Ed2lYMm4?oc=5",
+   "data": "Thu, 29 Oct 2026 07:00:00 GMT",
    "fonte": "Borsa Italiana"
   },
   {
    "titolo": "In attesa della trimestale, il titolo Amazon è sottovalutato? - Morningstar",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOajRGWGdiTlA4aVlpU2xtM0I0dXJ6d1FyeHZxNGcyRnZYVlloTkE0aGJEUlV3T3RDcmFlMG1kYmZJNDR2MmYyS0owQi1NUXI2aFRSN0RjRWI4dS1RUU1icjRzUDFFT3V6d2pZV3FfSEZyS3Bxc1J5MTd5ai1mb0Z0SkJMTnZOUENuWDNFdnFGdWgxYUhySUN0eEx2UQ?oc=5",
-   "data": "Mon, 26 Oct 2026 11:11:35 GMT",
+   "data": "Mon, 26 Oct 2026 07:00:00 GMT",
    "fonte": "Morningstar"
-  },
-  {
-   "titolo": "Tragedia alla Amazon di Settecamini, malore fatale per un 25enne - RaiNews",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQV05CLURZWXdWOUdlTkwxeG1SNnF1VzBYMmJrenZiTWF4VE1fUGlhcGRnNkFLTWFJdDdJc3plMEctQmxZc0hqX0xPNzhCb2duZlBPUFJDSlVpMFVYS1huX0lvYlhhcU53eEMzUDhPUElvY19HS0xELU1pd0pabDFjclg0bU9pQTNoa3lrT0ZXcHFwS1ZmX3Z4MjZSXzRYMkdNVjNsTjcxRmhqSlk2cnc2Y3RCN2JGUmhHN2dkTmJ2X3dhY1pZM3RVOVZHckVjcHRTdGgzcmI2WmZ4TnczUzZ4aVpmZkxrajIyR0w00gHwAUFVX3lxTE4wN0VkdFlUajhrZXpPUWVzYzNxcHhJMlFKM2ZTbVNnSWluMk9jU3dXYWNibHJGbHVIcDQyYU52TXNPRTUzU3pieDNEa2xEc3RiNXhLT1FSOVN1UjI3RzRyTmstSUlSRVlwbEYweFNaemtSTjdwcGE4bmR6YlQydEFWN2s4UW9WNnFPM05Odmg1ZndteUNfWjJsZlFzZGcxLVNiUUlWdzJvdVMyTTRmc0Q3emY2dVgya090R3BOZWZYcVNOZXRpWFR0QjJMS21FWVdEZDlQQ0x5bzdHY1pvcXNJQ1VpaFBoVnU3N1dQVDJlbw?oc=5",
-   "data": "Thu, 08 Oct 2026 07:00:00 GMT",
-   "fonte": "RaiNews"
   },
   {
    "titolo": "Angela Renzelli vince la borsa di studio “Amazon Women in Innovation” 2026 per Roma Tor Vergata - UniRoma2",
@@ -198,22 +186,34 @@
    "fonte": "Everyeye.it"
   },
   {
-   "titolo": "Amazon punta su 3.000 camion elettrici Tata. E l’accordo arriva mentre si chiude l’Opa su Iveco - Uomini e Trasporti",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdl85TF94SGZVc2JWOVkwLW0xUmFnekVZWlUxMGk1R3FBS0NGd2hJaUFGc3NLS1Vpa1hreEhfTlZxakdtM0M2MG9iY3R3aEdiZndCV1ludzhIS0VHYzFLWm9QOFVEZ2Jnb0FJSmI3SURXdHN6cS1YcUFBckh2V3BWRkpEUWl0bEVhcVp2ZmJxRlN6cUwtOGwyVGxObHR6VVRJSXBOekMxOW1tczAwblJlQmkwZkdmbE1tM2UwUTRWUU1VLTBXQkF0b2w2cUszRkdmNFJGek9sbC1QWEZUZXZjTW13?oc=5",
-   "data": "Wed, 28 Oct 2026 07:00:00 GMT",
-   "fonte": "Uomini e Trasporti"
-  },
-  {
-   "titolo": "Alexa ora può anche vedere: Amazon presenta 5 nuove linee per lo smart living ultramoderno - Libero",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbVVsejI5R0dCSkhRcTUzbVdQSk1VUThzaGZkT2w0YlJaeGF5UzFlcDIwVy1pd01LRDJEVGRQWWFIVnJoVnBRdjNoaVhtWjZGYzNQbjhqaHFmVlhac0IwU2Z3UjROamZxTnQ3TDdzVWFRQ2VUYkhyR3FtcnlwU1JxVWpXQy0yN3FWMTJkRWg4TUtlUdIBlwFBVV95cUxQeDU5N3BOQnVjT3VxWUNpWmp5YUlaOTFvbmxFU2pBcHl5NXY2MEZFNW5hRUFmWFgzMHUteFRrUHZXdHU1ajZhLTZSNGxfNHhvZWluT0tKeTRkWUFYQzZvMFhOaEJ3cGZVc3MtajVQUE9tWjY1LUhoekRVWENkaTdqRVdSOXhvOFVBV1Mya21WY2dKVk11bHJn?oc=5",
-   "data": "Thu, 29 Oct 2026 15:30:00 GMT",
-   "fonte": "Libero"
-  },
-  {
    "titolo": "Amazon costruirà 12 reattori nucleari per i propri data center - Sky TG24",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZXdXT1czYm91WXNtTFRsbExmYk9kZmVjMHZNUVNmdE5sTU5lRFNTT1BKblpCZ1AzZHNpUFVrRFRUYWRMSWY3WG1sQm5xS0hxZUhOemRaakRsMVRWWlFWdU9WaG1tR2ZGTVBSU2dXQ1I2dEZHZlZETVRIbXczeFljc01KQQ?oc=5",
    "data": "Fri, 23 Oct 2026 07:00:00 GMT",
    "fonte": "Sky TG24"
+  },
+  {
+   "titolo": "Le novità di Amazon Luna Standard di novembre e i giochi in regalo con Prime Gaming - Multiplayer",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWWh4djl3TmZzUWJSMUVIRVF4NXp0OHBncGhUNzFQODRiamxRemctbElnNnFIX3FXUHNkUUU3QnpwMTJpbnBjeUNlbnVPSWx5REtJVkVRVWkzSkVTWEl6MDVmOExGeWVfZWdSalhXaEdLMGRJbnhyVHR2RTFLNFh4cFlXRFJEOVBEa3Z3SFZ0RElMRWxzNnFtbjRCWVltNTBKY0JXUA?oc=5",
+   "data": "Thu, 05 Nov 2026 18:00:00 GMT",
+   "fonte": "Multiplayer"
+  },
+  {
+   "titolo": "L’attesa del pacco ti stressa? Da Amazon e Laserwall arriva la “bag” per consegne condominiali sicure - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUnBZZjZhZzVlN3pGd21rOWk4dmVQMHYxc2pXNmwzaDJPX1ZhcnF1ZHlOYTY3Q2pYWUE1aGJ0SmpVNm5OdEhkVUlhUXU2RDU1Tnp1V2lOU0RIRk9jVFZRU3lsZnFPU0FZc0VvQkZ0UW9oTFhOaWw3UU5HU2RKVm9COFFvZnN6UDVIcC1rSDExYmpvM1VsV2pKcnFOZ1l2TkU0NUtQbzM5XzAtVzhRSWlPQkZScUtLS2YtejB4SEkwQnFwd2c?oc=5",
+   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "fonte": "Il Sole 24 ORE"
+  },
+  {
+   "titolo": "\"Amazon apre a Maratta un hub per le consegne a zero emissioni\" - Comune di Terni",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZzgydEV5NERtNjdUT1BOcjNUenZBbFRfV1pBOHJSZDdiWDNpU2EtZTVLbjVieHQtTnlic29kQ1hJODRjbGtEZTFFa2NOUGE2Z0hqeFVqV0R5TTlYNlk4Z1l6WnYzdDY5ZVloTUZEYlhPSHZQS1hMYWtMM0hFSmxMYkFjd2JaTktHZlRuSThVSXF0Y2doS2xFbmsxRzFTVk5K?oc=5",
+   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "fonte": "Comune di Terni"
+  },
+  {
+   "titolo": "Amazon Luna, ecco i giochi gratis di novembre 2026 - SpazioGames",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNnEwRVBENXhvd0FOTm1aTGoweHdKeUtfRTdENURWSXJabzd4VlAwdk5MSk5ZNXNxX29UVnBxTlBLMlo3MFNiV2MwbkJ1aTZOTm9pbnZzRUU4bFFEVWZ1WVlPWHV5TVNvSEthNFR2dnhYalFYWkxKX1F4OEFmd1FXcHg1VHFQQWR6ZElkT0htYmZtc1RVVXlEa055Z0tCMk9CTlNNSThLNWx4MmRIVHc?oc=5",
+   "data": "Thu, 05 Nov 2026 21:13:00 GMT",
+   "fonte": "SpazioGames"
   }
  ],
  "news_legali": [
@@ -266,19 +266,25 @@
    "fonte": "Il Messaggero"
   },
   {
-   "titolo": "Amazon e Buy Box: se l’algoritmo corre più veloce della giustizia - Agenda Digitale",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVzhKNUU4aTBQd1VPVkxlRDBMSlVZMnkwcDNyX29RX19pVF9yYk04ZmRDbmpTTE5aZ3ctU0N0Ui04TktHa3pHWkVwdncxSGd3OXRLN1VwTWJtYkdMREFieFc3REd5RjVMdlRtZ0dfNk5Uc3Vad1J4N3FGMVJ2cHYySEctLWZETS02am9BZG5tTTFTbkx0bE5yLVdZUFgxSHRjV29Rd1F0YTY0Z3dPZmZQdWpjMHlFZ0djNFVHaw?oc=5",
-   "data": "Mon, 14 Sep 2026 07:00:00 GMT",
-   "fonte": "Agenda Digitale"
-  },
-  {
    "titolo": "Maxi truffa ad Amazon, oltre la condanna dovrà risarcire il colosso per oltre 500mila euro - RiminiToday",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVpOR2xnLXJpRWd3elRQaEdCTVlJWDE2SFUxVEFhZFoxX2NXZ0RHZFo1UGJvaS1ibUtxQ1lCemprcE40UkVkSUgzZTFQM0FZaWxvSGViU3ZGcXVNalpsY3ViZWZNN2VYay1SbGg2Znc1OTl4TXRlZUJHVlhqNkJNcm82ZlU4bl9MdXJhVVVlenllRXJDN0RTeXpvczhDTVRjQjh0T0o4aWk3RU1RT1Y5djV1VTc?oc=5",
    "data": "Wed, 21 Oct 2026 07:00:00 GMT",
    "fonte": "RiminiToday"
+  },
+  {
+   "titolo": "Love Me Love Me 3 si farà: Amazon punta tutto sul fenomeno letterario di Stefania S ma non è l'unica novità da urlo - Libero",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYmpHdGp3SkpFaE5GU3NPakp5Y1pCbWU4VlBxbUNlZUs4RDdlRkdINUllYTdQa1VLVE5WOG95OFlWUnh1OG5LUkZBUGJLZ1dDVHhHVnlrZ3RIMVNQZGhCejhCNF9OZWUzU0Rya1Nob1dncDlGZ1ZFdFBFSTB4cHZuX1RBeVNEQldtT1k3bzZEdTU4ZmRzaWFhemxJY21KY0FlWVpHb0tSRkotc3lsU2E3cGJHMXhMd9IBuwFBVV95cUxOaU53c2F6MmhRdTlLUXpWSTRsRDFCdkF1MENNdkxSZXJIeDNDVURaQnFwSGFBdnNBMFQ5OXBwdC0wTlNvSWRyWVYzaVFpTGN6TlRYOFlnYk5GaXktVzRYYmx3YXFkLXNQRS1KMWpXQ01HMkwwX2JJbnRhVHpNUzhfTVYxRURXUDkxQS04QVlIdF9vVG5kLTZpUTBaaURpbmZwb1VnYWlXdDJRbXI2bnAyekhQZ2J5clo0NHFj?oc=5",
+   "data": "Sat, 10 Oct 2026 07:00:00 GMT",
+   "fonte": "Libero"
   }
  ],
  "news_brevetti": [
+  {
+   "titolo": "Tesla pubblica un brevetto su una piattaforma di ricarica wireless per i propri veicoli - TuttoTech.net",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdU1PSzgwZzJ0NUMzWU5tRDZabTY3ZW5Hb0hEbERTc2hsdGlGS1d2dWFGdThaOG84UnhCNzM4MWVYLXBtWTVWWkYwT0J0cEQ0NERicGhGaENsYW9sZWRrUEtXeVZHOFI3d0NCVThYQXpqb0REZVJDWllfYnE3NU9DQTBoakQtR0JFeUNwanFMdUxQVXozcUcyYUt6UFU?oc=5",
+   "data": "Fri, 02 Oct 2026 07:00:00 GMT",
+   "fonte": "TuttoTech.net"
+  },
   {
    "titolo": "Amazon: regala Disney+ per guardare Toy Story 5, Mandalorian & Grogu e King Marracash - Everyeye.it",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVFBpYnhHd1M5UElHODFCbkpBU1UzWkVDTnBESzZ5QjJXdjFpRlF1TXhKMmNoN29McHpZQ2xEMkF4RDNkY25JcHFqbDNaOHhpZlFRcVhjUzFCRGNZUWJZcWZUc19Id19fNjRIVnIxQWU3V3JfdHJSWlhueFJOWlEtUlRPV05RWGc4cWRZT2xBNFllZ3o1S09FVzg0ZkwtUUhtY2Q4RjZNSkZzbW5qVDdYaC1EOWdsbHJHQ2c?oc=5",
@@ -292,28 +298,22 @@
    "fonte": "Pasquale Pillitteri"
   },
   {
-   "titolo": "Apple dovrà pagare un extra di 184 milioni a Masimo per violazione di brevetto - TuttoTech.net",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNW5TVmo3Y0h4NkFmMGg0d21WZlo4QkROZ0VrNUFpdzlSU1k2OVFPQ2drdERsV0RwV1ZKSWlyWVowVzJybmg5OHE0ZTlHSkwzd3RUeHRTY05KT2V6MmJhZXdXUkRoUGhnLVk5Z21ROFpKXzZEMzRhYjFaX1ljQkFjd2V3NzJjRGJOcUtFQXpZSTBTT1EyNVRlSThrZFZjYnlBSEJuUGNNdUNsOU9jbFE4MHhR?oc=5",
-   "data": "Wed, 07 Oct 2026 07:00:00 GMT",
-   "fonte": "TuttoTech.net"
-  },
-  {
    "titolo": "Sony punta a NPC che imparano dal vostro stile di gioco - SpazioGames",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMzIxYl9JWXNvS3d0UU5FZmFvdDg2Z0ZHMUtjYjRWQ00yOENmWjU4RlZLV2dLYjMwRHR6cUFIa2k5b0NpMk9YM1czWG1MOXFCc1hxVW9wbmFneF9EZVJiWHMyTTZEYV96NDlVc3hTZUtUMHVmcXVzanVOWFlZdXJRb0NMUFg3UUFIdjdqck51Qnk3ekE?oc=5",
    "data": "Thu, 08 Oct 2026 07:00:00 GMT",
    "fonte": "SpazioGames"
   },
   {
-   "titolo": "Apple Glasses e privacy: ecco come eviteranno le registrazioni \"spia\" - macitynet.it",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdHY1N0IzN3ZYV0J0eFQ1RS0wU3pXcXNTNDMtSVRmR2NHVjhkdDQzSEtiODhMZHpxaExWdEFWN0k4QUJ5ZVpsX0gwS2NJNHJadlFyd1ZGMG9sLUlOX08wYjNkQ1lTOWhDNzBBYk9lcDlqYW41dEotd3hWMW4tWWNsdFdmLUhYOVJBNHJHdjhKNGZIS1FtR2dZ?oc=5",
-   "data": "Fri, 14 Aug 2026 07:00:00 GMT",
-   "fonte": "macitynet.it"
+   "titolo": "Un brevetto Tesla svela una possibile ala posteriore attiva per la nuova Roadster - TuttoTech.net",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQXA1c2lSdHNocnpjaVIxUmlRckcweExBOWVCZjdmc01IYkhyeHItSnBtM2lEVWRaMlhKQVJ6dUVhdFQtb1RMUF93RjR1VGotRjRNdjVNemFLZEdlM0JfY3d0STlyX2RoRUNSY2d3YWxqejYwUGhtTTRab1RHTUp5WThhS1BhNERiOW9iN2VjbWlncTk0My04?oc=5",
+   "data": "Wed, 30 Sep 2026 07:00:00 GMT",
+   "fonte": "TuttoTech.net"
   },
   {
-   "titolo": "La voglia di privacy Apple guarda alla conduzione ossea - WeAr news",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fYm1kSkpuS0luU0h3amF1MTdHN2tVbXZfcFphVThkeDF1dllPcXVGSWFOTDNIay1pY09iZTJjUUpQX0VZWEloZ2liZGxSclNOQUdvM3hUS1BBWllTbWhwZW1WSklvcDB3T2Q2MlZnNFM5TTlmZlE?oc=5",
-   "data": "Thu, 05 Nov 2026 15:47:59 GMT",
-   "fonte": "WeAr news"
+   "titolo": "Apple Watch e AirPods, Apple studia come accordare la lettura del battito cardiaco - macitynet.it",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkTmxNMEE0cFdCaFhkRVlFRjV5a1NhNGdoTENDeWVnMExKUndzU0lPQkxha3dPVmJfR2lUNnZ5b1Frbmp2cXQ4eFRLU1VjdnRoWHktc1lZVFJKakVhUWozVUd1UzdEYmYxMG05R1I2SWRVcDdsWnRKLTA4WQ?oc=5",
+   "data": "Mon, 19 Oct 2026 07:00:00 GMT",
+   "fonte": "macitynet.it"
   }
  ]
 }

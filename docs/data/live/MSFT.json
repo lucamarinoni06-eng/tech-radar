@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-06T16:35:27+00:00",
+ "aggiornato": "2026-11-07T11:34:31+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -170,12 +170,6 @@
    "fonte": "Morningstar"
   },
   {
-   "titolo": "Dagli archivi vaticani a Microsoft Word: la scrittura di Michelangelo continua a vivere - Microsoft Source",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeUpZazIwZGU3TzlMcjZIbnk1V0RYSFdKOHRQbUZwWTAycjZXNGxZQm1obFZmcXVCQmhNZV8ydGtVblZBb3lMQllFVHlvMWtVTWhqZ1N0SWNyUmh5dlNSODVqZ0cwNW5ycTRLTmZvUlNhckd2VE5aUUN3WTRLSzVDUWJlY0h2ejItS2RvbXdFWmRTcjRzY2xDNDlEME93UXNlN1ctLXNzbWV0RHkycWZiVzRENklQUmdtb0tuTEJkUHlMWGtPYVlkVFJWN3FPOG1PV1l3S1liSkdmWGM?oc=5",
-   "data": "Thu, 08 Oct 2026 07:00:00 GMT",
-   "fonte": "Microsoft Source"
-  },
-  {
    "titolo": "Microsoft offrirà una buonuscita a 60mila dipendenti - Il Post",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSERuamJfV09hajZnTHdVc0VKTnJqT19EeWx6ZE9uUUdvNFl2d2kyMTlBcmFlc0ZEYUs2UDAyUTdqVTMzdlpjaTRDN2hQTl9DNGYxaUYtckdjUkc3MUJsbDNEWTJEX2I4eWtPbTNSMm9xOFdXVjkyQXdRcS1iUXJVVEJRLTZ4cFU?oc=5",
    "data": "Mon, 26 Oct 2026 07:00:00 GMT",
@@ -206,16 +200,22 @@
    "fonte": "Milano Finanza"
   },
   {
+   "titolo": "Microsoft 365, le alternative gratuite da conoscere - HDblog.it",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQTh5ZmZKc3pLRktmTk51NFZzaTBDUDdRZGg5a2g4X2xBZ2tBTkJuYXFaanJpQlpnTGUtV1h6RVdTVTZlTUJxNmltVUd1em5VcV8wdkxmT1hlRWs4dVJ2Q2JsdG9iMDRnUkhyS3hmQjJ2aWh5azN3TXJpNG80WF9MbnNCWjZrM25MUVJCbzBUQllRMElfb1R0M0VoSUFGZkp2R3c?oc=5",
+   "data": "Sun, 01 Nov 2026 11:56:37 GMT",
+   "fonte": "HDblog.it"
+  },
+  {
    "titolo": "L’IA di Microsoft supera i medici anche nei casi da pronto soccorso: lo studio su Science - la Repubblica",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd1dGSi1yMUNUcXJHT08wSThRWnVZc3RVNFpkTlVhZU1wSE9kQ2xuU2R6TWVpR0REM3A2eHFDckNoVnRPYTA4cEFGbDBSRHdpblpGdHowRExSNFM5RHoybkxSeF9McktKT0dIRmtoSnBNcmNXWEgwaEVwZjBYWHNyRXQ0YUl3Y19Oc2JMWUFOT0RJeUxPMTZUZzhhR0JnOUs5QW5USmRNd0tjSUtvcHh6eF9IRmLSAboBQVVfeXFMTnBEUHNOWG1LTkk3VHNKTXdRVXVvNWpnNVBPS09uRGMtb2tPaDl1bjNyVG50T0Y4TGdFRHJidzFVWENLLTBXUTMwaXVrc1BMSmo5Z1BuYWQ4aHd4RE9aQXFjbFBzSmZoWUVtaUN6NlNaZVZvQjMweWQ0Y0NOOGRxVm5zOFZRZU91bHE5N0c4QkYxRVVaZEl2MlV1WG90Q1JzWm1ZTE4zZUFoN1QtcmxfVm5wUVc4RWg0b2pn?oc=5",
    "data": "Fri, 23 Oct 2026 07:00:00 GMT",
    "fonte": "la Repubblica"
   },
   {
-   "titolo": "Microsoft 365, le alternative gratuite da conoscere - HDblog.it",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQTh5ZmZKc3pLRktmTk51NFZzaTBDUDdRZGg5a2g4X2xBZ2tBTkJuYXFaanJpQlpnTGUtV1h6RVdTVTZlTUJxNmltVUd1em5VcV8wdkxmT1hlRWs4dVJ2Q2JsdG9iMDRnUkhyS3hmQjJ2aWh5azN3TXJpNG80WF9MbnNCWjZrM25MUVJCbzBUQllRMElfb1R0M0VoSUFGZkp2R3c?oc=5",
-   "data": "Sun, 01 Nov 2026 11:56:37 GMT",
-   "fonte": "HDblog.it"
+   "titolo": "Microsoft avvia il terzo taglio di personale in 3 anni: a Roma licenziati ingegneri per fare spazio all'IA - RomaToday",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMTTA1TUVwY01Ick1oaG9kZGVreHpCcVBMak8xeVEzLUZVWmUxcFg2cE5YWDgtaHJuM2xqN1FMRWxGVnRNZUpOQzBKSG8wLUNrdDFSR3ZFYlNmaTNxZjhSb3RKcVRoZE9KR1JYTU1B?oc=5",
+   "data": "Thu, 05 Nov 2026 17:14:00 GMT",
+   "fonte": "RomaToday"
   }
  ],
  "news_legali": [
@@ -244,6 +244,12 @@
    "fonte": "Startmag"
   },
   {
+   "titolo": "Microsoft, Maia 200 entra in produzione: i nuovi chip Maia 300 arriveranno nel 2027 - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZy0wdVFoZ3ZtWk1GYTRxZU1zcDdkOG1aX1U1MFp3bzNKNWFjRUdJYWRmdHZwZkxTRFJKNFc0b3F6Y1h3eDE1eGNkbjE4aW1QWVhUbC1mdmVpQlI1M2J4QV84SDhsMENJR2JXMVBFX3pNYVNHeHlRdUNuV0pydGtobF9tWUxJNlFhWW5ta3pIbUVSLTJuSHZPWm1wd19sd3lwa3lFb2FaZW44TTRMaER4aWJrLS1abGhwN05JbFFn?oc=5",
+   "data": "Mon, 12 Oct 2026 07:00:00 GMT",
+   "fonte": "Il Sole 24 ORE"
+  },
+  {
    "titolo": "Da Diablo a Call of Duty, Antitrust e Ue verificano le spese nascoste nei videogiochi - RaiNews",
    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYXV2bkhyWmo5STUxMk1BVmhySElhd2RIMFRsRVZUbzZWQW9GNzVKZ3FiOHVZcVZoeG05MTB6WjN5dE9Pa0toVlJMWV96ZWRpbGJHSGR5cDNEdTRldkd6QV9xWlVfRDBtcXFHdlFvSkZUbjAwVkY4WndIRWJkXzl4Q2tYRHlZdmFXTkx0UUtKZ1JjWWRKdUJMYWtXekNwODR1VlZrQzlWcFJCOGJrNmE1S0d0U3RYN1h2N3VWYkItU19Xd3k5NlFKVm1nVDBqc3ljMW0zbU9aR0V4QUliSkJVcVVGVThkZ1FqeklKZnZvcmVWTjV5SmI2Q2xn0gH_AUFVX3lxTE9IVDJjYno4OGNEbDVpTDFheHZuWkVOWWxINlpKNXl5NllKa3dlcklHY3JSa0pvUEJBQ2d0eDlvRkM1OE1sUnVOWDdyWkYzLU04M00tbC1xclRhbEcwajJnUWRiWElaY1kwUXJjc01uOC1uUlY0emE1WGZVeUlsNm1hVkZyZVp5dW5zWlk4Y21jekxDLS01RFQyaURpbXJuelBOWUY4bHJnaEt1MTZ0OHVNTHhtY3JDTjV1VGhQVWtKTWtZNWVvTm5xMFZjS1lJVUR1UFlFUGkyQzcxTEYtTk5xbjZ5WENodHpkTmhSM3Z0VXNDSGV1X1RNN1pldnRlZw?oc=5",
    "data": "Wed, 07 Oct 2026 07:00:00 GMT",
@@ -260,12 +266,6 @@
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQXNWdjV2NnRKZkRjanR4RHBOMFB6aWFMUVZVZnh4UWhPZlVlem9FS0Zkc2l3Z0JRU2phcDhJVkhDcE9rVUd2MjFFXzVkWmZmaTVJemhodmpYX3dYakl5eTBTRURXQ250a2U5MGY0M3Nfd2RwNHRydHdTR19oajhUNVFUU0cyRXctcTlTQnJzY2hkelFMR3JiRjY3aWZQaGNnN3FMZFViZHRHaU16RGpLR2MxOFJOTWRXZzJUQURpRFQ5VjMyVEhNUV9XZTl0T0JvLXhjRmtoTmdDS28?oc=5",
    "data": "Thu, 24 Sep 2026 07:00:00 GMT",
    "fonte": "Hardware Upgrade"
-  },
-  {
-   "titolo": "***Antitrust: autorita' Ue coordinate su gaming, quella italiana guida su Microsoft - Il Sole 24 ORE",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0dlJZMkJEbkFVWEQ5TjFjc0NrNnRaVkhRVkpWQ0hYaW42dmFhYW1MSDVUUUhwZHBmcjNHTUhRdFA0WlE3SHFWVUxJRm96SUtlZWJXLWpJV3IzdW5xVWh4Tk5BNV94cG5iLUJOT3NBVndzLVlU?oc=5",
-   "data": "Wed, 07 Oct 2026 07:00:00 GMT",
-   "fonte": "Il Sole 24 ORE"
   },
   {
    "titolo": "Microsoft riorganizza Xbox: Halo passa ad Activision - Key4biz",
