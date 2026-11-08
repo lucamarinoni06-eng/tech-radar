@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-07T11:34:28+00:00",
+ "aggiornato": "2026-11-08T11:46:03+00:00",
  "filing": [
   {
    "tipo": "10-K",
@@ -158,12 +158,6 @@
  ],
  "news": [
   {
-   "titolo": "Apple: ricavi trimestrali a 114,5 miliardi (+12%), ma guidance sui margini delude - Borsa Italiana",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSUM4RkJDZGFydFdweDZ4dHNIQTA3aUk4SVFGUmU3LWJwclFISTVfaXVKRWgtVHRZZENaSjdqYmlGRTU0bERoU1UzS0hyNERyZjZpa0xzSExkYUlzS2FUSTVmaVJzUjVjTnI5ekVxQ0tUT3VyclpSTVVaOFJyc0xmUnVVVTJOTnlrSUdEMWozbG9iZGpPNVg0eHRUbmEtVUVGTGVqZmNCMm9KWENsaXNjUFpqVTJlTnd5TmZXT21mRkY4aFctV0VybUxleEdtMUpUaEU2YnRGR0dZaTZNRG9majBvV3BkUmlhU0Vtelln?oc=5",
-   "data": "Tue, 03 Nov 2026 07:01:00 GMT",
-   "fonte": "Borsa Italiana"
-  },
-  {
    "titolo": "Apple batte le previsioni sugli utili nel primo trimestre di Ternus: perché il titolo scende? - Yahoo Finanza",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaWppX1JadzI0OFp1aklyRUpQTGpPajA3SEx2M2lVUUNIWGdqcWVrMkREQ20zWFhIbTFYR2JnVnRqdHM1LTZBTzFubTRka052ZW1nT3g0blZxMENqQWc2N0FtZ2IyYm16czdsaUpFbjNfS29KS29kRTlVME5uX05QUXVHOTRtZ1QzNkpj?oc=5",
    "data": "Mon, 02 Nov 2026 21:44:20 GMT",
@@ -176,22 +170,10 @@
    "fonte": "Il Sole 24 ORE"
   },
   {
-   "titolo": "Apple ha infine ceduto ai MacBook con schermo touch - Il Post",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zN3l2R2RNdDhDajV4WTU1LXBkd2FpNnd1WUZNQ2JLZlFsRTJhYkJySmY3R0ZFb0J1bXhHNGo2R25ON2YxY3FZQW1OTkRUZFdiVXVYWkZOMTRWVlFJRjJwVWhhd0dKSDZi?oc=5",
-   "data": "Thu, 29 Oct 2026 07:00:00 GMT",
-   "fonte": "Il Post"
-  },
-  {
    "titolo": "Apple, ecco i nuovi MacBook Pro e iMac con il chip M6 - Sky TG24",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRmUzVWJLWWctMUJTWTF2YXlGclpHbkQ0WTF1cWFZWEtzMlQ0d3FVaGxpdGdHTm5vWWIyU1NjZXR3eElZTVVDSHRtYnI0VTlmRTJWMnBiZDI3WVI3N3FEbnZ3UmNPUmQ3c2ZyR2NSR1pIOUExOVB4Vi1Za2lITndPcEdCbmFFUQ?oc=5",
    "data": "Tue, 27 Oct 2026 07:00:00 GMT",
    "fonte": "Sky TG24"
-  },
-  {
-   "titolo": "Dopo l'iPhone pieghevole, il prossimo lancio Apple punta alla casa intelligente - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdVEwUTRUMDhybF8zdTB0bHdGMHVCZU1iOGdJMjMxWUZ1dUJfdkdKTlFnNWZhYU1oZ25jTEE2S2pZMWJ3bTRYVnN1MnZWR1gyODZDd0xEY0ZZRFIxYU5uOHJ4dW9oNXRkaEhHMzBUX3kxdnFnLU9KRE85SXZjNDRVWGtpcHc0OTdQTHVyamwxRjVuOTJPTEVEZWQtQk55SEEwc2Z6WWVuLTlqbWZzY1luWjVR?oc=5",
-   "data": "Fri, 09 Oct 2026 07:00:00 GMT",
-   "fonte": "Euronews.com"
   },
   {
    "titolo": "Apple riconosce i problemi al display di “un piccolo numero” di iPhone Duo: cosa fare se è difettoso - la Repubblica",
@@ -206,16 +188,34 @@
    "fonte": "iPhone Italia"
   },
   {
-   "titolo": "Apple HomeView riconosce chi sei e gestisce la casa: ecco come funziona - macitynet.it",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVXFxbk4zSWxFZ1BvXzY2Rnp3dGV0R05wYmFFb1pyM19xLW9IZnFLaDlzNnFyS1N3ckgzanFWZjktZ1VXU0RpQ3FlUjQzTG9qN1p1UEZIN09YZHc3M3NYbVV6VHFQcWFLb3JkMVRDLThkVDJscWUwMUF5aFZfX3AzU3pvY3k4YVVaRzBEbFR2T19LQzF6SjktVFJrcGo?oc=5",
-   "data": "Tue, 13 Oct 2026 07:00:00 GMT",
-   "fonte": "macitynet.it"
+   "titolo": "iPhone Duo difficile da trovare, Apple non sa quando finiranno le attese - Fastweb",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSThaU2djaVVhTGotVFUydzQzeWdFS2czbHZtNTdyUmtkdzEzZlpLSVV5NjZEOFdpZVoxNXdaYzZTdlBqeDVQVGJYaElhdjlXeHdiaE1KNlpkT2pWelBGcmxNazNzY2Y3NTVGNnEwckNnWTZqV2JRUnh0dWcxeDVkY2QxWWh0UjN6TjhBcUdkV3ROdDZUZ2l5QzRWNXgwOHBhQkNuckZ1SUg4cjVJOUZSN1lLeXJKZWx4WnRnTEtLdmlCUTBITU9NOQ?oc=5",
+   "data": "Fri, 06 Nov 2026 21:27:18 GMT",
+   "fonte": "Fastweb"
+  },
+  {
+   "titolo": "iPhone Duo, recensione. Il primo pieghevole Apple è un diamante grezzo - DDay.it",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTTRHeVoyZU44LXNkQ1B1Q0JsUnZnT09pdm1zUC1vSkxaVFl0NlpReFZOZXZEVnVOcEtkZERqaTM4cnFCQlpremJ6MWtCXzlCMFNOdTMxYVZhcERwSEhVTXFqWDQySnFNRDFyNkNVc2NtWjU5Y1FqM0QxSXFvZ2tjSWxiaUVIOWJRQTFMZTlsc1ZhN2d1UmlibWlXMmYzVkV6TDl4U2VmRQ?oc=5",
+   "data": "Mon, 02 Nov 2026 06:00:00 GMT",
+   "fonte": "DDay.it"
   },
   {
    "titolo": "Apple presenta Apple HomeView, un nuovo modo di godersi i contenuti di intrattenimento e di gestire la casa - Apple",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWFRSOHJWdm0zM25INGN4RmZTY1hiOUc1QndGR2RUektsLVBTLW5fQ1ZkNFV0WFIwNmR0V3I0NHZFVkoydVJYaUxmWEwwdFFIdUxFdU56ZFh0Y0dRWS01b2ZJMGFHRnFKell4TEt1V2xSQTZUTWp5ZE1tX08teWpOTzd5NzQwZVU4amNaWHcyQXJ1X0NYbHpRMTVMVWFrbVYzdWVKc09LWXdBMjk0bEJQUUxKN0w2Zw?oc=5",
    "data": "Tue, 13 Oct 2026 07:00:00 GMT",
    "fonte": "Apple"
+  },
+  {
+   "titolo": "Apple HomeView riconosce chi sei e gestisce la casa: ecco come funziona - macitynet.it",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVXFxbk4zSWxFZ1BvXzY2Rnp3dGV0R05wYmFFb1pyM19xLW9IZnFLaDlzNnFyS1N3ckgzanFWZjktZ1VXU0RpQ3FlUjQzTG9qN1p1UEZIN09YZHc3M3NYbVV6VHFQcWFLb3JkMVRDLThkVDJscWUwMUF5aFZfX3AzU3pvY3k4YVVaRzBEbFR2T19LQzF6SjktVFJrcGo?oc=5",
+   "data": "Tue, 13 Oct 2026 07:00:00 GMT",
+   "fonte": "macitynet.it"
+  },
+  {
+   "titolo": "iPhone Duo, scorte limitate al lancio: Apple ha destinato l'80% delle unità ai negozi - HDblog.it",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcEpJTmdHME9KSzZYNnZfU2VyZC1FNGE0cG5meC1lZ01aS2c0Z0NWWU0tR08zQmdocjgzYUhaZm9TY00tMUItVzdRSm1nYU9hSjhkV3doa1dsNzJuaDY4UVl3Q1NjYnZ6cG5jR3ZzcDJScERNNlRaYS16WnhncFpPSEpuZkY2bXVtZzlzR3N0cjdnZDZpa2liampCV2JDV1Rqc2c?oc=5",
+   "data": "Sat, 31 Oct 2026 07:00:00 GMT",
+   "fonte": "HDblog.it"
   }
  ],
  "news_legali": [
@@ -244,12 +244,6 @@
    "fonte": "Tom's Hardware"
   },
   {
-   "titolo": "Apple invita i media a un nuovo evento a fine ottobre: attesi MacBook Pro touch - HDblog.it",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSGhobFBIa1JOUHlKWWVsSVdicXN1OTN4VDFsYmZXMjRKbFRHdmhocVJqRWZqMExQeUV1S3hIbmlhUTl5NDdvazJ5WE5tVGxHODNLWFhuYzlubEtSeFZSQXVqVTNjY3Y0LTl4T0h0MW5VM1JlTEcxSENCdFN2T0lqbVUyNnE2RnVNdFFCT1hRRQ?oc=5",
-   "data": "Thu, 15 Oct 2026 07:00:00 GMT",
-   "fonte": "HDblog.it"
-  },
-  {
    "titolo": "Apple alla fine ha ceduto. Hanno presentato l'iPhone Duo, l'iPhone 18, l'Apple Watch 12... - Računalniške novice",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdWRjNTl2NE1FbzJpYnl1MlNBQTF3dW5MR01zTEcyV256M2wzaEk0TzQ0RExHa0llUDREZHpQZkdWcnk5S0V2cldRWnhRMFowSVlhWEtiN3l0cVhFLWgxUVh6bTVvVXYwNnhDb0Y1UTNrdjdTWnlJRUpUYXpXSWg0NnhUcUlob201VjZVZFZNWlBxUHNHTlRSZkhFSU5QRzJGNUxZTVRvMWdEUmM?oc=5",
    "data": "Thu, 10 Sep 2026 07:00:00 GMT",
@@ -260,6 +254,12 @@
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc012TlRuSXJuLVlXQ2VlN2J0Tk9lWjk0WHBnaENfS3dYTEFtZWJRZzZ6SW9uT0ljSjBTR0NZZ1BjWjhBeVZsM2tUUHFwdEpnYlZqZ0pXOGQwOXJKbk1hazhzV2pjMnhwY1lyV2VfSXJNcldVN05DbEw2Tkt6aDY5Z3BSMkpFNjRlTkFwVndJNFhDX3N0Y1dyaDg2LXVSVWhUWWFFZGtVUG5mcHQ3aFFsblhuYWk5cjM1dzctR09GSXlIS0lOZnZTYWtqUkNVZy1fdEFRSDBDVDctM3hJY0YwTDViaGhSUWNfS2lacw?oc=5",
    "data": "Fri, 11 Sep 2026 07:00:00 GMT",
    "fonte": "Hardware Upgrade"
+  },
+  {
+   "titolo": "Apple invita i media a un nuovo evento a fine ottobre: attesi MacBook Pro touch - HDblog.it",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSGhobFBIa1JOUHlKWWVsSVdicXN1OTN4VDFsYmZXMjRKbFRHdmhocVJqRWZqMExQeUV1S3hIbmlhUTl5NDdvazJ5WE5tVGxHODNLWFhuYzlubEtSeFZSQXVqVTNjY3Y0LTl4T0h0MW5VM1JlTEcxSENCdFN2T0lqbVUyNnE2RnVNdFFCT1hRRQ?oc=5",
+   "data": "Thu, 15 Oct 2026 07:00:00 GMT",
+   "fonte": "HDblog.it"
   },
   {
    "titolo": "iPhone Duo è la migliore Apple degli ultimi anni (e non farà la fine del Vision Pro) - iPhone Italia",
@@ -288,18 +288,6 @@
    "fonte": "TuttoTech.net"
   },
   {
-   "titolo": "Panasonic ha invalidato il brevetto RAW di RED: nel 2019 Apple aveva fallito - Fotografi Digitali",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOVp5bFpNQlN4Rlk1LTJramFvN2h5WTBkVkl1U0ppRzc1azlRV0Z3dTNJZzdrWTFmZ1dyUzVEeVUxM095VnotWnBqMU41QnFSV1o5Zjh2dmtIX2JSUlNyUUpfVTlqTEYxcUdUQ19PZml2cnJqdHNHdmFyNU04aXpxU3I0QjNHMlk2RDladGRBOXFLdGV6cHh5cnZ2bFF0ME9Xa3dKMjVubDBBdUxQWFJJZmlDN3NFa3VkMWg3dC1QbkdnbjQ?oc=5",
-   "data": "Mon, 10 Aug 2026 07:00:00 GMT",
-   "fonte": "Fotografi Digitali"
-  },
-  {
-   "titolo": "Apple condannata a pagare oltre 5,7 miliardi di dollari per violazione di brevetti - Adnkronos",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYW8zeXNvWWZNcGdQXzBYc1FWaEpDSUwzUGNSanh1OGtmazJVSmxEamJacHpNZTBqSTJ4bk9EWUZrbnBRUXZiMGk3UjB2SFpuNG1FNU9zZ0xLbjhDcDdwb00xbEF6X2NyZTVBcXl4bW5WeXdtN2dHSHR0RnlPWTBMcFlQM2NuUm5sbnJ0MXpSTU9DdXJSY2xQS2s5TGY2Vlh2S1pZTVpOZUJUbHVNSXhQWGJ1bEREeG5vS0pBQ3cwSktaMDBmWnA1aEtSMnJyR3g0SWFPRjB2WGU0dw?oc=5",
-   "data": "Mon, 28 Sep 2026 07:00:00 GMT",
-   "fonte": "Adnkronos"
-  },
-  {
    "titolo": "Apple pensa al Camera Control su iPad: un brevetto mostra come potrebbe funzionare - HDblog.it",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbzVaQjg5UDZ0d0RLdHVRclRpWUlubGtBZVNNZ1VGanJJZ0dkSzlkQ2ZIYWx0eHlVd18zNkdySE5TMWVIMHNTZGl4Z1JRU1NZS2VKOXlOdjZFekk4ZTZoeC1aTFVfMy1yV2p3QkRYRTM4UmFJVVRuSFVEc0lSbUMyNGtleFFLamZUaVJLR0ZvWUM?oc=5",
    "data": "Wed, 19 Aug 2026 07:00:00 GMT",
@@ -312,10 +300,22 @@
    "fonte": "la Repubblica"
   },
   {
+   "titolo": "La voglia di privacy Apple guarda alla conduzione ossea - WeAr news",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fYm1kSkpuS0luU0h3amF1MTdHN2tVbXZfcFphVThkeDF1dllPcXVGSWFOTDNIay1pY09iZTJjUUpQX0VZWEloZ2liZGxSclNOQUdvM3hUS1BBWllTbWhwZW1WSklvcDB3T2Q2MlZnNFM5TTlmZlE?oc=5",
+   "data": "Thu, 05 Nov 2026 15:47:59 GMT",
+   "fonte": "WeAr news"
+  },
+  {
    "titolo": "Il CARTONE della PIZZA INTELLIGENTE fatto da APPLE! - Andrea Galeazzi",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nTzBoNjVzckp2VlBSLW0xdWNVNzhHYUJoVHNMaDdiTVFMSDZsNVd6cExZVHFxUW5fX2pjdktHaG9GZ0xqa0MwbzVSNTBFSXVSVUktbFJHcU5QcXQ2Q1BaOExva2lQZ0lPUEYyN1V5VGNkcUp0?oc=5",
    "data": "Thu, 27 Aug 2026 07:00:00 GMT",
    "fonte": "Andrea Galeazzi"
+  },
+  {
+   "titolo": "Apple deve pagare 5,7 miliardi a Taction Technology per violazione dei brevetti - blue News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNUVGSkVMY2hLdVZUcURfVzF1SmVQNWp0Sk1weWl6c0NTV0FWSmF0Z3lTMXE2Y2xqM0pRcEU4azNsUExjSV9uZk9TNFA0OHlMbGNPSzJySUFxZDhuUHhaVmxIaU80Z244UVFFRlFfWkRyTWFFZHZzZlRIMmFibGdBa0wya3AzcjQzOVphblFQS1AxM25wSm5KS3AwTkpBVWFvTkZaei1PcnQ1Ql9HZ19n?oc=5",
+   "data": "Sun, 27 Sep 2026 07:00:00 GMT",
+   "fonte": "blue News"
   }
  ]
 }

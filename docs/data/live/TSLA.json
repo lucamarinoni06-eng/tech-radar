@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-07T11:34:44+00:00",
+ "aggiornato": "2026-11-08T11:46:18+00:00",
  "filing": [
   {
    "tipo": "10-Q",
@@ -166,7 +166,7 @@
   {
    "titolo": "Tesla supera le attese, ma per il futuro non basta - InsideEVs Italia",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BcjNsQmt3bHpTM0NqZWFJSTBrOUFpNDVMQlFYLUE1UjJFS1lxT3lrT0dPeThrbm0xS3VTaUhoaEFuV1BoRS1LXzJXZWF3M1lpTWxNTzNDVHRxbnNqeTkzc3RVWFE0SjNwSVZ3UXFvdFlsUWdU?oc=5",
-   "data": "Sat, 10 Oct 2026 07:00:00 GMT",
+   "data": "Sat, 07 Nov 2026 09:05:09 GMT",
    "fonte": "InsideEVs Italia"
   },
   {
@@ -176,16 +176,16 @@
    "fonte": "RaiNews"
   },
   {
-   "titolo": "Tesla è in calo di quasi il 20% quest’anno. Cosa aspettarsi dalla trimestrale ? - Morningstar",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN2J0ZENpT3Ntb1BIVlN0ZzFkWVBjTzhfUnBSRk5XSkNFQS1EXzU4RldEeldQLUh5Y1k5RFJaeDNQaVpOWXprQ1o1WjUzeWRfNEd3Y0NxTEdjVk53N1ZTYk9kdUJPamtjc0lOV2FXdjQ1VzNFYXFZenNOa3VpaWl1UmFGd0pjdG5CbmRYVXlfdEFYMDh2WF9SeGNybjN5TDk3RkE2Qmowa0cwekJMYzRN?oc=5",
-   "data": "Fri, 16 Oct 2026 07:00:00 GMT",
-   "fonte": "Morningstar"
-  },
-  {
    "titolo": "Nuova Tesla Model 3: come cambia nel 2027 una delle auto elettriche più vendute in Italia - Moveo by Telepass",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5WQ0FzQnlYb2xveUt5WUwwWGFUX0h0LWNCVk9uXzRtelVoMHV0ekZEc19LZVlNdVpDX3RMb1o0T3VTYkZ5UXN5N0JnbElleXZ3alhPWVhiU1ZRQ1cydEdxYU5n?oc=5",
    "data": "Sat, 17 Oct 2026 07:00:00 GMT",
    "fonte": "Moveo by Telepass"
+  },
+  {
+   "titolo": "Tesla è in calo di quasi il 20% quest’anno. Cosa aspettarsi dalla trimestrale ? - Morningstar",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN2J0ZENpT3Ntb1BIVlN0ZzFkWVBjTzhfUnBSRk5XSkNFQS1EXzU4RldEeldQLUh5Y1k5RFJaeDNQaVpOWXprQ1o1WjUzeWRfNEd3Y0NxTEdjVk53N1ZTYk9kdUJPamtjc0lOV2FXdjQ1VzNFYXFZenNOa3VpaWl1UmFGd0pjdG5CbmRYVXlfdEFYMDh2WF9SeGNybjN5TDk3RkE2Qmowa0cwekJMYzRN?oc=5",
+   "data": "Fri, 16 Oct 2026 07:00:00 GMT",
+   "fonte": "Morningstar"
   },
   {
    "titolo": "Tesla aggiorna la Model 3 2027: scatto record, più km e nuovo schermo - HDmotori",
@@ -200,12 +200,6 @@
    "fonte": "Il Sole 24 ORE"
   },
   {
-   "titolo": "La nuova Tesla Roadster fa tante cose strane - Motor1.com Italia",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NdU9MN3A4LVNMSjZPRHFHR0RRT1FGUklmUWRNV2lSMm1UTzh2UEs0Vks1WFQxdldNVFMwM2VCN1ZhMlpOR3Z5bVVkUURIRVBnTmVKQzdRZ2U0SVNBMnhRNXZwbFgxVXJWRV8tek5sUnIxcnhsSWJZQkV0dWNKaVk?oc=5",
-   "data": "Fri, 16 Oct 2026 07:00:00 GMT",
-   "fonte": "Motor1.com Italia"
-  },
-  {
    "titolo": "Tesla fuori dalla Top-10 dei costruttori più innovativi - Vaielettrico",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORkZZZWxhSU03UXpDTzdIaVo5Z2hxbWlNZUJuWkJGcWwtS2kzRkxndjBVWURrUGRhUERwckdDNExKakxfcWQyVnFjVVNFeFlxRlhjWWQ1Qm9RbWFORk9TUThYOU95Um03SC1ZbWJTMUxvZmZwLURfUHE4WDRZVWVQODVWWlB6LW81NE9ycWE2ZEVnMGF1RUxBakxGSi1VYVk?oc=5",
    "data": "Thu, 22 Oct 2026 07:00:00 GMT",
@@ -216,26 +210,32 @@
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTUNoV0VGY3dUUlpkS3REQy1lLTQ5czVTM2pIVFNwVHlSMkNTcUMyTl9ocFVXUFVteDlndEhXX0hMUFVDY3hUaHRsLVJzdzkxOUMydVBnNEJPb25PM1U1ZFhVSGpmQlZSRm1hbzhZR2xXSVJmZnVIN0VVb2NGNFJBc2ZQSEFVQUhsTWxDT0Zvaw?oc=5",
    "data": "Tue, 13 Oct 2026 07:00:00 GMT",
    "fonte": "Yahoo Finanza"
+  },
+  {
+   "titolo": "Tesla svela la nuova Roadster con propulsori SpaceX. Uno show per Musk: l’auto vola - la Repubblica",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdjBpaERFa0NvNmNGZEJuVE9HbjlzNWdVcFZ0WWdGMnItVDVSRkpqVW82YW1UM25NRm12R2FvY3FGQkVpTkFWNS1aMUJURjNOM2RSWmFKRlBTNm8xRTdadG5SZ1JjNDduMG5BZXNwcW5CSzhwMW9mVDRYRk9tUTc0SF9KVXJkZEJVdm5fOG5CSld3ZDU2ZEtJczRXc0dTMXBLWV8wZVdDLXp4OXFwSEl6amZ5cHR4MEk4WEFnM2JqaFhWWDJiLUFvY9IBzgFBVV95cUxNVkRQOU9JWENlWVRnMEprdGk3Z3c2MWlobEtIYU1uUWo2cE5RUko2UkFCTmhGdnhLMzdETGZQaUdJZVpHNFpMYWNkeUUycGZyTEM1eElPdDRiYjZ4bUl5M1FmZVoydEFuX3hoeTJQbmxiYWl1M3ZNckgzbXpLZmJIUUpPbGhtOXJsbEZWZE8yTGlhYVRlUnBrQkt3T2RLREJna0k0NmxVUWdMbHNGWGZMckZfVkxrOTlTZEJhTXN3ZnpSVlNMTGp1ci1vXy0zdw?oc=5",
+   "data": "Fri, 16 Oct 2026 07:00:00 GMT",
+   "fonte": "la Repubblica"
   }
  ],
  "news_legali": [
   {
-   "titolo": "Tesla Cybertruck, fine della produzione entro il 2027 - La Gazzetta dello Sport",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSFZteUhNR0ZJV0JReE9xTlM2bWFodk50T1FuTEZBUTFUcER4MThidWFKTjdaVHk4akhkejN4OFE3Y3RmdHlnNTF3Z3pfaXhEMEhBd1RkVDQ0c01xalBRanNWUWFUNlB3SmtiZVkzMkxwZ1haNVE0S1E5aUNoNWI4OXNYdl9GU1NPRkFYV0hvOW10OXVSTkZFbk96bEZOZW45bG5ObTZZZG14MEMwTzA3Yk14aDBzemlkTW1YWnRn0gHDAUFVX3lxTE5JaGg3QkE5SWtoRlBlRG1sbmNIYUlGS3BROFF0Wjh1NV9ibWdwd0FONkpNa1ZBc2xYQTdfaUJROHI2cThMM0J3dF9wMGlxWVlGaEltSUZCbjlmNUtldWFZZGU4dEdkVHJnU1ZVS1B6UnIzZUVoNm01WmFGUHliTGdJMDZNQS0xb1BBRmE1VnM1cXBEaXRkcWhRQWFaTDJqRmxJeHNVMEhIWE96eUVTbnBvdXllQzZmVVVRYUlETnhzMy01VQ?oc=5",
-   "data": "Sat, 07 Nov 2026 08:53:00 GMT",
-   "fonte": "La Gazzetta dello Sport"
-  },
-  {
-   "titolo": "Tesla metterà fine al progetto Cybertruck dopo anni di scarse vendite - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZVFFDSHZwb2ljWUJkY0dHdUpOZVdYY0NGcHNYcFVqNW5pNVI3anhfN0tDOXZsUXByUlpTM3Z1Vm1wZVEzQWYwc2RpRUJlTVBYMjE5RjJ1YW42TGRjdVA3dk9XMHVNa0VEcXNadDVOWEdIazQ4Nzg4?oc=5",
-   "data": "Fri, 06 Nov 2026 13:27:04 GMT",
-   "fonte": "TradingView"
+   "titolo": "Tesla smetterà gradualmente di produrre il Cybertruck - Il Post",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUFJSWUxbDhQbnVIVTR4bDdRc2YtVTVQRkFOZl9Ma0dEUHdMM01GenlNTUd0Zk5wNGdvTlFHZTJENklTSnltR0puMmFqMllHZXZsLVRyLTZZdURrUFFlR2J5d2d5WTB3R3AxVE1Cd3h6Ty02bjU4cE9MZ21rN3R5U1ZESFBQM2c?oc=5",
+   "data": "Sat, 07 Nov 2026 08:29:20 GMT",
+   "fonte": "Il Post"
   },
   {
    "titolo": "Tesla è pronta a vendere il Cybercab, ma c'è un problema - InsideEVs Italia",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WaHgxM2dfOERDSjdUSXVxV0VMVjBIdHRCRmtHZUFjQmR1aVhpNm9BUnVjR2twSF9XODFLZ0lVV05FMjlnQ2VzYmhILUZyZmdCNEZSOWxhQkhQbzNFdGlkaXRLazAyTjN3cllxMlMtUjJlVldhSDdfOE1kbw?oc=5",
-   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "data": "Sat, 07 Nov 2026 12:04:51 GMT",
    "fonte": "InsideEVs Italia"
+  },
+  {
+   "titolo": "Tesla Cybertruck, fine della produzione entro il 2027 - La Gazzetta dello Sport",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSWhoN0JBOUlraEZQZURtbG5jSGFJRktwUThRdFo4dTVfYm1ncHdBTjZKTWtWQXNsWEE3X2lCUThyNnE4TDNCd3RfcDBpcVlZRmhJbUlGQm45ZjVLZXVhWWRlOHRHZFRyZ1NWVUtQelJyM2VFaDZtNVphRlB5YkxnSTA2TUEtMW9QQUZhNVZzNXFwRGl0ZHFoUUFhWkwyakZsSXhzVTBISFhPenlFU25wb3V5ZUM2ZlVVUWFJRE54czMtNVXSAcMBQVVfeXFMTkloaDdCQTlJa2hGUGVEbWxuY0hhSUZLcFE4UXRaOHU1X2JtZ3B3QU42Sk1rVkFzbFhBN19pQlE4cjZxOEwzQnd0X3AwaXFZWUZoSW1JRkJuOWY1S2V1YVlkZTh0R2RUcmdTVlVLUHpScjNlRWg2bTVaYUZQeWJMZ0kwNk1BLTFvUEFGYTVWczVxcERpdGRxaFFBYVpMMmpGbEl4c1UwSEhYT3p5RVNucG91eWVDNmZVVVFhSUROeHMzLTVV?oc=5",
+   "data": "Sat, 07 Nov 2026 08:52:09 GMT",
+   "fonte": "La Gazzetta dello Sport"
   },
   {
    "titolo": "Alla fine in Svezia ha vinto Elon Musk - Internazionale",
@@ -252,7 +252,7 @@
   {
    "titolo": "Tesla Cybercab, vendite ai privati entro fine 2026: arriva la conferma. - MotorBox",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWjJKNHVjVmtmUF9SN0hwTHY3Wm9yZ0VFM3VMeUYyekZrQ0VRcDFWYXJKRWZza3NDemJMM3JQV2ItLVNDcldRUEFOaTNFYUpQNDB0ekN6NkZnMmxqZHZIcjI4eWQ1cDFGMU82WEJVeUVfUUIxY0d5NnpvajEyMzF4THZMTDRSdG42U0UweEhaM2w0bU9XeUwtSk9R?oc=5",
-   "data": "Thu, 22 Oct 2026 08:34:26 GMT",
+   "data": "Fri, 23 Oct 2026 13:25:33 GMT",
    "fonte": "MotorBox"
   },
   {
@@ -262,16 +262,16 @@
    "fonte": "Shipmag"
   },
   {
+   "titolo": "Tesla Cybercab, obiettivo prime vendite nel 2026 | FP - News - Auto - FormulaPassion",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTWMycFhPVmZQWE4yclJwX2pJMEdFdEw5S1lJVE1rM2FVcFdoVnM2bmhPN09QUEFCSjRIZ2FrS1pIZURHUWphOE9ZZkFIWkFkRmJMejI1Q19FRGc2SW1zUDlqWVVwWUFmbWJNZGdHVVlvYXpsdkZSM3VUdVFjY3otODNyd2toVzZ3QW1zSWN4WkVYWVVOS1lhRUZwZ1oxcW8?oc=5",
+   "data": "Fri, 23 Oct 2026 07:00:00 GMT",
+   "fonte": "FormulaPassion"
+  },
+  {
    "titolo": "Tesla Cybercab: le prime consegne ai clienti entro la fine dell’anno - Motorionline.com",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbFFTU2RlekFWZ3Z4ZTRNcjZmQzRsNGVYY1hSeGkxZTk2VkFFYW16a0pEc2RWZ0xVTWdHNmowdEh5NmsxY0lPTDBvVkpVV3ZIS1otMHhWWUxMa3M0OHZsUmF6bG5ZVFhQNHVzM1FfY082LVlLeEY4clpIajVib0VHX2l6aVQtZ2Z0cC1qTDJPWTYtdG9RWWI0a1h5eEE?oc=5",
    "data": "Thu, 22 Oct 2026 07:00:00 GMT",
    "fonte": "Motorionline.com"
-  },
-  {
-   "titolo": "Tesla Roadster, ci siamo: fine della telenovela | FP - Auto Elettriche - Auto - FormulaPassion",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZlJWOEZyX1ltdlI1ckJ2V1g1MmZNbEFkNUJFU2xDVFA4U3dMVFZMRmQwaklCbHVwWnRJUnhiZTJueU5rNmk5TVEtdmYwZ2NSUUlqelVoRXl4d2hVS3RkQXNBd0RzZ2VhREJUUVFLNmhaVEZOaTJ6Rk9iLUpBWl9TdlNEaUJJN0Z2cmdzWk05U3BPT1VxZ1Y1UjJrMDFkd0Rf?oc=5",
-   "data": "Sun, 13 Sep 2026 07:00:00 GMT",
-   "fonte": "FormulaPassion"
   },
   {
    "titolo": "Tesla vuole consegnare i primi Cybercab ai clienti entro fine anno, ma senza guida autonoma fino al 2027 - TuttoTech.net",
@@ -288,10 +288,16 @@
    "fonte": "Quattroruote"
   },
   {
-   "titolo": "Un brevetto Tesla svela una possibile ala posteriore attiva per la nuova Roadster - TuttoTech.net",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQXA1c2lSdHNocnpjaVIxUmlRckcweExBOWVCZjdmc01IYkhyeHItSnBtM2lEVWRaMlhKQVJ6dUVhdFQtb1RMUF93RjR1VGotRjRNdjVNemFLZEdlM0JfY3d0STlyX2RoRUNSY2d3YWxqejYwUGhtTTRab1RHTUp5WThhS1BhNERiOW9iN2VjbWlncTk0My04?oc=5",
-   "data": "Wed, 30 Sep 2026 07:00:00 GMT",
+   "titolo": "Tesla pubblica un brevetto su una piattaforma di ricarica wireless per i propri veicoli - TuttoTech.net",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdU1PSzgwZzJ0NUMzWU5tRDZabTY3ZW5Hb0hEbERTc2hsdGlGS1d2dWFGdThaOG84UnhCNzM4MWVYLXBtWTVWWkYwT0J0cEQ0NERicGhGaENsYW9sZWRrUEtXeVZHOFI3d0NCVThYQXpqb0REZVJDWllfYnE3NU9DQTBoakQtR0JFeUNwanFMdUxQVXozcUcyYUt6UFU?oc=5",
+   "data": "Fri, 02 Oct 2026 07:00:00 GMT",
    "fonte": "TuttoTech.net"
+  },
+  {
+   "titolo": "Un brevetto svela l'ala posteriore della Tesla Roadster - InsideEVs Italia",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jbm8xYjBxdGg4WVJmSzZaV2J2Y2lkM1E1aUh5dVlrQ2s4cGRwTWhFQllkRnZQZkJESWdIazlpZUotd3pUMkFGRHJveFUwWmlMci1VRDJNZ1U4OUtkb0x4RVFhenlsajAtWDl2RFcyZEJVV2F1cnI4?oc=5",
+   "data": "Sat, 07 Nov 2026 11:30:26 GMT",
+   "fonte": "InsideEVs Italia"
   },
   {
    "titolo": "Tesla, brevetto per le ventole che aumentano la deportanza - Motorionline.com",
@@ -300,22 +306,16 @@
    "fonte": "Motorionline.com"
   },
   {
-   "titolo": "Un brevetto Tesla descrive ventole nel sottoscocca per aumentare la deportanza e ridurre la resistenza aerodinamica - teslahubs.com",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFppXzRQWXVhZThWOHBkaERUTzlya3hQYkZMVDlJcGpHaDVOeTVLeUhEM3VDbjlRYWJqcER1X3RtVkJpcS1mdFNySmtWOXFLZkxxT0xuUVZLYjZUT3JHRWFJXzFuYUljODNic0ZLRlI2cTgyNU9UdXVxa0RxQmNOY2dmSlNIbjJLLWQxcDlxMU9EQ2dDMGJKUlV1M1lnNTlfNGpHcVl4LVhQWUdjTGh6VQ?oc=5",
-   "data": "Tue, 29 Sep 2026 07:00:00 GMT",
-   "fonte": "teslahubs.com"
-  },
-  {
    "titolo": "Tesla Roadster, il brevetto svela l’ala da 700 kg: ecco come sarà la nuova supercar elettrica - Automoto.it",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVnVFTGxkRG81NEQ2VkVQVjNMcjhKazdxeVlOTFlEUno4X1Fpc04xQW1wVzVMUW9TVy16b2xlaW9CNGRSdHhJZXlhbnppN2dhWUJfdGt3QjJwbEdLei1lYzd2bG91MWVRVXRKakMxRUdVQ3JqWTlJTEdaQXlxdTZLd19SWDg3S1EwRnZRcGFDTmt1ZTNyRWFKR2dxYjRTUW9lc1ZlU2w2WUQ3dFZWdjlIMEtySkxmM1dmYXl1NGtCM1JsY1U?oc=5",
    "data": "Mon, 28 Sep 2026 07:00:00 GMT",
    "fonte": "Automoto.it"
   },
   {
-   "titolo": "Tesla, auto incollata alla strada con le ventole: il progetto a un passo dal debutto della Roadster - ClubAlfa.it",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY0lRdmVrZmVMSTF6eUp5ZjQ4SVRMT0lBZmwySTFyU3FpMHlRM1Nvdk5iTUF2Y1AwLTBDY0d0Mlo4TDJiMnpXQWNsMnhSNjR5dXloT1FXdU15NzR2VWJHOUVsWDRXSGZvenRldExMM2pLc3kzVENtUmFWamo2eFJERzNpM0d4SF9tVzlvOEhESU1BWHFPUkhTZ3BOT05BR2xDTnp3Q2NEY3k0M1JZSE9YRDN4Q3BWd3JPWGFHVmNsSkZ2TGFOV0VSMk9zaTVxeXdzcm5GNg?oc=5",
-   "data": "Fri, 02 Oct 2026 07:00:00 GMT",
-   "fonte": "ClubAlfa.it"
+   "titolo": "Un brevetto Tesla descrive ventole nel sottoscocca per aumentare la deportanza e ridurre la resistenza aerodinamica - teslahubs.com",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFppXzRQWXVhZThWOHBkaERUTzlya3hQYkZMVDlJcGpHaDVOeTVLeUhEM3VDbjlRYWJqcER1X3RtVkJpcS1mdFNySmtWOXFLZkxxT0xuUVZLYjZUT3JHRWFJXzFuYUljODNic0ZLRlI2cTgyNU9UdXVxa0RxQmNOY2dmSlNIbjJLLWQxcDlxMU9EQ2dDMGJKUlV1M1lnNTlfNGpHcVl4LVhQWUdjTGh6VQ?oc=5",
+   "data": "Tue, 29 Sep 2026 07:00:00 GMT",
+   "fonte": "teslahubs.com"
   }
  ]
 }
