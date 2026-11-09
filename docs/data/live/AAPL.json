@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-08T11:46:03+00:00",
+ "aggiornato": "2026-11-09T13:40:51+00:00",
  "filing": [
   {
    "tipo": "10-K",
@@ -99,6 +99,25 @@
  },
  "norme_usa": [
   {
+   "titolo": "United States of America, et al. v. RealPage, Inc., et al.; Response of the United States to Public Comments",
+   "data": "2026-11-09",
+   "tipo": "Notice",
+   "agenzie": [
+    "Justice Department",
+    "Antitrust Division"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22832/united-states-of-america-et-al-v-realpage-inc-et-al-response-of-the-united-states-to-public-comments"
+  },
+  {
+   "titolo": "Pesticides; Notice of Receipt of Requests to Voluntarily Cancel Certain Pesticide Registrations and/or Amend Registrations To Terminate Certain Uses With a 30-Day Comment Period (June 2026)",
+   "data": "2026-11-09",
+   "tipo": "Notice",
+   "agenzie": [
+    "Environmental Protection Agency"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22769/pesticides-notice-of-receipt-of-requests-to-voluntarily-cancel-certain-pesticide-registrations-andor"
+  },
+  {
    "titolo": "TBL Group, Inc.-Acquisition of Control-Horizon Motor Coach, Inc.",
    "data": "2026-10-29",
    "tipo": "Notice",
@@ -135,25 +154,6 @@
     "Drug Enforcement Administration"
    ],
    "link": "https://www.federalregister.gov/documents/2026/10/14/2026-20943/schedules-of-controlled-substances-temporary-placement-of-7--hydroxymitragynine-and-mitragynine"
-  },
-  {
-   "titolo": "Use of Salt Substitutes To Reduce the Sodium Content in Standardized Foods",
-   "data": "2026-10-13",
-   "tipo": "Rule",
-   "agenzie": [
-    "Health and Human Services Department",
-    "Food and Drug Administration"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/10/13/2026-20848/use-of-salt-substitutes-to-reduce-the-sodium-content-in-standardized-foods"
-  },
-  {
-   "titolo": "First Student, Inc.-Acquisition of Control-Autumn Transportation Inc. and Ambassador Wheelchair Services, Inc.",
-   "data": "2026-10-09",
-   "tipo": "Notice",
-   "agenzie": [
-    "Surface Transportation Board"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/10/09/2026-20783/first-student-inc-acquisition-of-control-autumn-transportation-inc-and-ambassador-wheelchair"
   }
  ],
  "news": [
@@ -162,6 +162,12 @@
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaWppX1JadzI0OFp1aklyRUpQTGpPajA3SEx2M2lVUUNIWGdqcWVrMkREQ20zWFhIbTFYR2JnVnRqdHM1LTZBTzFubTRka052ZW1nT3g0blZxMENqQWc2N0FtZ2IyYm16czdsaUpFbjNfS29KS29kRTlVME5uX05QUXVHOTRtZ1QzNkpj?oc=5",
    "data": "Mon, 02 Nov 2026 21:44:20 GMT",
    "fonte": "Yahoo Finanza"
+  },
+  {
+   "titolo": "Apple, 50 anni di miti e bugie: il garage che non c'era, Jobs cacciato e il fallimento che salvò la Mela - Corriere della Sera",
+   "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPQUVEakpqRHYzUWI3YnRsUHJBb0tWZTZNMGJHUDhxZ2NDbnR6NkdENHExNnVYU2VneVhGdE0yTld3WDcwekJhME1NU01EcXUxZnpGOS1VQnpFMDBGb3cwWEtLRnN2N1RhdUtta2pOdl82RTdkQVV2QVJ2T3dFUmF5emRDaHVXSkY0RWlYMmNqY0dKTHFyTW5saElXQmdZTXFKeThCb2JpU0M0eGhqaWQwekpMRlN4RWhhZGtZRGFyOXA5Z3JwZFkyT2xBem53S2tRakFIUmhDamhkUzVyak50bk9sZlNKOFQxT3gxclBpZ2p0enB4bFoyMjhRODg4aVFIazdwdUJzbmhTZjdJZk96aHZVdGh6bDVCUkxlVkNyUnFjbmJ2WXFr0gGsAkFVX3lxTFBJSjBEQks0Qkx3OUpWQzlzYlVBbnV2SW4xTmNCa0ZNalNjMDh2S2oxeWNjZGtZRDBDOWlqaEZXdzBaUWlDeTB3UXBsRTlyTmpUaHN2a25kcEx2eTBHM2pld2pnZHRmZ2hpOGVjR09OSWJYTE1Zb2RuRHM4a0RkZnA1alJUMHVVZEk5N3h6SHF5Y0JqZkpDdGpZb2pfRjg4SzQwTDA4S2dyc2h3RndkalhqLTJTazl2V2JJVG5IekJ5YVN5SlR6VDZ0bWFLeDQyeXBGeDJ5eDNpbkZvWC01bVVNT3JybkRyTF9YSEV4aklBR25BVXhqbnlpY0dybEhWemJ6d1NDVm83M3oxa2lqbTVhcDFrUDZiTmlqYlBEWFNVQVdQZ0J3RE1GbTd2cg?oc=5",
+   "data": "Sun, 08 Nov 2026 08:52:00 GMT",
+   "fonte": "Corriere della Sera"
   },
   {
    "titolo": "Apple lancia HomeView, ma in Europa arrivano solo HomePod Mini 2 e Apple TV - Il Sole 24 ORE",
@@ -182,22 +188,16 @@
    "fonte": "la Repubblica"
   },
   {
-   "titolo": "iPhone 20 Pro, Apple prepara una rivoluzione nel design - iPhone Italia",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOamhlSzU0eEFJbnFmbnA5Z3A4M1lnUVFuWm1VSVcyTTBTODdsVTd6M0dDMEd1SGFIMTItZWsySUtvN2pyLU9naXdPNThkMU9wLXFiOWMxaWc1QlRyOGdQZHBMZkhadTFtY0dfdm5lTkVKR3JuOUFnR1NaaElMdjBVbkRXajRxUUt3RHEyN0x0RGhENjlz?oc=5",
-   "data": "Thu, 05 Nov 2026 08:08:02 GMT",
-   "fonte": "iPhone Italia"
-  },
-  {
-   "titolo": "iPhone Duo difficile da trovare, Apple non sa quando finiranno le attese - Fastweb",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSThaU2djaVVhTGotVFUydzQzeWdFS2czbHZtNTdyUmtkdzEzZlpLSVV5NjZEOFdpZVoxNXdaYzZTdlBqeDVQVGJYaElhdjlXeHdiaE1KNlpkT2pWelBGcmxNazNzY2Y3NTVGNnEwckNnWTZqV2JRUnh0dWcxeDVkY2QxWWh0UjN6TjhBcUdkV3ROdDZUZ2l5QzRWNXgwOHBhQkNuckZ1SUg4cjVJOUZSN1lLeXJKZWx4WnRnTEtLdmlCUTBITU9NOQ?oc=5",
-   "data": "Fri, 06 Nov 2026 21:27:18 GMT",
-   "fonte": "Fastweb"
-  },
-  {
    "titolo": "iPhone Duo, recensione. Il primo pieghevole Apple è un diamante grezzo - DDay.it",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTTRHeVoyZU44LXNkQ1B1Q0JsUnZnT09pdm1zUC1vSkxaVFl0NlpReFZOZXZEVnVOcEtkZERqaTM4cnFCQlpremJ6MWtCXzlCMFNOdTMxYVZhcERwSEhVTXFqWDQySnFNRDFyNkNVc2NtWjU5Y1FqM0QxSXFvZ2tjSWxiaUVIOWJRQTFMZTlsc1ZhN2d1UmlibWlXMmYzVkV6TDl4U2VmRQ?oc=5",
    "data": "Mon, 02 Nov 2026 06:00:00 GMT",
    "fonte": "DDay.it"
+  },
+  {
+   "titolo": "Mac Mini con M6 in sconto su Amazon: è sempre più un best buy - HDblog.it",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNzliamlDTTljMExrb1BjaXctZVhCaDZuMjFhY29EYVZJMkhMaUItZ0lkUEpPakhFMEs4NnpyMXB6a0o3bFRsYm9EVVFpY0pkeE16ck9UOGFaYzFDcHMwcTFGdmxCRWJ4b3M0R283SnRoMFlQQ1NSaHZ6VjdyWjlPeWtfNWVrR0E?oc=5",
+   "data": "Sat, 07 Nov 2026 19:14:17 GMT",
+   "fonte": "HDblog.it"
   },
   {
    "titolo": "Apple presenta Apple HomeView, un nuovo modo di godersi i contenuti di intrattenimento e di gestire la casa - Apple",
@@ -206,16 +206,16 @@
    "fonte": "Apple"
   },
   {
-   "titolo": "Apple HomeView riconosce chi sei e gestisce la casa: ecco come funziona - macitynet.it",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVXFxbk4zSWxFZ1BvXzY2Rnp3dGV0R05wYmFFb1pyM19xLW9IZnFLaDlzNnFyS1N3ckgzanFWZjktZ1VXU0RpQ3FlUjQzTG9qN1p1UEZIN09YZHc3M3NYbVV6VHFQcWFLb3JkMVRDLThkVDJscWUwMUF5aFZfX3AzU3pvY3k4YVVaRzBEbFR2T19LQzF6SjktVFJrcGo?oc=5",
-   "data": "Tue, 13 Oct 2026 07:00:00 GMT",
-   "fonte": "macitynet.it"
+   "titolo": "Cosa non sta funzionando con iPhone Duo e come farà Apple a risolvere - Fastweb",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVDl6cjhtMU9KZzlGakkxN1VUSU0tdFpCMWdyLVQ5RnBqbUxjMnFtTlk2bFVwbm1Nc1Nha2JsMjJIamNZQXROeXdaaDRfMFZBbWhqdDl1YTVfYWNOWkMzUE5GUnp1bFVrQnlhRUIteGY0VUpVS2I1T2l3NlIyRTlfalRteENRUmVqbEwwd3RqNzBaVnFCalY3Q2VWQ00xYzJGbkpxY3NLOGhHUzdpbzdQNzZlZGk4azVfSUI1VzBTUFVTREFya1E?oc=5",
+   "data": "Sat, 31 Oct 2026 11:05:12 GMT",
+   "fonte": "Fastweb"
   },
   {
-   "titolo": "iPhone Duo, scorte limitate al lancio: Apple ha destinato l'80% delle unità ai negozi - HDblog.it",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcEpJTmdHME9KSzZYNnZfU2VyZC1FNGE0cG5meC1lZ01aS2c0Z0NWWU0tR08zQmdocjgzYUhaZm9TY00tMUItVzdRSm1nYU9hSjhkV3doa1dsNzJuaDY4UVl3Q1NjYnZ6cG5jR3ZzcDJScERNNlRaYS16WnhncFpPSEpuZkY2bXVtZzlzR3N0cjdnZDZpa2liampCV2JDV1Rqc2c?oc=5",
-   "data": "Sat, 31 Oct 2026 07:00:00 GMT",
-   "fonte": "HDblog.it"
+   "titolo": "MacBook Pro OLED: come spegnere il logo Apple col Terminale - SaggiaMente",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV29KVHM2azZoalI0ZncwMDllUjhJSHB3N29GcEtpc3k3OFZHdXpGS3NfLWtVOUZ0WHJtRjI1NFMweGdHUlFDcklXeXhTaFl1MlNqWWxIUTRYcWFLalE2bFIyMnQyYmNrQTFLUHZLcWx5bWxuTW1MaWtnZzJVanpYMzRVU2FsYkQwTGtQNXRWZjVhV1o5cFhaUzB3?oc=5",
+   "data": "Fri, 06 Nov 2026 16:49:00 GMT",
+   "fonte": "SaggiaMente"
   }
  ],
  "news_legali": [
@@ -226,9 +226,9 @@
    "fonte": "TuttoTech.net"
   },
   {
-   "titolo": "Una iGuida per ogni prodotto Apple di fine estate 2026, tiriamo le somme - macitynet.it",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HTkN3dGRSZjZlRmFHemlfSmE0RnR4dTRIQ2dhcFMzRkpNYnI1UWZmTFk0NkJvT3NGS25lV2k3b2E1cF9yYVdBQTdOT0dMdGhiTGN4R0t0LVJ5SlBKdW0zMkx6V09mbzlJX2hUUEtsOGQ4Zw?oc=5",
-   "data": "Sun, 20 Sep 2026 07:00:00 GMT",
+   "titolo": "Apple non ha finito, ecco gli altri prodotti in arrivo entro fine 2026 - macitynet.it",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVlFWX05MYkZXdHVwMG9pQ3NwWkZDRDBaYUNFanlheU40UGdkT2dhMDVnb095cnV0V2pIeGJ2QVRjSnkwblFfalZmOUVkQ08zY2F3UWhfb2NmMVhfTU9PTldHTjhKelpiVlh2UWFmVThwVVpRUkE4ejUtYmdUaGdfeTZKdnBrUkpyVmlVZjk1aWZuTGxuS3NNZEZTRQ?oc=5",
+   "data": "Tue, 15 Sep 2026 07:00:00 GMT",
    "fonte": "macitynet.it"
   },
   {
@@ -244,10 +244,10 @@
    "fonte": "Tom's Hardware"
   },
   {
-   "titolo": "Apple alla fine ha ceduto. Hanno presentato l'iPhone Duo, l'iPhone 18, l'Apple Watch 12... - Računalniške novice",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdWRjNTl2NE1FbzJpYnl1MlNBQTF3dW5MR01zTEcyV256M2wzaEk0TzQ0RExHa0llUDREZHpQZkdWcnk5S0V2cldRWnhRMFowSVlhWEtiN3l0cVhFLWgxUVh6bTVvVXYwNnhDb0Y1UTNrdjdTWnlJRUpUYXpXSWg0NnhUcUlob201VjZVZFZNWlBxUHNHTlRSZkhFSU5QRzJGNUxZTVRvMWdEUmM?oc=5",
-   "data": "Thu, 10 Sep 2026 07:00:00 GMT",
-   "fonte": "Računalniške novice"
+   "titolo": "Apple, doppia dose di annunci a ottobre. Prima nuovi prodotti per la smart home, poi i Mac a fine mese - DDay.it",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORUZKTFN0dFNjcTdjVFR1QjBYejVGNGVxWVIxVUFGMGxwZDZtS3pTR1JncDRPQm15R0F1NmZ1ejMwRVpRa0xZalJhR2xJTndvY2RuNU5uaEhLd1AxREtxUFhuZ3J6bjFUdzRybHJVbFAtTzRuaG1XaXl1SlFVa3JfeDJHdjBxS0ZReFJTZnRWUjcwcGlZT1BVVF9BZ2MzclFzZTJsWkpqLVo2WE8xNEQ4d3AxMXJlLVlvM3FvelNPT01aSjJBS0pyeDdEZTN2UFFT?oc=5",
+   "data": "Tue, 06 Oct 2026 07:00:00 GMT",
+   "fonte": "DDay.it"
   },
   {
    "titolo": "Il nuovo Apple Watch ascolta le conversazioni, ma che fine fanno i dati? Apple spiega come funziona Siri Recap - Hardware Upgrade",
@@ -268,16 +268,16 @@
    "fonte": "iPhone Italia"
   },
   {
-   "titolo": "Apple, doppia dose di annunci a ottobre. Prima nuovi prodotti per la smart home, poi i Mac a fine mese - DDay.it",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORUZKTFN0dFNjcTdjVFR1QjBYejVGNGVxWVIxVUFGMGxwZDZtS3pTR1JncDRPQm15R0F1NmZ1ejMwRVpRa0xZalJhR2xJTndvY2RuNU5uaEhLd1AxREtxUFhuZ3J6bjFUdzRybHJVbFAtTzRuaG1XaXl1SlFVa3JfeDJHdjBxS0ZReFJTZnRWUjcwcGlZT1BVVF9BZ2MzclFzZTJsWkpqLVo2WE8xNEQ4d3AxMXJlLVlvM3FvelNPT01aSjJBS0pyeDdEZTN2UFFT?oc=5",
-   "data": "Tue, 06 Oct 2026 07:00:00 GMT",
-   "fonte": "DDay.it"
-  },
-  {
    "titolo": "Apple prepara una seconda ondata: MacBook Ultra e M6 a fine ottobre - Matrice Digitale",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTnh4UnhoTG9WNEI4WU5lWGVWcUotZjJ5eERiQ0lNMTRrRzRxUDRVREZhUDh0bnFMR2JWakwxSnREc2NIVnQxcEJ5S1NuR1RBZERhVVJrX1JLTzNMckhDZWdOemhRSDJoZi10Y08waWs0WXpPUTI1ZXJSWWxrWkdCWlkwRGtVX1JqT2lCbXYtMzRuZw?oc=5",
    "data": "Tue, 06 Oct 2026 07:00:00 GMT",
    "fonte": "Matrice Digitale"
+  },
+  {
+   "titolo": "La fine di un'era storica: Tim Cook saluta i dipendenti Apple nel suo ultimo giorno da CEO. - آي-فون إسلام",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcTUxbUp0anlUeXRFN2YtSjZPM2RYcGRQcjlNcnMxejFVZGxiZGZjcmtOakJ4OWlFM0pNeUYxVWNnVFZyYmRWUzdQMURqUFFDSXdjbGJ3TEdOaU1OeHNPLWt5ckladlBCRUpQYXdYekI4eGUxUzZaMWNybl9YVzZoMlBkakNndDE5QjVqUzMtenJVS25mRVV1Q29oWlM3MU9TZWg4amNPRW94aHZ1am85dDF2WGZWYzhQZ1M3cFNMMFlHdzFfZWtmZDJ2SHNINnBuM3VwYkFpRS00VEN4?oc=5",
+   "data": "Mon, 09 Nov 2026 06:17:17 GMT",
+   "fonte": "آي-فون إسلام"
   }
  ],
  "news_brevetti": [

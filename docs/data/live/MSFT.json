@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-08T11:46:06+00:00",
+ "aggiornato": "2026-11-09T13:40:54+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -99,6 +99,36 @@
  },
  "norme_usa": [
   {
+   "titolo": "United States of America, et al. v. RealPage, Inc., et al.; Response of the United States to Public Comments",
+   "data": "2026-11-09",
+   "tipo": "Notice",
+   "agenzie": [
+    "Justice Department",
+    "Antitrust Division"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22832/united-states-of-america-et-al-v-realpage-inc-et-al-response-of-the-united-states-to-public-comments"
+  },
+  {
+   "titolo": "Combined Notice of Filings #1",
+   "data": "2026-11-09",
+   "tipo": "Notice",
+   "agenzie": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22790/combined-notice-of-filings-1"
+  },
+  {
+   "titolo": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
+   "data": "2026-11-09",
+   "tipo": "Rule",
+   "agenzie": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22743/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other"
+  },
+  {
    "titolo": "Columbia Gulf Transmission, LLC; Notice of Application and Establishing Intervention Deadline",
    "data": "2026-11-06",
    "tipo": "Notice",
@@ -125,35 +155,6 @@
     "Government Ethics Office"
    ],
    "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22659/potential-improvements-to-the-oge-form-278e-executive-branch-personnel-public-financial-disclosure"
-  },
-  {
-   "titolo": "Accrediting Agencies Currently Undergoing Review for the Purpose of Recognition by the U.S. Secretary of Education",
-   "data": "2026-11-05",
-   "tipo": "Notice",
-   "agenzie": [
-    "Education Department"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/05/2026-22644/accrediting-agencies-currently-undergoing-review-for-the-purpose-of-recognition-by-the-us-secretary"
-  },
-  {
-   "titolo": "United States, et al. v. OhioHealth Corporation; Amended Response to Public Comments on the Proposed Final Judgment",
-   "data": "2026-11-05",
-   "tipo": "Notice",
-   "agenzie": [
-    "Justice Department",
-    "Antitrust Division"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/05/2026-22618/united-states-et-al-v-ohiohealth-corporation-amended-response-to-public-comments-on-the-proposed"
-  },
-  {
-   "titolo": "Oncor Electric Delivery Company LLC; Notice of Filing",
-   "data": "2026-11-05",
-   "tipo": "Notice",
-   "agenzie": [
-    "Energy Department",
-    "Federal Energy Regulatory Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/05/2026-22605/oncor-electric-delivery-company-llc-notice-of-filing"
   }
  ],
  "news": [
@@ -176,12 +177,6 @@
    "fonte": "Il Post"
   },
   {
-   "titolo": "Microsoft Entra ID: sfruttamento di tecniche di consent phishing per l'acquisizione di autorizzazioni applicative - Agenzia per la Cybersicurezza Nazionale - ACN",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMTZ2VjdKZUJqLTRna01hMlZmb0hadHF4d2xTWHk4NHgwT1hUX3huVm1JNXB2NWlEdXctZjlrbXBCQzMzdFVlQ2pZZk1xTF8zdDJ3Z1ZWNDNPalhIZk9uWnNuVzl4VDB2RmgwalBTY3dieUNXRFdUZWtMLS1OWGVRTFRDNUFITF95Z1pjSjJBbDZwdGpnd29DUU1LUkZFOXZaVDAxdTFjZUswRGlWejMxdVdFZGlUMVFsamJzS2w3M214LUp4TGVUdXZybnBKbElsZ2FtTU5lcjI0N3M4b3c?oc=5",
-   "data": "Fri, 16 Oct 2026 07:00:00 GMT",
-   "fonte": "Agenzia per la Cybersicurezza Nazionale - ACN"
-  },
-  {
    "titolo": "Microsoft: piano di incentivi all’esodo per un quarto dei dipendenti, fino a 60mila persone - Il Sole 24 ORE",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV2RRbU9lZWt6Q2sxTDNhRlR4a0p4OTZMU1J0M3c1R0ZubFF5a0RYNWhHWFpTRmdpUWZTcFNKaDF5TXlLMHVTR3JnMVUyM2poX1ZsUm50OG1HOXppdkMtYWlhNzByZHpFLTRSa1FIVWc4a0dPYW1zSFNicVhQNFBWWEI2NzVmMF9mT2lMbTVxTVYzcFhkbGJfMmU0cFBfQkJFSkh5T1NpSXQxLU1veTc0T215SEdoRlUx?oc=5",
    "data": "Mon, 26 Oct 2026 07:00:00 GMT",
@@ -192,6 +187,12 @@
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ1FIWW1ndG14OWFpZVFRdkFVRXlrUWprajYxbEk3RURVV3otMkFDZzVSaG5vcnNCWmtxeUdKWEQwMkNKZnh6bEp1MzB2YkU4SHpiQnJUM21JRmVEZWhhZy1aN2dyNkpwazljem50RjZLMVMxUDV1a0ZpcnRIaFM5eFFLMmowX2Ut?oc=5",
    "data": "Tue, 27 Oct 2026 07:00:00 GMT",
    "fonte": "Forbes Italia"
+  },
+  {
+   "titolo": "Microsoft sale del 5% mentre la spesa per l’IA è inferiore alle attese: Wall Street premia la prudenza? - Yahoo Finanza",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOE9BckZmeE05WnB3RXFxNnozWkRHNFpEaENfa0stdWxsQm1CY2RjNVRWUW9DTXIybjJIelhfalQ5Snk3dTE3a1BLU0xnVlFpbGRRTlN6MWRYdlczb3I3cENUYks5YWVveVFJbElvR0M3T0NjcmNiNC1icklEQXZZZDBtbTE5QQ?oc=5",
+   "data": "Wed, 28 Oct 2026 07:00:00 GMT",
+   "fonte": "Yahoo Finanza"
   },
   {
    "titolo": "Microsoft offre l’uscita volontaria a 60mila dipendenti: esclusi data center e vendite - Milano Finanza",

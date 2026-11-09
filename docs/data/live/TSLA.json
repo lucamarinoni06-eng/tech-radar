@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-08T11:46:18+00:00",
+ "aggiornato": "2026-11-09T13:41:06+00:00",
  "filing": [
   {
    "tipo": "10-Q",
@@ -166,7 +166,7 @@
   {
    "titolo": "Tesla supera le attese, ma per il futuro non basta - InsideEVs Italia",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BcjNsQmt3bHpTM0NqZWFJSTBrOUFpNDVMQlFYLUE1UjJFS1lxT3lrT0dPeThrbm0xS3VTaUhoaEFuV1BoRS1LXzJXZWF3M1lpTWxNTzNDVHRxbnNqeTkzc3RVWFE0SjNwSVZ3UXFvdFlsUWdU?oc=5",
-   "data": "Sat, 07 Nov 2026 09:05:09 GMT",
+   "data": "Sun, 08 Nov 2026 11:00:42 GMT",
    "fonte": "InsideEVs Italia"
   },
   {
@@ -200,6 +200,12 @@
    "fonte": "Il Sole 24 ORE"
   },
   {
+   "titolo": "Tesla svela la nuova Roadster con propulsori SpaceX. Uno show per Musk: l’auto vola - la Repubblica",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdjBpaERFa0NvNmNGZEJuVE9HbjlzNWdVcFZ0WWdGMnItVDVSRkpqVW82YW1UM25NRm12R2FvY3FGQkVpTkFWNS1aMUJURjNOM2RSWmFKRlBTNm8xRTdadG5SZ1JjNDduMG5BZXNwcW5CSzhwMW9mVDRYRk9tUTc0SF9KVXJkZEJVdm5fOG5CSld3ZDU2ZEtJczRXc0dTMXBLWV8wZVdDLXp4OXFwSEl6amZ5cHR4MEk4WEFnM2JqaFhWWDJiLUFvY9IBzgFBVV95cUxNVkRQOU9JWENlWVRnMEprdGk3Z3c2MWlobEtIYU1uUWo2cE5RUko2UkFCTmhGdnhLMzdETGZQaUdJZVpHNFpMYWNkeUUycGZyTEM1eElPdDRiYjZ4bUl5M1FmZVoydEFuX3hoeTJQbmxiYWl1M3ZNckgzbXpLZmJIUUpPbGhtOXJsbEZWZE8yTGlhYVRlUnBrQkt3T2RLREJna0k0NmxVUWdMbHNGWGZMckZfVkxrOTlTZEJhTXN3ZnpSVlNMTGp1ci1vXy0zdw?oc=5",
+   "data": "Fri, 16 Oct 2026 07:00:00 GMT",
+   "fonte": "la Repubblica"
+  },
+  {
    "titolo": "Tesla fuori dalla Top-10 dei costruttori più innovativi - Vaielettrico",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORkZZZWxhSU03UXpDTzdIaVo5Z2hxbWlNZUJuWkJGcWwtS2kzRkxndjBVWURrUGRhUERwckdDNExKakxfcWQyVnFjVVNFeFlxRlhjWWQ1Qm9RbWFORk9TUThYOU95Um03SC1ZbWJTMUxvZmZwLURfUHE4WDRZVWVQODVWWlB6LW81NE9ycWE2ZEVnMGF1RUxBakxGSi1VYVk?oc=5",
    "data": "Thu, 22 Oct 2026 07:00:00 GMT",
@@ -210,12 +216,6 @@
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTUNoV0VGY3dUUlpkS3REQy1lLTQ5czVTM2pIVFNwVHlSMkNTcUMyTl9ocFVXUFVteDlndEhXX0hMUFVDY3hUaHRsLVJzdzkxOUMydVBnNEJPb25PM1U1ZFhVSGpmQlZSRm1hbzhZR2xXSVJmZnVIN0VVb2NGNFJBc2ZQSEFVQUhsTWxDT0Zvaw?oc=5",
    "data": "Tue, 13 Oct 2026 07:00:00 GMT",
    "fonte": "Yahoo Finanza"
-  },
-  {
-   "titolo": "Tesla svela la nuova Roadster con propulsori SpaceX. Uno show per Musk: l’auto vola - la Repubblica",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdjBpaERFa0NvNmNGZEJuVE9HbjlzNWdVcFZ0WWdGMnItVDVSRkpqVW82YW1UM25NRm12R2FvY3FGQkVpTkFWNS1aMUJURjNOM2RSWmFKRlBTNm8xRTdadG5SZ1JjNDduMG5BZXNwcW5CSzhwMW9mVDRYRk9tUTc0SF9KVXJkZEJVdm5fOG5CSld3ZDU2ZEtJczRXc0dTMXBLWV8wZVdDLXp4OXFwSEl6amZ5cHR4MEk4WEFnM2JqaFhWWDJiLUFvY9IBzgFBVV95cUxNVkRQOU9JWENlWVRnMEprdGk3Z3c2MWlobEtIYU1uUWo2cE5RUko2UkFCTmhGdnhLMzdETGZQaUdJZVpHNFpMYWNkeUUycGZyTEM1eElPdDRiYjZ4bUl5M1FmZVoydEFuX3hoeTJQbmxiYWl1M3ZNckgzbXpLZmJIUUpPbGhtOXJsbEZWZE8yTGlhYVRlUnBrQkt3T2RLREJna0k0NmxVUWdMbHNGWGZMckZfVkxrOTlTZEJhTXN3ZnpSVlNMTGp1ci1vXy0zdw?oc=5",
-   "data": "Fri, 16 Oct 2026 07:00:00 GMT",
-   "fonte": "la Repubblica"
   }
  ],
  "news_legali": [
@@ -224,12 +224,6 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUFJSWUxbDhQbnVIVTR4bDdRc2YtVTVQRkFOZl9Ma0dEUHdMM01GenlNTUd0Zk5wNGdvTlFHZTJENklTSnltR0puMmFqMllHZXZsLVRyLTZZdURrUFFlR2J5d2d5WTB3R3AxVE1Cd3h6Ty02bjU4cE9MZ21rN3R5U1ZESFBQM2c?oc=5",
    "data": "Sat, 07 Nov 2026 08:29:20 GMT",
    "fonte": "Il Post"
-  },
-  {
-   "titolo": "Tesla è pronta a vendere il Cybercab, ma c'è un problema - InsideEVs Italia",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WaHgxM2dfOERDSjdUSXVxV0VMVjBIdHRCRmtHZUFjQmR1aVhpNm9BUnVjR2twSF9XODFLZ0lVV05FMjlnQ2VzYmhILUZyZmdCNEZSOWxhQkhQbzNFdGlkaXRLazAyTjN3cllxMlMtUjJlVldhSDdfOE1kbw?oc=5",
-   "data": "Sat, 07 Nov 2026 12:04:51 GMT",
-   "fonte": "InsideEVs Italia"
   },
   {
    "titolo": "Tesla Cybertruck, fine della produzione entro il 2027 - La Gazzetta dello Sport",
@@ -252,7 +246,7 @@
   {
    "titolo": "Tesla Cybercab, vendite ai privati entro fine 2026: arriva la conferma. - MotorBox",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWjJKNHVjVmtmUF9SN0hwTHY3Wm9yZ0VFM3VMeUYyekZrQ0VRcDFWYXJKRWZza3NDemJMM3JQV2ItLVNDcldRUEFOaTNFYUpQNDB0ekN6NkZnMmxqZHZIcjI4eWQ1cDFGMU82WEJVeUVfUUIxY0d5NnpvajEyMzF4THZMTDRSdG42U0UweEhaM2w0bU9XeUwtSk9R?oc=5",
-   "data": "Fri, 23 Oct 2026 13:25:33 GMT",
+   "data": "Fri, 23 Oct 2026 03:03:12 GMT",
    "fonte": "MotorBox"
   },
   {
@@ -278,6 +272,12 @@
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWXA0VkRaNGhnQU9oQlpHVEtEQklOT1R6b29RcFFwc0tGOVJRYjk0Uy1tR3JMNmtHdzdwV0gyekxzN2I0aHFsOTRaMGRyaGRuSmpVYS11MjkyOGRkZ0pZMTcwN2RNV2pHWTNjeGZpMmVabF9QZ01NV2RzUHdFcC03aTk0aU9lbUlwVkhNZG1VU3lxTDJQZ1p1am1UNk11TVlJTTVaNEFDOA?oc=5",
    "data": "Thu, 22 Oct 2026 07:00:00 GMT",
    "fonte": "TuttoTech.net"
+  },
+  {
+   "titolo": "Tesla vuole vendere il Cybercab ai clienti entro fine 2026, ma quando arriva la vera guida autonoma? - Everyeye Auto",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ0lWZExZdGk1NkpmVGcwMHdPTXZseUM3MkM1aDl0X1F2TEFBd0gxZ1VzNHRHWGlDZE5XNVVDbVJ6X1F5UUVDYU1Ed2tia0NVYkN5dHRTYVRRUjRDZDJUOHNVSFJUb25zQ0FXRm9Vc3hpcDAxTy1IMTRMc1BRekpoN3hEOEJJVE1YeEYxdExmOXlHRjVIQmJ4cjFReW5TSkE2azkzcXBicjJ0Q2FEM1BUSGRjeFV5anhwNkVkdlFwTmVMc1ZG?oc=5",
+   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "fonte": "Everyeye Auto"
   }
  ],
  "news_brevetti": [
@@ -296,7 +296,7 @@
   {
    "titolo": "Un brevetto svela l'ala posteriore della Tesla Roadster - InsideEVs Italia",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jbm8xYjBxdGg4WVJmSzZaV2J2Y2lkM1E1aUh5dVlrQ2s4cGRwTWhFQllkRnZQZkJESWdIazlpZUotd3pUMkFGRHJveFUwWmlMci1VRDJNZ1U4OUtkb0x4RVFhenlsajAtWDl2RFcyZEJVV2F1cnI4?oc=5",
-   "data": "Sat, 07 Nov 2026 11:30:26 GMT",
+   "data": "Tue, 29 Sep 2026 07:00:00 GMT",
    "fonte": "InsideEVs Italia"
   },
   {
