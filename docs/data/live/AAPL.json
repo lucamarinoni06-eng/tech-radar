@@ -1,6 +1,11 @@
 {
- "aggiornato": "2026-11-09T13:40:51+00:00",
+ "aggiornato": "2026-11-10T13:19:06+00:00",
  "filing": [
+  {
+   "tipo": "8-K",
+   "data": "2026-11-09",
+   "link": "https://www.sec.gov/Archives/edgar/data/320193/000114036126042798/ef20085077_8k.htm"
+  },
   {
    "tipo": "10-K",
    "data": "2026-11-03",
@@ -55,11 +60,6 @@
    "tipo": "DEF 14A",
    "data": "2026-01-08",
    "link": "https://www.sec.gov/Archives/edgar/data/320193/000130817926000008/aapl014016-def14a.htm"
-  },
-  {
-   "tipo": "8-K",
-   "data": "2026-01-02",
-   "link": "https://www.sec.gov/Archives/edgar/data/320193/000114036126000199/ef20060722_8k.htm"
   }
  ],
  "bilancio": {
@@ -182,22 +182,16 @@
    "fonte": "Sky TG24"
   },
   {
+   "titolo": "MacBook Neo 2, Apple prepara il salto di qualità ma il prezzo sarà un problema - macitynet.it",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HdXlieUNBV1ZGeXNRclNkcHVHdWNSOTRKRk9VTUdKdlpSVmw0X0xnWVdKTWQyXzNiUkFSUHVWSk0zZGJiTEw3aFVIX3hLZVlpMW90aHZXLUNMdw?oc=5",
+   "data": "Mon, 09 Nov 2026 06:59:57 GMT",
+   "fonte": "macitynet.it"
+  },
+  {
    "titolo": "Apple riconosce i problemi al display di “un piccolo numero” di iPhone Duo: cosa fare se è difettoso - la Repubblica",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN1Q4Q2ZrSXV3LUFpSkVaR2FOYVlfM3hlbU1yY0pUcERSTE5Bd3pZTEFXTU4xS244UkdXbW9rb2hpMWdUNjNQQ2lrOTU3MFJxZnllcWpPbDJDRVlmOXVxWDNzemdFUnh4NjZWUWp5M3RHR1pmTmxKYkQtNjEzb0pCS3VhOXVNbC15Z25tdlVaSklTSUE1N3pGRXI0VjE2Tk5CWGltOUJ1c19ZbHNL0gGyAUFVX3lxTE9vWks2RFJ5aHZOdXFnV2JBTW1uazlZMGJXaE5iWkVwbUFwVlV5SWZidGtkQV9WVkowUVI2allfU2ZIdVVOUHduMTJxeDJUREhadkFiX1M0QjdlZW9nUW5QQjRqWHRYVF9RLWRfcm96WVZoVEFnU1A1N1dYSFV2emw5VDBmYl9ZMnFCMkhHcnZjbjlEMkRuSEhjeUtoNUt2eEZEOEU4cndzamtEREc0MHJsN1E?oc=5",
    "data": "Tue, 27 Oct 2026 07:00:00 GMT",
    "fonte": "la Repubblica"
-  },
-  {
-   "titolo": "iPhone Duo, recensione. Il primo pieghevole Apple è un diamante grezzo - DDay.it",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTTRHeVoyZU44LXNkQ1B1Q0JsUnZnT09pdm1zUC1vSkxaVFl0NlpReFZOZXZEVnVOcEtkZERqaTM4cnFCQlpremJ6MWtCXzlCMFNOdTMxYVZhcERwSEhVTXFqWDQySnFNRDFyNkNVc2NtWjU5Y1FqM0QxSXFvZ2tjSWxiaUVIOWJRQTFMZTlsc1ZhN2d1UmlibWlXMmYzVkV6TDl4U2VmRQ?oc=5",
-   "data": "Mon, 02 Nov 2026 06:00:00 GMT",
-   "fonte": "DDay.it"
-  },
-  {
-   "titolo": "Mac Mini con M6 in sconto su Amazon: è sempre più un best buy - HDblog.it",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNzliamlDTTljMExrb1BjaXctZVhCaDZuMjFhY29EYVZJMkhMaUItZ0lkUEpPakhFMEs4NnpyMXB6a0o3bFRsYm9EVVFpY0pkeE16ck9UOGFaYzFDcHMwcTFGdmxCRWJ4b3M0R283SnRoMFlQQ1NSaHZ6VjdyWjlPeWtfNWVrR0E?oc=5",
-   "data": "Sat, 07 Nov 2026 19:14:17 GMT",
-   "fonte": "HDblog.it"
   },
   {
    "titolo": "Apple presenta Apple HomeView, un nuovo modo di godersi i contenuti di intrattenimento e di gestire la casa - Apple",
@@ -212,10 +206,16 @@
    "fonte": "Fastweb"
   },
   {
-   "titolo": "MacBook Pro OLED: come spegnere il logo Apple col Terminale - SaggiaMente",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV29KVHM2azZoalI0ZncwMDllUjhJSHB3N29GcEtpc3k3OFZHdXpGS3NfLWtVOUZ0WHJtRjI1NFMweGdHUlFDcklXeXhTaFl1MlNqWWxIUTRYcWFLalE2bFIyMnQyYmNrQTFLUHZLcWx5bWxuTW1MaWtnZzJVanpYMzRVU2FsYkQwTGtQNXRWZjVhV1o5cFhaUzB3?oc=5",
-   "data": "Fri, 06 Nov 2026 16:49:00 GMT",
-   "fonte": "SaggiaMente"
+   "titolo": "Apple rilascia iOS 27.2.1 e nuovi aggiornamenti per Mac e Apple Watch - iPhone Italia",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMlMzTTJxTjZFZzU5LTVQNGxmLXgyVlp5dFZuUDFSV0lualdGZ3RaVDAzXzJ2ZTlnUkFiUzFWa04yX1RHNzVfOFdIaUVmSTAtMzJhRnJwTFJwREJsb2tWa3dfU0c0d0ZPNmJCTmN3NXIzSHVkSHFwdWdMWnB4VUFkUFVRQ0hocmR3X2tRR2dJcTVONlp0NGY3UEhNQ0x3ZFloYkFHQkRidXI?oc=5",
+   "data": "Mon, 09 Nov 2026 18:54:27 GMT",
+   "fonte": "iPhone Italia"
+  },
+  {
+   "titolo": "Trimestrale Apple: margini sotto pressione a causa del prezzo delle memorie - Morningstar",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejIwNXhLeFVFVHhFZFhUd05XcTdOZFNFWnV0d0xmdVlPZFdzNFlJLWZsdUU2QTRGNDJ6Y3dFazdMRGRybmczTUpJWkx2MDZkOXVtQ1NiN29hckhXSDdFckV6ZVc3eEpjYnFRVHdvTUk1a0lkOTRXbE5iR0N1YjkwU3hwQ0pyRXRWSG9RT1VPQU5FOUs1cXpReXRnQ3ROb3FSUTFhMnpxOHFiMmlqSjh4b2Fnbw?oc=5",
+   "data": "Tue, 03 Nov 2026 11:47:41 GMT",
+   "fonte": "Morningstar"
   }
  ],
  "news_legali": [
@@ -238,9 +238,9 @@
    "fonte": "SmartWorld"
   },
   {
-   "titolo": "Tutti i prodotti che Apple presenterà da qui a fine anno - Tom's Hardware",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSHlTVkZqelF4UEVJMXhacG5RQjJEdG5weWlDTWxfN3JJVXpXZkRfX1RuTEpielc5ekVhaFE2MGN2YWQ5bHAyMkxoTlpMVWVvLXphQXpEcE9RcHlSQnN1VlNJOFBoeXUzZTVYSmVfa3RjVVVGWkxqMVlMUWc4S3RscXVxSVJEa2w3Snk4WXFNb2p5RXc?oc=5",
-   "data": "Wed, 16 Sep 2026 07:00:00 GMT",
+   "titolo": "Apple e il caso antitrust, gli sviluppatori lanciano l'allarme sul potenziale accordo - Tom's Hardware",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb2hIanRveUJfTHFUSmx2U0ppdVRzZnJ0dGNZajZpNVZXTm5NcVhidUNoWVR4QXk3SzBGZ0xCcWN2RFZFQWtESFprTi0yOW5XdDQyTmhWRmxpSlNVMXdYbzREbFdSQWI4ZVFlTTRvcXNYQVEySl9wa2xDOEdrMEU4ODBScV9YYkE5bWMwUGZoNm1tQVlSLVdEOWVmbDFMemo5U2FBZHh6VUliVHowalRlaFJTTVpvbzg?oc=5",
+   "data": "Fri, 16 Oct 2026 07:00:00 GMT",
    "fonte": "Tom's Hardware"
   },
   {
@@ -250,34 +250,34 @@
    "fonte": "DDay.it"
   },
   {
-   "titolo": "Il nuovo Apple Watch ascolta le conversazioni, ma che fine fanno i dati? Apple spiega come funziona Siri Recap - Hardware Upgrade",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc012TlRuSXJuLVlXQ2VlN2J0Tk9lWjk0WHBnaENfS3dYTEFtZWJRZzZ6SW9uT0ljSjBTR0NZZ1BjWjhBeVZsM2tUUHFwdEpnYlZqZ0pXOGQwOXJKbk1hazhzV2pjMnhwY1lyV2VfSXJNcldVN05DbEw2Tkt6aDY5Z3BSMkpFNjRlTkFwVndJNFhDX3N0Y1dyaDg2LXVSVWhUWWFFZGtVUG5mcHQ3aFFsblhuYWk5cjM1dzctR09GSXlIS0lOZnZTYWtqUkNVZy1fdEFRSDBDVDctM3hJY0YwTDViaGhSUWNfS2lacw?oc=5",
-   "data": "Fri, 11 Sep 2026 07:00:00 GMT",
-   "fonte": "Hardware Upgrade"
-  },
-  {
    "titolo": "Apple invita i media a un nuovo evento a fine ottobre: attesi MacBook Pro touch - HDblog.it",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSGhobFBIa1JOUHlKWWVsSVdicXN1OTN4VDFsYmZXMjRKbFRHdmhocVJqRWZqMExQeUV1S3hIbmlhUTl5NDdvazJ5WE5tVGxHODNLWFhuYzlubEtSeFZSQXVqVTNjY3Y0LTl4T0h0MW5VM1JlTEcxSENCdFN2T0lqbVUyNnE2RnVNdFFCT1hRRQ?oc=5",
    "data": "Thu, 15 Oct 2026 07:00:00 GMT",
    "fonte": "HDblog.it"
   },
   {
-   "titolo": "iPhone Duo è la migliore Apple degli ultimi anni (e non farà la fine del Vision Pro) - iPhone Italia",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSFBmQlhOV1ZjSGFTX29iMXZJNk41X3czWVFBOHRuaXJpR1ZUNHVOT21tTFBmQk1oTUJaQkxvNlVna3A4aHFqeVE1N3NISmlTMDAxTGYyUE5MYUFmOEFsYzg2X3R1RmdIX2lBNHlsWFoyaFdCMnYwUVpLU3M2QTh1Yk9xMUNrVllFejdwMm1Hd2dHS0pYcEt2YnhyeDZ0RmpGRGRCYnFiWGM3MGxhRnFNM1YxMFBBVjJpUFE?oc=5",
-   "data": "Fri, 11 Sep 2026 07:00:00 GMT",
-   "fonte": "iPhone Italia"
+   "titolo": "La causa antitrust di Musk contro Apple si ferma, quella su OpenAI no - Hardware Upgrade",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMW1zcmJmWkxLSUliRmxzWm96OEFWN2FlVUQtdWNweXdjWUUxS25WLVR2NTBoTWdMaDhVWGs4RUhlSXBYZGxaMERwSUJfMkZVSHBTZmFsaGI2amFDeTVzMjdRRWlnVWNtZzhWYUgxSmZ0dlFpR0lSYURFSDBnaEdiYzBXRFJsbmJhR2VGU18zVlpqSFV1cmZ3dTR5ZW5pcXFoVEpkMUxKbFI5NDI0RTdhQm1EcndacXc?oc=5",
+   "data": "Wed, 16 Sep 2026 07:00:00 GMT",
+   "fonte": "Hardware Upgrade"
   },
   {
-   "titolo": "Apple prepara una seconda ondata: MacBook Ultra e M6 a fine ottobre - Matrice Digitale",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTnh4UnhoTG9WNEI4WU5lWGVWcUotZjJ5eERiQ0lNMTRrRzRxUDRVREZhUDh0bnFMR2JWakwxSnREc2NIVnQxcEJ5S1NuR1RBZERhVVJrX1JLTzNMckhDZWdOemhRSDJoZi10Y08waWs0WXpPUTI1ZXJSWWxrWkdCWlkwRGtVX1JqT2lCbXYtMzRuZw?oc=5",
-   "data": "Tue, 06 Oct 2026 07:00:00 GMT",
-   "fonte": "Matrice Digitale"
+   "titolo": "Il MacBook Pro con display touch farà la fine del modello con Touch Bar? - Everyeye.it",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ3pjbmozWGc3Yi03WU9JVm1LVGtHbFUtdktBTFpyUTdUNlJFQWNGbDNKY19oSGlvaUZzYVJMN3NkRDlQWHJVYmNPTmRDLUlvUVQ0NVpMWnhfbjdaUWZfWTdpS2Izd1k2NVpDSGNDamdNdjBETHN0dVNVVEFjalFfcTNZVUFScGtsUS1UZTV0WC0?oc=5",
+   "data": "Sat, 31 Oct 2026 07:00:00 GMT",
+   "fonte": "Everyeye.it"
   },
   {
    "titolo": "La fine di un'era storica: Tim Cook saluta i dipendenti Apple nel suo ultimo giorno da CEO. - آي-فون إسلام",
    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcTUxbUp0anlUeXRFN2YtSjZPM2RYcGRQcjlNcnMxejFVZGxiZGZjcmtOakJ4OWlFM0pNeUYxVWNnVFZyYmRWUzdQMURqUFFDSXdjbGJ3TEdOaU1OeHNPLWt5ckladlBCRUpQYXdYekI4eGUxUzZaMWNybl9YVzZoMlBkakNndDE5QjVqUzMtenJVS25mRVV1Q29oWlM3MU9TZWg4amNPRW94aHZ1am85dDF2WGZWYzhQZ1M3cFNMMFlHdzFfZWtmZDJ2SHNINnBuM3VwYkFpRS00VEN4?oc=5",
    "data": "Mon, 09 Nov 2026 06:17:17 GMT",
    "fonte": "آي-فون إسلام"
+  },
+  {
+   "titolo": "3 mesi gratis di Apple TV: ecco chi può richiedere la promo a fine ottobre - Punto Informatico",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVHhtQUFVUDQxNEhZcGlyWFVybDZGX0Q1bTdNRWRZaDFmNVRKM0NaOGd0ZUxNb1dCc1hlYWVoUFdrMjZYbTJ6ZWpiWTFXUzNkTXNmUXJNb2FPclhzOGh5TGRLZm9jV3ZRZ1NCWmF4MnNxX0h2Q0dQZjlHTkNXeFBUTURrUWlTX0VrRVJ5QWlSOHdsOGxNcF9icXp6NUlCREtWbjdxM0tOVWtjaU9f?oc=5",
+   "data": "Tue, 27 Oct 2026 07:00:00 GMT",
+   "fonte": "Punto Informatico"
   }
  ],
  "news_brevetti": [

@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-09T13:41:09+00:00",
+ "aggiornato": "2026-11-10T13:19:23+00:00",
  "news": [
   {
    "titolo": "Data center, da Amazon a OpenAi: in cantiere investimenti da 27 miliardi in Italia - Il Sole 24 ORE",
@@ -18,6 +18,12 @@
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSUdIanRuendWTEZTWTdaMU53NFcyUUxBWGtmNzV3dGh1bjNtV1EtVzk2MDR0cll4cW9JY2ZFY1Z6c2gzOWtVXzkzQmtDT0hrX3lReDZIU0RrT19WMzVycDJoQWpWdm5CTGhtUDNDaEdvMkNQYlVBNVRkM1hrcHJNUTdMV1VabWoxeWJwbG5PYw?oc=5",
    "data": "Sat, 07 Nov 2026 12:02:36 GMT",
    "fonte": "Il Post"
+  },
+  {
+   "titolo": "Nvidia chiede ai clienti di data center di ridurre esposizione alla Cina - Borsa Italiana",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQ21kU1lSaEVwajl5dHFMV1Y2SXZwZkRoOXpSS1dneVdBTGVkb2EwVkt3MXMzRzdieEhubS1lQnlVTnNwenU0T0JPQTUwN0NCM1IxMG1oZzlhdW5VdkJMY21KWjZKeE0xakFhcFI2UmU3d09ZbVhpaUFFcGRQVG1YSF9fcWFOUDB4d05ZeXBxeU9NTzB4WlpybG9LZ2oxeWdwVVp6N1NkQjFIakJrNUVyOXlITGRVWE10NEZEVXJuV3I2bnNnMmpZVFVOU1YxY29XanlvYW9hUUVKVlVpdDBSb2k5UjE4RGFhMERjeA?oc=5",
+   "data": "Tue, 03 Nov 2026 10:46:00 GMT",
+   "fonte": "Borsa Italiana"
   },
   {
    "titolo": "Olanda, gli attivisti fanno irruzione nel cantiere di un data center Microsoft ad Amsterdam - Video - Il Fatto Quotidiano",
@@ -42,12 +48,6 @@
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQ0RhcHdGNTZtX2t5RnRJZDhCVHlzalJCd3kxd1NBQUxlUk5UMnQ5SjQyU3BVLWwxSlR2MDQ3OFB5M2YwTnZ1TXo4M19kcHFYUE1Zek5CUlVVNzJJRVdpQWNVM1diVWEydUVMYzRfTWh4NnJLWVlvSUlGOTAtYmpfMlNzWFdNRnI3SERzeDJlVzNBdTJwSUgtcmxNNm9veERkSmRYd3NHWlFYRFZhWHZ6eHVmNm1JTVFjc1hYaXRJZDMweWVxT0RTeGwxZHREU2wtdUV5VFhxVXY5ajdLOVJUd05iQQ?oc=5",
    "data": "Sat, 07 Nov 2026 11:16:00 GMT",
    "fonte": "la Repubblica"
-  },
-  {
-   "titolo": "Manifestanti irrompono nel cantiere di un data center Microsoft ad Amsterdam: rapporto - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wY3NSVVdBV0FkNmtaWGN6T0phNTJzTUJnbXBYZkxmRVZ3V0lpYkJLWGdlQk82Z1lpdWFaTTBnTVh3anV4c1RpRnBFeUJQS2dVRlNDOGtUSW04NWlrd3Z6UWgzdTJZRzlVSXZmaTk4RQ?oc=5",
-   "data": "Sun, 08 Nov 2026 12:08:47 GMT",
-   "fonte": "TradingView"
   },
   {
    "titolo": "Il crollo di Nvidia e la proposta di Jim Cramer: tra cali storici e nuove tensioni geopolitiche sui data center - Yahoo Finanza",
@@ -75,6 +75,15 @@
   }
  ],
  "norme_usa": [
+  {
+   "titolo": "Notice of Intent To Reorganize HUD and Revise Headquarters and Field Operating Model",
+   "data": "2026-11-10",
+   "tipo": "Notice",
+   "agenzie": [
+    "Housing and Urban Development Department"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/10/2026-22838/notice-of-intent-to-reorganize-hud-and-revise-headquarters-and-field-operating-model"
+  },
   {
    "titolo": "Notice of Public Meetings of the Maryland Advisory Committee to the U.S. Commission on Civil Rights",
    "data": "2026-11-09",
@@ -121,16 +130,6 @@
     "Education Department"
    ],
    "link": "https://www.federalregister.gov/documents/2026/11/05/2026-22615/proposed-priorities-and-definitions-secretarys-supplemental-priorities-and-definitions"
-  },
-  {
-   "titolo": "Medical Devices; Hematology and Pathology Devices; Classification of the Digital Cervical Cytology Slide Imaging System With Artificial Intelligence Algorithm",
-   "data": "2026-11-05",
-   "tipo": "Rule",
-   "agenzie": [
-    "Health and Human Services Department",
-    "Food and Drug Administration"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/05/2026-22593/medical-devices-hematology-and-pathology-devices-classification-of-the-digital-cervical-cytology"
   },
   {
    "titolo": "Calendar Year 2027 Home Health Prospective Payment System (HH PPS) Rate Update; Requirements for the HH Quality Reporting Program and the Expanded HH Value-Based Purchasing Model; Medicare Provider Enrollment, Durable Medical Equipment (DME), and DME, Prosthetics, Orthotics, and Supplies (DMEPOS) Policies",

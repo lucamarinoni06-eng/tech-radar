@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-09T13:41:04+00:00",
+ "aggiornato": "2026-11-10T13:19:18+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -99,6 +99,16 @@
  },
  "norme_usa": [
   {
+   "titolo": "Notice Pursuant to the National Cooperative Research and Production Act of 1993-Silicon Integration Initiative, Inc.",
+   "data": "2026-11-10",
+   "tipo": "Notice",
+   "agenzie": [
+    "Justice Department",
+    "Antitrust Division"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/10/2026-22914/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-silicon-integration"
+  },
+  {
    "titolo": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
    "data": "2026-11-09",
    "tipo": "Rule",
@@ -146,29 +156,14 @@
     "Centers for Medicare & Medicaid Services"
    ],
    "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20281/global-benchmark-for-efficient-drug-pricing-globe-model"
-  },
-  {
-   "titolo": "Self-Regulatory Organizations; North American Derivatives Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change Relating to Rules Governing Contract Specifications for Perpetual Cash-Settled Single Stock Security Futures",
-   "data": "2026-10-02",
-   "tipo": "Notice",
-   "agenzie": [
-    "Securities and Exchange Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20194/self-regulatory-organizations-north-american-derivatives-exchange-inc-notice-of-filing-and-immediate"
   }
  ],
  "news": [
   {
    "titolo": "Meta Platforms raccoglie 9 miliardi attraverso la sua prima emissione obbligazionaria in euro - Borsa Italiana",
-   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQVXVSb2E1a3FKZUdkQjF4SGtBeGpIRVM3aTJxd1VIeE55TldpTEU4b01pRlVoaUtJU1VnNzAwUUtsM2VHMVhmUmxPemFoaEtCVU94b0p5dU5PZklDbDIxcWRvcGVtZE9BTVNZVlNKY0FLQjlTdWhObTJuMW1hbWo3MzBrLUgtbHhoeFJHNUs2QVhUTHhacXNyWjFsbEc2THAxRHFqRDNFUXU4M05RSkdTLXVYVXUybFVkWnlFN1Q2ZTA5Y3Q1MlJ1aXlGeW9weUhGWVZ3eU1LWWlKSW5xQV9KdjBweTd2aGNlbVZ2b1VNWFdyY1UwZEwtMjlpeVdJU0p0ekJncHM3U1VVUQ?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQb3p6Y2djdWJmcVBLMllvTEZESVQ2RV9jWlVnVWxEMzNvSGRCYk9WRlhWdU93cHB4b2VmNTJmd1RReVVOdGVxR2pOOHJpb0QzREVxUjB1bXZnazNRdm95TWxwdTVGV2JHTlJDYUpKR3dkRGFzVDZjNjBna0tEeldwT2NqT196YThKUUt1SGVTNkZXanVUXzJjSjlOTFVWQVpGZ3d4UkQ4OWt1MldmZVM4QVlWTHU0Wm5hWWlHRjA2VVF3SkQzZmJud1JjbmZYZEhYMWNPZzRfNkhfdkFVUU9raFZhQkdsZDZpMzVheU4tRlhxckdXSmtXdzB2a0g4SkNkdm0wS0ZsUUV6c3o2QmgzcDExaEE?oc=5",
    "data": "Wed, 04 Nov 2026 19:19:00 GMT",
    "fonte": "Borsa Italiana"
-  },
-  {
-   "titolo": "Meta in calo dopo la trimestrale. Il titolo è sottovalutato dal mercato? - Morningstar",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNkM5UUE3XzBxNDQ3RWtBNjROaDVya0VGZDNtR19ZMkNFS0ZZNmRucFpCRW5yQW44b2VkRXdyRWpCNW1UQklMT2ZhNjcxNXpTeFpkelFUNWt6WW9RM2k1U0RRRC1jblZSZzkya0ZhdHlsUVNRM2h3Vm9MdkRuUUxkSnBmc1F6TFRVdURWMHE4bzN0NmZWM1ZZYkZkdlVwdWIyOGxQb2hULXdnZw?oc=5",
-   "data": "Mon, 02 Nov 2026 11:06:09 GMT",
-   "fonte": "Morningstar"
   },
   {
    "titolo": "Meta Platforms, i conti del 3° trimestre 2026 - SoldiOnline.it",
@@ -189,9 +184,9 @@
    "fonte": "MarketScreener Italia"
   },
   {
-   "titolo": "Perché il titolo di Meta Platforms sta scendendo oggi? - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVmZHMnV5SzJNZEtPQ2JEZXF6NnNlVXNybXhzUFlCOEhkZnJOMEJBVWVTVmkxSW4zQnVjRjB2MzVjSUVLdDNVSVc5bFUtUU51SWJxcDFGZGJHcTFEaElMVlhWNEh3UHc3WEZ3cDBtbks5cmZSRDRVR2F5M1dmWWtNZXlKNFdxQzAwQTNxZGJoNjZ1bDExanlFNVRZdW9rLXdiS2ZfSnJOYW41UVpDbzlpdVRKYno?oc=5",
-   "data": "Thu, 05 Nov 2026 17:34:00 GMT",
+   "titolo": "Perché il titolo di Meta Platforms sta salendo oggi? - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQWlySUx1eFZvZHJFWlF4UURmMTVBXzc3aXR3dTAtLXdRYTFvRFBoNlk0TkpuUzBRX182dFRPSi0tNlo2U0ZfREpBVnkxMWFnN252WXVYVVJhbHhfeGN0NV9YTHNUTlRObE1IN3ljbXIyUDRGSDg2dE1ZZkpYMHRPb0c5UkdOSDExU1IxNkg4ejZ4VzBVdWNra3lFYWIwcHpzR2EwTHBiejl2czNRSEdwUVh3?oc=5",
+   "data": "Mon, 09 Nov 2026 15:06:00 GMT",
    "fonte": "Investing.com"
   },
   {
@@ -201,9 +196,9 @@
    "fonte": "MarketScreener Italia"
   },
   {
-   "titolo": "Perché il titolo di Meta Platforms sta salendo oggi? - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbzZORFJ5SVp4Zi01UkdBeE1JR2RLSHhCbzRjZVA4V2ZZYURoWWRweW1yX3hkaFFaaXc4OE1WYWhwUUt4cEFzM18taDc5LXpCeGhNa1lYU0tLM2RZamRBZkRfR3AyMmVpS3ZXaUg3VE1BWGFPZ1B5V3lCZDNGdExVQXR5MjAtcE5NX2ZuR3dNc05kb3BfN1J2eDJybU8ydzRJanI2Nkl5MW5PVVZGZURzZzVn?oc=5",
-   "data": "Tue, 13 Oct 2026 07:00:00 GMT",
+   "titolo": "Perché il titolo di Meta Platforms sta scendendo oggi? - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVmZHMnV5SzJNZEtPQ2JEZXF6NnNlVXNybXhzUFlCOEhkZnJOMEJBVWVTVmkxSW4zQnVjRjB2MzVjSUVLdDNVSVc5bFUtUU51SWJxcDFGZGJHcTFEaElMVlhWNEh3UHc3WEZ3cDBtbks5cmZSRDRVR2F5M1dmWWtNZXlKNFdxQzAwQTNxZGJoNjZ1bDExanlFNVRZdW9rLXdiS2ZfSnJOYW41UVpDbzlpdVRKYno?oc=5",
+   "data": "Thu, 05 Nov 2026 17:34:00 GMT",
    "fonte": "Investing.com"
   },
   {
@@ -217,6 +212,12 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1lhR0hTVDg4Q1lPR1l4OEJiVTNIeU54cWVpeTl5OWlUNmo0TnFBYUxJNkpCWllxalduZFgxdTdnWmMzRFBpa2tHZFdUU3R1cERvR0VDRXRUdTlxWmEtUk1Xc2FNMGJVZkx6bjZGaUQzSV9YZGdUeHlxcExXNUJBUE5ILVRPM2lpQkg4N3NVeU1GY1p5ZWdPVzNsWkU3RjNvUGRVZ3lkMzdYWjluLWNGNGpMYU4?oc=5",
    "data": "Tue, 27 Oct 2026 07:00:00 GMT",
    "fonte": "Investing.com"
+  },
+  {
+   "titolo": "Meta Platforms lancia il modello di intelligenza artificiale Muse Ember - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS19wOWdHdnpybm9YeDRlRmlHMG9xX25nZHU2aFVIRGN3X0lYVUVLRzVHVHZSc1BPYVZhc2lqYnNyV2lwX0p0eFF2aWFpdzhYNEROZ0tvc05xSTFVUWMwam45YzVmSGpmbk56MTdEbm5va3g2alJ5TWRPc1F5TVVFbkk2aHZyY055TUJwTEl6WDNZdU8xX0NMODdoUzgtcXVEeFNPX0YwdkRXSkQ2OUZJcEh2dkJLV0JLVEJ2c0QzRGp4M1A1?oc=5",
+   "data": "Mon, 09 Nov 2026 18:48:21 GMT",
+   "fonte": "MarketScreener Italia"
   }
  ],
  "news_legali": [
@@ -257,6 +258,12 @@
    "fonte": "MarketScreener Italia"
   },
   {
+   "titolo": "Meta sotto indagine antitrust nel Regno Unito nonostante le concessioni già fatte - Techpost",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbEJQQk5BRkhwXzNVc0tSdkhOR3FFdTVOeGNBWEtSTlZ0VFVmcmMtRC13S1RQeXI0NXdjVXRHS2dhQUs0Zi1DT2Q4NUdxMWhHWS13OHUwR0Q0MF96WGIzaF83Z1hYblBRdGpWdlpSNGF6NTgxODNxbUxWWUZ6TVo4LXZPODZpTmNPWEozNm9qbGJNNzk5Nm1PTlpnMXNKQUpJbXFaNGZqVVBMNXJTdWl3d1MyMGNHZXNpMzlTMWpRV09sM0h0Z09MN1RWelI?oc=5",
+   "data": "Mon, 09 Nov 2026 16:19:00 GMT",
+   "fonte": "Techpost"
+  },
+  {
    "titolo": "UK Opens Investigation Into Instagram Instants. Here’s What the Worst Case Means for Meta Stock. - TIKR.com",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORmdvUjFMV09OUUFmWmJqbHdXcmI3UHRoRzgzT21EZ1V2NWpya0ctaUNUSXdsNHg5N2NTbFdJWFc4WGdIYWFrQVpGdk14cFRGdjdqZ1dhcFAwOFo5SHV1d09DOWI0NkNHMVB3QldBRHVIUC1sOFV6a081R21fS0FlR01lRi1SS2RpeVNNVGMzSHdNVXFQUngwTnNTT0JycXhGMVZ1Mk5UTUhiOWdvQWdiYzVmVFB3ejRNSDF2NjNQMA?oc=5",
    "data": "Wed, 07 Oct 2026 07:00:00 GMT",
@@ -273,12 +280,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeUtMc0tVbjgzcXMxWV92RXFLX0NyQUVRV3VsaURUVk5wb3FwakFsd0dYZlJPYjRzNjVuY0JaU1gwZXl5Q05Zd0ZlczJSYkZ0NTFXUWp1aE82UUI5X21zeW54TmNsZUkxZGJwVHFHeXNqRmNWOHh0Z2xrQWRubDliVzFTZy1HYnlyLVI4UDRON0RTMDc0ZXhOT3BKa1VSX21EM19ZMTFTb0Y?oc=5",
    "data": "Wed, 21 Oct 2026 07:00:00 GMT",
    "fonte": "Il Sole 24 ORE"
-  },
-  {
-   "titolo": "“Zuck Is the Winner” of the White House AI Accord, and Meta’s Open-Source Risk Just Shrank - TIKR.com",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYnhsV01QLXlEYXpkZUZEWl9PR3RnQkV1S2ctd3pYdXpoMElfaFlOcXBjN3ZqVUdKUzRWc2hobWRnSFFWMFJtRnRiZVRSaU4taDZsd1N3YTlRUmc1My1mbDVhX2pQTFFvZXNFaUt5VWlCbldOR3I4bDlxZ0lvRnJoNDRMMFZVbjlFMTJsSG9BZm5INU44Vk5LNk13aFRUSmlxUTVMZGJvcElkNndGdVlYSGNDVldKZw?oc=5",
-   "data": "Mon, 05 Oct 2026 07:00:00 GMT",
-   "fonte": "TIKR.com"
   }
  ],
  "news_brevetti": []

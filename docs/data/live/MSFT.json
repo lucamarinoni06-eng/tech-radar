@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-09T13:40:54+00:00",
+ "aggiornato": "2026-11-10T13:19:09+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -99,6 +99,16 @@
  },
  "norme_usa": [
   {
+   "titolo": "ConocoPhillips Company; Notice of Institution of Section 206 Proceeding and Refund Effective Date",
+   "data": "2026-11-10",
+   "tipo": "Notice",
+   "agenzie": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/10/2026-22878/conocophillips-company-notice-of-institution-of-section-206-proceeding-and-refund-effective-date"
+  },
+  {
    "titolo": "United States of America, et al. v. RealPage, Inc., et al.; Response of the United States to Public Comments",
    "data": "2026-11-09",
    "tipo": "Notice",
@@ -146,15 +156,6 @@
     "Homeland Security Department"
    ],
    "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22705/agency-information-collection-activities-incident-communications-activity-report"
-  },
-  {
-   "titolo": "Potential Improvements to the OGE Form 278e (Executive Branch Personnel Public Financial Disclosure Report) and the OGE Form 450 (Executive Branch Confidential Financial Disclosure Report)",
-   "data": "2026-11-06",
-   "tipo": "Notice",
-   "agenzie": [
-    "Government Ethics Office"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22659/potential-improvements-to-the-oge-form-278e-executive-branch-personnel-public-financial-disclosure"
   }
  ],
  "news": [
@@ -169,12 +170,6 @@
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLUdPRnRpbXJ2aHJ1ZHNxZ1c0LW5vNndfSGtvQTJTSFVDRHRhWnFiMmtOMGRWMjJ3ak9YbGxGN3VOZXlsUGM1TDRYQmVGcmlwX2JrQUhERXdaNWZLdXZkZWV2R3JmU05lY09LZEF5WmtFbTVDNDVsUGN4clc5NHc1blVaRDdnV3VTZG5kRVVzX3pwZw?oc=5",
    "data": "Mon, 26 Oct 2026 07:00:00 GMT",
    "fonte": "Morningstar"
-  },
-  {
-   "titolo": "Microsoft offrirà una buonuscita a 60mila dipendenti - Il Post",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSERuamJfV09hajZnTHdVc0VKTnJqT19EeWx6ZE9uUUdvNFl2d2kyMTlBcmFlc0ZEYUs2UDAyUTdqVTMzdlpjaTRDN2hQTl9DNGYxaUYtckdjUkc3MUJsbDNEWTJEX2I4eWtPbTNSMm9xOFdXVjkyQXdRcS1iUXJVVEJRLTZ4cFU?oc=5",
-   "data": "Mon, 26 Oct 2026 07:00:00 GMT",
-   "fonte": "Il Post"
   },
   {
    "titolo": "Microsoft: piano di incentivi all’esodo per un quarto dei dipendenti, fino a 60mila persone - Il Sole 24 ORE",
@@ -195,21 +190,21 @@
    "fonte": "Yahoo Finanza"
   },
   {
+   "titolo": "Microsoft Italia, 62 licenziamenti: scatta lo stato di agitazione - UILTuCS",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbTJicGdsVnZpSVNDS1VzaE14OHgyNXFmQWl2MXNWTlhCRmEzT25PUXBDQlg1TXJaelFFU3BTbDF2SF9pVk5JYnYwTU9NVVE0ei1ZS2JHSzloNzVxaVZHekg5cjFOS0trRzFwRWdmeXJjS3V1Y19BNlZFejJHUy1ONXBPVHJBT2ZfaTRz?oc=5",
+   "data": "Thu, 05 Nov 2026 13:32:08 GMT",
+   "fonte": "UILTuCS"
+  },
+  {
    "titolo": "Microsoft offre l’uscita volontaria a 60mila dipendenti: esclusi data center e vendite - Milano Finanza",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRFdpRU16bGJaRVpQWmFvM0tFNmJFVXNoR0E2bWhuaTJpXzBlN3cwTzNISVk4d1M0VFRpSmFjUmxZdUNhMC1TZEhoWVZBYUZlbVVvU0NTYlAyQjhPeHJqUXY5dHRBdnhRSTA4dGhYbWVTZzhVNmV4NkJDdkxBWkVTN3hsN3RBNmh6N0RzcWtGR0ppR0otbkdxSE9XTkpYM0xxYWF6NDVhMzFMUDRlTVdUVmxILXVIdW10V0RGV2t0SGJNZmxPMU9aQ2NXcWNJdzVxaXc1Vg?oc=5",
    "data": "Mon, 26 Oct 2026 07:00:00 GMT",
    "fonte": "Milano Finanza"
   },
   {
-   "titolo": "L’IA di Microsoft supera i medici anche nei casi da pronto soccorso: lo studio su Science - la Repubblica",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd1dGSi1yMUNUcXJHT08wSThRWnVZc3RVNFpkTlVhZU1wSE9kQ2xuU2R6TWVpR0REM3A2eHFDckNoVnRPYTA4cEFGbDBSRHdpblpGdHowRExSNFM5RHoybkxSeF9McktKT0dIRmtoSnBNcmNXWEgwaEVwZjBYWHNyRXQ0YUl3Y19Oc2JMWUFOT0RJeUxPMTZUZzhhR0JnOUs5QW5USmRNd0tjSUtvcHh6eF9IRmLSAboBQVVfeXFMTnBEUHNOWG1LTkk3VHNKTXdRVXVvNWpnNVBPS09uRGMtb2tPaDl1bjNyVG50T0Y4TGdFRHJidzFVWENLLTBXUTMwaXVrc1BMSmo5Z1BuYWQ4aHd4RE9aQXFjbFBzSmZoWUVtaUN6NlNaZVZvQjMweWQ0Y0NOOGRxVm5zOFZRZU91bHE5N0c4QkYxRVVaZEl2MlV1WG90Q1JzWm1ZTE4zZUFoN1QtcmxfVm5wUVc4RWg0b2pn?oc=5",
-   "data": "Fri, 23 Oct 2026 07:00:00 GMT",
-   "fonte": "la Repubblica"
-  },
-  {
    "titolo": "Microsoft 365, le alternative gratuite da conoscere - HDblog.it",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQTh5ZmZKc3pLRktmTk51NFZzaTBDUDdRZGg5a2g4X2xBZ2tBTkJuYXFaanJpQlpnTGUtV1h6RVdTVTZlTUJxNmltVUd1em5VcV8wdkxmT1hlRWs4dVJ2Q2JsdG9iMDRnUkhyS3hmQjJ2aWh5azN3TXJpNG80WF9MbnNCWjZrM25MUVJCbzBUQllRMElfb1R0M0VoSUFGZkp2R3c?oc=5",
-   "data": "Sun, 01 Nov 2026 11:56:37 GMT",
+   "data": "Sun, 01 Nov 2026 07:00:00 GMT",
    "fonte": "HDblog.it"
   },
   {
@@ -217,6 +212,12 @@
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMTTA1TUVwY01Ick1oaG9kZGVreHpCcVBMak8xeVEzLUZVWmUxcFg2cE5YWDgtaHJuM2xqN1FMRWxGVnRNZUpOQzBKSG8wLUNrdDFSR3ZFYlNmaTNxZjhSb3RKcVRoZE9KR1JYTU1B?oc=5",
    "data": "Thu, 05 Nov 2026 17:14:00 GMT",
    "fonte": "RomaToday"
+  },
+  {
+   "titolo": "Analisi dei dati di intelligenza artificiale: Migliora l'analisi dei dati - Microsoft",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXTWZIZTNUSTVWV2lLeUZqY3VqX3JrSG9nVjFPNXN6bzBXT3c4LVh3N3QxbFlWN2l6ZmZ4VXFkd2MzeWxmOXBFc0VHVlFVYnVfOXhjYkg3eFNTdmV5djduRjE0WkpOcGdsWXVXS1A3VFdsazdZREdmRFZNdkJIdw?oc=5",
+   "data": "Fri, 16 Oct 2026 10:12:37 GMT",
+   "fonte": "Microsoft"
   }
  ],
  "news_legali": [

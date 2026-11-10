@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-09T13:40:56+00:00",
+ "aggiornato": "2026-11-10T13:19:11+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -99,6 +99,16 @@
  },
  "norme_usa": [
   {
+   "titolo": "Combined Notice of Filings #1",
+   "data": "2026-11-10",
+   "tipo": "Notice",
+   "agenzie": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/10/2026-22879/combined-notice-of-filings-1"
+  },
+  {
    "titolo": "Renewal of Agency Information Collection Activities: Submission for OMB Review; Comment Requested; Ocean Transportation Intermediaries; 3072-0018",
    "data": "2026-11-02",
    "tipo": "Notice",
@@ -142,15 +152,6 @@
     "Securities and Exchange Commission"
    ],
    "link": "https://www.federalregister.gov/documents/2026/10/16/2026-21149/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order"
-  },
-  {
-   "titolo": "Extending the Reporting Deadline Under the Greenhouse Gas Reporting Rule for Reporting Year 2025 to March 10, 2027",
-   "data": "2026-10-14",
-   "tipo": "Rule",
-   "agenzie": [
-    "Environmental Protection Agency"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/10/14/2026-20982/extending-the-reporting-deadline-under-the-greenhouse-gas-reporting-rule-for-reporting-year-2025-to"
   }
  ],
  "news": [
@@ -173,16 +174,16 @@
    "fonte": "Brand News"
   },
   {
-   "titolo": "Alphabet: Google acquisisce un sito in Wyoming per un progetto di data center - MarketScreener Italia",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGlFTFZkTW1oYURPVkd0dUpiYzZTV1c4ODVKWUJBU1FQXzQ5YWlXcWdiN2dLLXllNmJYRzRhV05vVmtHeXJUdVB6d3FYWFg2M2h4R3hSWExzeWZ1SnRBVUdyWVZ3WEhJQ2Fla3NqaGRNdGxHeGE1TFp0QmdaR29YUVQ4MC1OZjJHUmlHY1Naa3U0dHZ0RlVnTU45QXktWXMtRzVzVmdpeGJpeHVlYXRUdVVRT2dEVFU4cWF3YlVhMmVsa2twSjVDVTd1Yw?oc=5",
-   "data": "Fri, 06 Nov 2026 21:36:19 GMT",
-   "fonte": "MarketScreener Italia"
-  },
-  {
    "titolo": "La trimestrale di Alphabet delude le attese. Il titolo crolla in Borsa - Forbes Italia",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHR0QW10Q3h3WnFwelJqYWpNQjhtZ0dkdzlIb1pkblMyUm1tSVh5cHNDcW9jZE00aWZWV3Awb1pJU2dld25BNTE3aUxmZm5IZmhrLU5VNDNlbGdIQ1FqNTFKMTg2MnVpZEJxbjJjQzFuejN3ejdFdFJRdG9icGFwRnZTUUpFQ25PN3VQXw?oc=5",
    "data": "Thu, 29 Oct 2026 07:00:00 GMT",
    "fonte": "Forbes Italia"
+  },
+  {
+   "titolo": "Alphabet: Google acquisisce un sito in Wyoming per un progetto di data center - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGlFTFZkTW1oYURPVkd0dUpiYzZTV1c4ODVKWUJBU1FQXzQ5YWlXcWdiN2dLLXllNmJYRzRhV05vVmtHeXJUdVB6d3FYWFg2M2h4R3hSWExzeWZ1SnRBVUdyWVZ3WEhJQ2Fla3NqaGRNdGxHeGE1TFp0QmdaR29YUVQ4MC1OZjJHUmlHY1Naa3U0dHZ0RlVnTU45QXktWXMtRzVzVmdpeGJpeHVlYXRUdVVRT2dEVFU4cWF3YlVhMmVsa2twSjVDVTd1Yw?oc=5",
+   "data": "Fri, 06 Nov 2026 21:36:19 GMT",
+   "fonte": "MarketScreener Italia"
   },
   {
    "titolo": "Traballa l’AI trade: cosa dicono i crolli di Intel e Google - We Wealth",
@@ -197,22 +198,22 @@
    "fonte": "Fortune Italia"
   },
   {
-   "titolo": "Alphabet, l’IA si mangia la cassa di Google: il titolo sprofonda in Borsa - Borsa&Finanza",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcl9zMVcxdDhCQXBPbjlkeW9NNmVqUTl2N25TWlhBS1V2NlFSU0YtdzhwTm96LUFqWUpTVi1PSjhxTWVHUTVDdVYwdHdvZl8tWGZQckl2RFc5N3hKeThRMGJUNlEyZjVIc1kzMlBlRnd5cW1UdW5IVzZINlRFcW9DdFU5blNkOWt4U1BlSjBSRVpUZ25WSGc?oc=5",
-   "data": "Thu, 29 Oct 2026 11:00:00 GMT",
-   "fonte": "Borsa&Finanza"
-  },
-  {
-   "titolo": "Azioni Alphabet: Google primo operatore media italiano per fatturato, cosa fare? - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpbFl1dFpLNEFFZVl1Nk5sS1J3amU3WDBZaHBNX1h4enZEak5BZXpJaFUwam9XVHppaW14dGJ0QVRTb0NKMUhlR3hxNHU1NUczeXowQ1FLcU9lOEx1OWxFdV9uY2oxdWtneVN2TENveHo?oc=5",
-   "data": "Mon, 02 Nov 2026 08:00:03 GMT",
-   "fonte": "TradingView"
-  },
-  {
    "titolo": "Alphabet crolla, Amazon delude: il mercato chiede ritorni all’AI - Agenda Digitale",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXdWUDh6enM0Zzh1RzFtRGM4eTM3TkpQdHFFMzRFQjlSRVM2YU93QlQ0RWQ3eGF3Njl1cmNXdVBqMFJqZ09LSDRiUGkwdWpBd2s1NHI3T1Q0VW5nS0ZNVks0V3QzTy1tWlYyNDJSM2t1alJBSkhwTzVXaVFpSVJBNjZzaW9hSmV3Ry1RMUhsZkMtSURfcV9vYzJ5WDdEMlVFaU5wMEpGTUNiaktDemc?oc=5",
    "data": "Fri, 30 Oct 2026 07:00:00 GMT",
    "fonte": "Agenda Digitale"
+  },
+  {
+   "titolo": "L'AI fa bruciare ad Alphabet (Google) miliardi su miliardi. E il titolo scivola in Borsa di oltre 11 punti - StartupItalia",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqSXZUUWM1Sy1YWTRPM1g3YTFqYlBhc2x5ckhSYVpteXhCN1NHRGFXRmt0SGJYd3NuTGExVzE4bkVFbU92V3JNcHNRemVlSl93X3lJeTVod0tLc3dvaXRIRk0yQlNobll1anJKLXExQ0ZYUGpBWm5v?oc=5",
+   "data": "Thu, 29 Oct 2026 07:00:00 GMT",
+   "fonte": "StartupItalia"
+  },
+  {
+   "titolo": "Alphabet, l’IA si mangia la cassa di Google: il titolo sprofonda in Borsa - Borsa&Finanza",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcl9zMVcxdDhCQXBPbjlkeW9NNmVqUTl2N25TWlhBS1V2NlFSU0YtdzhwTm96LUFqWUpTVi1PSjhxTWVHUTVDdVYwdHdvZl8tWGZQckl2RFc5N3hKeThRMGJUNlEyZjVIc1kzMlBlRnd5cW1UdW5IVzZINlRFcW9DdFU5blNkOWt4U1BlSjBSRVpUZ25WSGc?oc=5",
+   "data": "Thu, 29 Oct 2026 11:00:00 GMT",
+   "fonte": "Borsa&Finanza"
   }
  ],
  "news_legali": [
@@ -229,12 +230,6 @@
    "fonte": "Borsa&Finanza"
   },
   {
-   "titolo": "Alphabet crolla, Amazon delude: il mercato chiede ritorni all’AI - Agenda Digitale",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXdWUDh6enM0Zzh1RzFtRGM4eTM3TkpQdHFFMzRFQjlSRVM2YU93QlQ0RWQ3eGF3Njl1cmNXdVBqMFJqZ09LSDRiUGkwdWpBd2s1NHI3T1Q0VW5nS0ZNVks0V3QzTy1tWlYyNDJSM2t1alJBSkhwTzVXaVFpSVJBNjZzaW9hSmV3Ry1RMUhsZkMtSURfcV9vYzJ5WDdEMlVFaU5wMEpGTUNiaktDemc?oc=5",
-   "data": "Fri, 30 Oct 2026 07:00:00 GMT",
-   "fonte": "Agenda Digitale"
-  },
-  {
    "titolo": "Conviene Comjprare Azioni Alphabet Google Novembre 2026 ? Target Price - Finanza Italiacom",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhWWd3SzZJREFmVWcyd0FxYWlEdGpObUljbGZQMjlyeE1wUFBrOWwzQmlINTkzbEdzT0xodGFhWmhJQkZJU0N4ODFCMFUyRE1RNUhrWFJDTUhsMG9Dc01XUTF4Wnd4a1hnMW5wUlZ4aw?oc=5",
    "data": "Thu, 29 Oct 2026 07:00:00 GMT",
@@ -245,12 +240,6 @@
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YYnl3Wkd0M0RtRzdHV2pEY0lLVHo1V2gwODRNdjNQaHh2cXRIdE9tWU1vcGlPeGZ1NFFDbzBEdXZ4YlpDdERMZkoyMExCODJBcGw0SzBPdjdyMmh6eFgzMjR6YUdIZGxWcEJFR011SWEzd1YtRFBj?oc=5",
    "data": "Fri, 30 Oct 2026 07:00:00 GMT",
    "fonte": "Pasquale Pillitteri"
-  },
-  {
-   "titolo": "Ricavi di Apple contro Google: chi guadagna di più? (2026) - FourWeekMBA",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOYVZHY3FqNTVLUFhWSzg2dThYQVNhNVBYMU9ZRUM4bmNrRnlYUUpsT3JwR2syVWRncGM2bHlhRWdiM0d0ckpHNS1XM3ZGZjI3bkVFbEFlOVUtWDNlN3h6RGJKRllDZVZUYy1QSDN5X2p5V0VwcXc?oc=5",
-   "data": "Tue, 13 Oct 2026 07:00:00 GMT",
-   "fonte": "FourWeekMBA"
   },
   {
    "titolo": "Alphabet: Google prevede un investimento di 17 Mrd USD per un data center nel Wyoming - MarketScreener Italia",
@@ -271,10 +260,16 @@
    "fonte": "IlSoftware.it"
   },
   {
-   "titolo": "E se l'S&P 500 rimbalzasse fino a 8.100 punti entro la fine dell'anno? - MarketScreener Italia",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRFhfNlEwTG5IMjNFRlJEcXNlV2k4M0NNbEdvcjdxajFmZ3Zla1ducWFFQjQ3azBTRHNBRjZSYlBMekhPNlQyTWdmTGt1bXNDaDY3Nk9oU0pFalFlM19zMFRLaVBlYmFaRTByaU1CRW1xbkNENWlKN09qZmtON1hWUHdOZGE4N2RwcExYTDFsNVV0cjYtMGJYRUxwRXFTT1JDTWlISkh4VkM2cDNDMHY2ZVJGdVp6S3I2cnFKMjB4TFhvZw?oc=5",
-   "data": "Fri, 06 Nov 2026 20:07:27 GMT",
-   "fonte": "MarketScreener Italia"
+   "titolo": "Ciulli brinda, Google banna e l'Ordine dei Giornalisti buca una notizia diventata Tesi di Laurea - Matrice Digitale",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0lkcjJnWHVqSWJtZENOc21XNmpLdnZNRVN3cEJNNkZJZ0JBWHdMRGpjZVFvZ0M0T1Q5RGk0eTFNZEJ4a0dITFJkbG5Jdjd4eGVvSE1Nb0ZtZEZ6S1ExTGRGZWNrMjNCRmE1SU9uVDhvZC0tVGs0dHAwMzNvR1lBQzV6OHcyUQ?oc=5",
+   "data": "Sat, 31 Oct 2026 11:00:00 GMT",
+   "fonte": "Matrice Digitale"
+  },
+  {
+   "titolo": "EssilorLuxottica +13%: ricavi superiori alle stime, ma incombe Google - Invezz",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOWZtblpwQ0R4aVhtZlpPQWtBQ3dhSEpYSlY0dDI2VFBIdmNyX25KNVlzOHJXQVlTTm5DVWEwY29jb2h5RHhtbXZ5azRLT25vY2FYWVNtZ1RVNmNqMnFZZ09XSDdRYUNsNWh0ck9wWWNTMDdJakNkamhqWEJSZUV2RXo5alBmaGNvQXFoNU5TWkpEd1liQlR0N1d1WmNJaXl2VGFFNklEOFlXWVdXVU9LRGZOX3U?oc=5",
+   "data": "Wed, 21 Oct 2026 07:00:00 GMT",
+   "fonte": "Invezz"
   }
  ],
  "news_brevetti": []
