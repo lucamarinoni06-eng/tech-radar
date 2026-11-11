@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-10T13:19:09+00:00",
+ "aggiornato": "2026-11-11T12:30:04+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -99,6 +99,24 @@
  },
  "norme_usa": [
   {
+   "titolo": "Chief Human Capital Officers Council Meeting",
+   "data": "2026-11-12",
+   "tipo": "Notice",
+   "agenzie": [
+    "Personnel Management Office"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/12/2026-23046/chief-human-capital-officers-council-meeting"
+  },
+  {
+   "titolo": "741st Meeting of the Advisory Committee on Reactor Safeguards (ACRS)",
+   "data": "2026-11-12",
+   "tipo": "Notice",
+   "agenzie": [
+    "Nuclear Regulatory Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/12/2026-23013/741st-meeting-of-the-advisory-committee-on-reactor-safeguards-acrs"
+  },
+  {
    "titolo": "ConocoPhillips Company; Notice of Institution of Section 206 Proceeding and Refund Effective Date",
    "data": "2026-11-10",
    "tipo": "Notice",
@@ -137,25 +155,6 @@
     "Centers for Medicare & Medicaid Services"
    ],
    "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22743/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other"
-  },
-  {
-   "titolo": "Columbia Gulf Transmission, LLC; Notice of Application and Establishing Intervention Deadline",
-   "data": "2026-11-06",
-   "tipo": "Notice",
-   "agenzie": [
-    "Energy Department",
-    "Federal Energy Regulatory Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22722/columbia-gulf-transmission-llc-notice-of-application-and-establishing-intervention-deadline"
-  },
-  {
-   "titolo": "Agency Information Collection Activities: Incident Communications Activity Report",
-   "data": "2026-11-06",
-   "tipo": "Notice",
-   "agenzie": [
-    "Homeland Security Department"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22705/agency-information-collection-activities-incident-communications-activity-report"
   }
  ],
  "news": [
@@ -172,10 +171,22 @@
    "fonte": "Morningstar"
   },
   {
+   "titolo": "Microsoft offrirà una buonuscita a 60mila dipendenti - Il Post",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSERuamJfV09hajZnTHdVc0VKTnJqT19EeWx6ZE9uUUdvNFl2d2kyMTlBcmFlc0ZEYUs2UDAyUTdqVTMzdlpjaTRDN2hQTl9DNGYxaUYtckdjUkc3MUJsbDNEWTJEX2I4eWtPbTNSMm9xOFdXVjkyQXdRcS1iUXJVVEJRLTZ4cFU?oc=5",
+   "data": "Mon, 26 Oct 2026 07:00:00 GMT",
+   "fonte": "Il Post"
+  },
+  {
    "titolo": "Microsoft: piano di incentivi all’esodo per un quarto dei dipendenti, fino a 60mila persone - Il Sole 24 ORE",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV2RRbU9lZWt6Q2sxTDNhRlR4a0p4OTZMU1J0M3c1R0ZubFF5a0RYNWhHWFpTRmdpUWZTcFNKaDF5TXlLMHVTR3JnMVUyM2poX1ZsUm50OG1HOXppdkMtYWlhNzByZHpFLTRSa1FIVWc4a0dPYW1zSFNicVhQNFBWWEI2NzVmMF9mT2lMbTVxTVYzcFhkbGJfMmU0cFBfQkJFSkh5T1NpSXQxLU1veTc0T215SEdoRlUx?oc=5",
    "data": "Mon, 26 Oct 2026 07:00:00 GMT",
    "fonte": "Il Sole 24 ORE"
+  },
+  {
+   "titolo": "Microsoft Italia, 62 licenziamenti: scatta lo stato di agitazione - UILTuCS",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbTJicGdsVnZpSVNDS1VzaE14OHgyNXFmQWl2MXNWTlhCRmEzT25PUXBDQlg1TXJaelFFU3BTbDF2SF9pVk5JYnYwTU9NVVE0ei1ZS2JHSzloNzVxaVZHekg5cjFOS0trRzFwRWdmeXJjS3V1Y19BNlZFejJHUy1ONXBPVHJBT2ZfaTRz?oc=5",
+   "data": "Thu, 05 Nov 2026 13:32:08 GMT",
+   "fonte": "UILTuCS"
   },
   {
    "titolo": "Microsoft offre l'uscita volontaria a 60mila dipendenti. Intanto investe 175 miliardi di dollari nell'IA - Forbes Italia",
@@ -190,34 +201,22 @@
    "fonte": "Yahoo Finanza"
   },
   {
-   "titolo": "Microsoft Italia, 62 licenziamenti: scatta lo stato di agitazione - UILTuCS",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbTJicGdsVnZpSVNDS1VzaE14OHgyNXFmQWl2MXNWTlhCRmEzT25PUXBDQlg1TXJaelFFU3BTbDF2SF9pVk5JYnYwTU9NVVE0ei1ZS2JHSzloNzVxaVZHekg5cjFOS0trRzFwRWdmeXJjS3V1Y19BNlZFejJHUy1ONXBPVHJBT2ZfaTRz?oc=5",
-   "data": "Thu, 05 Nov 2026 13:32:08 GMT",
-   "fonte": "UILTuCS"
-  },
-  {
    "titolo": "Microsoft offre l’uscita volontaria a 60mila dipendenti: esclusi data center e vendite - Milano Finanza",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRFdpRU16bGJaRVpQWmFvM0tFNmJFVXNoR0E2bWhuaTJpXzBlN3cwTzNISVk4d1M0VFRpSmFjUmxZdUNhMC1TZEhoWVZBYUZlbVVvU0NTYlAyQjhPeHJqUXY5dHRBdnhRSTA4dGhYbWVTZzhVNmV4NkJDdkxBWkVTN3hsN3RBNmh6N0RzcWtGR0ppR0otbkdxSE9XTkpYM0xxYWF6NDVhMzFMUDRlTVdUVmxILXVIdW10V0RGV2t0SGJNZmxPMU9aQ2NXcWNJdzVxaXc1Vg?oc=5",
    "data": "Mon, 26 Oct 2026 07:00:00 GMT",
    "fonte": "Milano Finanza"
   },
   {
-   "titolo": "Microsoft 365, le alternative gratuite da conoscere - HDblog.it",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQTh5ZmZKc3pLRktmTk51NFZzaTBDUDdRZGg5a2g4X2xBZ2tBTkJuYXFaanJpQlpnTGUtV1h6RVdTVTZlTUJxNmltVUd1em5VcV8wdkxmT1hlRWs4dVJ2Q2JsdG9iMDRnUkhyS3hmQjJ2aWh5azN3TXJpNG80WF9MbnNCWjZrM25MUVJCbzBUQllRMElfb1R0M0VoSUFGZkp2R3c?oc=5",
-   "data": "Sun, 01 Nov 2026 07:00:00 GMT",
-   "fonte": "HDblog.it"
-  },
-  {
-   "titolo": "Microsoft avvia il terzo taglio di personale in 3 anni: a Roma licenziati ingegneri per fare spazio all'IA - RomaToday",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMTTA1TUVwY01Ick1oaG9kZGVreHpCcVBMak8xeVEzLUZVWmUxcFg2cE5YWDgtaHJuM2xqN1FMRWxGVnRNZUpOQzBKSG8wLUNrdDFSR3ZFYlNmaTNxZjhSb3RKcVRoZE9KR1JYTU1B?oc=5",
-   "data": "Thu, 05 Nov 2026 17:14:00 GMT",
-   "fonte": "RomaToday"
-  },
-  {
    "titolo": "Analisi dei dati di intelligenza artificiale: Migliora l'analisi dei dati - Microsoft",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXTWZIZTNUSTVWV2lLeUZqY3VqX3JrSG9nVjFPNXN6bzBXT3c4LVh3N3QxbFlWN2l6ZmZ4VXFkd2MzeWxmOXBFc0VHVlFVYnVfOXhjYkg3eFNTdmV5djduRjE0WkpOcGdsWXVXS1A3VFdsazdZREdmRFZNdkJIdw?oc=5",
    "data": "Fri, 16 Oct 2026 10:12:37 GMT",
    "fonte": "Microsoft"
+  },
+  {
+   "titolo": "Microsoft ridimensiona l'accordo cloud con Oracle: ripensata la strategia su infrastrutture AI - Borsa Italiana",
+   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNRzMzQW5ZTDdWWU9nWjlvTk1rZUdBTXRXak54UmUzRmQ4OEdReFdSSEh0X0dCSkhwSG1KanBoaW5Fb3BCcms2N0JjLW1FbEQwSENFQ3poUTFqQ29DOC1WaEdHS1A0bjlNcjhUenFHY0I0TWdKNkM1cFBpRm9Lb2pnT04xaWtLQVVMVE8tVTBxYUl5R2cxSU1HZDAzU0o3YWZYaDk1Y19rYzBTT21BUkpHMVhpd2JqeDBxVVRVZ1k2eldYR1N0MUttQlRfYVZOeDRNaEFCUE9zRjU5MmFHQklVX1NiZWV2Z0pSVG5PQWZoamtNcVJrMkx2US0yUDlnd2RnVUg1aDB0SGh0OHpOdnR6cVl6Qmc?oc=5",
+   "data": "Fri, 06 Nov 2026 19:20:00 GMT",
+   "fonte": "Borsa Italiana"
   }
  ],
  "news_legali": [
@@ -246,10 +245,10 @@
    "fonte": "Startmag"
   },
   {
-   "titolo": "Microsoft, Maia 200 entra in produzione: i nuovi chip Maia 300 arriveranno nel 2027 - Il Sole 24 ORE",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZy0wdVFoZ3ZtWk1GYTRxZU1zcDdkOG1aX1U1MFp3bzNKNWFjRUdJYWRmdHZwZkxTRFJKNFc0b3F6Y1h3eDE1eGNkbjE4aW1QWVhUbC1mdmVpQlI1M2J4QV84SDhsMENJR2JXMVBFX3pNYVNHeHlRdUNuV0pydGtobF9tWUxJNlFhWW5ta3pIbUVSLTJuSHZPWm1wd19sd3lwa3lFb2FaZW44TTRMaER4aWJrLS1abGhwN05JbFFn?oc=5",
-   "data": "Mon, 12 Oct 2026 07:00:00 GMT",
-   "fonte": "Il Sole 24 ORE"
+   "titolo": "Antitrust Italia guida azione congiunta Ue su videogiochi gruppo Microsoft Da Reuters - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUG9Rc0RKcWJjS1pIbC1Lb3ZjVEg3QVp4RkZGRlZkTzMxdnMwX01OWFJMMk1pRThvNkpTd25LcmhJeFVGQWMzOGpSZnpvR0ZRODNsQllISnp4ZC1wZ1I3MDVBcThKWVNXQXFKXzdDQWFQT2o4T1ZRSnJLZzJlbHRnajFZYmpXc2Qtd05nYVFGOEVOTHh5SjdzUUVjN0F3TXY4STlDbnIwYTgtcHRIV2FDT2k1a19MS0E2NVJ3LTJOb1dydXRYa3F3NE1B?oc=5",
+   "data": "Thu, 08 Oct 2026 07:00:00 GMT",
+   "fonte": "Investing.com"
   },
   {
    "titolo": "Da Diablo a Call of Duty, Antitrust e Ue verificano le spese nascoste nei videogiochi - RaiNews",
@@ -258,28 +257,28 @@
    "fonte": "RaiNews"
   },
   {
-   "titolo": "Antitrust Italia guida azione congiunta Ue su videogiochi gruppo Microsoft Da Reuters - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUG9Rc0RKcWJjS1pIbC1Lb3ZjVEg3QVp4RkZGRlZkTzMxdnMwX01OWFJMMk1pRThvNkpTd25LcmhJeFVGQWMzOGpSZnpvR0ZRODNsQllISnp4ZC1wZ1I3MDVBcThKWVNXQXFKXzdDQWFQT2o4T1ZRSnJLZzJlbHRnajFZYmpXc2Qtd05nYVFGOEVOTHh5SjdzUUVjN0F3TXY4STlDbnIwYTgtcHRIV2FDT2k1a19MS0E2NVJ3LTJOb1dydXRYa3F3NE1B?oc=5",
-   "data": "Thu, 08 Oct 2026 07:00:00 GMT",
-   "fonte": "Investing.com"
-  },
-  {
-   "titolo": "Microsoft 365, l'Antitrust respinge le proposte di Microsoft: troppo poco per compensare gli utenti - Hardware Upgrade",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQXNWdjV2NnRKZkRjanR4RHBOMFB6aWFMUVZVZnh4UWhPZlVlem9FS0Zkc2l3Z0JRU2phcDhJVkhDcE9rVUd2MjFFXzVkWmZmaTVJemhodmpYX3dYakl5eTBTRURXQ250a2U5MGY0M3Nfd2RwNHRydHdTR19oajhUNVFUU0cyRXctcTlTQnJzY2hkelFMR3JiRjY3aWZQaGNnN3FMZFViZHRHaU16RGpLR2MxOFJOTWRXZzJUQURpRFQ5VjMyVEhNUV9XZTl0T0JvLXhjRmtoTmdDS28?oc=5",
-   "data": "Thu, 24 Sep 2026 07:00:00 GMT",
-   "fonte": "Hardware Upgrade"
-  },
-  {
    "titolo": "Microsoft riorganizza Xbox: Halo passa ad Activision - Key4biz",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN1RiTkVJUi1qa0VCZ2JBZ0lzTDFFdUNVYmlIZXVnT3R2T2txN0RFZS1ILV90ejhiTmVUa3JUQXE2NXZrMEpQRzE1WXpPbFJfMUwxR2JRa1N4VmRBblUyNmMxQmdEUWRVcS1Tc2czRlN5Nkl4V1VQdFNkQ1JuV1hwdnI1cW9SNUNrWVE?oc=5",
    "data": "Wed, 23 Sep 2026 07:00:00 GMT",
    "fonte": "Key4biz"
   },
   {
+   "titolo": "La crisi di Xbox non ha fine, Microsoft stravolge la strategia. “Pronti centinaia di licenziamenti” - Quotidiano Nazionale",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeC15TW1ra091YnRPaldsYk1jZERVM1JlTGlzS29kaVRfNUc2UDFWWmVGN19yNE1XamNBNC12TlFCWVlHMjBid3pRU0Zwdk5GYzlhLWNjVVdCQmtOMHB6TjlFSS1xT0IxWkdXVk1CVkRQVGRlOFl5WkI0YW5YbEJJT2ItSFNIZDZ3VG9yR2dfNzNBdHF4aU5CMlRUM1lTaWxXWWd0Mm9fNUc5QjZiNjlKQnZWdWsyWDhmeC1yTVF2UVZ0VkxXUWFORGFZZ0plSWVEQmc?oc=5",
+   "data": "Tue, 22 Sep 2026 07:00:00 GMT",
+   "fonte": "Quotidiano Nazionale"
+  },
+  {
    "titolo": "Gaming, azioni coordinate nell’Ue. L’Antitrust italiana guida l’attività su videogiochi che fanno capo a Microsoft - iGizmo.it",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaEZqZmR2Y1JlMXNBeEk5dDFoSWYtaUo5M1VucTN5WGsxX1BKMVVmT2hxd0paby1jbzBZcFVQSFp3MExlWEdOX0pES0xoV2tIOGY3SHdpeDA5WFRobUw5anhMcFNkaU9pRzk5VVh2X00wY2JKRkNWWHRzZGIySTl5WXVyYjBYMmtDNHJOQkdGeFY5OURYSzBrbDlNLVZ5cVVvVFFEbzdXLVphWlVoQ0g3TWZpdFlEM2pFYkRnd0ZUZEdTXzJ3YjIxNnpMZHg?oc=5",
    "data": "Thu, 08 Oct 2026 07:00:00 GMT",
    "fonte": "iGizmo.it"
+  },
+  {
+   "titolo": "Tim Schafer vuole che Xbox Game Pass funzioni, anche dopo l'addio a Microsoft - Multiplayer",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWnF5enB6bDBoM0xESjZtNlZnUjFvdUMzd0FWR2N6bUY4MVJsLU9mYnNIdml2U2E2cDRWd1hpMlI4SGtlN2t3cEs3UTJNX2k1NHJ3ZmdSSExtalcweThiREpsWFh0S25QLThHSHpIa0EwWXNmcWhYZmw0a00tU05MWUJvWEM5VGtIYUhrUzI0ekhJUnIxQThkc2dORXBOY1hWOXl2T18zV1dVdUNSaXRj?oc=5",
+   "data": "Sun, 08 Nov 2026 20:30:49 GMT",
+   "fonte": "Multiplayer"
   }
  ],
  "news_brevetti": [

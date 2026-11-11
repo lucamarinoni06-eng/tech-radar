@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-10T13:19:16+00:00",
+ "aggiornato": "2026-11-11T12:30:11+00:00",
  "filing": [
   {
    "tipo": "10-Q",
@@ -152,10 +152,22 @@
  ],
  "news": [
   {
+   "titolo": "Nvidia: l’indagine sul CEO Huang getta un’ombra sul futuro dell’azienda nell’IA - Morningstar",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNDc4ODEtYzV6REtTVWxSeGpSUWNrU01DbENIaEpFeWZmZU9xbV9ZQnQyTDVVRURzVWFrTERneEZFNVdTbjhjOG55dUUzMG1mNWZkb3FXaHd6U1ZjOFNpWFhaWXZ6cUNSYlpEbFJELUtKSFIzdWVucENyYV9KSUhtcE5jLTNkRWV4dmI0OEhvREpqSXk4alhQNzRqSDZFOEhpN1FyN3piUmVzWnF2S2dvTG9wMkVrZw?oc=5",
+   "data": "Mon, 09 Nov 2026 14:12:24 GMT",
+   "fonte": "Morningstar"
+  },
+  {
    "titolo": "Nvidia trema nel pre-market: ecco cosa sta spingendo gli investitori a scaricare i titoli dell’intelligenza artificiale - Yahoo Finanza",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX21ucE5TZWhxY1pQUGc0S2s0aTV1dW9lNll6SzZyRnZvWWIzakRjWkdJMFZWUzRJM2NUc3ZDRUxHc3pIQ05DOU9RQlQ1VjRvdW5QakhnTlExd3BaTHlxdzZVNlR0dEFObU82UVhXVW5NV2ZTNHpVNnc5RjVmdnZPRk5HQWtvUQ?oc=5",
    "data": "Thu, 05 Nov 2026 15:21:04 GMT",
    "fonte": "Yahoo Finanza"
+  },
+  {
+   "titolo": "Lo scandalo della Nvidia fa tremare il mondo delle ia - Internazionale",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaXRGck9Ibk9kM0c3ZHRaVW5FdG1ubXRUc0twcFZVckIxalZ3YXc0LUZOVHpCT3JFRmZaZVo4dWRUN0NSR0c2d3k5MWFqeGNEa3hwd0V5TTRLVHhaeWhld1llSjZHRW53Q3lwNnVhZFhhN3FOOWcyWmZpMnJWc3o4RTYtcWpkSnhiMEVPVFp6TGJWNGxaVFFnNEZPbVM?oc=5",
+   "data": "Wed, 11 Nov 2026 04:05:04 GMT",
+   "fonte": "Internazionale"
   },
   {
    "titolo": "Quanto conta Jensen Huang per Nvidia - Il Post",
@@ -164,22 +176,16 @@
    "fonte": "Il Post"
   },
   {
+   "titolo": "Perché Nvidia non può permettersi di sostituire Jensen Huang - la Repubblica",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQjBxNExKMUt0dkxPdkpIU3AxSUZJb2lCNkdPMmo3Rzd6eU9RUFJ4M1hocVpkblB1M3dGWHE1M0V1WWFpT2ZOTWVUMlIxdEoyakZta2tJb0ZzN0cyTE56V09jOXNlbjVPUWdmTkYtZzhDQXRETm50bGl1bUdubE5LVkJiM1diUVBxMTFJa1lqRC16Tl9nX1o5Rzl0WDR5RGJPVGl6OFFTTVdtUdIBrwFBVV95cUxQd3dfcEVadzBNcjFFU2VONVpKVFJoRTc5TC1TckhKVkdrdlZ1bV82aHBqdzF1d1BCX3lpZzM0MG9SVUFtVWhBMXBUREM2azF3X3dhVHZYV0tvNlpLd0RQM1VMTzRJXzNIbXY2Vlh1TER6WmVpWjlBQUR5Yldkdzgyd0Z5X05oREVqSzlTTTBmUC1zb0IxOE55aE1VcjVRUkM2RkxUMjRoVzFUZGZwMEZ3?oc=5",
+   "data": "Tue, 10 Nov 2026 12:18:46 GMT",
+   "fonte": "la Repubblica"
+  },
+  {
    "titolo": "Nvidia apre indagine su Jensen Huang: sospetto bersaglio di servizi segreti stranieri dopo relazione - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdFVweXFnY2VtQnVLTUZpaTFCWEFUUU91RURFeE0wYVUtUWxQWXBZNm9EN3hBVWhUVnJ4NXJSdkYzWHg2MGRUcFplbldxUlg4M2VWbVV3cUZKd0R1Vnd6Qm0xLWViaVBTRmpYV05vckxqWnRfQ0twY2JJRTMxekhKRXNqNWxLMmlTbTRiQ1MzTFczdlhVczFlMU8zMXE0TnBpb09TVnduS3J6UDItalAxaHB2b2FfdUk5c1B1ems2V3NpWkU?oc=5",
    "data": "Mon, 09 Nov 2026 05:44:41 GMT",
    "fonte": "Euronews.com"
-  },
-  {
-   "titolo": "Cosa sappiamo della relazione del Ceo di Nvidia con una 'spia cinese' - Sky TG24",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTno3eExEbFZiN2wwOTc0Y3QyUWpPR1ZYbjhTZDZmajhLWGJlYXpNSkJBeXAtbTRUTlhpMl92ZnlNcEtBeEp6aUIycUh6b0xydUZnY2lYR05zWkZadVpfYzRudTdWMU9VOXlfTGY3d21iczgzUG1ya215ZzdzNWZkbEdFeFFXVkpQbXJIYzB3?oc=5",
-   "data": "Mon, 09 Nov 2026 10:32:59 GMT",
-   "fonte": "Sky TG24"
-  },
-  {
-   "titolo": "Caso Nvidia, class action contro il colosso e il suo ceo Jensen Huang - RaiNews",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQenNub1dIUUhacnZ1UkF3dHktYXlYeWhpYmIxSW5yOENsYUNOWTNGRmpPc2NoSENoMDZlcU9xS1VhOHFDY3VjblRkWl9DV3B3RkFWNU83VTBTR0FEMFZSRWRTbS01UzVWbF9sLUZTNVpQaXFBWHZ6QjhWNXdtdUJqcHN3LVhtRkxsODFZNUZDWk1BTDZ4UWVYRjZJSHJaRlVjOHRuTmJXbXpvVWNBRnZMeG5mU0E5SWhCWTJfSmxEVy0wektuWGlRU1lQWk5rclY4QktBUTl0N3ZOaWo1Um9zRjNPdjdjUdIB6wFBVV95cUxPd2VGaFpQcS0wSHFDME9oRUh4U1BTX193R1RzS0VQM2VJWFNPeDFZZUNQUUNwblVjV1VZXzlpWC1acVdVN3UwUWFYQVYzS28wcW1yWXl1QVVCLTdVVzk3VGxKSmhKR3FYSXZERTRPRjl2b1BYTU9hRTE4SUlYSEE3cVJ1UGRXc2w5ZDNjZUxWYnMwQTlmeFdic2hiYmQ2dXJyYWFOUTdlQmhLdUhVRkp1LWFwNFdXSTVhYW1wVjctS3RhN1RLZHZXQWhKaTUtWFRzWXYxcU9UandqTElMNHpia3lNRG5hQ1pkWGxZ?oc=5",
-   "data": "Tue, 10 Nov 2026 04:53:00 GMT",
-   "fonte": "RaiNews"
   },
   {
    "titolo": "Nvidia, indagine interna su Huang per il caso dell'amante sospettata di spionaggio cinese: il titolo crolla a Wall Street - Corriere della Sera",
@@ -188,28 +194,22 @@
    "fonte": "Corriere della Sera"
   },
   {
-   "titolo": "Presunto spionaggio, Nvidia avvia un’inchiesta interna - RSI",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPV0p6NXAxelhuQjViYmhiZ1I0ZFM4T095aFhPOHg2YV8wdnp3MTQySm4zX3I2MEpYOW50R1dRNGE2WElHYlJ4Wm5pamIyamcwaGhxOERIUDNNYlNDcmltUGxlblVldGR0SHFaUWtmTl9LOC1IZm43WkNMbGJjVHk1T0dtWXc0cjNpa01WNEdJQjNucWhEVzB3Sm5ycVdrbzBYMVJ4T2xybGM?oc=5",
-   "data": "Mon, 09 Nov 2026 11:30:00 GMT",
-   "fonte": "RSI"
-  },
-  {
-   "titolo": "Scandalo Nvidia, Huang accusato di frode dagli azionisti. Ora indaga anche l’Fbi - Il Sole 24 ORE",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcjNLZGZ5ekZFNXB1RnhaQWRSVzJEaElORDRaWWpDQ180S3lST1VJZk10aGRWaE5sTVJaTHRBdDRZR21Zc2h1NWtreF93eS1ybjVSZmREU2pmb1FXTXF2M1hqemN3elZwQmU3dmJyVEFKc01xX01hSGtzSmZSTWN0MnZWbG41MUlhZzNRM1Z0NGdrUzE1WE5CZG9TSzcyam9IdW1BbjBOMUVNcTd5WFBTek01cUMydTlpaEkzRjNUNTRJbmZTcVk3NU5NRQ?oc=5",
-   "data": "Mon, 09 Nov 2026 06:43:38 GMT",
-   "fonte": "Il Sole 24 ORE"
-  },
-  {
-   "titolo": "Huang ammette l'affaire con la 'spia cinese', Nvidia trema - ANSA",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRVVGQTlqamR6ckRIQ3ZQV2NINDlpVVN2ODliNEZ3emNka1pyc2I0aUZqcWVTZFF3OGJlUnFSZGozZk5UY2cwZ3NBSTZRSHpPMXdJcEVlUVRBX0xPdEZSMHNHaXFOdktOWjVfT2hzSEw5UUI2RFZOOW1yeEpSRFYwTHJ5N2p1S2V1UzNQdTNFaW5uZ1lYbHlaNUlxdzgwZWVIZm9lenEydTd2NUs2NGtneVMzdzAyYlpKX1dIZkN0bXY3cERQVFlVLVhRem1mU2loVVZtWkhybks1djhNRi15ZjlfTVNNcWV1dmg0amRUY0dzYUxmVkHSAfsBQVVfeXFMTVc3aVVHblhRTDlpUG1FZzZVWEVaZnBfQVhrNjJxZk9EcG5waV9nazRlSnZ4MWpMbzRMV0dmRVVnZlJQNVpnc2VYOHZHTmZrVm50ZkM4ZzI5Ri1KMHlmd0FTNHVMbHN4dmZBZ25Vd1Y4YmR4bnpsZUhfdmRURFloMUN5ZDBaQVJRQWdQZzJTV1VlTVphbGpyazdSRlFhdEJpTHJwaHA2bndPR3NnYUdzeHdhUHc5RXBESnc3WmxwSkNMdWlhUzZuUnM3di10VUNGbTRtWFo5QlNYUTZyQllvMFl5VlQ5bVU3STJacTl1YVlWRXlSYVNMUE5zdGs?oc=5",
-   "data": "Mon, 09 Nov 2026 19:25:00 GMT",
+   "titolo": "Mr. Nvidia travolto, gli azionisti fanno causa. In campo l'Fbi - ANSA",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZ2kyamh5NVNycnZvdElTZTd5aW5nWEszdU5aQkRKeThzZk1KaTlTbWttcUxBUUcySXE0M00zbF9KSUY3cTlWWjR6SFg1T1I3Qk9GZTZtSGxBS0g4NVRyNEVsRl9wY2dsMzVTaExwRmlJSXBrRnlPYTBaMFl5RGUyQm1hZjIxMm4xU1BmNExpOEk4elh1UThScXZkRFUxSkx1OWQzY0Q3R0ZuWEdyWF9KSUFWakN0Y0xMWkFQdVlnVDJKSVIwSWViaTZxSzh4cmRZT1RkSExOSDFxcHI5NGstQWgxcjJNYVXSAewBQVVfeXFMTVJQb2lwS3YyY3FjVFdzN3VQTWpVVlI5WGxtTk5DSG50cnEwYzJrTVVUVmdJRjk5ZUE2c1Q4VjM0aFN2bWtCMXlsMENDaG5mVjVNS09yVWROenlEdnZ3UHRCVFBRV0hqdGpTT2IzbWFJNFJCdWo5OTd0ck05c0dCNWdZeHhZeWQtZ3R4RHR0TkxHRWROZk9tYXNkRGtHYnJ4dDl5WG9USXNGSEZLSkpCTmZ6SjlfSHE4SWpKUlJpVHhnaFNvZ0xta2xMMmRVUG1yV0gtem83WWo4Y1FDNFFVTTFXZlB5a25HQVcyODQ?oc=5",
+   "data": "Tue, 10 Nov 2026 19:02:00 GMT",
    "fonte": "ANSA"
   },
   {
-   "titolo": "Nvidia crolla a Wall Street (-4,37%): cosa c’è dietro l’indagine su Huang - SoldiOnline.it",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY1lKY0tiRDBkaEdBSzFqaHZRSlRqZ1V6SGQ5M1czUkwxVnoyaGswN2pSWWpLZ3pUZjI0SnBlbTlRRE5UbjBWUm9DMGhTMkZNZURhUllmR3RJRG5aTW92ajI1SzdyOHo3ZnoyVXU1NHlyS0t5U3U2bkdKMnNmSVQ3TVR5RVVMRWhDMDZuV0toN3dTTXBoUjB2VlB6NWJYdGloTGRVN2luWU56TUEzRjRhVE50dGREdw?oc=5",
-   "data": "Mon, 09 Nov 2026 15:47:00 GMT",
-   "fonte": "SoldiOnline.it"
+   "titolo": "Cosa sappiamo della relazione del Ceo di Nvidia con una 'spia cinese' - Sky TG24",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTno3eExEbFZiN2wwOTc0Y3QyUWpPR1ZYbjhTZDZmajhLWGJlYXpNSkJBeXAtbTRUTlhpMl92ZnlNcEtBeEp6aUIycUh6b0xydUZnY2lYR05zWkZadVpfYzRudTdWMU9VOXlfTGY3d21iczgzUG1ya215ZzdzNWZkbEdFeFFXVkpQbXJIYzB3?oc=5",
+   "data": "Mon, 09 Nov 2026 10:32:59 GMT",
+   "fonte": "Sky TG24"
+  },
+  {
+   "titolo": "Caso Nvidia, class action contro il colosso e il suo ceo Jensen Huang. Chi è la presunta \"spia\" - RaiNews",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQenNub1dIUUhacnZ1UkF3dHktYXlYeWhpYmIxSW5yOENsYUNOWTNGRmpPc2NoSENoMDZlcU9xS1VhOHFDY3VjblRkWl9DV3B3RkFWNU83VTBTR0FEMFZSRWRTbS01UzVWbF9sLUZTNVpQaXFBWHZ6QjhWNXdtdUJqcHN3LVhtRkxsODFZNUZDWk1BTDZ4UWVYRjZJSHJaRlVjOHRuTmJXbXpvVWNBRnZMeG5mU0E5SWhCWTJfSmxEVy0wektuWGlRU1lQWk5rclY4QktBUTl0N3ZOaWo1Um9zRjNPdjdjUdIB6wFBVV95cUxPd2VGaFpQcS0wSHFDME9oRUh4U1BTX193R1RzS0VQM2VJWFNPeDFZZUNQUUNwblVjV1VZXzlpWC1acVdVN3UwUWFYQVYzS28wcW1yWXl1QVVCLTdVVzk3VGxKSmhKR3FYSXZERTRPRjl2b1BYTU9hRTE4SUlYSEE3cVJ1UGRXc2w5ZDNjZUxWYnMwQTlmeFdic2hiYmQ2dXJyYWFOUTdlQmhLdUhVRkp1LWFwNFdXSTVhYW1wVjctS3RhN1RLZHZXQWhKaTUtWFRzWXYxcU9UandqTElMNHpia3lNRG5hQ1pkWGxZ?oc=5",
+   "data": "Tue, 10 Nov 2026 14:52:00 GMT",
+   "fonte": "RaiNews"
   }
  ],
  "news_legali": [
@@ -238,22 +238,10 @@
    "fonte": "Yahoo Finanza"
   },
   {
-   "titolo": "AI, Musk: \"Colossus 2 raddoppierà i chip Nvidia entro fine anno\" - Teleborsa",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVHJCcjJfY2h6cnBZdTJBTVhMUVpUeENieEREeE1xcjlkMjFrbVJVWXlIaEhYYm9QbGwyZ0lIMXdxb1FXOGY4Ujc1RmRHUi1iOVV1eWRCLW5WWnRxWkNZTmhIQlVmUTNaNF84eG5WeFRndDl1ZmkwVnNIOTl5OWpKVDU3Z0Z4SU5sX190M3M2NFlicTg1ZnhhUExfekd3dVpkOWhjdUVSQ0I5MjZZNDhF?oc=5",
-   "data": "Fri, 25 Sep 2026 07:00:00 GMT",
-   "fonte": "Teleborsa"
-  },
-  {
    "titolo": "Musk: il data center Colossus 2 raddoppierà i chip Nvidia entro fine anno - Investing.com",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRFZEOG9qaFdQU1dFeE45Z2dQU0lsVUYzcVdtcW1sdGJBMklaVGdodzhWck1CVDR6NGYxWXIwQlVrRC00N29Ed3Bua2Q4Y083T3JhU1RFLUxPdlE3d1RpN2cxSEZPVUc1SHlSaEFmbmVKSlNrekIxNHk2R0VJUDg4VV9MS2wzMmFlYl96dldhTHVOMkJpbGhSS0xHXzBnbU4tQlNYRGRYd2h1aTlLcFBEOTRBdGJ3UFlleEJZdFdhZ0RyZWtkVTZxOGFiRQ?oc=5",
    "data": "Fri, 25 Sep 2026 07:00:00 GMT",
    "fonte": "Investing.com"
-  },
-  {
-   "titolo": "La scheda grafica NVIDIA DGX Spark da 64 GB sarà disponibile dal 23 ottobre al prezzo di 4,999 dollari, e due unità possono essere collegate in cluster fino a 128 GB tramite ConnectX-7. - StorageReview.com",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXpoMDFPR1NnUnc4UmdFWXV2ZWJacmtFQ1BidG44ZUdpbnV1bV9tQl85T3pPcEZVdER4cWpYSml1WTZYNFgxRnZ2NjF1dUdSWEM4Uy16M1JuX0JxQjRJWDBabHVSeW9kYlpTUXdVanRXUThCdXhpd2ZXaUVTTTZWTV9qemU3TGdjSlZuN1hrelVEbjJLTkxUbF9nMFVJdEVtWGNIaNIBqgFBVV95cUxQWHY2dXVRQ0RwWkdYWjg0TThCOGNHbGI2TUJ4bk5kRUJwZGtVRVg1UFdNSWNueHQybmRxb21DcFJTSzdOMUhuX2QzWVpzejliMVM0SG5NRVlYbThhaVVlQTNUVGpMVVVURWJ6WHZTNDJNRjR2NzVHRWJLWm5zdHpNWTl5c2g4SV9FX1MwTXRwRjE0WmU0VzdXdzVlblZlMkUzS1h5bkZuQlBTUQ?oc=5",
-   "data": "Fri, 02 Oct 2026 07:00:00 GMT",
-   "fonte": "StorageReview.com"
   },
   {
    "titolo": "NVIDIA smentisce la fine della RTX 5090, ma i partner raccontano un'altra storia - Hardware Upgrade",
@@ -262,25 +250,31 @@
    "fonte": "Hardware Upgrade"
   },
   {
+   "titolo": "La scheda grafica NVIDIA DGX Spark da 64 GB sarà disponibile dal 23 ottobre al prezzo di 4,999 dollari, e due unità possono essere collegate in cluster fino a 128 GB tramite ConnectX-7. - StorageReview.com",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXpoMDFPR1NnUnc4UmdFWXV2ZWJacmtFQ1BidG44ZUdpbnV1bV9tQl85T3pPcEZVdER4cWpYSml1WTZYNFgxRnZ2NjF1dUdSWEM4Uy16M1JuX0JxQjRJWDBabHVSeW9kYlpTUXdVanRXUThCdXhpd2ZXaUVTTTZWTV9qemU3TGdjSlZuN1hrelVEbjJLTkxUbF9nMFVJdEVtWGNIaNIBqgFBVV95cUxQWHY2dXVRQ0RwWkdYWjg0TThCOGNHbGI2TUJ4bk5kRUJwZGtVRVg1UFdNSWNueHQybmRxb21DcFJTSzdOMUhuX2QzWVpzejliMVM0SG5NRVlYbThhaVVlQTNUVGpMVVVURWJ6WHZTNDJNRjR2NzVHRWJLWm5zdHpNWTl5c2g4SV9FX1MwTXRwRjE0WmU0VzdXdzVlblZlMkUzS1h5bkZuQlBTUQ?oc=5",
+   "data": "Fri, 02 Oct 2026 07:00:00 GMT",
+   "fonte": "StorageReview.com"
+  },
+  {
+   "titolo": "Che fine ha fatto Alice Huang Le? Affari e legami della spia cinese con il boss di Nvidia. Class action in California - Quotidiano Nazionale",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbDhpTXd3dFVKQ29rMEttOVVxUGVFVjNzQnlxZS1RaEhLMmNlc1ZLLUVEU1NXcFNWamVyU2ctRmpkT1U5VzVIMnZBQWtkWFRzY25VTTduUVN2Ykd4c1o5a3JJVWgtU0xhTUQ1WWg2YUhlMXBJX1lOMVphUElRMkdfT2VVWENkQkFLSGxyNUVQS0hoRngzMnc?oc=5",
+   "data": "Tue, 10 Nov 2026 10:26:38 GMT",
+   "fonte": "Quotidiano Nazionale"
+  },
+  {
+   "titolo": "Nvidia, Alice Huang Le è scomparsa: chi è la presunta spia della Cina - Sky TG24",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oYjRxUGNzTS1lR21XN1pjYUVBdlFSU2NSemlqcU56Zl9zaFo3QlJGTTBGcDJ2ekM3blo4bFB0UVBtNXhWN3NzMDFLaDdCZlVpZzJFcGlGRDlCZkVfQzh0Q0dkWWR6ZkpLMTlxTW1Oc3cxXzFWY1E?oc=5",
+   "data": "Tue, 10 Nov 2026 11:23:21 GMT",
+   "fonte": "Sky TG24"
+  },
+  {
    "titolo": "NVIDIA RTX 5090 sparisce dal marketplace ufficiale: è davvero la fine per la top gamma? - Everyeye Tech",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZEEzel93ZkZQaXM4NWIxSU1NbnJtZVNvYkdoTVBpM1dnYlpVaFpRTEN6cFc2ZmtPMjREUDUtYWhGV0UtdXBZQzQ0U21lSTN2NUlnZzFyYnZXZUxBc1I0ME8wQUZoVlVuZkxZRXRQay14NVQ4TXlxU1dJUnJnZHZWTnpJaXZmaHZSRXFNV2NveG9LY0lSNnhjVXhVWi1RNXNDZW1TWkgzQ0ptZU1rb2c?oc=5",
    "data": "Fri, 16 Oct 2026 07:00:00 GMT",
    "fonte": "Everyeye Tech"
-  },
-  {
-   "titolo": "Nvidia, il DOJ chiede conto dell'acquisto di Hugging Face da 12,9 miliardi - Pasquale Pillitteri",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdzRCcDU5NDVjWlJvTEtWREdUdG1od3I5eTZ2RWdJb1h0OVNfcXpKcHRYQ0tObWg2ODlDLVhnOENiMWl4eHNkS055cWxfajd3RGVjUGJrekFMSm1EODZ5NVZBdlhJVWRFajlNTW5tYk1rd1JYZ0FHaXR5aDh0NzFXSVFLSDZjdW53dVZFdjBSdXdaNXU2WFE?oc=5",
-   "data": "Fri, 30 Oct 2026 07:00:00 GMT",
-   "fonte": "Pasquale Pillitteri"
   }
  ],
  "news_brevetti": [
-  {
-   "titolo": "L’ING. VITO MAGNANIMO PROGETTISTA NVIDIA PER LA GUIDA AUTONOMA - Teleischia",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeFh6QkYwMi1aWXViSmplczAyQWhZYmhMR0tpOXZhN00tQzJoNFdpb0wxeTR5VWg2WGxZQlEtckplNjRsRHNVMG00MkE1QmowY2RKc1FMRzhzM19CbWlzMy1kNG5FWWUtUUdub1lCRmhlVlZQY0xTSlhwVmFBOGllbElPRGVwZEYwMzQ1UlVBalBpaW9rRzdINm5MRkc2SnVocXREMENqbWxTMXFQ?oc=5",
-   "data": "Thu, 13 Aug 2026 07:00:00 GMT",
-   "fonte": "Teleischia"
-  },
   {
    "titolo": "Spunta una domanda di brevetto Microsoft per un'IA che riscrive le parole in diretta - Pasquale Pillitteri",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT0pOOHFyczRDb2VaZ2lOa2tQNUotN292Mnl6S0t6cTlxQ0tWMlhicG1qektJMXF1ZXg4dDUwb2VYN19CWnh0VmFIbnF4Sk5pOEtTWjZzUGo1alFWZTB3X3plX09qRk5IZWR3TkozTkdQaktZdzF5ZC14eG1ZNExwd20xSlR1MTJYcWxUNUJUemh3LTA?oc=5",
@@ -300,16 +294,22 @@
    "fonte": "TIKR.com"
   },
   {
-   "titolo": "Store Update 2.4.0 - ARC Raiders",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56NEVXNzBDcGpoY3h2RXhZWi1QaFRKUTdHVmtoMzBBVUVhb1pzOEFtS09wOEswemd4ODRHNGtodHNERHpGRHZmZXNtUExXdjItVk1pdGk4TGl1WUxYMkE?oc=5",
-   "data": "Tue, 03 Nov 2026 12:40:01 GMT",
-   "fonte": "ARC Raiders"
-  },
-  {
    "titolo": "Sony svela in due brevetti la PlayStation che si ripara da sola con l'IA - Pasquale Pillitteri",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONXF2TUxuYmt6YktoZ1BIdU9tZVBnbVNvYU1zbGFTRnVwVUdhUm5aZG5hemtjTm1YeWhoMGFvN05vakY4NWlXSWwzZVI4Sk1hS2JfanlOd2tnYU13b3dnNkxnVWMyamhuTVZldXlDVzhGbU1BSE0yN1RpZWstN0JGN3JMTklvQ0Z0Z21tSkxwRy0?oc=5",
    "data": "Fri, 25 Sep 2026 07:00:00 GMT",
    "fonte": "Pasquale Pillitteri"
+  },
+  {
+   "titolo": "Una fonte attendibile contraddice la data di lancio della Nvidia RTX 6090 riportata da «Moore’s Law Is Dead - Notebookcheck.it",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYWNzNGdoT1N0a3R4LXFZajVrNDF0NHAyV19NQmU5QkduS1ZrQTNVVFFNZkZIS2xuRzdiSmdlX3NuSmR2T05tQUVFNXItaTc4aGZVOTZHdEJkV0p0QnlRSFF5X01oNk9yMUxYM3lZalRBa1Axa2lqOUc4RjBDVWhmN3FoWTNlSE1XOUdZY0xTaTR1bzJ2MlN5d1VrRFZDOHdWbnVvQk5MOWxTTk5fSlh0WDVQR1ZrOEtYRjJZX1JFaUVIcGJISXZ1aEtZY2piUHNGOHpOTGlPTTFmaF9CUXY4U0sxZ00?oc=5",
+   "data": "Mon, 21 Sep 2026 07:00:00 GMT",
+   "fonte": "Notebookcheck.it"
+  },
+  {
+   "titolo": "Secondo quanto riferito, la serie Nvidia RTX 60 avrebbe ricevuto il via libera per il lancio all’inizio del 2027 - Notebookcheck.it",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQUZiVXNCbTRoTzVDYVdDUUJsMlFhTk1ZRUFhcjZ4MkVIU2xoM3gtZVNhTGszUDBtZEItVDFJTFZtSFNwVEZ6Rk1hN2drMEZ5VHd1VDJhdVJSTDFHVDE1TDZRRjlxVDRNeUp1bFE1bXo5MGJtNlZ5dWRMWkZOaHo0Mzc2WklEU25ETjR0WDU2WGw3Qkw0VW5McEpjdGxXcGFVZEtoSDM3aDlHS3JIMnJvTzJ6RWNtRE1ZOThvd0NCaElWU0QzN2JuRGZIV3ZBVk9nVlkxMFlyRmVVYURubDd2Z3dkb2VFRHhVRjFR?oc=5",
+   "data": "Tue, 15 Sep 2026 07:00:00 GMT",
+   "fonte": "Notebookcheck.it"
   }
  ]
 }

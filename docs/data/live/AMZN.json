@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-10T13:19:13+00:00",
+ "aggiornato": "2026-11-11T12:30:09+00:00",
  "filing": [
   {
    "tipo": "10-Q",
@@ -93,6 +93,15 @@
  },
  "norme_usa": [
   {
+   "titolo": "National Television Multiple Ownership Rule",
+   "data": "2026-11-12",
+   "tipo": "Rule",
+   "agenzie": [
+    "Federal Communications Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/12/2026-23040/national-television-multiple-ownership-rule"
+  },
+  {
    "titolo": "Privacy Act of 1974; System of Records",
    "data": "2026-11-03",
    "tipo": "Notice",
@@ -139,19 +148,6 @@
     "Justice Department"
    ],
    "link": "https://www.federalregister.gov/documents/2026/10/07/2026-20531/privacy-act-of-1974-system-of-records"
-  },
-  {
-   "titolo": "Transparency in Coverage",
-   "data": "2026-10-06",
-   "tipo": "Rule",
-   "agenzie": [
-    "Treasury Department",
-    "Internal Revenue Service",
-    "Labor Department",
-    "Employee Benefits Security Administration",
-    "Health and Human Services Department"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/10/06/2026-20447/transparency-in-coverage"
   }
  ],
  "news": [
@@ -174,15 +170,15 @@
    "fonte": "UniRoma2"
   },
   {
-   "titolo": "Milano, le palline di gel che potevano stravolgere Amazon: il colosso assolto per la responsabilità della commercializzazione - Corriere Milano",
-   "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxObFk2Rm80VWJVR1ZmZkttclVPak9aRGJ5eU54NElZYUFfVllGbHhRUDBMS2kyb1FDXy1DaUtYelRHNmF4VE82ZXRRd1l5Vl9jYUVTNU0tY0hxRmw1TnE0dXZ2NHd1Vno2MlNmQXpCS2pYUmx0VHFXVzdwOHE1Rk1NdGk4ZEdudFF6dEt6bXFXczdmNlZkUEVPY3RCQVpoTDJvVS1MTmotVXYxR1hYSzZBdVZJdnB2bkRTWmtGS1FHcV81NHl0Z2J0Y1ppWjBqcUhFcS1sb3ZMQWRwYVpsSG51UGt2UFZuT3hoc0hONGdVeTVSUEVPRG9lTGwzZ3RkdzFPbTkwT0ZVa19FUWxmal9DSi1sd0dyc0Rvb3I2b0VZdS1ScHNaMXBKWEFDRThqRWZkbXRfSDg0WVZKYTRkQ1FFanpvbWpQUdIBywJBVV95cUxPX2otTFFUdlQ3cTV0d3d5Q0c5YWhiOVpaV2hadnF4VnJYbzFNRWFoNjNRRlBhMlROdVlwY0ZtaDJiRk12SEhCanpOZWduM21LdE9VMkFPTl8yOVBFNHI0ZVlTX3RXTk9UeElDd0dCOEY5ZkkwaEtUdEJyZlZVLUhQYkV4LWdHWGNfWnlSMkpiN3NGU09lNk56Z09QY21WQmtDa1lwVHBfVXo3S3pyU3U4WUlsTUxNWU0xMG5SZXJIUVgxTnFMbjd5bXVFazlITW5DSkt1MElyRlZaa1JPV3hlX3ZNbkhVRERPd1o1TlRxdlZTaUdPdEFmUGdpZlU0RFE0aFZIWTAxR2JTX01XQ19tWllBYXZWVHE4R2ZFVG4ySGkwaTR4cU5jWENVS183ZXh1MkdJU3MxdzNLbHR0WWN5VjRwLXU0V1c2NU1V?oc=5",
-   "data": "Mon, 12 Oct 2026 07:00:00 GMT",
-   "fonte": "Corriere Milano"
+   "titolo": "Amazon, la procura chiude l'inchiesta con 70 indagati: \"Prodotti cinesi venduti eludendo dazi e Iva\" - MilanoToday",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTjlHSzZVQ3IxQnd0blBTMXY2VWtiQVpVaTB2M1lueEZZMmltM3N3aHpGOHVmZUFjSjE1WDA2ZmRaUk9sdHNramNnbGlGSm9CdFJSOW9zejlZcmxnLTViVldKZW1JX1dLRHh2WnVNMy1td1d3TjU2N1VRNi1Bcl9wSjdXbV8?oc=5",
+   "data": "Mon, 09 Nov 2026 17:45:10 GMT",
+   "fonte": "MilanoToday"
   },
   {
-   "titolo": "Amazon, il Black Friday è arrivato in anticipo: sconti fino all'80% - Libero",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81eGotQ0tWclNUbFo1Z24tRjBQaVVXaTdiNy1CX2NWdThTSmJPemN6bFlZbUNTb1F4Y3R2ZXVCeUlkX29FZEFCWkNuV3p5a0V6NGdpLUV5bXdXTXpjd1hiNjRLcnVlSUp6OFJsQmNfWW5fQzNYMUdVYUtn0gF_QVVfeXFMT0lkM2ZjbFJ5bUF6RHBnQWJmMEJpU2o5ODVIUmRZS1ZUQkNqZXRfVUZvNzZIRXIzYjc1NkpQV0lzYW43N2VxX3lNb2FoWjRkaHpOUDNJcWw4MXAxbUhaOGwtV3cxNl9VMDNyWTV1U1U0SXZxdUt2QklqdmVtR2lWZw?oc=5",
-   "data": "Sat, 07 Nov 2026 06:00:00 GMT",
+   "titolo": "Black Friday Amazon 2026, annunciate le date: oltre un milione di offerte in arrivo - Libero",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdkxLbTdvSDV2U0J2WXkzUWhQYk9mM3d2czNqRHpHSnNnQ2RWdWw3QUllVFhCTTdwOW9OUmFMZzQxczZYaWZic3JDYl8wWThiNmZxaFdQZ1BmOFpJUFZfRG84RGVMdjBBZEZvZG9fV0xjRngtZGdRbkdyU3VFbFBuSFRaam5tOUdDa3kwYU9WWEdxZExqMWfSAZsBQVVfeXFMTUxnbjBGNFcxbGpZTUU0emo0R2U0MEFzWFIwUlNFdUxUeC1UdkVZOExRS0Z1QzN2S0kyNmI1UUF6bE03ekJyaW9OSXdjTTJQVWZsR0sxbEhzaVZUdnUzaTVsc0FPYzZzOTVvYkYwYmZ3c3dlR0V5aE4xckhaZzlSSVRfcHhJVFNhZE1NTXFDbHc0a0FxbmZJZ2djZlk?oc=5",
+   "data": "Tue, 10 Nov 2026 13:50:00 GMT",
    "fonte": "Libero"
   },
   {
@@ -192,9 +188,9 @@
    "fonte": "Sky TG24"
   },
   {
-   "titolo": "Black Friday 2026 su Amazon: quando iniziano gli sconti e come trovare le migliori offerte - Everyeye.it",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYkVOV0dsMXVzV29DeE5mbm11X3ZHSjFyRXNrV2w1TXNlNWEyT2ZSWm5aY0RRSFdYbEFsS3lfYTZlTGM3SFZBZmxwbnU5azdkdjU0bEJoVFpUVjVma2syMFlZTDlCR1VSdFNpN3hxSkdydFljemJkYWp0LU5OenBNLVJLZm94LTN5XzM2NDBQbkpPbkRkQUtFVnplTGVWWEJodFVtZ1c2QlVXYjlLeFc0MUxoMHA3LTF2Mm5RWm13?oc=5",
-   "data": "Tue, 10 Nov 2026 11:48:48 GMT",
+   "titolo": "Black Friday 2026 Amazon: quando inizia, sconti già attivi e dove trovare le migliori offerte - Everyeye.it",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN04xZ1lWZGdNS3ZXczJfN2pkZnNiZy1LeExueUJuLVhTWUpjaFBBdS1KNUdCUHBUcUhqRmhLVEYyTTV2WjhyZF9BX1NzdzFmRFlOR096R2NRbzRmcDBuVWJzOWtCczREU0dYeW1WYlRzcFJFWklMZ1NMYS1CY1NMdzNMZGFmREc4dnRsZUpUd1JrdnRnLTczZVVScmw0OGdVSDZ0elBDakVPNk5DLXdIUUU1Ui1QMEFKMWdtVVNYYnNHZw?oc=5",
+   "data": "Wed, 11 Nov 2026 12:11:25 GMT",
    "fonte": "Everyeye.it"
   },
   {
@@ -204,16 +200,16 @@
    "fonte": "Il Sole 24 ORE"
   },
   {
-   "titolo": "Amazon Black Friday parte il 19 novembre: 12 giorni di offerte da seguire con noi - HDblog.it",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ01yRkdZaXI5ZzVTYlV6SzZVdHd5N0drcGp5Vll6SUN2NWVpSHVtQ1VBSWRQVU1KTU1Qci1MeVMwbl9BWWNRSG55MmNrUW9mM3ZHajRXdkR6S1o5c0pZcGNVV0FPVFVtaElXbXRTRkpxejA2V0lPMkptSXU4bWpjYVR4ak1KaFc5RHFjd3hmVQ?oc=5",
-   "data": "Tue, 10 Nov 2026 10:08:11 GMT",
-   "fonte": "HDblog.it"
-  },
-  {
    "titolo": "Amazon Luna è su Prime Video da oggi: i giochi sono ora inclusi nella stessa app - Multiplayer",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEs4XzdMSjExU0hBSlVIaFJ1U2pkRnVQdTY4M3VGOVh5VEk3aEJlb19haHJNVGlGLW1vQ0RNQkVINE1uZnpCWVZUQVNWM0VjbGpPZExMUFVRaE5CdlVfWHNGTy13dEVlNzFUcHRMYV9WV3VJM3BTLThPSXlpeEFSZ3diT196dkZuTjhDeTBIZnBOUHJpRXBKWlZlOWhxdkp1YmREa1lBVk5wTi1uaDMydmdDSEdzdw?oc=5",
    "data": "Mon, 19 Oct 2026 07:00:00 GMT",
    "fonte": "Multiplayer"
+  },
+  {
+   "titolo": "Ufficiali le date del Black Friday Amazon 2026: oltre un milione di prodotti scontati - TuttoTech.net",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmcyM2VKSGd5bU1nb0hvaHJYbkNfMzlyQ0FvYkM0WHdnNnVzSE45bkNVRFpkaWljaThjUV9KLTFueU91U2trelhpcl9NR3FtN0Z1U2tuLVYwT1V2SlZtY21VczVLUE1nbTNxVFlPcTJneWpvUkpTdGFibHRfeFZHX09R?oc=5",
+   "data": "Tue, 10 Nov 2026 09:58:29 GMT",
+   "fonte": "TuttoTech.net"
   }
  ],
  "news_legali": [
@@ -254,6 +250,12 @@
    "fonte": "amazonwatch.org"
   },
   {
+   "titolo": "Amazon rinuncia al data center da 427 mln di dollari in Virginia e dona i terreni alla contea - Fortune Italia",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZmlmUnl6YnhUOW5CV0FjbS1paC1hNVdoaWRBTUlXc1hfRDlCSVFzci01MUZfaVNOdlkteFp5MThLYVZQNU8ybF9yRzdsXy1jdUtJaGM1Q1o2MzMwYm5iRlRLejZpQkJBdVcza3hPUl9wbTBacll1OEtjWS1HcEFJc25Pcng0TG1DUVNhN2gtVG1qREY4M0tYc3hueHpMYmtxczhXSlozajhSUm9RbEdMUDRFY0RmdUZVNlFEYzFvTjFJMndGMFl2alpieEc?oc=5",
+   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "fonte": "Fortune Italia"
+  },
+  {
    "titolo": "Amazon e Buy Box: se l’algoritmo corre più veloce della giustizia - Agenda Digitale",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVzhKNUU4aTBQd1VPVkxlRDBMSlVZMnkwcDNyX29RX19pVF9yYk04ZmRDbmpTTE5aZ3ctU0N0Ui04TktHa3pHWkVwdncxSGd3OXRLN1VwTWJtYkdMREFieFc3REd5RjVMdlRtZ0dfNk5Uc3Vad1J4N3FGMVJ2cHYySEctLWZETS02am9BZG5tTTFTbkx0bE5yLVdZUFgxSHRjV29Rd1F0YTY0Z3dPZmZQdWpjMHlFZ0djNFVHaw?oc=5",
    "data": "Mon, 14 Sep 2026 07:00:00 GMT",
@@ -264,12 +266,6 @@
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVpOR2xnLXJpRWd3elRQaEdCTVlJWDE2SFUxVEFhZFoxX2NXZ0RHZFo1UGJvaS1ibUtxQ1lCemprcE40UkVkSUgzZTFQM0FZaWxvSGViU3ZGcXVNalpsY3ViZWZNN2VYay1SbGg2Znc1OTl4TXRlZUJHVlhqNkJNcm82ZlU4bl9MdXJhVVVlenllRXJDN0RTeXpvczhDTVRjQjh0T0o4aWk3RU1RT1Y5djV1VTc?oc=5",
    "data": "Wed, 21 Oct 2026 07:00:00 GMT",
    "fonte": "RiminiToday"
-  },
-  {
-   "titolo": "5 euro in regalo su Amazon fino al 29 novembre: ecco come funziona la promo di Banca Sella - TuttoAndroid",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ1c5MElXU0t0alVydldDTGJtT0FDdzlFaEtOUHdmeFM4OE1CM193bko4UGl0enl6R1BSY2V1Wm9IR2E1aUhiQk1DOWpNRG9Bc3NPQmMydkVPeHA0NHhQeWxrZ0YxMV9LUjRYYXBrTFBGb19xMHJOb19nbjJCVWdqRWw0dV9YelpJRUg4NEN5VndGZWNJbFJ4cnU5RFREN3NqTW55aGZn?oc=5",
-   "data": "Mon, 09 Nov 2026 15:43:24 GMT",
-   "fonte": "TuttoAndroid"
   },
   {
    "titolo": "Pixel 11 da 512 GB al prezzo più basso: oggi in offerta su Amazon a 836€ - HDblog.it",
@@ -292,28 +288,28 @@
    "fonte": "Everyeye.it"
   },
   {
-   "titolo": "Spunta una domanda di brevetto Microsoft per un'IA che riscrive le parole in diretta - Pasquale Pillitteri",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT0pOOHFyczRDb2VaZ2lOa2tQNUotN292Mnl6S0t6cTlxQ0tWMlhicG1qektJMXF1ZXg4dDUwb2VYN19CWnh0VmFIbnF4Sk5pOEtTWjZzUGo1alFWZTB3X3plX09qRk5IZWR3TkozTkdQaktZdzF5ZC14eG1ZNExwd20xSlR1MTJYcWxUNUJUemh3LTA?oc=5",
-   "data": "Fri, 06 Nov 2026 07:02:23 GMT",
-   "fonte": "Pasquale Pillitteri"
-  },
-  {
    "titolo": "Sony punta a NPC che imparano dal vostro stile di gioco - SpazioGames",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMzIxYl9JWXNvS3d0UU5FZmFvdDg2Z0ZHMUtjYjRWQ00yOENmWjU4RlZLV2dLYjMwRHR6cUFIa2k5b0NpMk9YM1czWG1MOXFCc1hxVW9wbmFneF9EZVJiWHMyTTZEYV96NDlVc3hTZUtUMHVmcXVzanVOWFlZdXJRb0NMUFg3UUFIdjdqck51Qnk3ekE?oc=5",
    "data": "Thu, 08 Oct 2026 07:00:00 GMT",
    "fonte": "SpazioGames"
   },
   {
-   "titolo": "Sony brevetta un sistema per ridurre i dati nel cloud gaming - HDblog.it",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ21tbTZtRWEwVm45MGJSSmlqa3VJUU9BaHZuUER5TDd4cG9mTy12VXNoV1F2bHpWSUJGQS05UWQtY0FCaDRxZkx4ajNoU2RMcDJPV3F6ZjJTSjBkTE9TT3lZakhTSmEwZTBQQVVWTnFSVVNBWUlJMmw2XzgzeWdzQ1IzNFk1clVkeldDd0FodzJYQQ?oc=5",
-   "data": "Wed, 04 Nov 2026 17:46:56 GMT",
-   "fonte": "HDblog.it"
+   "titolo": "Sony svela in due brevetti la PlayStation che si ripara da sola con l'IA - Pasquale Pillitteri",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONXF2TUxuYmt6YktoZ1BIdU9tZVBnbVNvYU1zbGFTRnVwVUdhUm5aZG5hemtjTm1YeWhoMGFvN05vakY4NWlXSWwzZVI4Sk1hS2JfanlOd2tnYU13b3dnNkxnVWMyamhuTVZldXlDVzhGbU1BSE0yN1RpZWstN0JGN3JMTklvQ0Z0Z21tSkxwRy0?oc=5",
+   "data": "Fri, 25 Sep 2026 07:00:00 GMT",
+   "fonte": "Pasquale Pillitteri"
   },
   {
-   "titolo": "Un brevetto Tesla svela una possibile ala posteriore attiva per la nuova Roadster - TuttoTech.net",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQXA1c2lSdHNocnpjaVIxUmlRckcweExBOWVCZjdmc01IYkhyeHItSnBtM2lEVWRaMlhKQVJ6dUVhdFQtb1RMUF93RjR1VGotRjRNdjVNemFLZEdlM0JfY3d0STlyX2RoRUNSY2d3YWxqejYwUGhtTTRab1RHTUp5WThhS1BhNERiOW9iN2VjbWlncTk0My04?oc=5",
-   "data": "Wed, 30 Sep 2026 07:00:00 GMT",
-   "fonte": "TuttoTech.net"
+   "titolo": "Apple Glasses e privacy: ecco come eviteranno le registrazioni \"spia\" - macitynet.it",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdHY1N0IzN3ZYV0J0eFQ1RS0wU3pXcXNTNDMtSVRmR2NHVjhkdDQzSEtiODhMZHpxaExWdEFWN0k4QUJ5ZVpsX0gwS2NJNHJadlFyd1ZGMG9sLUlOX08wYjNkQ1lTOWhDNzBBYk9lcDlqYW41dEotd3hWMW4tWWNsdFdmLUhYOVJBNHJHdjhKNGZIS1FtR2dZ?oc=5",
+   "data": "Fri, 14 Aug 2026 07:00:00 GMT",
+   "fonte": "macitynet.it"
+  },
+  {
+   "titolo": "I prossimi Samsung Galaxy Watch potrebbero misurare anche il grasso viscerale - TuttoAndroid",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaXAyRlB0aVF6NXNDR3MydGNFal9pUzFpdGRHbjNDUnlCcjdlWFAzM3VZVXlLUHQxaFFhM005aFBOcHJFa3duQ1YxdWpXSFFCMWpDTXo2NVFRaWNqaHZvcW9WM3FLWHZhNENPZ0xsQThYLUM0Rk51V2pZNExSRXRaa3U2ei1PaTNCODRlNnFpbWNpdTN6WEdrdA?oc=5",
+   "data": "Tue, 10 Nov 2026 14:56:13 GMT",
+   "fonte": "TuttoAndroid"
   }
  ]
 }

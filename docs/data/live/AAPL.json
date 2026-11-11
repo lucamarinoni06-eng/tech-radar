@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-10T13:19:06+00:00",
+ "aggiornato": "2026-11-11T12:30:01+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -99,6 +99,15 @@
  },
  "norme_usa": [
   {
+   "titolo": "National Television Multiple Ownership Rule",
+   "data": "2026-11-12",
+   "tipo": "Rule",
+   "agenzie": [
+    "Federal Communications Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/12/2026-23040/national-television-multiple-ownership-rule"
+  },
+  {
    "titolo": "United States of America, et al. v. RealPage, Inc., et al.; Response of the United States to Public Comments",
    "data": "2026-11-09",
    "tipo": "Notice",
@@ -144,25 +153,9 @@
     "Securities and Exchange Commission"
    ],
    "link": "https://www.federalregister.gov/documents/2026/10/16/2026-21149/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order"
-  },
-  {
-   "titolo": "Schedules of Controlled Substances: Temporary Placement of 7- Hydroxymitragynine and Mitragynine Pseudoindoxyl Above a Specified Threshold in Schedule I",
-   "data": "2026-10-14",
-   "tipo": "Proposed Rule",
-   "agenzie": [
-    "Justice Department",
-    "Drug Enforcement Administration"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/10/14/2026-20943/schedules-of-controlled-substances-temporary-placement-of-7--hydroxymitragynine-and-mitragynine"
   }
  ],
  "news": [
-  {
-   "titolo": "Apple batte le previsioni sugli utili nel primo trimestre di Ternus: perché il titolo scende? - Yahoo Finanza",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaWppX1JadzI0OFp1aklyRUpQTGpPajA3SEx2M2lVUUNIWGdqcWVrMkREQ20zWFhIbTFYR2JnVnRqdHM1LTZBTzFubTRka052ZW1nT3g0blZxMENqQWc2N0FtZ2IyYm16czdsaUpFbjNfS29KS29kRTlVME5uX05QUXVHOTRtZ1QzNkpj?oc=5",
-   "data": "Mon, 02 Nov 2026 21:44:20 GMT",
-   "fonte": "Yahoo Finanza"
-  },
   {
    "titolo": "Apple, 50 anni di miti e bugie: il garage che non c'era, Jobs cacciato e il fallimento che salvò la Mela - Corriere della Sera",
    "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPQUVEakpqRHYzUWI3YnRsUHJBb0tWZTZNMGJHUDhxZ2NDbnR6NkdENHExNnVYU2VneVhGdE0yTld3WDcwekJhME1NU01EcXUxZnpGOS1VQnpFMDBGb3cwWEtLRnN2N1RhdUtta2pOdl82RTdkQVV2QVJ2T3dFUmF5emRDaHVXSkY0RWlYMmNqY0dKTHFyTW5saElXQmdZTXFKeThCb2JpU0M0eGhqaWQwekpMRlN4RWhhZGtZRGFyOXA5Z3JwZFkyT2xBem53S2tRakFIUmhDamhkUzVyak50bk9sZlNKOFQxT3gxclBpZ2p0enB4bFoyMjhRODg4aVFIazdwdUJzbmhTZjdJZk96aHZVdGh6bDVCUkxlVkNyUnFjbmJ2WXFr0gGsAkFVX3lxTFBJSjBEQks0Qkx3OUpWQzlzYlVBbnV2SW4xTmNCa0ZNalNjMDh2S2oxeWNjZGtZRDBDOWlqaEZXdzBaUWlDeTB3UXBsRTlyTmpUaHN2a25kcEx2eTBHM2pld2pnZHRmZ2hpOGVjR09OSWJYTE1Zb2RuRHM4a0RkZnA1alJUMHVVZEk5N3h6SHF5Y0JqZkpDdGpZb2pfRjg4SzQwTDA4S2dyc2h3RndkalhqLTJTazl2V2JJVG5IekJ5YVN5SlR6VDZ0bWFLeDQyeXBGeDJ5eDNpbkZvWC01bVVNT3JybkRyTF9YSEV4aklBR25BVXhqbnlpY0dybEhWemJ6d1NDVm83M3oxa2lqbTVhcDFrUDZiTmlqYlBEWFNVQVdQZ0J3RE1GbTd2cg?oc=5",
@@ -194,6 +187,18 @@
    "fonte": "la Repubblica"
   },
   {
+   "titolo": "iPhone Duo, recensione. Il primo pieghevole Apple è un diamante grezzo - DDay.it",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTTRHeVoyZU44LXNkQ1B1Q0JsUnZnT09pdm1zUC1vSkxaVFl0NlpReFZOZXZEVnVOcEtkZERqaTM4cnFCQlpremJ6MWtCXzlCMFNOdTMxYVZhcERwSEhVTXFqWDQySnFNRDFyNkNVc2NtWjU5Y1FqM0QxSXFvZ2tjSWxiaUVIOWJRQTFMZTlsc1ZhN2d1UmlibWlXMmYzVkV6TDl4U2VmRQ?oc=5",
+   "data": "Mon, 02 Nov 2026 08:00:00 GMT",
+   "fonte": "DDay.it"
+  },
+  {
+   "titolo": "Apple dice addio a tre prodotti: ora sono ufficialmente obsoleti - Mac - iPhone Italia",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNndxMW1jd200cGVGaHdVejZXVnpIQlVCTlZGR3hMSWFXeG5vc1dqeWpOTzdIY2U2ZG1XN3dMc0JjSkFUUlh3YlhoY1dKSWZ6NWVQYVJncTdscWw5dGtFeURQRTJobk9SNW1vREFIQWlzUnFMTFY1ZTBJMlRYSGdrVDRmNGRQMmN1RWt6YU9tV1JpeXVKd1A1Q3Y4VGt3M1hE?oc=5",
+   "data": "Wed, 14 Oct 2026 07:00:00 GMT",
+   "fonte": "Mac - iPhone Italia"
+  },
+  {
    "titolo": "Apple presenta Apple HomeView, un nuovo modo di godersi i contenuti di intrattenimento e di gestire la casa - Apple",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWFRSOHJWdm0zM25INGN4RmZTY1hiOUc1QndGR2RUektsLVBTLW5fQ1ZkNFV0WFIwNmR0V3I0NHZFVkoydVJYaUxmWEwwdFFIdUxFdU56ZFh0Y0dRWS01b2ZJMGFHRnFKell4TEt1V2xSQTZUTWp5ZE1tX08teWpOTzd5NzQwZVU4amNaWHcyQXJ1X0NYbHpRMTVMVWFrbVYzdWVKc09LWXdBMjk0bEJQUUxKN0w2Zw?oc=5",
    "data": "Tue, 13 Oct 2026 07:00:00 GMT",
@@ -206,16 +211,10 @@
    "fonte": "Fastweb"
   },
   {
-   "titolo": "Apple rilascia iOS 27.2.1 e nuovi aggiornamenti per Mac e Apple Watch - iPhone Italia",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMlMzTTJxTjZFZzU5LTVQNGxmLXgyVlp5dFZuUDFSV0lualdGZ3RaVDAzXzJ2ZTlnUkFiUzFWa04yX1RHNzVfOFdIaUVmSTAtMzJhRnJwTFJwREJsb2tWa3dfU0c0d0ZPNmJCTmN3NXIzSHVkSHFwdWdMWnB4VUFkUFVRQ0hocmR3X2tRR2dJcTVONlp0NGY3UEhNQ0x3ZFloYkFHQkRidXI?oc=5",
-   "data": "Mon, 09 Nov 2026 18:54:27 GMT",
-   "fonte": "iPhone Italia"
-  },
-  {
-   "titolo": "Trimestrale Apple: margini sotto pressione a causa del prezzo delle memorie - Morningstar",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejIwNXhLeFVFVHhFZFhUd05XcTdOZFNFWnV0d0xmdVlPZFdzNFlJLWZsdUU2QTRGNDJ6Y3dFazdMRGRybmczTUpJWkx2MDZkOXVtQ1NiN29hckhXSDdFckV6ZVc3eEpjYnFRVHdvTUk1a0lkOTRXbE5iR0N1YjkwU3hwQ0pyRXRWSG9RT1VPQU5FOUs1cXpReXRnQ3ROb3FSUTFhMnpxOHFiMmlqSjh4b2Fnbw?oc=5",
-   "data": "Tue, 03 Nov 2026 11:47:41 GMT",
-   "fonte": "Morningstar"
+   "titolo": "Apple annuncia l'evento \"Pro and Tell\" di ottobre: ecco cosa aspettarsi - Multiplayer",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeFdEczR5R1lIVEtjMVZtQzA2bEg2OXVkbUpublVDRzRCNlJaR2FsSzluMU5rWXVocEVFTzNFcUVSMkJGdEZLdWNiR3MwdkMwT2ZRM0pncTQ4aUxmX2N2Qnl6X1NVY3cxV3pCbHJiekpCX25xRE9aX3VMdmhLeHlsODZVdWlQeXNoWjFGV2hleUdhS2VfOWtIb09HVHFoaUFoUFpHdWJR?oc=5",
+   "data": "Tue, 20 Oct 2026 07:00:00 GMT",
+   "fonte": "Multiplayer"
   }
  ],
  "news_legali": [
@@ -306,16 +305,16 @@
    "fonte": "WeAr news"
   },
   {
-   "titolo": "Il CARTONE della PIZZA INTELLIGENTE fatto da APPLE! - Andrea Galeazzi",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nTzBoNjVzckp2VlBSLW0xdWNVNzhHYUJoVHNMaDdiTVFMSDZsNVd6cExZVHFxUW5fX2pjdktHaG9GZ0xqa0MwbzVSNTBFSXVSVUktbFJHcU5QcXQ2Q1BaOExva2lQZ0lPUEYyN1V5VGNkcUp0?oc=5",
-   "data": "Thu, 27 Aug 2026 07:00:00 GMT",
-   "fonte": "Andrea Galeazzi"
+   "titolo": "Apple Glasses e privacy: ecco come eviteranno le registrazioni \"spia\" - macitynet.it",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdHY1N0IzN3ZYV0J0eFQ1RS0wU3pXcXNTNDMtSVRmR2NHVjhkdDQzSEtiODhMZHpxaExWdEFWN0k4QUJ5ZVpsX0gwS2NJNHJadlFyd1ZGMG9sLUlOX08wYjNkQ1lTOWhDNzBBYk9lcDlqYW41dEotd3hWMW4tWWNsdFdmLUhYOVJBNHJHdjhKNGZIS1FtR2dZ?oc=5",
+   "data": "Fri, 14 Aug 2026 07:00:00 GMT",
+   "fonte": "macitynet.it"
   },
   {
-   "titolo": "Apple deve pagare 5,7 miliardi a Taction Technology per violazione dei brevetti - blue News",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNUVGSkVMY2hLdVZUcURfVzF1SmVQNWp0Sk1weWl6c0NTV0FWSmF0Z3lTMXE2Y2xqM0pRcEU4azNsUExjSV9uZk9TNFA0OHlMbGNPSzJySUFxZDhuUHhaVmxIaU80Z244UVFFRlFfWkRyTWFFZHZzZlRIMmFibGdBa0wya3AzcjQzOVphblFQS1AxM25wSm5KS3AwTkpBVWFvTkZaei1PcnQ1Ql9HZ19n?oc=5",
-   "data": "Sun, 27 Sep 2026 07:00:00 GMT",
-   "fonte": "blue News"
+   "titolo": "Di cosa si sta sussurrando? Appper favore: iPhone 18 Grandi cambiamenti ci attendono - Letem světem Applem",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWERQRWpMdU04dnZvWDBBNV8zVVl2Ym1vdUdzRkluX3BESHNydU52bHF5RzB3TVhuelpTVDhtY2s1YmVEbDVfOUJNUGtaS05acFJjbXRLTWtqNVZyWkMyc2xubkoxbl9LdmJVQW9ZMzEtWG9WenZrRUFHZkFBUDMxR0l2WnhzV0toY0R6clV4ZFRPdFJTcDFuVmpyUlRveVZBXzgwa180TWxId2pzanVyRndhTy1DOWFfN0lkZENKcmhsM0c4UmQ1dkNNbW5mVlNqSXNxTFdnd2YxRkEt?oc=5",
+   "data": "Sun, 16 Aug 2026 07:00:00 GMT",
+   "fonte": "Letem světem Applem"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-10T13:19:11+00:00",
+ "aggiornato": "2026-11-11T12:30:06+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -99,6 +99,15 @@
  },
  "norme_usa": [
   {
+   "titolo": "National Television Multiple Ownership Rule",
+   "data": "2026-11-12",
+   "tipo": "Rule",
+   "agenzie": [
+    "Federal Communications Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/12/2026-23040/national-television-multiple-ownership-rule"
+  },
+  {
    "titolo": "Combined Notice of Filings #1",
    "data": "2026-11-10",
    "tipo": "Notice",
@@ -143,15 +152,6 @@
     "Commodity Futures Trading Commission"
    ],
    "link": "https://www.federalregister.gov/documents/2026/10/19/2026-21377/further-definition-of-swap-inclusions"
-  },
-  {
-   "titolo": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Permit the Listing of Binary Options Overlying Key Performance Indicators Reported by Certain Issuers of Stock",
-   "data": "2026-10-16",
-   "tipo": "Notice",
-   "agenzie": [
-    "Securities and Exchange Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/10/16/2026-21149/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order"
   }
  ],
  "news": [
@@ -180,28 +180,22 @@
    "fonte": "Forbes Italia"
   },
   {
-   "titolo": "Alphabet: Google acquisisce un sito in Wyoming per un progetto di data center - MarketScreener Italia",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGlFTFZkTW1oYURPVkd0dUpiYzZTV1c4ODVKWUJBU1FQXzQ5YWlXcWdiN2dLLXllNmJYRzRhV05vVmtHeXJUdVB6d3FYWFg2M2h4R3hSWExzeWZ1SnRBVUdyWVZ3WEhJQ2Fla3NqaGRNdGxHeGE1TFp0QmdaR29YUVQ4MC1OZjJHUmlHY1Naa3U0dHZ0RlVnTU45QXktWXMtRzVzVmdpeGJpeHVlYXRUdVVRT2dEVFU4cWF3YlVhMmVsa2twSjVDVTd1Yw?oc=5",
-   "data": "Fri, 06 Nov 2026 21:36:19 GMT",
-   "fonte": "MarketScreener Italia"
-  },
-  {
    "titolo": "Traballa l’AI trade: cosa dicono i crolli di Intel e Google - We Wealth",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMElKOFA0bE9oaHVyRWgyZEJ6dmZlb2tyNzhXNGhNRWl5ZGNhSm8zYUUxZFVBQ2lQTG1MbHZ0RTdtM3dPNkk4R0pobDFvSEZ1c1Vtc1JILV9POXpUZ1NQbjZRS3I1Vm5VME5pRWlzRlVmRGZqOHdHZ0VlZ3ZmTXl4MmFHX0YyUE5nc1VtWHgyblZaUQ?oc=5",
    "data": "Fri, 30 Oct 2026 07:00:00 GMT",
    "fonte": "We Wealth"
   },
   {
+   "titolo": "Alphabet: Google prevede un investimento di 17 Mrd USD per un data center nel Wyoming - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSURscFBhaDE0U3p0bkRHMnBSd1g2ajFJeXdfLTM0OUNlWTFnRThQRUdFcXQ0R29FbnVRQ0RpY0pjb2VobGxnVTZvdHp6NVFERFY0RXM5NERiMGlHbVZUNDZwZ1lRMXdnTHZaWE1hSW0wS2RTRnN4SUdhbGVkaG1BbTZUY3pzSnJGVE9lVkZ2dExpckJPMDE5UEM2SXcxYzdaemVnMENBaGVFVHJTcS1LMkx3Vmpaa3ZTX3dsS1FUdzJFTE5OQl81VFZ0Q3VPSUd4eTdlNmtn?oc=5",
+   "data": "Thu, 05 Nov 2026 18:01:31 GMT",
+   "fonte": "MarketScreener Italia"
+  },
+  {
    "titolo": "Alphabet spenderà oltre 200 miliardi nell’AI. E nel 2027 investirà ancora di più - Fortune Italia",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ01fUXI3TnVVTFZzd2kxcEJ0TkhjcUNmZW1TVkVPWEtOLTVtR1BrUG1FdTJOSkUzTXNHYTdERko1dzFubmw2WXlDTkJJRF82ODBqSF9ianA3bzJXT0ZsR3lkTmstcjNzbktqQnZUSjBNNGowYXRNTzFkXzVoT3B0YXBRRDEwMVBYc3RDRWI5VzJkc3plVkwxdW5qdlpIUTRvN2FDVmJjRkFPc2RvXzlPeDJKekNNalV3?oc=5",
    "data": "Tue, 13 Oct 2026 07:00:00 GMT",
    "fonte": "Fortune Italia"
-  },
-  {
-   "titolo": "Alphabet crolla, Amazon delude: il mercato chiede ritorni all’AI - Agenda Digitale",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXdWUDh6enM0Zzh1RzFtRGM4eTM3TkpQdHFFMzRFQjlSRVM2YU93QlQ0RWQ3eGF3Njl1cmNXdVBqMFJqZ09LSDRiUGkwdWpBd2s1NHI3T1Q0VW5nS0ZNVks0V3QzTy1tWlYyNDJSM2t1alJBSkhwTzVXaVFpSVJBNjZzaW9hSmV3Ry1RMUhsZkMtSURfcV9vYzJ5WDdEMlVFaU5wMEpGTUNiaktDemc?oc=5",
-   "data": "Fri, 30 Oct 2026 07:00:00 GMT",
-   "fonte": "Agenda Digitale"
   },
   {
    "titolo": "L'AI fa bruciare ad Alphabet (Google) miliardi su miliardi. E il titolo scivola in Borsa di oltre 11 punti - StartupItalia",
@@ -214,13 +208,19 @@
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcl9zMVcxdDhCQXBPbjlkeW9NNmVqUTl2N25TWlhBS1V2NlFSU0YtdzhwTm96LUFqWUpTVi1PSjhxTWVHUTVDdVYwdHdvZl8tWGZQckl2RFc5N3hKeThRMGJUNlEyZjVIc1kzMlBlRnd5cW1UdW5IVzZINlRFcW9DdFU5blNkOWt4U1BlSjBSRVpUZ25WSGc?oc=5",
    "data": "Thu, 29 Oct 2026 11:00:00 GMT",
    "fonte": "Borsa&Finanza"
+  },
+  {
+   "titolo": "Azioni Alphabet: Google primo operatore media italiano per fatturato, cosa fare? - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpbFl1dFpLNEFFZVl1Nk5sS1J3amU3WDBZaHBNX1h4enZEak5BZXpJaFUwam9XVHppaW14dGJ0QVRTb0NKMUhlR3hxNHU1NUczeXowQ1FLcU9lOEx1OWxFdV9uY2oxdWtneVN2TENveHo?oc=5",
+   "data": "Mon, 02 Nov 2026 08:00:03 GMT",
+   "fonte": "TradingView"
   }
  ],
  "news_legali": [
   {
-   "titolo": "Alphabet: Google acquisisce un sito in Wyoming per un progetto di data center - MarketScreener Italia",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGlFTFZkTW1oYURPVkd0dUpiYzZTV1c4ODVKWUJBU1FQXzQ5YWlXcWdiN2dLLXllNmJYRzRhV05vVmtHeXJUdVB6d3FYWFg2M2h4R3hSWExzeWZ1SnRBVUdyWVZ3WEhJQ2Fla3NqaGRNdGxHeGE1TFp0QmdaR29YUVQ4MC1OZjJHUmlHY1Naa3U0dHZ0RlVnTU45QXktWXMtRzVzVmdpeGJpeHVlYXRUdVVRT2dEVFU4cWF3YlVhMmVsa2twSjVDVTd1Yw?oc=5",
-   "data": "Fri, 06 Nov 2026 21:36:19 GMT",
+   "titolo": "Alphabet: Google prevede un investimento di 17 Mrd USD per un data center nel Wyoming - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSURscFBhaDE0U3p0bkRHMnBSd1g2ajFJeXdfLTM0OUNlWTFnRThQRUdFcXQ0R29FbnVRQ0RpY0pjb2VobGxnVTZvdHp6NVFERFY0RXM5NERiMGlHbVZUNDZwZ1lRMXdnTHZaWE1hSW0wS2RTRnN4SUdhbGVkaG1BbTZUY3pzSnJGVE9lVkZ2dExpckJPMDE5UEM2SXcxYzdaemVnMENBaGVFVHJTcS1LMkx3Vmpaa3ZTX3dsS1FUdzJFTE5OQl81VFZ0Q3VPSUd4eTdlNmtn?oc=5",
+   "data": "Thu, 05 Nov 2026 18:01:31 GMT",
    "fonte": "MarketScreener Italia"
   },
   {
@@ -242,10 +242,10 @@
    "fonte": "Pasquale Pillitteri"
   },
   {
-   "titolo": "Alphabet: Google prevede un investimento di 17 Mrd USD per un data center nel Wyoming - MarketScreener Italia",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSURscFBhaDE0U3p0bkRHMnBSd1g2ajFJeXdfLTM0OUNlWTFnRThQRUdFcXQ0R29FbnVRQ0RpY0pjb2VobGxnVTZvdHp6NVFERFY0RXM5NERiMGlHbVZUNDZwZ1lRMXdnTHZaWE1hSW0wS2RTRnN4SUdhbGVkaG1BbTZUY3pzSnJGVE9lVkZ2dExpckJPMDE5UEM2SXcxYzdaemVnMENBaGVFVHJTcS1LMkx3Vmpaa3ZTX3dsS1FUdzJFTE5OQl81VFZ0Q3VPSUd4eTdlNmtn?oc=5",
-   "data": "Thu, 05 Nov 2026 18:01:31 GMT",
-   "fonte": "MarketScreener Italia"
+   "titolo": "Data center, il mercato triplica in dieci anni sulle ali dell’AI - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWk9wMS1VU2ZkekUzNHVDbE5JLXV4b19DcXQySldsWUZ6MFg5a0lMZzBCRGVQLUFXby1oaDFLQjdlY0JfR2NlQ3NBMG9pTmpuWmFvbFBRQ0JaSHBBb2JYQ05wTEJhcUNiTFA5V0xBZXJKNDVmZjNYZWo0cm84M2E1eEpHYi1HeDNhZFJWbEdDOVZZcUZhMWV3?oc=5",
+   "data": "Fri, 30 Oct 2026 07:00:00 GMT",
+   "fonte": "Il Sole 24 ORE"
   },
   {
    "titolo": "Google lancia Gemini 4 Argon: può recuperare il ritardo su OpenAI e Anthropic? - Dove Investire",
