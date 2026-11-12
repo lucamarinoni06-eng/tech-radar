@@ -1,10 +1,10 @@
 {
- "aggiornato": "2026-11-11T12:30:18+00:00",
+ "aggiornato": "2026-11-12T13:35:45+00:00",
  "news": [
   {
    "titolo": "Data center, da Amazon a OpenAi: in cantiere investimenti da 27 miliardi in Italia - Il Sole 24 ORE",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY0oxanRkSkV1MDkyWjRGWGNzSDBYTTVWWTBTLU1scHR6WURIblFvdnU4YnF4MzIxdkVuRTdGN2ZfT2JSS3R0SFE3SVB0UThpMkRJckFyZGxaU28xby1TMTl6Umxhbk9CS1ZSTmlCeXRXeGxQV3ZQMmpqX3ROdHlOUlBEUi1ENlBlVWZ6akVaOEszbnpiWHBESzF5RklGNGwzTjd4RHp2emlXbmM?oc=5",
-   "data": "Wed, 04 Nov 2026 17:30:32 GMT",
+   "data": "Wed, 04 Nov 2026 08:00:00 GMT",
    "fonte": "Il Sole 24 ORE"
   },
   {
@@ -16,8 +16,20 @@
   {
    "titolo": "Nvidia chiede ai clienti di data center di ridurre esposizione alla Cina - Borsa Italiana",
    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQ21kU1lSaEVwajl5dHFMV1Y2SXZwZkRoOXpSS1dneVdBTGVkb2EwVkt3MXMzRzdieEhubS1lQnlVTnNwenU0T0JPQTUwN0NCM1IxMG1oZzlhdW5VdkJMY21KWjZKeE0xakFhcFI2UmU3d09ZbVhpaUFFcGRQVG1YSF9fcWFOUDB4d05ZeXBxeU9NTzB4WlpybG9LZ2oxeWdwVVp6N1NkQjFIakJrNUVyOXlITGRVWE10NEZEVXJuV3I2bnNnMmpZVFVOU1YxY29XanlvYW9hUUVKVlVpdDBSb2k5UjE4RGFhMERjeA?oc=5",
-   "data": "Tue, 03 Nov 2026 10:46:00 GMT",
+   "data": "Tue, 03 Nov 2026 08:00:00 GMT",
    "fonte": "Borsa Italiana"
+  },
+  {
+   "titolo": "Una distesa di server tra i campi: il data center Microsoft che alimenta la protesta nei Paesi Bassi - La Stampa",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcHF1d2xOejg4X2xvYV9XaE1UWjRUTlNTZXEwVmJsZmIwb2VQU0h4U2tEY3FxMUk2MUVzbWxxd19ZakhTREJGLVZjZWlQdW1DSHVJaDA0RHdZTWo5Nlo2TjdvdkpBMS1nMFNDSmQwS2EwX1ZzQXNNR0ZnUTNianNZQVFpYmJEVmFyTng4UVRCNlJsZ29heHBSSldadXE5S09JME0xWWkwZGZoUlNFb2VkY0xxN2w4UQ?oc=5",
+   "data": "Fri, 06 Nov 2026 10:49:00 GMT",
+   "fonte": "La Stampa"
+  },
+  {
+   "titolo": "Data center in Italia, 37 mld d'investimenti potenziali: cosa sappiamo - Sky TG24",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiQ1lmdGI4TTRTdGxrcUNCYkFnNVkwanZvZjlUcm5uMFlfaFVHc2NySzI2a25UWG1iT3RCU1NCNEhUNWI0eHlTYW9uUkU4Zlc4WTNJTmFvXzFvR25oT0VqTmFGWlBad24tQi1sTlRDcm93dmdYXzdEY1FLZw?oc=5",
+   "data": "Fri, 06 Nov 2026 06:12:50 GMT",
+   "fonte": "Sky TG24"
   },
   {
    "titolo": "Olanda, gli attivisti fanno irruzione nel cantiere di un data center Microsoft ad Amsterdam - Video - Il Fatto Quotidiano",
@@ -32,34 +44,10 @@
    "fonte": "Euronews.com"
   },
   {
-   "titolo": "Data center in Italia, 37 mld d'investimenti potenziali: cosa sappiamo - Sky TG24",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiQ1lmdGI4TTRTdGxrcUNCYkFnNVkwanZvZjlUcm5uMFlfaFVHc2NySzI2a25UWG1iT3RCU1NCNEhUNWI0eHlTYW9uUkU4Zlc4WTNJTmFvXzFvR25oT0VqTmFGWlBad24tQi1sTlRDcm93dmdYXzdEY1FLZw?oc=5",
-   "data": "Fri, 06 Nov 2026 06:12:50 GMT",
-   "fonte": "Sky TG24"
-  },
-  {
    "titolo": "Olanda: l'irruzione dei manifestanti nel cantiere di un data center Microsoft ad Amsterdam - la Repubblica",
    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQ0RhcHdGNTZtX2t5RnRJZDhCVHlzalJCd3kxd1NBQUxlUk5UMnQ5SjQyU3BVLWwxSlR2MDQ3OFB5M2YwTnZ1TXo4M19kcHFYUE1Zek5CUlVVNzJJRVdpQWNVM1diVWEydUVMYzRfTWh4NnJLWVlvSUlGOTAtYmpfMlNzWFdNRnI3SERzeDJlVzNBdTJwSUgtcmxNNm9veERkSmRYd3NHWlFYRFZhWHZ6eHVmNm1JTVFjc1hYaXRJZDMweWVxT0RTeGwxZHREU2wtdUV5VFhxVXY5ajdLOVJUd05iQQ?oc=5",
    "data": "Sat, 07 Nov 2026 11:16:00 GMT",
    "fonte": "la Repubblica"
-  },
-  {
-   "titolo": "Manifestanti irrompono nel cantiere di un data center Microsoft ad Amsterdam: rapporto - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Qc0NVS2xvTW9NV2pyRWRqaWhnQjhkTnRsRWUtOFZodFZRaFl2Q2VFdVVscGlDeGcwMDNDRm5pZG11M2hLZ1Y4UHZLb3hCQ3ZLemlZVzJGYmxwOENUYmRlbW9jSkZNXzBuM0E5R3pscw?oc=5",
-   "data": "Sun, 08 Nov 2026 09:48:48 GMT",
-   "fonte": "TradingView"
-  },
-  {
-   "titolo": "Microsoft Italia crea un data center per gli specialisti del futuro - The Innovation Group",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZldBMlJMaThwQ0RkSzZKajU2SV8zZWgtcFNCZThwNDlWclhNNmRKLWEzZFd0UVZ0X3dua0Q0bHlfcmNERVJtblNFcVZSZUtDdWExcnpwX25iTlZTT0R5X3hZMGxCZlZqN2lfT0ZiNmVqVDdETEZiaWYwS0xScS1rbWZEVG5lSGJDUDEwbnhSeXpEbzE0YzJpNnNJWjRnQUNxb0hvOUpiTQ?oc=5",
-   "data": "Mon, 02 Nov 2026 13:13:46 GMT",
-   "fonte": "The Innovation Group"
-  },
-  {
-   "titolo": "Il crollo di Nvidia e la proposta di Jim Cramer: tra cali storici e nuove tensioni geopolitiche sui data center - Yahoo Finanza",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xVWs2WlZmSzJXcHFFc0xvbjZEeEdfV3NVOWZjYTFwZDhuTDlBNC1jaUR0bk03d29DMFpsdWcwVUUzX28zcVlneDU1aWlvMnotVUUxQXZ2bld6cUY3dHRQbzJjdG9TRHowejlaV2kycXg5MW5IZ2NRaDljZzJ2Zw?oc=5",
-   "data": "Fri, 06 Nov 2026 11:55:11 GMT",
-   "fonte": "Yahoo Finanza"
   },
   {
    "titolo": "Its Rizzoli, il data center entra in aula con Microsoft - inno3",
@@ -68,10 +56,22 @@
    "fonte": "inno3"
   },
   {
+   "titolo": "Manifestanti irrompono nel cantiere di un data center Microsoft ad Amsterdam: rapporto - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Qc0NVS2xvTW9NV2pyRWRqaWhnQjhkTnRsRWUtOFZodFZRaFl2Q2VFdVVscGlDeGcwMDNDRm5pZG11M2hLZ1Y4UHZLb3hCQ3ZLemlZVzJGYmxwOENUYmRlbW9jSkZNXzBuM0E5R3pscw?oc=5",
+   "data": "Sun, 08 Nov 2026 09:48:48 GMT",
+   "fonte": "TradingView"
+  },
+  {
    "titolo": "Gli elettori frenano il boom dei data center negli Stati Uniti - Fortune Italia",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOUdkUHdkc0x0cGJyNUEzUzN6S0twU0l0S004cEN4RmV4Zk9rVGpQU2loQV90QlpPQnIyMmFmYVJUZ2tRYUtGTFFuZlJPalRhSkZiT2VaN1JFN2pNYnY2Uk9WZ1ZDZEt4c0hOOHlXSlRQYjdIVU45cVZkQ25NZjhnM3VSb0ViTkZhMTVqd2I1M2szdXRyNkVOOFcweXY0bVYxWHZN?oc=5",
    "data": "Thu, 05 Nov 2026 09:06:23 GMT",
    "fonte": "Fortune Italia"
+  },
+  {
+   "titolo": "Microsoft Italia crea un data center per gli specialisti del futuro - The Innovation Group",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZldBMlJMaThwQ0RkSzZKajU2SV8zZWgtcFNCZThwNDlWclhNNmRKLWEzZFd0UVZ0X3dua0Q0bHlfcmNERVJtblNFcVZSZUtDdWExcnpwX25iTlZTT0R5X3hZMGxCZlZqN2lfT0ZiNmVqVDdETEZiaWYwS0xScS1rbWZEVG5lSGJDUDEwbnhSeXpEbzE0YzJpNnNJWjRnQUNxb0hvOUpiTQ?oc=5",
+   "data": "Mon, 02 Nov 2026 13:13:46 GMT",
+   "fonte": "The Innovation Group"
   }
  ],
  "norme_usa": [
