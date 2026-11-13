@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-12T13:35:31+00:00",
+ "aggiornato": "2026-11-13T12:54:19+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -99,6 +99,15 @@
  },
  "norme_usa": [
   {
+   "titolo": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+   "data": "2026-11-13",
+   "tipo": "Notice",
+   "agenzie": [
+    "International Trade Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/13/2026-23178/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest"
+  },
+  {
    "titolo": "National Television Multiple Ownership Rule",
    "data": "2026-11-12",
    "tipo": "Rule",
@@ -143,15 +152,6 @@
     "Environmental Protection Agency"
    ],
    "link": "https://www.federalregister.gov/documents/2026/10/29/2026-22082/additional-reconsideration-standards-of-performance-for-new-reconstructed-and-modified-sources-and"
-  },
-  {
-   "titolo": "Further Definition of “Swap”-Inclusions",
-   "data": "2026-10-19",
-   "tipo": "Proposed Rule",
-   "agenzie": [
-    "Commodity Futures Trading Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/10/19/2026-21377/further-definition-of-swap-inclusions"
   }
  ],
  "news": [
@@ -162,16 +162,16 @@
    "fonte": "Yahoo Finanza"
   },
   {
-   "titolo": "Agcom, Alphabet/Google supera per la prima volta la Rai nel Sistema Integrato delle Comunicazioni - Brand News",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb1BzTVpKNURhb3k1a3JDcnRab2F5WU1vNHl2M2Q2LXgydEhvS2ZWeXZWVW1XT0tybEd6dHBnZFRXSzh0SEpsRDJncHlSWlZNQzJKenR5Z1M4aXRzWU5ELUcxelRtRHRNckMycmVlLWNLRlBfNzRRYkRKZU9xSFZMMjJUZmdmbjJmLW9GdEdWcGNrS3NtemZXaDBrdXpndWJBQ19DSHdJY3h0dTVIbEt1RC1TbVJ2Y19UUTdzTXJxOEVHczg?oc=5",
-   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
-   "fonte": "Brand News"
-  },
-  {
    "titolo": "Il valore in borsa di Alphabet, la società che possiede Google, è diminuito di circa 500 miliardi di dollari in un solo giorno - Il Post",
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qcGdCYWFGb3JYM1JZSzlWdXZjem1SWEpISEpqbGF6YVYzU1dqMS1pUHhRekFQOG9acEVBNkNoN3AzQTliRHd1dDcxbE9nZEo3QXFrUi1FS3BzWHhZazZJLUQ1dkZqbjdXNGpfRVBNVTROaFZhenlMUQ?oc=5",
    "data": "Fri, 30 Oct 2026 07:00:00 GMT",
    "fonte": "Il Post"
+  },
+  {
+   "titolo": "Agcom, Alphabet/Google supera per la prima volta la Rai nel Sistema Integrato delle Comunicazioni - Brand News",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb1BzTVpKNURhb3k1a3JDcnRab2F5WU1vNHl2M2Q2LXgydEhvS2ZWeXZWVW1XT0tybEd6dHBnZFRXSzh0SEpsRDJncHlSWlZNQzJKenR5Z1M4aXRzWU5ELUcxelRtRHRNckMycmVlLWNLRlBfNzRRYkRKZU9xSFZMMjJUZmdmbjJmLW9GdEdWcGNrS3NtemZXaDBrdXpndWJBQ19DSHdJY3h0dTVIbEt1RC1TbVJ2Y19UUTdzTXJxOEVHczg?oc=5",
+   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "fonte": "Brand News"
   },
   {
    "titolo": "La trimestrale di Alphabet delude le attese. Il titolo crolla in Borsa - Forbes Italia",
@@ -198,6 +198,12 @@
    "fonte": "Borsa&Finanza"
   },
   {
+   "titolo": "L'AI fa bruciare ad Alphabet (Google) miliardi su miliardi. E il titolo scivola in Borsa di oltre 11 punti - StartupItalia",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqSXZUUWM1Sy1YWTRPM1g3YTFqYlBhc2x5ckhSYVpteXhCN1NHRGFXRmt0SGJYd3NuTGExVzE4bkVFbU92V3JNcHNRemVlSl93X3lJeTVod0tLc3dvaXRIRk0yQlNobll1anJKLXExQ0ZYUGpBWm5v?oc=5",
+   "data": "Thu, 29 Oct 2026 07:00:00 GMT",
+   "fonte": "StartupItalia"
+  },
+  {
    "titolo": "Alphabet: ricavi su del 25%, e Google Cloud raddoppia nel 2026 - HDblog.it",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUDljamx6NWctR1hveVg1ZUQ3TzlXTUJfUlY5Um5QSUszUk05QmtjTDFkUEk5RlBUWW1CaFhUYzh1dE9QRDlXb1lkYmxZX1pfVm9ncFFhUGc2NG9ydE15bUh2OXgwNkdzU3hMY0Rzem1kelZ1dTFmd3dzQkk0X1NkTDBGQUdjaUtzT0M4OUlIN3dIdThTdzQxcQ?oc=5",
    "data": "Thu, 29 Oct 2026 07:00:00 GMT",
@@ -208,12 +214,6 @@
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpbFl1dFpLNEFFZVl1Nk5sS1J3amU3WDBZaHBNX1h4enZEak5BZXpJaFUwam9XVHppaW14dGJ0QVRTb0NKMUhlR3hxNHU1NUczeXowQ1FLcU9lOEx1OWxFdV9uY2oxdWtneVN2TENveHo?oc=5",
    "data": "Mon, 02 Nov 2026 08:00:03 GMT",
    "fonte": "TradingView"
-  },
-  {
-   "titolo": "L'AI fa bruciare ad Alphabet (Google) miliardi su miliardi. E il titolo scivola in Borsa di oltre 11 punti - StartupItalia",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqSXZUUWM1Sy1YWTRPM1g3YTFqYlBhc2x5ckhSYVpteXhCN1NHRGFXRmt0SGJYd3NuTGExVzE4bkVFbU92V3JNcHNRemVlSl93X3lJeTVod0tLc3dvaXRIRk0yQlNobll1anJKLXExQ0ZYUGpBWm5v?oc=5",
-   "data": "Thu, 29 Oct 2026 07:00:00 GMT",
-   "fonte": "StartupItalia"
   }
  ],
  "news_legali": [
@@ -230,22 +230,10 @@
    "fonte": "Borsa&Finanza"
   },
   {
-   "titolo": "Conviene Comjprare Azioni Alphabet Google Novembre 2026 ? Target Price - Finanza Italiacom",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhWWd3SzZJREFmVWcyd0FxYWlEdGpObUljbGZQMjlyeE1wUFBrOWwzQmlINTkzbEdzT0xodGFhWmhJQkZJU0N4ODFCMFUyRE1RNUhrWFJDTUhsMG9Dc01XUTF4Wnd4a1hnMW5wUlZ4aw?oc=5",
-   "data": "Thu, 29 Oct 2026 07:00:00 GMT",
-   "fonte": "Finanza Italiacom"
-  },
-  {
    "titolo": "Alphabet perde il 12,6% e brucia 500 miliardi, l'AI Mode rende meno - Pasquale Pillitteri",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YYnl3Wkd0M0RtRzdHV2pEY0lLVHo1V2gwODRNdjNQaHh2cXRIdE9tWU1vcGlPeGZ1NFFDbzBEdXZ4YlpDdERMZkoyMExCODJBcGw0SzBPdjdyMmh6eFgzMjR6YUdIZGxWcEJFR011SWEzd1YtRFBj?oc=5",
    "data": "Fri, 30 Oct 2026 07:00:00 GMT",
    "fonte": "Pasquale Pillitteri"
-  },
-  {
-   "titolo": "Ricavi di Apple contro Google: chi guadagna di più? (2026) - FourWeekMBA",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOYVZHY3FqNTVLUFhWSzg2dThYQVNhNVBYMU9ZRUM4bmNrRnlYUUpsT3JwR2syVWRncGM2bHlhRWdiM0d0ckpHNS1XM3ZGZjI3bkVFbEFlOVUtWDNlN3h6RGJKRllDZVZUYy1QSDN5X2p5V0VwcXc?oc=5",
-   "data": "Tue, 13 Oct 2026 07:00:00 GMT",
-   "fonte": "FourWeekMBA"
   },
   {
    "titolo": "Google lancia Gemini 4 Argon: può recuperare il ritardo su OpenAI e Anthropic? - Dove Investire",
@@ -260,16 +248,28 @@
    "fonte": "IlSoftware.it"
   },
   {
-   "titolo": "Ciulli brinda, Google banna e l'Ordine dei Giornalisti buca una notizia diventata Tesi di Laurea - Matrice Digitale",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT0lkcjJnWHVqSWJtZENOc21XNmpLdnZNRVN3cEJNNkZJZ0JBWHdMRGpjZVFvZ0M0T1Q5RGk0eTFNZEJ4a0dITFJkbG5Jdjd4eGVvSE1Nb0ZtZEZ6S1ExTGRGZWNrMjNCRmE1SU9uVDhvZC0tVGs0dHAwMzNvR1lBQzV6OHcyUQ?oc=5",
-   "data": "Sat, 31 Oct 2026 11:00:00 GMT",
-   "fonte": "Matrice Digitale"
+   "titolo": "Doccia fredda per Google: il consigliere della Corte UE conferma l'ammenda antitrust da 1,7 Mrd USD - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRlZKeng1Z3RWV1dObnczSURfbUVGRGNvZGRXN042eVVQV3dEejUzZHlUS2RpT1laUWdvT1dTa1VRcHJmcHNfYVZiRVhhNWhYaW8tS1d3dy0tSGV6bjRvSzlueEJtTXlVTE5ueF9HZVpOS0dsUDBJWDVkOFZvNEVPRGh2QUpPZi01WWJYaG04RnNWMXJubmVaWjd6QlI0QjVGMmQ2NjRnQlJfOGEwUU53NnZiSVJTSVRHR0xFUVNLLVNoaHJ1NGJ2ZzdoRGw5cXdyU0RLem50Y2dvcEt4TUFHZ2FnWDZJU0pDZ3c?oc=5",
+   "data": "Thu, 12 Nov 2026 09:24:23 GMT",
+   "fonte": "MarketScreener Italia"
   },
   {
    "titolo": "Azioni Alphabet: Google primo operatore media italiano per fatturato, cosa fare? - Borsa&Finanza",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ1dfcDc2aDNYMEMwc1NhOUJRVHhRMlhQdUJoTUx3ck1BeXk2Wnp5Ukt4REp2dE9ETVdtSTlaVG1pWXFpbkxkZWliaHhCT3VWLXBndmt3Z0VVbGVLYjJxRC1XNTM4VUFRdUU1UUJMY21nNVY5UENwY0cwcXc5cENUc1RheW1aaFpoeXNlREE1endzblhPRC1LNDFRQWd4NlQyLVZWYTBn?oc=5",
    "data": "Mon, 02 Nov 2026 08:00:00 GMT",
    "fonte": "Borsa&Finanza"
+  },
+  {
+   "titolo": "E se l'S&P 500 rimbalzasse fino a 8.100 punti entro la fine dell'anno? - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRFhfNlEwTG5IMjNFRlJEcXNlV2k4M0NNbEdvcjdxajFmZ3Zla1ducWFFQjQ3azBTRHNBRjZSYlBMekhPNlQyTWdmTGt1bXNDaDY3Nk9oU0pFalFlM19zMFRLaVBlYmFaRTByaU1CRW1xbkNENWlKN09qZmtON1hWUHdOZGE4N2RwcExYTDFsNVV0cjYtMGJYRUxwRXFTT1JDTWlISkh4VkM2cDNDMHY2ZVJGdVp6S3I2cnFKMjB4TFhvZw?oc=5",
+   "data": "Fri, 06 Nov 2026 20:07:27 GMT",
+   "fonte": "MarketScreener Italia"
+  },
+  {
+   "titolo": "Conviene Comjprare Azioni Alphabet Google Novembre 2026 ? Target Price - Finanza Italiacom",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhWWd3SzZJREFmVWcyd0FxYWlEdGpObUljbGZQMjlyeE1wUFBrOWwzQmlINTkzbEdzT0xodGFhWmhJQkZJU0N4ODFCMFUyRE1RNUhrWFJDTUhsMG9Dc01XUTF4Wnd4a1hnMW5wUlZ4aw?oc=5",
+   "data": "Thu, 29 Oct 2026 07:00:00 GMT",
+   "fonte": "Finanza Italiacom"
   },
   {
    "titolo": "EssilorLuxottica +13%: ricavi superiori alle stime, ma incombe Google - Invezz",

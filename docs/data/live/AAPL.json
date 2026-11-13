@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-12T13:35:25+00:00",
+ "aggiornato": "2026-11-13T12:54:14+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -99,6 +99,15 @@
  },
  "norme_usa": [
   {
+   "titolo": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
+   "data": "2026-11-13",
+   "tipo": "Notice",
+   "agenzie": [
+    "International Trade Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/13/2026-23178/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest"
+  },
+  {
    "titolo": "National Television Multiple Ownership Rule",
    "data": "2026-11-12",
    "tipo": "Rule",
@@ -144,15 +153,6 @@
     "Centers for Medicare & Medicaid Services"
    ],
    "link": "https://www.federalregister.gov/documents/2026/10/20/2026-21420/medicare-program-implementation-of-sections-6219-6220-and-6224-of-the-consolidated-appropriations"
-  },
-  {
-   "titolo": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Permit the Listing of Binary Options Overlying Key Performance Indicators Reported by Certain Issuers of Stock",
-   "data": "2026-10-16",
-   "tipo": "Notice",
-   "agenzie": [
-    "Securities and Exchange Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/10/16/2026-21149/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order"
   }
  ],
  "news": [
@@ -169,12 +169,6 @@
    "fonte": "la Repubblica"
   },
   {
-   "titolo": "Apple porta il touch sui Mac: ecco i nuovi MacBook Pro con display PROLED XDR - Sky TG24",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42RlBja1FjS2JKWkhaUTZLbVctRHlsMUhxc2U3Tkg1YkdUbUhKT0ZuWEg3cHdPNWdsS004UG5CTXVCVkpZR0xqSG44V2JOVmVXOHBWNGxTc2xvWmlyRHNlTmRrYXRqZFBQaWRMWXBpWFU0d2RRZUo5QXBzSQ?oc=5",
-   "data": "Wed, 28 Oct 2026 07:00:00 GMT",
-   "fonte": "Sky TG24"
-  },
-  {
    "titolo": "Apple supera i 5.000 miliardi di dollari: è la seconda al mondo - HDblog.it",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYXZHOHpqQjdMeHFHajlLOTItaTNEUklJOVRzMHhMYXhDbTkzQUtRMHZaQ0F4RkszenhfOWVRZXF6VXdodEQxNnRmLXFKVGdjRnAyWDJmRFFqWGZuNjFnaUVwdHNqbmx5U2ZTdWpwWlBBNDVuQlZSdFI3Qi10UTRiWVJYTmt4U2V5b2ZucEFxSnRrWlE?oc=5",
    "data": "Thu, 15 Oct 2026 07:00:00 GMT",
@@ -187,10 +181,10 @@
    "fonte": "iPhone Italia"
   },
   {
-   "titolo": "iPhone Duo, a cosa serve il pieghevole di Apple - Il Sole 24 ORE",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdlhTQ29yMXdTRGJTWkxYSDNVYW9MaE95VnFTREFpRUxhUVlxcUlsQWt5cjk5MWxUWEY3eUZLUWR1eWdTNHo3emRfVnROaTNrM2NmMjcxXzJiRGZiYTNuYXRrckZNa1V0TkM0R0gtaU9jMjlXaFdFMTNRZ29yZGJPcXByeU1rd2xPVXhMR0VzdGV1QkYyOG9YTQ?oc=5",
-   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
-   "fonte": "Il Sole 24 ORE"
+   "titolo": "Apple, l'evento Pro and tell per il lancio di MacBook Pro e iPad mini - Sky TG24",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcWtJd2tjWnRYVWt0WXdKTzlzZ0g5ZWItN0gybS1YczQtMENlOVlwT2RBVzlyMExMYVZ1WXdkdXFfOTNNc2pxbEhSdXhkbW1KclMtYWF5VUZ0dllYRzRwRHhHczNKWWtOSktTMzE5VkZXUE40eU9CcEFpSFVNS1d3UEk2dFRSbE13?oc=5",
+   "data": "Tue, 20 Oct 2026 07:00:00 GMT",
+   "fonte": "Sky TG24"
   },
   {
    "titolo": "Apple presenta il rivoluzionario MacBook Pro con display PROLED XDR ed esperienza touch, per la prima volta su Mac - Apple",
@@ -205,16 +199,22 @@
    "fonte": "Morningstar"
   },
   {
+   "titolo": "Wall Street apre in rialzo, petrolio in calo e riflettori su Apple - Borsa Italiana",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTThRbFpUUHg5QWdKaVNKVTZfc1Y2ZG44U3p2NXJIZEREdFZqNF9ORjR0MjdpNG9TRG51ajZ2U0c5OWxKbUVPQWJiWVh6RnpuMVVYaUUzZDNFZUlvbGJodTNnOXNYRnBfZjB6dzJRZFBRUHdsdS1mV0ZFRHdiS0hnSUQ0RnlRa0QxVG10aGp2RjE0VjJjbjI0SFZKWDZraFlmN1Q1UHkyQ1dZOGNlVGtOdkJGQ1NEZzVNTUNka09BS2VTN01EYklzQ2NOU0JVQk9yNm5ZS1lKTWtybHhibTFvNmllemJpdw?oc=5",
+   "data": "Mon, 02 Nov 2026 08:00:00 GMT",
+   "fonte": "Borsa Italiana"
+  },
+  {
    "titolo": "Apple annuncia l'evento \"Pro and Tell\" di ottobre: ecco cosa aspettarsi - Multiplayer",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeFdEczR5R1lIVEtjMVZtQzA2bEg2OXVkbUpublVDRzRCNlJaR2FsSzluMU5rWXVocEVFTzNFcUVSMkJGdEZLdWNiR3MwdkMwT2ZRM0pncTQ4aUxmX2N2Qnl6X1NVY3cxV3pCbHJiekpCX25xRE9aX3VMdmhLeHlsODZVdWlQeXNoWjFGV2hleUdhS2VfOWtIb09HVHFoaUFoUFpHdWJR?oc=5",
    "data": "Tue, 20 Oct 2026 07:00:00 GMT",
    "fonte": "Multiplayer"
   },
   {
-   "titolo": "Olivia Dean è l’artista del 2026 di Apple Music - TuttoTech.net",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOWV3WVU4cHBqUUQxdFh2VTlPZ3pkSzdyclRNeXlGV1dQcmxXaVNTcTNPc1BCS010bXpNUTlYajctWTN5ZVBRQkZXdkdVWWdVVUFyTUVLVlAyWE1JaDRYdjVSUHM4S3U1dkVvVjdZcWhmOGxRYVBkZEEwYnB0aVRJWnlXb0pmbXRDd0tv?oc=5",
-   "data": "Tue, 10 Nov 2026 12:24:14 GMT",
-   "fonte": "TuttoTech.net"
+   "titolo": "iPhone Duo, a cosa serve il pieghevole di Apple - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdlhTQ29yMXdTRGJTWkxYSDNVYW9MaE95VnFTREFpRUxhUVlxcUlsQWt5cjk5MWxUWEY3eUZLUWR1eWdTNHo3emRfVnROaTNrM2NmMjcxXzJiRGZiYTNuYXRrckZNa1V0TkM0R0gtaU9jMjlXaFdFMTNRZ29yZGJPcXByeU1rd2xPVXhMR0VzdGV1QkYyOG9YTQ?oc=5",
+   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "fonte": "Il Sole 24 ORE"
   }
  ],
  "news_legali": [
@@ -299,12 +299,6 @@
    "fonte": "WeAr news"
   },
   {
-   "titolo": "La strategia di Apple non insegue il mercato maturo - Melamorsicata",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVjFLbmdGbTRsSWdGQ0pvNUxKRlpZbWo4S3dRNXNWamZ6MHBOMExBMlFuQjBwR0dxNFVHVDNsbDVySGZVdWtTLU8tcFo2SDRxUDdnZFN3ZU5IQjU1VnU0d1l1dEJiU3pFVmdXRlh6Zzg5bU52d09wWkd4N0V5V0tMS3ROeTdlR1ZfUzYw?oc=5",
-   "data": "Tue, 15 Sep 2026 07:00:00 GMT",
-   "fonte": "Melamorsicata"
-  },
-  {
    "titolo": "Il CARTONE della PIZZA INTELLIGENTE fatto da APPLE! - Andrea Galeazzi",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nTzBoNjVzckp2VlBSLW0xdWNVNzhHYUJoVHNMaDdiTVFMSDZsNVd6cExZVHFxUW5fX2pjdktHaG9GZ0xqa0MwbzVSNTBFSXVSVUktbFJHcU5QcXQ2Q1BaOExva2lQZ0lPUEYyN1V5VGNkcUp0?oc=5",
    "data": "Thu, 27 Aug 2026 07:00:00 GMT",
@@ -315,6 +309,12 @@
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNUVGSkVMY2hLdVZUcURfVzF1SmVQNWp0Sk1weWl6c0NTV0FWSmF0Z3lTMXE2Y2xqM0pRcEU4azNsUExjSV9uZk9TNFA0OHlMbGNPSzJySUFxZDhuUHhaVmxIaU80Z244UVFFRlFfWkRyTWFFZHZzZlRIMmFibGdBa0wya3AzcjQzOVphblFQS1AxM25wSm5KS3AwTkpBVWFvTkZaei1PcnQ1Ql9HZ19n?oc=5",
    "data": "Sun, 27 Sep 2026 07:00:00 GMT",
    "fonte": "blue News"
+  },
+  {
+   "titolo": "Federal Jury Orders Apple to Pay $5.7 Billion Over Haptics Patent Infringement Case - TIKR.com",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZUp6ckVkaE5JMVZNMmJ3MHNNSDFjNThMSFZzQXpBMzd3T1JiTVJWM0pwbTUtQUwzV09BQXl5eG8yRWp2cW5OSW5NazZiTWdNaHVkemNpckVnMmZabTVINHAtVzZlcW9lci1McXItUFlXZEtKQlNOSkMyOGJNWjcwVFo4VFdLdzFjM3Zj?oc=5",
+   "data": "Mon, 28 Sep 2026 07:00:00 GMT",
+   "fonte": "TIKR.com"
   }
  ]
 }

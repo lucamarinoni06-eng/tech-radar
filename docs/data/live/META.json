@@ -1,6 +1,11 @@
 {
- "aggiornato": "2026-11-12T13:35:39+00:00",
+ "aggiornato": "2026-11-13T12:54:26+00:00",
  "filing": [
+  {
+   "tipo": "8-K",
+   "data": "2026-11-12",
+   "link": "https://www.sec.gov/Archives/edgar/data/1326801/000119312526458525/d177728d8k.htm"
+  },
   {
    "tipo": "8-K",
    "data": "2026-11-05",
@@ -55,11 +60,6 @@
    "tipo": "DEF 14A",
    "data": "2026-04-16",
    "link": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026025532/meta-20260416.htm"
-  },
-  {
-   "tipo": "8-K",
-   "data": "2026-04-14",
-   "link": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026025108/meta-20260408.htm"
   }
  ],
  "bilancio": {
@@ -160,15 +160,15 @@
  ],
  "news": [
   {
-   "titolo": "Meta Platforms raccoglie 9 miliardi attraverso la sua prima emissione obbligazionaria in euro - Borsa Italiana",
-   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQb3p6Y2djdWJmcVBLMllvTEZESVQ2RV9jWlVnVWxEMzNvSGRCYk9WRlhWdU93cHB4b2VmNTJmd1RReVVOdGVxR2pOOHJpb0QzREVxUjB1bXZnazNRdm95TWxwdTVGV2JHTlJDYUpKR3dkRGFzVDZjNjBna0tEeldwT2NqT196YThKUUt1SGVTNkZXanVUXzJjSjlOTFVWQVpGZ3d4UkQ4OWt1MldmZVM4QVlWTHU0Wm5hWWlHRjA2VVF3SkQzZmJud1JjbmZYZEhYMWNPZzRfNkhfdkFVUU9raFZhQkdsZDZpMzVheU4tRlhxckdXSmtXdzB2a0g4SkNkdm0wS0ZsUUV6c3o2QmgzcDExaEE?oc=5",
-   "data": "Wed, 04 Nov 2026 19:19:00 GMT",
+   "titolo": "Meta Platforms, nel terzo trimestre ricavi e utili battono il consensus - Borsa Italiana",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPck55NmNocFhzdFJjMHRLNjNsU1dZbnlKNFJTWUMzZldtOUxiX2hfeXlyWkZieUJKLTB2SGY1ZXNzOXF0VjB0M0dNNzV6WFRnSmF4dXNENFp5N3JNSUJveE1MV1BuTHpMcGx6RFBYRDgySF8tWm1PeUZjdkFKVDJxZXY4djlsUzFiX05SbE40NFhQemVXWktOVTFtUm56bVprblFmcUx0SlZDT3h5WTdzWjB4MnpjSllwUHhYYXg5WjR0SVd5ZXczaGRObmZnNWc4M3l4dkp0ZS1YNmN6V0pvVVNwR2JNY3pGd3c?oc=5",
+   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
    "fonte": "Borsa Italiana"
   },
   {
-   "titolo": "Gli EPS di Meta Platforms hanno battuto le aspettative per 3,83$, il fatturato supera le previsioni - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMG1qNnpHY1JKdGw2R3pkUmJHa1Z0d25Zb1ZGMTFETm11NDFKaEo2T2pzaW8wcUctYWdxY2NwcVl2LUYwRnp0ZlFmOGpsWEhudkFpQXVxWUpETURqR2pSZ0ZnREVZSmh1dmYycVdySjlzMFFsTURVQ2NjUzFUd2xVdXNUcTJ3UVgyd0tDRlRIWm1wYVhjT2hLN1VrZlZkMTRqdjlSMDBDdVJnMnZNOXV4YkVZdFVqeGRsN2g0bE9QcHdHRHppRTBUdDFjMDA0Sy12eVR0dkJHSzFiWjg?oc=5",
-   "data": "Wed, 21 Oct 2026 07:00:00 GMT",
+   "titolo": "Perché il titolo di Meta Platforms sta scendendo oggi? - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1lhR0hTVDg4Q1lPR1l4OEJiVTNIeU54cWVpeTl5OWlUNmo0TnFBYUxJNkpCWllxalduZFgxdTdnWmMzRFBpa2tHZFdUU3R1cERvR0VDRXRUdTlxWmEtUk1Xc2FNMGJVZkx6bjZGaUQzSV9YZGdUeHlxcExXNUJBUE5ILVRPM2lpQkg4N3NVeU1GY1p5ZWdPVzNsWkU3RjNvUGRVZ3lkMzdYWjluLWNGNGpMYU4?oc=5",
+   "data": "Tue, 27 Oct 2026 07:00:00 GMT",
    "fonte": "Investing.com"
   },
   {
@@ -178,16 +178,16 @@
    "fonte": "SoldiOnline.it"
   },
   {
-   "titolo": "Meta Platforms, nel terzo trimestre ricavi e utili battono il consensus - Teleborsa",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORl94VnN2cFBoaWU5a19TMUFGVU44ZFpscFRXOTJyZ1dpVjhVUnBxQ21oZms5amUwcFZhM3dmX2pIZjRpNnR2QkU5bm56NUpxNmVFOTNCWTVaZC1HenREMC1XclJoSW5OZ1ZPLTB3QlhMMGlnbzVnWk40LU00VDdLNV9PVW1DUGl5emF4UzVucjQ0OVFPYlZTMlo5Wi1CeXRkTUtKaW5CSGZhS1JLelFIcDJDV1c3a0pmRWQ0?oc=5",
-   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
-   "fonte": "Teleborsa"
-  },
-  {
    "titolo": "Meta Platforms, Inc.: da New Street è Buy - MarketScreener Italia",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVlFhdVhDSkJsU0hSUWFGMFZCdTJHOUhkU3hGUGl5RUlEMnV2LVlHaWw1Zld6TW05TW9MVm5GY2xsNkVRR2NBYTVINHZzZGpLT1kzTFNPbmJSemVwMVE2VENTcTNSQjYzX2ptZ1N6QjYxdUJmbDVlZ1h3Qm81RmZycEhwTUhPOENwb1VQcTZCemt1ZTJmdUhvVQ?oc=5",
    "data": "Tue, 27 Oct 2026 10:08:08 GMT",
    "fonte": "MarketScreener Italia"
+  },
+  {
+   "titolo": "Meta Platforms raccoglie 9 miliardi attraverso la sua prima emissione obbligazionaria in euro - Borsa Italiana",
+   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQb3p6Y2djdWJmcVBLMllvTEZESVQ2RV9jWlVnVWxEMzNvSGRCYk9WRlhWdU93cHB4b2VmNTJmd1RReVVOdGVxR2pOOHJpb0QzREVxUjB1bXZnazNRdm95TWxwdTVGV2JHTlJDYUpKR3dkRGFzVDZjNjBna0tEeldwT2NqT196YThKUUt1SGVTNkZXanVUXzJjSjlOTFVWQVpGZ3d4UkQ4OWt1MldmZVM4QVlWTHU0Wm5hWWlHRjA2VVF3SkQzZmJud1JjbmZYZEhYMWNPZzRfNkhfdkFVUU9raFZhQkdsZDZpMzVheU4tRlhxckdXSmtXdzB2a0g4SkNkdm0wS0ZsUUV6c3o2QmgzcDExaEE?oc=5",
+   "data": "Wed, 04 Nov 2026 19:19:00 GMT",
+   "fonte": "Borsa Italiana"
   },
   {
    "titolo": "Meta Platforms, Inc.: President Capital Management Neutral sul caso - MarketScreener Italia",
@@ -196,28 +196,28 @@
    "fonte": "MarketScreener Italia"
   },
   {
-   "titolo": "Perché il titolo di Meta Platforms sta salendo oggi? - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQWlySUx1eFZvZHJFWlF4UURmMTVBXzc3aXR3dTAtLXdRYTFvRFBoNlk0TkpuUzBRX182dFRPSi0tNlo2U0ZfREpBVnkxMWFnN252WXVYVVJhbHhfeGN0NV9YTHNUTlRObE1IN3ljbXIyUDRGSDg2dE1ZZkpYMHRPb0c5UkdOSDExU1IxNkg4ejZ4VzBVdWNra3lFYWIwcHpzR2EwTHBiejl2czNRSEdwUVh3?oc=5",
-   "data": "Mon, 09 Nov 2026 15:06:00 GMT",
-   "fonte": "Investing.com"
-  },
-  {
-   "titolo": "Meta Platforms, Inc.: Daiwa Securities ottimista sul caso - MarketScreener Italia",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdXNlY05zZm1OLWZyM3ZIR19ONzNoaE5OWEswODRETUxnVHdlamVFeG5leWRndk5uZlIwQzJaX20ySE94Ny00b0Q4LTlBRTU1LXVTYWJfZW92VUplM3ZmdXlSRkNFMk9MbUgtSkdRRFZQV29QSWh6RkRidWIycnUzVF9iU1c2TTg3MWhmNExPcmd0dDRBZHMwRGM0OGlMWmhfUktBLUw1NmRIbmRoNEE?oc=5",
-   "data": "Wed, 28 Oct 2026 16:32:48 GMT",
+   "titolo": "Meta Platforms, Inc.: prospettiva positiva di Bernstein - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGhMT01fLURSNlRkMlFsdzRDcjJ1YVdmOUVsT2FYSjltN3J2UEk3SEdzLWc4eWZYQnBOdGxrdkFuamk5NmVEb3prVHZ6cDdBdmtNc0pMaFpQQTFYeGtBcnZZMmNZbVdGUkI5dkR1RHlGMjY2bXpqVW1iZUZEYndDUkRZQWNiQnRHSXVwWV82TEVGRU5iU1JRMVYza1VVTGdyd05qTkxTcnk4RFU?oc=5",
+   "data": "Fri, 06 Nov 2026 09:14:31 GMT",
    "fonte": "MarketScreener Italia"
   },
   {
-   "titolo": "Perché il titolo di Meta Platforms sta scendendo oggi? - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1lhR0hTVDg4Q1lPR1l4OEJiVTNIeU54cWVpeTl5OWlUNmo0TnFBYUxJNkpCWllxalduZFgxdTdnWmMzRFBpa2tHZFdUU3R1cERvR0VDRXRUdTlxWmEtUk1Xc2FNMGJVZkx6bjZGaUQzSV9YZGdUeHlxcExXNUJBUE5ILVRPM2lpQkg4N3NVeU1GY1p5ZWdPVzNsWkU3RjNvUGRVZ3lkMzdYWjluLWNGNGpMYU4?oc=5",
-   "data": "Tue, 27 Oct 2026 07:00:00 GMT",
-   "fonte": "Investing.com"
+   "titolo": "Meta Platforms, Inc.: ancora rating Neutral per Barclays - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUTVuYXhKeUV5RmpuMFRxb3BqSmhlaXdNVGZrdWJaakQtSEIxal9PbmRSdzdSWTF2Vm9NWTU0S2RxVk5rVzhLQ1N5Tkp6S080QVBMT29WNE9vZVF3cGlGelZpRkdBWXliQXYtenpXUHg2bjJQUEstSnhOLU1XMjdZSWVSaUFtUGttMDE5cGZhOTJ4NjE4SHlsck02TTdnaXdQMmFTQk1oVnZLWWp6?oc=5",
+   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "fonte": "MarketScreener Italia"
   },
   {
-   "titolo": "Perché il titolo Meta Platforms sta salendo oggi? - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcm4wcVpVNTNGVkJRTjJGWmhwbExuWkwzREZDOE1OQWlnQXh4V3p2d09sSDZySXRva1pQLTBsQTdsWnc3d3Nrak1EM05aMFgyUnlGVHdxWmItMmtmNUlHT0paem9fcEdBNFpWOVlTa01Jb0lFc1g0MzZPS0FjdzhnWUhCa3pkX013VHFNdng1WHBmenpwNlRyMXFCN3RZdWNUNUZDZnY1TG1TWHFsMWc?oc=5",
-   "data": "Wed, 21 Oct 2026 07:00:00 GMT",
-   "fonte": "Investing.com"
+   "titolo": "Utili e fatturato di Meta Platforms in aumento nel terzo trimestre; definite le previsioni per il quarto trimestre - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZllzbFhnYXJKQ3BxVlMwZDV2Rnl0NzV4RVZITHMwV0p0Wm9UN29jRXV1bkZ3UXVKSmZ1N3Q3Vmt1QjRqc1lmNWhhZUF3N3FYbTJ2c3RSNTJpWU9hNXpYNl9JNDdTM1JPdHdJNjBVam9tR3NXZG40UmU2UzJ2T2VxZWJDTEFBbUZLZHlGRHc5ZWVwTjhrV2xGQVR0am5SZWw3M0lCbzFOYW1Ub3d3LVhacHY0WTdoWllGeGduRk44WmI5TVJfY2dmTlUwOEFNUER1YW84YTdGYTlvalM0bWhhZE5LTFJFaE5OUXc?oc=5",
+   "data": "Thu, 22 Oct 2026 08:47:52 GMT",
+   "fonte": "MarketScreener Italia"
+  },
+  {
+   "titolo": "Meta Platforms, Inc.: giudizio positivo da Barclays - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaFpkZFkwWW9GMC1jWFhxMU1zTXlnUXB2RUZjSzZqbGFPQlNJZVkwMmNNLUw4VC1WZkN1VmE4bEEtWTZIR1A1dl9rQXZQejNuNVg3X004SS1iamgxRC0weUxueUhfdG9seF9iTEVTeGpjLTlMSFhxaGZQUWllTnlVMlVfNlVkQV9hUkZoTmp4ZnlJZzQzQ3hYRGlFVnR0VGFnRFAzclhR?oc=5",
+   "data": "Fri, 23 Oct 2026 07:00:00 GMT",
+   "fonte": "MarketScreener Italia"
   }
  ],
  "news_legali": [
@@ -228,21 +228,21 @@
    "fonte": "Yahoo Finanza"
   },
   {
-   "titolo": "US: Meta ordered to pay $25 billion for misleading users about privacy - Il Sole 24 ORE",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQzAwWHBhNllpR2FUdWszYUR1bHJsRUdBVFVNWjdqdGRMc2tYbVJnZjRZZlFLOXhBT3d5SDhxYm1NNHg3NlRjSjhZTWN0dUZsUkVvWm03LXdkWGNCWG9HckkwR3E2d0h0WDBITzY4MHYycTJ0Q3dJR3FZeE1YY3ZLRkF3UW1ET25CUFhzU2x2V2puZVB4S3JyYzVtWmNVNVJpUmdFVTFHNFViTFV0OC14NHQ1YTQ0UFh2VlhIWm5uOThHZmNJdHc?oc=5",
-   "data": "Wed, 21 Oct 2026 07:00:00 GMT",
-   "fonte": "Il Sole 24 ORE"
-  },
-  {
    "titolo": "Meta vende le sue azioni: punta a raccogliere fino 95 miliardi per l’AI - Borsa&Finanza",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZUFMcnVLNUlZWEIxWG1EaktxcWFBc2VxM0FzY0ZSYkhaREtNSXBDczRQQ25hWnZFTTdzRUVrUmkwZGdtSTBJZFZ5eXBuem9XSWUzUkNTV0lPek1Ob2pENGhHakJlQjJ5V21GSVJTX0pyZE5JQUxTam4zZXR1Vl9WRGtoUjQ0bU92RDAwWGRxOFo?oc=5",
    "data": "Mon, 26 Oct 2026 07:00:00 GMT",
    "fonte": "Borsa&Finanza"
   },
   {
+   "titolo": "US: Meta ordered to pay $25 billion for misleading users about privacy - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQzAwWHBhNllpR2FUdWszYUR1bHJsRUdBVFVNWjdqdGRMc2tYbVJnZjRZZlFLOXhBT3d5SDhxYm1NNHg3NlRjSjhZTWN0dUZsUkVvWm03LXdkWGNCWG9HckkwR3E2d0h0WDBITzY4MHYycTJ0Q3dJR3FZeE1YY3ZLRkF3UW1ET25CUFhzU2x2V2puZVB4S3JyYzVtWmNVNVJpUmdFVTFHNFViTFV0OC14NHQ1YTQ0UFh2VlhIWm5uOThHZmNJdHc?oc=5",
+   "data": "Wed, 21 Oct 2026 07:00:00 GMT",
+   "fonte": "Il Sole 24 ORE"
+  },
+  {
    "titolo": "Meta Platforms raccoglie 9 miliardi attraverso la sua prima emissione obbligazionaria in euro - Teleborsa",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUEFESWJweFVkd3Q0QTJPRHpDaldZQS1wRnptRk04dVdDcUtueC1OUTZUYnotQXVsRkVyaHhVOENubDlKTUJ0SjRrLUlCNGZQNWNBSmVXUlRuNUtNakwzcm5TRVA2czQtZXM5RE5PbmRRTXFnQUJzRm42alpBWVVhXzJ5ZlFrdEFOYkw3cWdfX2k0bkRZQUdHNWtNNnZpbzVVNnd0WjN4M0RkTGc2ZGlQQlpoV0t5ZnQ2ZnJ6SDhvMW9RX3lJQlZvdnQzM1VBVzBxU3AtZmY0dmtZekk?oc=5",
-   "data": "Wed, 04 Nov 2026 19:19:43 GMT",
+   "data": "Wed, 04 Nov 2026 08:00:00 GMT",
    "fonte": "Teleborsa"
   },
   {
@@ -252,35 +252,42 @@
    "fonte": "Morningstar"
   },
   {
-   "titolo": "VON CW CALL META PLATFORMS 1200 A 160628 - Milano Finanza",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN2ZPWkl2R1RTRnZKZXpmUmJMRDFZdUpUY29iekZXX2loVG5nRkV5NFFqY2dKX1lRbl9OQnhrTWlEVmR4Z1l6dk1qLXhtbFYySDNIZnhOa1BVQlpKS1BvZm00RXpRdGc1TFNzWHpuNDVWVU5tb2htYVNlZ1JJVktxZWZlaGU3UHd2ZlQxLUlMbi04X3JhSnVZRVZUTXI2cVE?oc=5",
-   "data": "Sun, 08 Nov 2026 09:35:31 GMT",
-   "fonte": "Milano Finanza"
-  },
-  {
-   "titolo": "Meta Platforms, Inc.: giudizio positivo da Barclays - MarketScreener Italia",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaFpkZFkwWW9GMC1jWFhxMU1zTXlnUXB2RUZjSzZqbGFPQlNJZVkwMmNNLUw4VC1WZkN1VmE4bEEtWTZIR1A1dl9rQXZQejNuNVg3X004SS1iamgxRC0weUxueUhfdG9seF9iTEVTeGpjLTlMSFhxaGZQUWllTnlVMlVfNlVkQV9hUkZoTmp4ZnlJZzQzQ3hYRGlFVnR0VGFnRFAzclhR?oc=5",
-   "data": "Fri, 23 Oct 2026 07:00:00 GMT",
-   "fonte": "MarketScreener Italia"
-  },
-  {
-   "titolo": "Meta sotto indagine antitrust nel Regno Unito nonostante le concessioni già fatte - Techpost",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbEJQQk5BRkhwXzNVc0tSdkhOR3FFdTVOeGNBWEtSTlZ0VFVmcmMtRC13S1RQeXI0NXdjVXRHS2dhQUs0Zi1DT2Q4NUdxMWhHWS13OHUwR0Q0MF96WGIzaF83Z1hYblBRdGpWdlpSNGF6NTgxODNxbUxWWUZ6TVo4LXZPODZpTmNPWEozNm9qbGJNNzk5Nm1PTlpnMXNKQUpJbXFaNGZqVVBMNXJTdWl3d1MyMGNHZXNpMzlTMWpRV09sM0h0Z09MN1RWelI?oc=5",
-   "data": "Mon, 09 Nov 2026 16:19:00 GMT",
-   "fonte": "Techpost"
-  },
-  {
-   "titolo": "Meta crea una nuova classe di azioni per mantenere Zuckerberg al comando dalla California - Yellow.com",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb0JTTk8zZ2txTTk0ZkVEQV9mYmg4OFRTb1hmeWxnVnY4Q0RvM1VtTTByRC0xeUU5U2FKbi1sWEgybEhUbC00NUdVemtCVFVnbXQzZ0diMW1KOUgyOUtXLVI2WUdvWXcxU3hhN2dFT3F0UWdsWld0aWRRbHgzVkY0SkNDSURITE8tMXlXMWI0Sm9mdzIzci1jZm9zZ2hucGJyT0kzbFl3ZjZ0ck8weEhkaENRRWFQdHc?oc=5",
-   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
-   "fonte": "Yellow.com"
-  },
-  {
    "titolo": "Lanciata con Essilux nuova generazione di AI Glasses - Quotidiano Nazionale",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSjFKbVBGNllQNGd5aEd1NkdibzZFYUxuYTdORmlsR2R3bU56WDBHNXJETmVRVDM0bThYUGI0Vm1haWFRb2ppVllTTjFrYk1tb3JvWnRNeVFJT0luNG1MNnZaRHNFM3M2LVZhbFRTWnVpNGZaWTlhZlk3WTdLQzRJamQ2RzBuc2RsYjBj?oc=5",
    "data": "Fri, 25 Sep 2026 07:00:00 GMT",
    "fonte": "Quotidiano Nazionale"
+  },
+  {
+   "titolo": "UK Opens Investigation Into Instagram Instants. Here’s What the Worst Case Means for Meta Stock. - TIKR.com",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORmdvUjFMV09OUUFmWmJqbHdXcmI3UHRoRzgzT21EZ1V2NWpya0ctaUNUSXdsNHg5N2NTbFdJWFc4WGdIYWFrQVpGdk14cFRGdjdqZ1dhcFAwOFo5SHV1d09DOWI0NkNHMVB3QldBRHVIUC1sOFV6a081R21fS0FlR01lRi1SS2RpeVNNVGMzSHdNVXFQUngwTnNTT0JycXhGMVZ1Mk5UTUhiOWdvQWdiYzVmVFB3ejRNSDF2NjNQMA?oc=5",
+   "data": "Wed, 07 Oct 2026 07:00:00 GMT",
+   "fonte": "TIKR.com"
+  },
+  {
+   "titolo": "Ora Meta controllerà tutti gli iscritti con l’AI (per scovare i minori furbetti) - Startmag",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUm1LRENiRXNwdS15OE01WTE2eVJSb0FsTndQM1F3eTJUR091TFR6Vi1QcGJlcGVJUkRhazExUmNGR0JIMkgzQzFVS29DeUI2Q1pBbWx3SWg4bEI3Q0drRDREX0FpQk51RkhIaVQzM2ZVUlh1QzRSdzdPYmt4TEFkMXhRRDZtT3ltRmxUTmxoNXRpRzREMG1scEs0NDE3NEZZZEl0aExNcC1SZmJMNFZzM05Nc3Q?oc=5",
+   "data": "Wed, 11 Nov 2026 10:15:00 GMT",
+   "fonte": "Startmag"
+  },
+  {
+   "titolo": "TikTok has settled a claim in Alabama alleging that its app is addictive and has set a daily limit of two hours for teenagers - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOaEpxS0hSei1mVFprWEdNTUZOZzFBQkJnOHNkVWNELXJmU25xRVdWSUlocmxWTjEweHpiSmtNeHFSb2JQR0xRNEhFNUNoNjFWME5qZDlEX01BNkQ0SmZKUmhyTUVxUUFEcEo0X3lZbFhETGlYTlBYSlhrVy0tRlFxU3hVM2haOWc0T2lhTkVkUXI3V0hiRDF5TF9uSjZYdlRBbmdCcmJCMFhrUWh1VUpZU0xXNm1ES3NfbUJLNmxVMGhDY1VkREFvX1plbEdCd214V2xTNmxtTTFkTGZ6N01Tckl3UXpTWHVGdEUwd3RLbmhQcVA4UE0xT2NGTnFJRzdzV0R3aTVR?oc=5",
+   "data": "Sat, 26 Sep 2026 07:00:00 GMT",
+   "fonte": "Il Sole 24 ORE"
+  },
+  {
+   "titolo": "Mark Zuckerberg Rejects AI Slowdown Calls and Emphasizes Model Alignment - TIKR.com",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOelJaS21UVTFWY09DNnhkZ0dobW8xMTA2dFBEYXJ4Q1hEbGQyOFE4ZTVrWEtrNGZ0OWs1c1JGSjNEekhHdlVCRlc4bXlWRWR0M2E3aFdTMWp5eVRTZ3RzMUxjVU5UZmtEcm9yR2Qyd0txNVBXMDEyLWkxaTFZZW9iWVVIaWw?oc=5",
+   "data": "Wed, 16 Sep 2026 07:00:00 GMT",
+   "fonte": "TIKR.com"
   }
  ],
- "news_brevetti": []
+ "news_brevetti": [
+  {
+   "titolo": "BYD, un brevetto mostra il progetto di una microcar a due porte - ChinaSmartBuy",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2Znk1aVpDUUFlck1pdEdsR200SmE0Ums1RzVTLTlCVkhSc1YydENnWmMzWUYyTUwxek9xNGpkNGdsc0pWZm56OVFFRjBmY01xMGl0NFpGYTZwbXZDZW9jUGQtU2EzRjB4YzFZYjFXWTFzeDE4TDVLSGtaY0pDSWM?oc=5",
+   "data": "Tue, 10 Nov 2026 22:36:00 GMT",
+   "fonte": "ChinaSmartBuy"
+  }
+ ]
 }

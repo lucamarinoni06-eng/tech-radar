@@ -1,17 +1,11 @@
 {
- "aggiornato": "2026-11-12T13:35:45+00:00",
+ "aggiornato": "2026-11-13T12:54:31+00:00",
  "news": [
   {
    "titolo": "Data center, da Amazon a OpenAi: in cantiere investimenti da 27 miliardi in Italia - Il Sole 24 ORE",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY0oxanRkSkV1MDkyWjRGWGNzSDBYTTVWWTBTLU1scHR6WURIblFvdnU4YnF4MzIxdkVuRTdGN2ZfT2JSS3R0SFE3SVB0UThpMkRJckFyZGxaU28xby1TMTl6Umxhbk9CS1ZSTmlCeXRXeGxQV3ZQMmpqX3ROdHlOUlBEUi1ENlBlVWZ6akVaOEszbnpiWHBESzF5RklGNGwzTjd4RHp2emlXbmM?oc=5",
    "data": "Wed, 04 Nov 2026 08:00:00 GMT",
    "fonte": "Il Sole 24 ORE"
-  },
-  {
-   "titolo": "Ad Amsterdam un gruppo di attivisti ha invaso il cantiere di un data center di Microsoft - Il Post",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSUdIanRuendWTEZTWTdaMU53NFcyUUxBWGtmNzV3dGh1bjNtV1EtVzk2MDR0cll4cW9JY2ZFY1Z6c2gzOWtVXzkzQmtDT0hrX3lReDZIU0RrT19WMzVycDJoQWpWdm5CTGhtUDNDaEdvMkNQYlVBNVRkM1hrcHJNUTdMV1VabWoxeWJwbG5PYw?oc=5",
-   "data": "Sat, 07 Nov 2026 12:02:36 GMT",
-   "fonte": "Il Post"
   },
   {
    "titolo": "Nvidia chiede ai clienti di data center di ridurre esposizione alla Cina - Borsa Italiana",
@@ -32,28 +26,34 @@
    "fonte": "Sky TG24"
   },
   {
-   "titolo": "Olanda, gli attivisti fanno irruzione nel cantiere di un data center Microsoft ad Amsterdam - Video - Il Fatto Quotidiano",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNXQ5eEZ2eU5hZklHU0dLbktWVGF2dU9Zc0JzelMzNFVBa0tycHRnbTBVMmlsR0pKalUwRnhMSGNDdk1Qb1J6MkVvOWJTREhpaTJLMGY3Tm55SW9wNVV4R3lxRU8wdjM3MHhpVUk1b1QwV1E0bXpnaDFwM1NkRnI5VEp6WEpxLVJ2Q1ZoWnZiVzMzVXBkMGFFZlJCWlJaSDU5ODFFZlRfRk1lQXd1bHhYcm5fbWRTbWhaMFVoZll3X1VOU244RHFSU3VIOFE?oc=5",
-   "data": "Sat, 07 Nov 2026 14:36:34 GMT",
-   "fonte": "Il Fatto Quotidiano"
-  },
-  {
    "titolo": "Video. Amsterdam, manifestanti assaltano il cantiere del maxi data center Microsoft - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb1dPWUY0azdGOUxWQTA4My1uXy1yTjlidm1xc2F3a2ZEMnFxZzdGcXJMQjR5dVNibEtkcUNvT3BSVnN3ZlJ5WnF1S3BRcVJiWHFPajdDR1F2eDRjRks5Q0tfSGNlNjRnMXRvNDFsU0d6cy1ibVoxYVUzUUttNXpwQXlwbG15bkpwM1RqSHJHNlpNbDJuQy1XQ1I4OE9ERkxQaGQ2aC1hZ0lidFJXQmNncS1ZSmNDT00?oc=5",
    "data": "Fri, 06 Nov 2026 14:06:07 GMT",
    "fonte": "Euronews.com"
   },
   {
-   "titolo": "Olanda: l'irruzione dei manifestanti nel cantiere di un data center Microsoft ad Amsterdam - la Repubblica",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQ0RhcHdGNTZtX2t5RnRJZDhCVHlzalJCd3kxd1NBQUxlUk5UMnQ5SjQyU3BVLWwxSlR2MDQ3OFB5M2YwTnZ1TXo4M19kcHFYUE1Zek5CUlVVNzJJRVdpQWNVM1diVWEydUVMYzRfTWh4NnJLWVlvSUlGOTAtYmpfMlNzWFdNRnI3SERzeDJlVzNBdTJwSUgtcmxNNm9veERkSmRYd3NHWlFYRFZhWHZ6eHVmNm1JTVFjc1hYaXRJZDMweWVxT0RTeGwxZHREU2wtdUV5VFhxVXY5ajdLOVJUd05iQQ?oc=5",
-   "data": "Sat, 07 Nov 2026 11:16:00 GMT",
-   "fonte": "la Repubblica"
+   "titolo": "Olanda, gli attivisti fanno irruzione nel cantiere di un data center Microsoft ad Amsterdam - Video - Il Fatto Quotidiano",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNXQ5eEZ2eU5hZklHU0dLbktWVGF2dU9Zc0JzelMzNFVBa0tycHRnbTBVMmlsR0pKalUwRnhMSGNDdk1Qb1J6MkVvOWJTREhpaTJLMGY3Tm55SW9wNVV4R3lxRU8wdjM3MHhpVUk1b1QwV1E0bXpnaDFwM1NkRnI5VEp6WEpxLVJ2Q1ZoWnZiVzMzVXBkMGFFZlJCWlJaSDU5ODFFZlRfRk1lQXd1bHhYcm5fbWRTbWhaMFVoZll3X1VOU244RHFSU3VIOFE?oc=5",
+   "data": "Sat, 07 Nov 2026 14:36:34 GMT",
+   "fonte": "Il Fatto Quotidiano"
   },
   {
-   "titolo": "Its Rizzoli, il data center entra in aula con Microsoft - inno3",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEpxdktISi1CWTd4Z245VllONzBVT1FObWMwb2RKSjh0aUtSTXVuTkhuU3FOY012bkthaDlGUHk3aWV4aHRhMzFIcjlNSEhqMWlpbHdBcjBVU21zSGRzUXhEeHp0QVZhUlRjdDR6Q0IwclFJOUJaQjBVajVpZjN6RHV6VjBXNTdXdlVN?oc=5",
-   "data": "Thu, 05 Nov 2026 12:42:43 GMT",
-   "fonte": "inno3"
+   "titolo": "Ad Amsterdam un gruppo di attivisti ha invaso il cantiere di un data center di Microsoft - Il Post",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSUdIanRuendWTEZTWTdaMU53NFcyUUxBWGtmNzV3dGh1bjNtV1EtVzk2MDR0cll4cW9JY2ZFY1Z6c2gzOWtVXzkzQmtDT0hrX3lReDZIU0RrT19WMzVycDJoQWpWdm5CTGhtUDNDaEdvMkNQYlVBNVRkM1hrcHJNUTdMV1VabWoxeWJwbG5PYw?oc=5",
+   "data": "Sat, 07 Nov 2026 12:02:36 GMT",
+   "fonte": "Il Post"
+  },
+  {
+   "titolo": "Verso la trimestrale di Nvidia: focus sul cambio di leadership e i data center - Morningstar",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNelAxOXBHbjB4MnJqYlpZNmNQNWhvb2Y1Tkx2Vlc5MWg4a1lHRUdQRWpoUE5CYmgyS0o0bW5TU3MwZl92M2tHNk1TSnE4N0JhNFJRVlFXMUlrWEsxUHFUWmxjaV9DTXAzZ3dNQm16bWg1cmFQZ01WbzJ4a0VuY0NHSGtlNzNrcWpvTVRpTjczY2VlRE8wcmpva0huWjhDVlNFNEpCa1d5WTJjUFNyd2NVc281VWdfb21oa21KOHkzTkxCbXNXOThHbA?oc=5",
+   "data": "Thu, 12 Nov 2026 16:29:17 GMT",
+   "fonte": "Morningstar"
+  },
+  {
+   "titolo": "I data center valgono miliardi, ma chi li farà funzionare? Microsoft scommette sulla formazione con Its Academy Angelo Rizzoli - Industria Italiana",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTUNaYzRXX3Q4b01TTS16a0xhQnU5Y3hYZ2hrSnhSdGR6dml6Y2o3aEdQQmFOOUlvb2JmVVhDOGJLakRTb3N3ZklNTzJRWnI0SUdHa2NVblFUeDNEa3JoQU9vdElqaG5FVWVCTmw4WmtBdm9ZWUYxQmJkcTRRdkF6MktFbk5GUQ?oc=5",
+   "data": "Mon, 02 Nov 2026 16:26:18 GMT",
+   "fonte": "Industria Italiana"
   },
   {
    "titolo": "Manifestanti irrompono nel cantiere di un data center Microsoft ad Amsterdam: rapporto - TradingView",
@@ -68,13 +68,22 @@
    "fonte": "Fortune Italia"
   },
   {
-   "titolo": "Microsoft Italia crea un data center per gli specialisti del futuro - The Innovation Group",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZldBMlJMaThwQ0RkSzZKajU2SV8zZWgtcFNCZThwNDlWclhNNmRKLWEzZFd0UVZ0X3dua0Q0bHlfcmNERVJtblNFcVZSZUtDdWExcnpwX25iTlZTT0R5X3hZMGxCZlZqN2lfT0ZiNmVqVDdETEZiaWYwS0xScS1rbWZEVG5lSGJDUDEwbnhSeXpEbzE0YzJpNnNJWjRnQUNxb0hvOUpiTQ?oc=5",
-   "data": "Mon, 02 Nov 2026 13:13:46 GMT",
-   "fonte": "The Innovation Group"
+   "titolo": "Its Rizzoli, il data center entra in aula con Microsoft - inno3",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEpxdktISi1CWTd4Z245VllONzBVT1FObWMwb2RKSjh0aUtSTXVuTkhuU3FOY012bkthaDlGUHk3aWV4aHRhMzFIcjlNSEhqMWlpbHdBcjBVU21zSGRzUXhEeHp0QVZhUlRjdDR6Q0IwclFJOUJaQjBVajVpZjN6RHV6VjBXNTdXdlVN?oc=5",
+   "data": "Thu, 05 Nov 2026 12:42:43 GMT",
+   "fonte": "inno3"
   }
  ],
  "norme_usa": [
+  {
+   "titolo": "Request for Information",
+   "data": "2026-11-13",
+   "tipo": "Notice",
+   "agenzie": [
+    "Education Department"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/13/2026-23155/request-for-information"
+  },
   {
    "titolo": "Notice of Intent To Reorganize HUD and Revise Headquarters and Field Operating Model",
    "data": "2026-11-10",
@@ -121,15 +130,6 @@
     "Labor Department"
    ],
    "link": "https://www.federalregister.gov/documents/2026/11/06/2026-22680/prohibiting-illegal-discrimination-in-registered-apprenticeship-programs"
-  },
-  {
-   "titolo": "Proposed Priorities and Definitions-Secretary's Supplemental Priorities and Definitions",
-   "data": "2026-11-05",
-   "tipo": "Proposed Rule",
-   "agenzie": [
-    "Education Department"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/05/2026-22615/proposed-priorities-and-definitions-secretarys-supplemental-priorities-and-definitions"
   },
   {
    "titolo": "Calendar Year 2027 Home Health Prospective Payment System (HH PPS) Rate Update; Requirements for the HH Quality Reporting Program and the Expanded HH Value-Based Purchasing Model; Medicare Provider Enrollment, Durable Medical Equipment (DME), and DME, Prosthetics, Orthotics, and Supplies (DMEPOS) Policies",

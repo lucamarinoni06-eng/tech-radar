@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-12T13:35:28+00:00",
+ "aggiornato": "2026-11-13T12:54:16+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -99,6 +99,36 @@
  },
  "norme_usa": [
   {
+   "titolo": "Iroquois Gas Transmission System, L.P.; Notice of Request for Extension of Time",
+   "data": "2026-11-13",
+   "tipo": "Notice",
+   "agenzie": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/13/2026-23171/iroquois-gas-transmission-system-lp-notice-of-request-for-extension-of-time"
+  },
+  {
+   "titolo": "Equitrans, L.P.; Notice of Request Under Blanket Authorization and Establishing Intervention and Protest Deadline",
+   "data": "2026-11-13",
+   "tipo": "Notice",
+   "agenzie": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/13/2026-23170/equitrans-lp-notice-of-request-under-blanket-authorization-and-establishing-intervention-and-protest"
+  },
+  {
+   "titolo": "Yavapai Resource Advisory Committee",
+   "data": "2026-11-13",
+   "tipo": "Notice",
+   "agenzie": [
+    "Agriculture Department",
+    "Forest Service"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/13/2026-23136/yavapai-resource-advisory-committee"
+  },
+  {
    "titolo": "Chief Human Capital Officers Council Meeting",
    "data": "2026-11-12",
    "tipo": "Notice",
@@ -125,36 +155,6 @@
     "Federal Energy Regulatory Commission"
    ],
    "link": "https://www.federalregister.gov/documents/2026/11/10/2026-22878/conocophillips-company-notice-of-institution-of-section-206-proceeding-and-refund-effective-date"
-  },
-  {
-   "titolo": "United States of America, et al. v. RealPage, Inc., et al.; Response of the United States to Public Comments",
-   "data": "2026-11-09",
-   "tipo": "Notice",
-   "agenzie": [
-    "Justice Department",
-    "Antitrust Division"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22832/united-states-of-america-et-al-v-realpage-inc-et-al-response-of-the-united-states-to-public-comments"
-  },
-  {
-   "titolo": "Combined Notice of Filings #1",
-   "data": "2026-11-09",
-   "tipo": "Notice",
-   "agenzie": [
-    "Energy Department",
-    "Federal Energy Regulatory Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22790/combined-notice-of-filings-1"
-  },
-  {
-   "titolo": "Medicare and Medicaid Programs; CY 2027 Payment Policies Under the Physician Fee Schedule and Other Changes to Part B Payment and Coverage Policies; Medicare Shared Savings Program Requirements; and Medicare Prescription Drug Inflation Rebate Program",
-   "data": "2026-11-09",
-   "tipo": "Rule",
-   "agenzie": [
-    "Health and Human Services Department",
-    "Centers for Medicare & Medicaid Services"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22743/medicare-and-medicaid-programs-cy-2027-payment-policies-under-the-physician-fee-schedule-and-other"
   }
  ],
  "news": [
@@ -177,46 +177,46 @@
    "fonte": "Morningstar"
   },
   {
-   "titolo": "Microsoft offrirà una buonuscita a 60mila dipendenti - Il Post",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSERuamJfV09hajZnTHdVc0VKTnJqT19EeWx6ZE9uUUdvNFl2d2kyMTlBcmFlc0ZEYUs2UDAyUTdqVTMzdlpjaTRDN2hQTl9DNGYxaUYtckdjUkc3MUJsbDNEWTJEX2I4eWtPbTNSMm9xOFdXVjkyQXdRcS1iUXJVVEJRLTZ4cFU?oc=5",
-   "data": "Mon, 26 Oct 2026 07:00:00 GMT",
+   "titolo": "Microsoft down in tutto il mondo, esteso a 48 ore timeout delle email. Non si tratterebbe di hacker - RaiNews",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWDNmaTRPTEdIZEhoaEp1VzlZQnBNeDRGTjREeFVaVlZ2QjVJUjdySWwzTjVYeUoxMF9fY3FZV0FJQ3puc3pxS01mb1F5eU02VlRINjYyT2NZQWFDRm9Ua1hMbEQwdE5HOFhrb3E0bVl4eC01c1l0RExIel85VVBueUVIMjFWU1Z2eFhRZWdqeHljM19oeTJTMXktWXBhX28yT01hbG40Sk1wXzJaUUZLZ2ZiYmdJWmY5RGVyUWVNRdIBxAFBVV95cUxPQldQeFE5eEotSVZsOFRRQWdxdDJXNWZNczdtYlFRRXVoMUNUME83U2J5UkVLTklLMHdVbGxjLXRwYnZrUXB2bldYTk9PYUpZbWE0bVkzOEhNM01lUHZHbkZraXN1SGN4WFhwcnYyY0NkS05iX1VSSVRaQ0t0Z3dLUXpWR0pMVHJjWW5TWVhrV0VlaHN0Qnc5QlU5SVlBVmtCbzZ0cFo4bGVUcVZXaUk1ZHBBZ1RKRTg2QUdXcTJIZWFUTDJ6?oc=5",
+   "data": "Fri, 13 Nov 2026 10:47:00 GMT",
+   "fonte": "RaiNews"
+  },
+  {
+   "titolo": "Avviso su disservizi temporanei Microsoft 365 - Federazione Italiana Pallavolo",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IdW1LYXY2emFyb0NaNHQwelN1WnR4azdBM1M1Z0ZoS0xSdkZVYXFIdTlLenYzMUtHMklJSUZWTmVSRnhJTjhZQzgxVWJoanppMVk4R0hCVi1ZdkxPZFE2ZllGRk9yay1leXl2Rlpyc05ZZ3dTZl9INGVlcDQ?oc=5",
+   "data": "Fri, 13 Nov 2026 08:59:41 GMT",
+   "fonte": "Federazione Italiana Pallavolo"
+  },
+  {
+   "titolo": "I servizi di Microsoft non funzionano in molti paesi - Il Post",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11MlFrNHdLUFlKdjlwcGF4bl85Q3NGeThNRlJkdkozbnpMZmpiX1ZMeWNLaGhVeDBOMWhXOHg3d1ZVNjU3VUNhZnNCOENkODhPWFRBZHBEN1dHTXhOYTM1NGsyeWxtY3FZWDF5UVZkWWxuYW45WGRF?oc=5",
+   "data": "Fri, 13 Nov 2026 05:29:38 GMT",
    "fonte": "Il Post"
   },
   {
-   "titolo": "Microsoft offre l'uscita volontaria a 60mila dipendenti. Intanto investe 175 miliardi di dollari nell'IA - Forbes Italia",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ1FIWW1ndG14OWFpZVFRdkFVRXlrUWprajYxbEk3RURVV3otMkFDZzVSaG5vcnNCWmtxeUdKWEQwMkNKZnh6bEp1MzB2YkU4SHpiQnJUM21JRmVEZWhhZy1aN2dyNkpwazljem50RjZLMVMxUDV1a0ZpcnRIaFM5eFFLMmowX2Ut?oc=5",
-   "data": "Tue, 27 Oct 2026 07:00:00 GMT",
-   "fonte": "Forbes Italia"
+   "titolo": "Down mondiale di Microsoft, riprendono i primi servizi. L’azienda assicura: “Nessun attacco hacker” - la Repubblica",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcmxuZGFjUTFkSDBjaVYtelM1N2Y5OUlKV2NXUFJZZkR0VlpFbUZmSnZoLXNtV05EQ1dHWnJ2bG54NXp1Z0JBQXVYcEVYUUhYLXFuMXp5RjNaeFVDckMwS1RrclJWUlYzcTdZSTQ5QjJYMURYLThFMVZrbV9scmFXYURyVms3elZoM3dpa0RyV1dOczRubEl4b0QtcTJGT1U2ZVBvd2ZPZjBQekxCNXM5eVlxVExNeEV2QXZQcjFPajJEaFdkbFJnaWN1eUFNdTFESHJJdkw3ZkVMVmZ5NlViTA?oc=5",
+   "data": "Thu, 12 Nov 2026 18:44:49 GMT",
+   "fonte": "la Repubblica"
   },
   {
-   "titolo": "Microsoft Italia, 62 licenziamenti: scatta lo stato di agitazione - UILTuCS",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbTJicGdsVnZpSVNDS1VzaE14OHgyNXFmQWl2MXNWTlhCRmEzT25PUXBDQlg1TXJaelFFU3BTbDF2SF9pVk5JYnYwTU9NVVE0ei1ZS2JHSzloNzVxaVZHekg5cjFOS0trRzFwRWdmeXJjS3V1Y19BNlZFejJHUy1ONXBPVHJBT2ZfaTRz?oc=5",
-   "data": "Thu, 05 Nov 2026 13:32:08 GMT",
-   "fonte": "UILTuCS"
-  },
-  {
-   "titolo": "Microsoft sale del 5% mentre la spesa per l’IA è inferiore alle attese: Wall Street premia la prudenza? - Yahoo Finanza",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOE9BckZmeE05WnB3RXFxNnozWkRHNFpEaENfa0stdWxsQm1CY2RjNVRWUW9DTXIybjJIelhfalQ5Snk3dTE3a1BLU0xnVlFpbGRRTlN6MWRYdlczb3I3cENUYks5YWVveVFJbElvR0M3T0NjcmNiNC1icklEQXZZZDBtbTE5QQ?oc=5",
-   "data": "Wed, 28 Oct 2026 07:00:00 GMT",
-   "fonte": "Yahoo Finanza"
-  },
-  {
-   "titolo": "Anthropic sfida Google Workplace e Microsoft Office - Il Sole 24 ORE",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaTlnY1RhUUVQTUhPT2JJVExLcm50NlFkQTB1M2lKSjRaM1pVczZrZVFfZjkxbk96UWh3WXRBOG1XTkRRd0Q0QXVKa2FuQzhHT3lNVExVLUI5Z2E5R1NTcWxfVlZUVmpVUk1XNlBud3pLYjRGZEdtWGYzZ1c1MDRPNnVBVDRJSVg2V0xyWXZzc3Q5dTVINTRB?oc=5",
-   "data": "Wed, 11 Nov 2026 14:08:29 GMT",
+   "titolo": "Problemi a Teams, Outlook e Copilot in 74 Paesi. Microsoft: «Servizi in miglioramento, ripristino a fasi» ++ - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaTJSSnhYZ0V2QVRVejZfYm1oMmdmV2RFNUlUMzNCNzlsdUhUTkU0eDdHdGN4ZFFkX2NxaFZxam52YUxWbHZLeWdRVl95eGp1bEpqN2hnZHpIZVNjNVRTM0xES0poeDkxT0NSTU1nQVRCRnRUcTdHZVl2R2VRUmFmZFc1UHl3ZEtJR09LMTFLZFVzZHF5UmlaanRXV2w4M0dYb1huV0k0SWhrUkE1RVNsdEJOcw?oc=5",
+   "data": "Fri, 13 Nov 2026 10:51:58 GMT",
    "fonte": "Il Sole 24 ORE"
   },
   {
-   "titolo": "Microsoft licenzia 60.000 dipendenti per finanziare IA, data center e cloud - QuiFinanza",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jQnNxNUxhTjhPeGZWYjlOMWd1MmtTcl93UkZxYkxzb1ZtcnNxY05HLVRpZTZNcTZCRWVWUTRXQzltbnhDUDd3MkhNRDFsZnlNaHRnTWg4amZJckQtaHZZUVJod1hmVndiMW5GUHRGR1RUTG1y0gF6QVVfeXFMTTdJVUViNzVTOGYtbHItRXUxamp3ZmZwRnJHQ0pNSFJXbkhaVlVXcjFzdzg0Rk5Tc2tiMGJwbVJsVkQ0TTdHeEl5X3lIVnhlVHlhd0ZTdHpLZ19iekp2WjFUZ0JiOUF5bVZvQXJkdTBXNE9Vd1BOelFfeEE?oc=5",
-   "data": "Tue, 27 Oct 2026 07:00:00 GMT",
-   "fonte": "QuiFinanza"
+   "titolo": "Microsoft down, il blackout non è finito: il ripristino è parziale - Avvenire",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTDVycEd6T1RUakJGN2Y1R1lieUNfTEFvSkozaVpFeU5YX1VYSmN5b3hyWFRXZkQ1YUxWR2xnWUNHOTVweXBzU3luX1pYaEJRV29WREhpQ0tCcUNHU1Y2TUZGYmY5SGxtVm03cUFIbkVZd1BfdVhoZWVNM0pKV0QxalVEdC1uM3hkQWN0VnpWYVNEQ1E?oc=5",
+   "data": "Fri, 13 Nov 2026 11:48:45 GMT",
+   "fonte": "Avvenire"
   },
   {
-   "titolo": "Microsoft avvia il terzo taglio di personale in 3 anni: a Roma licenziati ingegneri per fare spazio all'IA - RomaToday",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMTTA1TUVwY01Ick1oaG9kZGVreHpCcVBMak8xeVEzLUZVWmUxcFg2cE5YWDgtaHJuM2xqN1FMRWxGVnRNZUpOQzBKSG8wLUNrdDFSR3ZFYlNmaTNxZjhSb3RKcVRoZE9KR1JYTU1B?oc=5",
-   "data": "Thu, 05 Nov 2026 17:14:00 GMT",
-   "fonte": "RomaToday"
+   "titolo": "Outlook ko in tutto il mondo, danni a milioni di persone e decine di enti. Microsoft: nessun hacker - La Stampa",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkVvbGR4SkdpaDA2MDVCN0dqUk5nZmdwcTk4Z0lPWHBsMjM4cUptaFduZVpnemRBRV9MREZJVlZyVDl3X1Q1VThMcWwxNWdNcDlQWEVNcnlxbW9feThCUjB4b2NsZU81WU90OGZYRnhDbmRoSVZ5MDVkSkJTV0pWY0N4TUhxd3VvMHNkRWJsb3dEd2VOdTBONnFR?oc=5",
+   "data": "Thu, 12 Nov 2026 18:38:00 GMT",
+   "fonte": "La Stampa"
   }
  ],
  "news_legali": [
@@ -245,16 +245,22 @@
    "fonte": "Startmag"
   },
   {
+   "titolo": "Da Diablo a Call of Duty, Antitrust e Ue verificano le spese nascoste nei videogiochi - RaiNews",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYXV2bkhyWmo5STUxMk1BVmhySElhd2RIMFRsRVZUbzZWQW9GNzVKZ3FiOHVZcVZoeG05MTB6WjN5dE9Pa0toVlJMWV96ZWRpbGJHSGR5cDNEdTRldkd6QV9xWlVfRDBtcXFHdlFvSkZUbjAwVkY4WndIRWJkXzl4Q2tYRHlZdmFXTkx0UUtKZ1JjWWRKdUJMYWtXekNwODR1VlZrQzlWcFJCOGJrNmE1S0d0U3RYN1h2N3VWYkItU19Xd3k5NlFKVm1nVDBqc3ljMW0zbU9aR0V4QUliSkJVcVVGVThkZ1FqeklKZnZvcmVWTjV5SmI2Q2xn0gH_AUFVX3lxTE9IVDJjYno4OGNEbDVpTDFheHZuWkVOWWxINlpKNXl5NllKa3dlcklHY3JSa0pvUEJBQ2d0eDlvRkM1OE1sUnVOWDdyWkYzLU04M00tbC1xclRhbEcwajJnUWRiWElaY1kwUXJjc01uOC1uUlY0emE1WGZVeUlsNm1hVkZyZVp5dW5zWlk4Y21jekxDLS01RFQyaURpbXJuelBOWUY4bHJnaEt1MTZ0OHVNTHhtY3JDTjV1VGhQVWtKTWtZNWVvTm5xMFZjS1lJVUR1UFlFUGkyQzcxTEYtTk5xbjZ5WENodHpkTmhSM3Z0VXNDSGV1X1RNN1pldnRlZw?oc=5",
+   "data": "Wed, 07 Oct 2026 07:00:00 GMT",
+   "fonte": "RaiNews"
+  },
+  {
    "titolo": "Antitrust Italia guida azione congiunta Ue su videogiochi gruppo Microsoft Da Reuters - Investing.com",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUG9Rc0RKcWJjS1pIbC1Lb3ZjVEg3QVp4RkZGRlZkTzMxdnMwX01OWFJMMk1pRThvNkpTd25LcmhJeFVGQWMzOGpSZnpvR0ZRODNsQllISnp4ZC1wZ1I3MDVBcThKWVNXQXFKXzdDQWFQT2o4T1ZRSnJLZzJlbHRnajFZYmpXc2Qtd05nYVFGOEVOTHh5SjdzUUVjN0F3TXY4STlDbnIwYTgtcHRIV2FDT2k1a19MS0E2NVJ3LTJOb1dydXRYa3F3NE1B?oc=5",
    "data": "Thu, 08 Oct 2026 07:00:00 GMT",
    "fonte": "Investing.com"
   },
   {
-   "titolo": "Da Diablo a Call of Duty, Antitrust e Ue verificano le spese nascoste nei videogiochi - RaiNews",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYXV2bkhyWmo5STUxMk1BVmhySElhd2RIMFRsRVZUbzZWQW9GNzVKZ3FiOHVZcVZoeG05MTB6WjN5dE9Pa0toVlJMWV96ZWRpbGJHSGR5cDNEdTRldkd6QV9xWlVfRDBtcXFHdlFvSkZUbjAwVkY4WndIRWJkXzl4Q2tYRHlZdmFXTkx0UUtKZ1JjWWRKdUJMYWtXekNwODR1VlZrQzlWcFJCOGJrNmE1S0d0U3RYN1h2N3VWYkItU19Xd3k5NlFKVm1nVDBqc3ljMW0zbU9aR0V4QUliSkJVcVVGVThkZ1FqeklKZnZvcmVWTjV5SmI2Q2xn0gH_AUFVX3lxTE9IVDJjYno4OGNEbDVpTDFheHZuWkVOWWxINlpKNXl5NllKa3dlcklHY3JSa0pvUEJBQ2d0eDlvRkM1OE1sUnVOWDdyWkYzLU04M00tbC1xclRhbEcwajJnUWRiWElaY1kwUXJjc01uOC1uUlY0emE1WGZVeUlsNm1hVkZyZVp5dW5zWlk4Y21jekxDLS01RFQyaURpbXJuelBOWUY4bHJnaEt1MTZ0OHVNTHhtY3JDTjV1VGhQVWtKTWtZNWVvTm5xMFZjS1lJVUR1UFlFUGkyQzcxTEYtTk5xbjZ5WENodHpkTmhSM3Z0VXNDSGV1X1RNN1pldnRlZw?oc=5",
-   "data": "Wed, 07 Oct 2026 07:00:00 GMT",
-   "fonte": "RaiNews"
+   "titolo": "Microsoft, Maia 200 entra in produzione: i nuovi chip Maia 300 arriveranno nel 2027 - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZy0wdVFoZ3ZtWk1GYTRxZU1zcDdkOG1aX1U1MFp3bzNKNWFjRUdJYWRmdHZwZkxTRFJKNFc0b3F6Y1h3eDE1eGNkbjE4aW1QWVhUbC1mdmVpQlI1M2J4QV84SDhsMENJR2JXMVBFX3pNYVNHeHlRdUNuV0pydGtobF9tWUxJNlFhWW5ta3pIbUVSLTJuSHZPWm1wd19sd3lwa3lFb2FaZW44TTRMaER4aWJrLS1abGhwN05JbFFn?oc=5",
+   "data": "Mon, 12 Oct 2026 07:00:00 GMT",
+   "fonte": "Il Sole 24 ORE"
   },
   {
    "titolo": "Microsoft riorganizza Xbox: Halo passa ad Activision - Key4biz",
@@ -273,12 +279,6 @@
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaEZqZmR2Y1JlMXNBeEk5dDFoSWYtaUo5M1VucTN5WGsxX1BKMVVmT2hxd0paby1jbzBZcFVQSFp3MExlWEdOX0pES0xoV2tIOGY3SHdpeDA5WFRobUw5anhMcFNkaU9pRzk5VVh2X00wY2JKRkNWWHRzZGIySTl5WXVyYjBYMmtDNHJOQkdGeFY5OURYSzBrbDlNLVZ5cVVvVFFEbzdXLVphWlVoQ0g3TWZpdFlEM2pFYkRnd0ZUZEdTXzJ3YjIxNnpMZHg?oc=5",
    "data": "Thu, 08 Oct 2026 07:00:00 GMT",
    "fonte": "iGizmo.it"
-  },
-  {
-   "titolo": "Xbox Game Pass: Microsoft studia una rivoluzione del servizio per superare la cannibalizzazione delle vendite - IGN Italia",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNWR4cmlqN1FYdXIwUEZ5Y1oydzY3cVY1czQybEt6OFMwQ0VWSEctTGZ4cEFaWXdZZ2tORG5OTGZHU2ROOFVmLU40OVNTWEQzVmJFdHRMcmdRVGR6OGFCSHRNNmRUT3dTT1JVMWxUcHFpNGV5WEM0cmlFSFE0cjVGQktQU3A3VGxMaEhlSUZ6VnBMUS1STElSQXV1YlNNRWlqSlJGbmx2RHpnMkMydGlNYnFxYUhYRWh1V21BRVAyVUlYc0xuTmtCV0FiSjdDNUF5bGUxMGNhZjQ?oc=5",
-   "data": "Wed, 21 Oct 2026 07:00:00 GMT",
-   "fonte": "IGN Italia"
   }
  ],
  "news_brevetti": [
