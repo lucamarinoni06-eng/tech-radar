@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-14T11:58:07+00:00",
+ "aggiornato": "2026-11-15T12:33:05+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -159,9 +159,15 @@
  ],
  "news": [
   {
+   "titolo": "Inaugurato oggi il Microsoft Pavilion: la nuova sede di Microsoft a Roma per accelerare la Frontier Transformation in Italia - Microsoft Source",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTjdROEM4U1p0OTlMM0pLMGFJOEg4ZXVLYkhZeVpVX2ktLUVGVWE2bW9EZFo4NldKSVNhNkZkMjcwRld3ajBDQU1XNFZ5S29mcnlaNFRkVnhTemN3VWxYNEdiVGljVE5HYzBrZzFOWkdiaFlKWU5EZTNCZGFWZnExeGxaNzZycFI3Q0w4N2V2TFh5U3ByQjI2UDBULWNSb0UyX2RNNll2SnRoSnVwcUc0UFdLNHgta2JVYVlZS0hSNm1vOV8yb29PbGZmWHdZM3ByWU5MQkJuOVFDemFjQ3hEak42LXVScWk0VFdTTmRRZ1QyN1JyQmNuVXJVSm53a0dZT29YLVBidVYxVVU?oc=5",
+   "data": "Wed, 11 Nov 2026 13:45:39 GMT",
+   "fonte": "Microsoft Source"
+  },
+  {
    "titolo": "Microsoft: \"Ripristinati tutti i servizi dopo il blackout globale\". Le scuse del colosso - RaiNews",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWDNmaTRPTEdIZEhoaEp1VzlZQnBNeDRGTjREeFVaVlZ2QjVJUjdySWwzTjVYeUoxMF9fY3FZV0FJQ3puc3pxS01mb1F5eU02VlRINjYyT2NZQWFDRm9Ua1hMbEQwdE5HOFhrb3E0bVl4eC01c1l0RExIel85VVBueUVIMjFWU1Z2eFhRZWdqeHljM19oeTJTMXktWXBhX28yT01hbG40Sk1wXzJaUUZLZ2ZiYmdJWmY5RGVyUWVNRdIBxAFBVV95cUxPQldQeFE5eEotSVZsOFRRQWdxdDJXNWZNczdtYlFRRXVoMUNUME83U2J5UkVLTklLMHdVbGxjLXRwYnZrUXB2bldYTk9PYUpZbWE0bVkzOEhNM01lUHZHbkZraXN1SGN4WFhwcnYyY0NkS05iX1VSSVRaQ0t0Z3dLUXpWR0pMVHJjWW5TWVhrV0VlaHN0Qnc5QlU5SVlBVmtCbzZ0cFo4bGVUcVZXaUk1ZHBBZ1RKRTg2QUdXcTJIZWFUTDJ6?oc=5",
-   "data": "Sat, 14 Nov 2026 08:06:00 GMT",
+   "data": "Sat, 14 Nov 2026 13:03:00 GMT",
    "fonte": "RaiNews"
   },
   {
@@ -169,6 +175,12 @@
    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPTE1HMkkxN05tRFdUc2hHMVdpa1R3MHZKWkYxR2E5bXhyb1NDTkUyV0Rscy1MMFRtQ2FjTC1YV1BfT3o0MWRtYXRIZktjUG9Va0EwTU9zSFRQd2l2S3ZKTWZxZGxqczFmV1liaDdGVnY1LUM5S3NOR3A0czZmYkZhUHpQZWY5NzBOa0wtOHhjT3N4TWdWOVdYWXV1REE5QTVPb0drTWwwdHJjQTlSTVJnZmxXc1hTMUkxZC11TXB5bTJBTnJCZFFHNVRfQ3o3OURTZmRKWWs2alJSUDZkX2dYTWJTWjVGTmQwWkpoZF9fS293UDV1V19SRWFnM3dQZnFDZ3ZrUTFFX2hBVHRWSG5CaWwzaVp6QWF3R1JLQkJR0gGjAkFVX3lxTE4xU1FZRGJiUTY5dkptanJTMDdkUXE1NnEwWkQwdDM5UEt4bzYzcmtIanpRcDVGRU1QM21qLXg1TWFjdjZDYlhMYVJRWmNNWHRZbVB5bFpYb0RHWlFBa2lpUkloNHViZjVfQjNmcnRvR2tDbFFhZFpjZEZnZWtPMnJtRkxXVGhpRGlQV2hlRGlvUXhVM050b3FMbWRuUFJ6UGNvY1N1ZHVyR1pBa1pXbGgtUFlZQVcxbGM5NzdBd2RYTlBLNERwd1o1RVdKcXdra2FySVRydW9fdEdkemVzMVN6MTZHLTNHLXV5X244d1Zmb1NkSHdqNUNBcVZkeXNta2JYVXBmNG1BNjNEMUhhR2Z4S2puZllaMUZlaTlWV29ua0I1aw?oc=5",
    "data": "Fri, 13 Nov 2026 14:49:30 GMT",
    "fonte": "Corriere della Sera"
+  },
+  {
+   "titolo": "Down mondiale di Microsoft, servizi regolari in Europa. L’azienda assicura: “Nessun attacco hacker” - la Repubblica",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcmxuZGFjUTFkSDBjaVYtelM1N2Y5OUlKV2NXUFJZZkR0VlpFbUZmSnZoLXNtV05EQ1dHWnJ2bG54NXp1Z0JBQXVYcEVYUUhYLXFuMXp5RjNaeFVDckMwS1RrclJWUlYzcTdZSTQ5QjJYMURYLThFMVZrbV9scmFXYURyVms3elZoM3dpa0RyV1dOczRubEl4b0QtcTJGT1U2ZVBvd2ZPZjBQekxCNXM5eVlxVExNeEV2QXZQcjFPajJEaFdkbFJnaWN1eUFNdTFESHJJdkw3ZkVMVmZ5NlViTA?oc=5",
+   "data": "Thu, 12 Nov 2026 18:44:49 GMT",
+   "fonte": "la Repubblica"
   },
   {
    "titolo": "Avviso su disservizi temporanei Microsoft 365 - Federazione Italiana Pallavolo",
@@ -183,40 +195,28 @@
    "fonte": "Il Post"
   },
   {
-   "titolo": "Microsoft, problemi a Outlook, Teams e Copilot. L’azienda: «Ci avviciniamo alla normalità» - Il Sole 24 ORE",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaTJSSnhYZ0V2QVRVejZfYm1oMmdmV2RFNUlUMzNCNzlsdUhUTkU0eDdHdGN4ZFFkX2NxaFZxam52YUxWbHZLeWdRVl95eGp1bEpqN2hnZHpIZVNjNVRTM0xES0poeDkxT0NSTU1nQVRCRnRUcTdHZVl2R2VRUmFmZFc1UHl3ZEtJR09LMTFLZFVzZHF5UmlaanRXV2w4M0dYb1huV0k0SWhrUkE1RVNsdEJOcw?oc=5",
-   "data": "Thu, 12 Nov 2026 18:58:10 GMT",
-   "fonte": "Il Sole 24 ORE"
-  },
-  {
-   "titolo": "Outlook, Teams e non solo: a che punto è il down di Microsoft? - Libero",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWVRLY09IZ0V6Q2lXZGQyVl85MjFObU5WVzBJc0llVDBGcXl1aGpxQWRjQ3ZxZU4zenl2akNESXhOaWczcGRUcFVTNUh0M3g4LThNMEdXVUt4ZGhVYzBnc09YbG1iajZCSmZ3cjFrRWp2UURZXzRsTFQ4SmVpSXJlZDBvTTjSAYoBQVVfeXFMUFhPbTRQQ1JZZS1CZmkxdjlKNUhMNlV5SlJ1cXhxdzZUbEwxOHlxX1lNVXpzbkpjZDdpVXUtOUp6ZzV0QWZFMmhFMlh2eWxIdktrS2J5MUtoMDZFSDRwcURpd2VVYldibkdHZW9LdWktM3JwUmFTYlBmd1hMeVBDSGpwNmRISmRTelpB?oc=5",
-   "data": "Fri, 13 Nov 2026 14:00:00 GMT",
-   "fonte": "Libero"
-  },
-  {
    "titolo": "Microsoft down: il blackout che ha mandato in tilt il Pianeta - Avvenire",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTDVycEd6T1RUakJGN2Y1R1lieUNfTEFvSkozaVpFeU5YX1VYSmN5b3hyWFRXZkQ1YUxWR2xnWUNHOTVweXBzU3luX1pYaEJRV29WREhpQ0tCcUNHU1Y2TUZGYmY5SGxtVm03cUFIbkVZd1BfdVhoZWVNM0pKV0QxalVEdC1uM3hkQWN0VnpWYVNEQ1E?oc=5",
    "data": "Fri, 13 Nov 2026 11:48:46 GMT",
    "fonte": "Avvenire"
   },
   {
-   "titolo": "Outlook down in tutto il mondo, Microsoft: 'Ripristino parziale' - Sky TG24",
+   "titolo": "Outlook down in tutto il mondo, Microsoft: \"Escluso attacco hacker. Ripristino parziale\" - Sky TG24",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY1ZTaTFOdEU0QUxDSWNmMmVPcnRsWGkxUVNrM3liQk1ZZENlOW04aDEwV3FiVlhsS0dRNlFYU3lYcUxzaGU2SGZXTE5xZnJxX2JjLURZSlJHVVF4ZnAtc3pZQ1ZoN1dTdG9HbmRQbzNiTnFFQTFTenIxSktwckxZSzlHbmJmT3dLUEdVdU93?oc=5",
    "data": "Fri, 13 Nov 2026 06:38:29 GMT",
    "fonte": "Sky TG24"
   },
   {
-   "titolo": "Down mondiale di Microsoft, servizi regolari in Europa. L’azienda assicura: “Nessun attacco hacker” - la Repubblica",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcmxuZGFjUTFkSDBjaVYtelM1N2Y5OUlKV2NXUFJZZkR0VlpFbUZmSnZoLXNtV05EQ1dHWnJ2bG54NXp1Z0JBQXVYcEVYUUhYLXFuMXp5RjNaeFVDckMwS1RrclJWUlYzcTdZSTQ5QjJYMURYLThFMVZrbV9scmFXYURyVms3elZoM3dpa0RyV1dOczRubEl4b0QtcTJGT1U2ZVBvd2ZPZjBQekxCNXM5eVlxVExNeEV2QXZQcjFPajJEaFdkbFJnaWN1eUFNdTFESHJJdkw3ZkVMVmZ5NlViTA?oc=5",
-   "data": "Thu, 12 Nov 2026 18:44:49 GMT",
-   "fonte": "la Repubblica"
+   "titolo": "Microsoft, problemi a Outlook, Teams e Copilot. L’azienda: «Ci avviciniamo alla normalità» - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaTJSSnhYZ0V2QVRVejZfYm1oMmdmV2RFNUlUMzNCNzlsdUhUTkU0eDdHdGN4ZFFkX2NxaFZxam52YUxWbHZLeWdRVl95eGp1bEpqN2hnZHpIZVNjNVRTM0xES0poeDkxT0NSTU1nQVRCRnRUcTdHZVl2R2VRUmFmZFc1UHl3ZEtJR09LMTFLZFVzZHF5UmlaanRXV2w4M0dYb1huV0k0SWhrUkE1RVNsdEJOcw?oc=5",
+   "data": "Thu, 12 Nov 2026 18:58:10 GMT",
+   "fonte": "Il Sole 24 ORE"
   },
   {
-   "titolo": "Outlook in tilt, disagi anche per Teams e Copilot: Microsoft indaga - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTEdueWY0dWRaSFJ0cS1aVVBRNmlwcVdsc0lHczBFUVNRNDhiSWtjWU9PRmMtSEpQVFV6dGxJNU5rNmNNYUtxcF9QTVhBVVNiV2dDSWpSUzZ5eTBuZFJUQ2puSzFsOFRJS1YxQXgwSjMtbEg0cVRzQ3BUM1M1X2FtNzhkWGFjazRjY0xDTGdPLXBaYW42RmRMQm1HNHJIUEFIcDJFWWdjZHNfZFVHMnI2OFRUSTdsZGdvcG5tUzBfVnZFcGM?oc=5",
-   "data": "Thu, 12 Nov 2026 19:37:38 GMT",
-   "fonte": "Euronews.com"
+   "titolo": "Outlook in down, problemi per i servizi Microsoft (compresa la mail) in tutto il mondo - Il Fatto Quotidiano",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR05mVTZzMGtNTnQtTHZfVFl6VjR5UmNGcEpSaWpKd0g3cFVmNjhHU1MyR0hTaGhIcVE4V1EwZkhiTVhJV2F0WVRyZ2k1ZDZwNEpaMGUxaFl5Uk1mcVRWT2VHV0c2cFUzM0stWU93TGFaYUNpd0MtdUJjdVlqN1JaTlRsY2ZLWG5GdnVZd2FhSm8zS01fUkNoRDB2VQ?oc=5",
+   "data": "Thu, 12 Nov 2026 19:45:57 GMT",
+   "fonte": "Il Fatto Quotidiano"
   }
  ],
  "news_legali": [
@@ -225,12 +225,6 @@
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUVNMWGtyT3lvaGtteVFVc2R5ZVBtaG5sdzI1RS1vQnBtdy15ZF81dU9HVWtQWUgxdjV6aHBLcVhqQTd1dG13R2E0d0xDel83SlZBQk9Jc3EycEdsR3p3ZE9DOGlJNnpteC1icV9scGtRRmdnZS1hSjV6RzRfRWRpUnBMRHlVZzBCNjNnRlFDcGQwNVo5cXFIU0hDbmctSUI2MDJmSnMwdGw4RzhuSTJxWTRzQ0RsTDVWN2E1VUhxcDM4MXF1N2hmbEVQWkp0cU1WbWJQNm81YnpWSWF1SzRBNDlBMDZrSGpVZFV6ZGJRcUlWV1HSAfgBQVVfeXFMT2ZncjNXYjByeUlnRldPMFZ1WXhXVDM3ckhqenp2cEtBb1p2S3pRYmNjYkp0RFRPMGpoZlhOZ0RvQ2QyMHVoWVduY0VobVZpSFVVbmswSVQtNUZFNkxienV6VTQxRjZ0T29DaDRxY1JpVE9xN0ZhcFJBdzI0TnJQZ2twTkxWVDJ6Wkl6UnBzcV9yOXFyT3BISUFvSHluOVVkcWRjYzIyd1puZEF4Q19GUlVnSEpSUDJGeTNOMEJ1UWJ1U3VSMjFCZkUxVFM5LTZQWElYWHVSSGxYcTVCbHlLS1FtekNUM2FHZDNrMDZ4aGo0bHVmTW8zMDc?oc=5",
    "data": "Thu, 24 Sep 2026 07:00:00 GMT",
    "fonte": "ANSA"
-  },
-  {
-   "titolo": "Videogiochi e tutela consumatori, l’Antitrust guida le azioni sul gruppo Microsoft - Help Consumatori",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdmJtYi1zbVotOUxFampPanlGclJhSkpoSExXWGd1WmZpUDB6OE5JT21WTXJMSnhOSmF2OU93dWl4aUhGUU9aVTFlZnBLVm90MGMyREl5TGV3N1ZOQWxBT2NCdTRqc09oWTU3amZPZUt4UnNVX1hGNEpfZWowbjFNeldhVUU5UUtScUw5MG95dVRBdGxiQlZiMm5OWEhrRjNlSU1iLTg1UHhwYmhEbXc5Skdn?oc=5",
-   "data": "Thu, 08 Oct 2026 07:00:00 GMT",
-   "fonte": "Help Consumatori"
   },
   {
    "titolo": "Microsoft 365, stop Antitrust agli impegni sul rincaro abbonamenti - SoldiOnline.it",
@@ -251,22 +245,16 @@
    "fonte": "Il Sole 24 ORE"
   },
   {
-   "titolo": "Microsoft riorganizza Xbox: Halo passa ad Activision - Key4biz",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN1RiTkVJUi1qa0VCZ2JBZ0lzTDFFdUNVYmlIZXVnT3R2T2txN0RFZS1ILV90ejhiTmVUa3JUQXE2NXZrMEpQRzE1WXpPbFJfMUwxR2JRa1N4VmRBblUyNmMxQmdEUWRVcS1Tc2czRlN5Nkl4V1VQdFNkQ1JuV1hwdnI1cW9SNUNrWVE?oc=5",
-   "data": "Wed, 23 Sep 2026 07:00:00 GMT",
-   "fonte": "Key4biz"
+   "titolo": "Microsoft 365, l'Antitrust respinge le proposte di Microsoft: troppo poco per compensare gli utenti - Hardware Upgrade",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQXNWdjV2NnRKZkRjanR4RHBOMFB6aWFMUVZVZnh4UWhPZlVlem9FS0Zkc2l3Z0JRU2phcDhJVkhDcE9rVUd2MjFFXzVkWmZmaTVJemhodmpYX3dYakl5eTBTRURXQ250a2U5MGY0M3Nfd2RwNHRydHdTR19oajhUNVFUU0cyRXctcTlTQnJzY2hkelFMR3JiRjY3aWZQaGNnN3FMZFViZHRHaU16RGpLR2MxOFJOTWRXZzJUQURpRFQ5VjMyVEhNUV9XZTl0T0JvLXhjRmtoTmdDS28?oc=5",
+   "data": "Thu, 24 Sep 2026 07:00:00 GMT",
+   "fonte": "Hardware Upgrade"
   },
   {
-   "titolo": "Microsoft, ripristinati tutti i servizi dopo il blackout globale di ieri - Avvenire",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcy16RlRCZks4bjVVd2xEbUVyeWN6c3pRSlJlUmJ0TmItajNfYUNVVFd0TEsxb19kQXpqcUdJZlNFNkVLZ2JIOUdwdjF5TjFMYllfcFdneWwyVldPZUpkN2dMTHYycEp4b3REcWVJYmliTGxKZzBoaTVqOUE5ZThVMzFrRlVYWmN6OV9lam8tckVGM1BGLW01SjlfS3J0ZDNkenpYUDhHcFhHamxleG5KbWVR?oc=5",
-   "data": "Sat, 14 Nov 2026 08:02:00 GMT",
-   "fonte": "Avvenire"
-  },
-  {
-   "titolo": "Microsoft offre l’uscita volontaria a 60mila dipendenti mentre investe nell’AI - Fortune Italia",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPakNkTW1GMHI0Rjg3bUlZTk9OdEVhY0REN055YWw0djZaMENNR0MwVVVRaEFhR3RoeFZ1TGRjemFhYjNEX1FVQ2hKZ1ZrS3FIUjlZQ1pSVzYyT29LSXlwTHpOZzhxS09pcVVsZWViTzE5MF81cEx1S3dZNTU3aEd6MXpSa2d1c0J6QzdzTGxhLTRCSWVyMHJ6SUdQaXRkc2xtbFlYcldmclBuM1ZDZnZMVkhXaTRkUQ?oc=5",
-   "data": "Tue, 27 Oct 2026 07:00:00 GMT",
-   "fonte": "Fortune Italia"
+   "titolo": "Microsoft ripensa Copilot: meno chatbot, più agente AI - La Stampa",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbE80a3VPckVkTE9zRXpQQ0FDa3RrMHVXZ0ljNTBieXQ3OWJvakp3TkdocExBWFpud3JRX0c3OTk0UEhOcHBWRXNzTURBQ21tQ09ZYklhVms5bzZ2OGppVWlmOHc0RWY0MXJoR0tXcGhNVjYtdm9TOUg5Y0ZZRVZGRktiRERTd0dWc0tmdmsxT3BjOUVmb2F3UmFNVUhicDBWWlZtd05yWG4xRFHSAbABQVVfeXFMTVRJRkNEMlotUHp5RldLSkE3UzdGMFBIeWVOWmxTVXR2S1gzcWRtV1I5cC1IV0xMdV9QYTE1dVJnR2MyRHJyVmNoNlFIbjUxbklEM0p2dk5ORlF4RzJxbVRTeDFQcUpzTWFPRmdFU3dfWE1SYk1DRHZYSXpCZ25yMGJvb2NqcWdYZFBiVU81WGdPRWxjYzIza1Ywb2lLQTRqVUtaM212MGRhRndST2J4WlA?oc=5",
+   "data": "Sun, 27 Sep 2026 07:00:00 GMT",
+   "fonte": "La Stampa"
   },
   {
    "titolo": "La crisi di Xbox non ha fine, Microsoft stravolge la strategia. “Pronti centinaia di licenziamenti” - Quotidiano Nazionale",
@@ -279,6 +267,18 @@
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaEZqZmR2Y1JlMXNBeEk5dDFoSWYtaUo5M1VucTN5WGsxX1BKMVVmT2hxd0paby1jbzBZcFVQSFp3MExlWEdOX0pES0xoV2tIOGY3SHdpeDA5WFRobUw5anhMcFNkaU9pRzk5VVh2X00wY2JKRkNWWHRzZGIySTl5WXVyYjBYMmtDNHJOQkdGeFY5OURYSzBrbDlNLVZ5cVVvVFFEbzdXLVphWlVoQ0g3TWZpdFlEM2pFYkRnd0ZUZEdTXzJ3YjIxNnpMZHg?oc=5",
    "data": "Thu, 08 Oct 2026 07:00:00 GMT",
    "fonte": "iGizmo.it"
+  },
+  {
+   "titolo": "Microsoft riorganizza Xbox: Halo passa ad Activision - Key4biz",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN1RiTkVJUi1qa0VCZ2JBZ0lzTDFFdUNVYmlIZXVnT3R2T2txN0RFZS1ILV90ejhiTmVUa3JUQXE2NXZrMEpQRzE1WXpPbFJfMUwxR2JRa1N4VmRBblUyNmMxQmdEUWRVcS1Tc2czRlN5Nkl4V1VQdFNkQ1JuV1hwdnI1cW9SNUNrWVE?oc=5",
+   "data": "Wed, 23 Sep 2026 07:00:00 GMT",
+   "fonte": "Key4biz"
+  },
+  {
+   "titolo": "Microsoft fa diventare Copilot una “super app”: ora programma e lavora da sola - DDay.it",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ19FVFpuOThVSW5FeE93UkllWnNhbVIwdHAzQUFRekMxSkp4aXpDQktRNWdzRGx0YjBuUHpsck9DNFVvZXdkYzI2RUswYkhTUU1Cc0prYV9NRXlGU29DOHMyd1l0MEFESlliaUtrdDk0dk9xdlJKSTYyTlg4UjlpRlBRekZXcVd6V0RXQ1g0NGRLUXJVcmJpdldiN2EwWmpKdWlyZFRqVmk5b1NrY3NCMkpxd3lSWlZX?oc=5",
+   "data": "Fri, 25 Sep 2026 07:00:00 GMT",
+   "fonte": "DDay.it"
   }
  ],
  "news_brevetti": [
@@ -289,16 +289,16 @@
    "fonte": "Everyeye.it"
   },
   {
-   "titolo": "Pubblicità nei giochi Xbox? Microsoft brevetta un sistema molto discusso - SpazioGames",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQekdDbnpwU3B4U29saVBTZ2ZoWm9OWVM2d3dJd0tDYlU2M3FCeXZ1ODl1cWd3ZERDT2J2QUdoREhJNnVZcmo4ZHBNSXd2OW8tdHNxc2RmcHNvcXFMZkt4czcxVEktVjIzNkRkckpWR3hwOU5EYWdaNVZVU2h5UjRnUV9PTFVTRTE4amNLSzdvMF8tQQ?oc=5",
-   "data": "Wed, 23 Sep 2026 07:00:00 GMT",
-   "fonte": "SpazioGames"
-  },
-  {
    "titolo": "Microsoft e pubblicità nei videogiochi, nuovo brevetto depositato - HDblog.it",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYzRxX3JQRUZ1NzdzOVJRWHVvUk9PdEVNXy1rRWRaSVprYk04QnoxSm5Xam05XzF1TmJuQ1F0cjZjS2NsVlEtRmVzMVlhc3lDVEpzR19keGo2RUJ2VXV0dngwdl82X2pjY0dld1VJRm85NjE5TFFuMENEaTJBUDFaV0JuSkh2ZU83VmpwMVpKR1ItZnJCQ1E?oc=5",
    "data": "Mon, 21 Sep 2026 07:00:00 GMT",
    "fonte": "HDblog.it"
+  },
+  {
+   "titolo": "Pubblicità nei giochi Xbox? Microsoft brevetta un sistema molto discusso - SpazioGames",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQekdDbnpwU3B4U29saVBTZ2ZoWm9OWVM2d3dJd0tDYlU2M3FCeXZ1ODl1cWd3ZERDT2J2QUdoREhJNnVZcmo4ZHBNSXd2OW8tdHNxc2RmcHNvcXFMZkt4czcxVEktVjIzNkRkckpWR3hwOU5EYWdaNVZVU2h5UjRnUV9PTFVTRTE4amNLSzdvMF8tQQ?oc=5",
+   "data": "Wed, 23 Sep 2026 07:00:00 GMT",
+   "fonte": "SpazioGames"
   },
   {
    "titolo": "Pubblicità nel mezzo del gameplay per poter continuare a giocare: è il brevetto di Microsoft - Multiplayer",

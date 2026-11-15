@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-14T11:58:14+00:00",
+ "aggiornato": "2026-11-15T12:33:12+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -176,22 +176,28 @@
    "fonte": "Sky TG24"
   },
   {
+   "titolo": "Nvidia, il cda discute la cacciata di Jensen Huang - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd0ZuZ200b0ZuMU9IcjVYelpQbE4xSU5pbW9zNzVoYVQ3N1pJekEzcmRvc0lSWU1qSXBHUlNaYWhKWlpBdmFaUHFsWnZNcl9VX2VRWnZkeDFNSzJpaHM1NUM5YkV1VFFmWEJiZ1BjQ0tuMi1DUExIai1mQV9Ha0d3TGxKWXpoblRa?oc=5",
+   "data": "Thu, 12 Nov 2026 09:17:14 GMT",
+   "fonte": "Il Sole 24 ORE"
+  },
+  {
    "titolo": "Lo scandalo della Nvidia fa tremare il mondo delle ia - Internazionale",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaXRGck9Ibk9kM0c3ZHRaVW5FdG1ubXRUc0twcFZVckIxalZ3YXc0LUZOVHpCT3JFRmZaZVo4dWRUN0NSR0c2d3k5MWFqeGNEa3hwd0V5TTRLVHhaeWhld1llSjZHRW53Q3lwNnVhZFhhN3FOOWcyWmZpMnJWc3o4RTYtcWpkSnhiMEVPVFp6TGJWNGxaVFFnNEZPbVM?oc=5",
    "data": "Wed, 11 Nov 2026 04:05:04 GMT",
    "fonte": "Internazionale"
   },
   {
+   "titolo": "Un problema per Nvidia è un problema per l’AI - Il Post",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWVdCcTh1eklRR1VrOFV3Q1BPWGZwUzlta1J5SWs0OGlKeEM5TTRTSzZDbC02M18xTVgwRlFEXy1hUnJYdmJ1UDNGTExrTnp0cXhsS0FmMVFfYWp3cDBmbDVQejhUUDl1NGlZQlJxbmhrcUcteHZKbzZnN0tFa0FvTkY4RGlnQnRlUmJ4alNKLUVtblNaUFItWUdRbWoxZUxqU2U4?oc=5",
+   "data": "Sat, 14 Nov 2026 12:34:57 GMT",
+   "fonte": "Il Post"
+  },
+  {
    "titolo": "Nvidia perde 1.800 miliardi di dollari dopo l’uscita del CEO Jensen Huang - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzFVNGwwV3ZkQTIwWDAxakRJQ08yYlhkMzRISW5BS3FFRWVCa0ZkcmF0Z2puWGpZX1JuZnBLT2VOdEJDaVFZREhKdHBXdmpYX2pVcndvUTRtV0I4QTJ2b2ZMamhlZG9OUU9tQUpsWEROV1JwSTRiem9HR3ZNczNET2w5VmdLeHotdHBxWHVPRGdKWFFBbTl4U1RLRUVsQ1pZOUVNTV9YWTNMQQ?oc=5",
    "data": "Fri, 13 Nov 2026 13:54:40 GMT",
    "fonte": "Euronews.com"
-  },
-  {
-   "titolo": "Trump dice che sulla relazione tra il CEO di Nvidia e una presunta spia cinese indaga anche l’FBI - Il Post",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YNGF1TGdaR2lnbWo0SW0tSXRsazJzZlhIZkZISGZBTkR0ZnF4d1U2bl9BZ3FSQnJUSVVmdFJ2b2JTRy1pU3pPRW0tZ1hLelRYSm1MR2tSb0l1ZUJjdDR5bWQ5SFRMSktuM0Q5N2htQQ?oc=5",
-   "data": "Tue, 10 Nov 2026 06:01:00 GMT",
-   "fonte": "Il Post"
   },
   {
    "titolo": "Nvidia: l’indagine sul CEO Huang getta un’ombra sul futuro dell’azienda nell’IA - Morningstar",
@@ -204,12 +210,6 @@
    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZ21Xc1ZpbVVCVEtsOGYwMFI2TGgyTldxRUxxMXBvNWZVU2d0aDlzUFlIeExmUmV6Q2xMa0hkWUhtR0s0M0RqWlIzcGxjNGRhR0JzZ0RYYXBuSnMxQ2M3WFk5TUREdm42b2pNQzk2N21GbWlOdEdtem9JNWlSRHFoeFpaYjh6QlZKU2lLa1VpSTVIckNab0ZnTlZuVFBtaTdFSE5IVUFQcnE4VHkxY2hYb0ZOVFRndVBSTnlXZTRMVG43OTQwUGl3M21FNVZKbXJaWUp6NGhfVkdOUG1vRkJwckQ3OUtQc3l0SmFKUTN5NjZVMTBER2w4RzVsQWtPN1FtSTVodjRSbm04elZJRzZMblZydUZlazgwckZv0gGgAkFVX3lxTFBBQUVDZ3RnMF9aQjd0SXpnNG1KYzR2TFBZT2F2UmRkMFNuYUU4eDhaWTNXUTlvME5QcEV2c0g0MjY5UWNZMjU3TWZWaXRDeDJqMHNaVjFRMDVLN0V4NGx2OTFtYW91Vks4eFZ0Xy1WT3EyWmFUeVA3OW9zUGJXcngyQS1wMzJVUFEtMldFZ3VmRU1HWG1kc2VkS0tyR0Fnbkc0ZFlSTU5rUXEtNVlpcmhyOXBrN21UUmk4aUtib3lmYUNhZDRkVHNpYlhVamhSRjcyeHc4M0poNmozMVIyT0FSSUFhVVF4b0FTTlBIcXhJTTJWRFZyamxSZVpCSUJ2aVhlbFF3Mld0OEk5VWMtdVlYMmFPQ285WTY5WjZpQmhzaw?oc=5",
    "data": "Wed, 11 Nov 2026 23:41:00 GMT",
    "fonte": "Corriere della Sera"
-  },
-  {
-   "titolo": "Huang lascia Nvidia. L’ex ceo chiamato a testimoniare insieme al segretario del commercio Lutnik - la Repubblica",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd3NUWkdDS0E3VTVnZWxZV20tNjVRVmRzamFrbk9DZDVhbmRPbk9sUmxaMXdtUWFkUDhVQVlxREo5V3N6bDFMWXZtdWpFRGpXdzNqV0F0OUFsWkh0T2dKZTRaYTZRMlNaSmt3TXVLWEhFZ2x1VHRSaUJqRUREaVRoNHZPWGZBeFV4SGVtU1NZbVk0bTBiMTNfRGVwbG1YeTlHb1ZqZUY2R25PZ9IBrwFBVV95cUxOT3h6dG15LUY0Z2ZtdXMxejhFemxsclA4RnRFV3pETE5GZlRaZ3JZUXNKM2VyV2w0NWNLZXhTSDIyczkzVjhHNTRHTkN2SGdEZ0pzS2xlVlVIdXRPN0J2cUQxa1hxU3EwbGlCd29LMU95bFpfYWRhN3BQeTlWTkwwSTZTMUdvbGQwcmZSN0wyQjZoZFhDSk8tWFRIYVFtc01DUHhJa0NTM254NUhJNWhZ?oc=5",
-   "data": "Thu, 12 Nov 2026 13:55:04 GMT",
-   "fonte": "la Repubblica"
   }
  ],
  "news_legali": [
@@ -238,10 +238,10 @@
    "fonte": "Quotidiano Nazionale"
   },
   {
-   "titolo": "Elon Musk: SpaceXAI punta a 1,2 milioni di chip Nvidia per Colossus 2 entro fine anno - Yahoo Finanza",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdmVWUlAwLU9tWlpMNWdsbFNlMzZ5eGUyWndjUGRXUEdzWDI4SFJOZG1XLVU2ZXB0YjZpSWkxNHJiQ0tMREctY3lTNVRrb0ZSYkk2TFlWUWFQT1RjSmNlN2FfdE92SC1ianFqZUR1MmF0dDhSRktzVEQ3bHZhODR0V0J2TVE?oc=5",
-   "data": "Fri, 25 Sep 2026 07:00:00 GMT",
-   "fonte": "Yahoo Finanza"
+   "titolo": "La fine di un'era per NVIDIA? Il futuro di Jensen Huang è in bilico - Morethantech",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSk50bXJmREl4bFVRa0M1UTVUUC10aFAxYlhGblFLVmRFdHRWM1d0aWdhbEtEUkVGYVNXcS12Y2hSMndGOEgyMDM5MmxRSlY3NldLWm1wMk1KZGlWLXVfbHQ2VWRfT3NJR09pZmVENWtMeHhjTmo0ejRRYlF0Ty03OFNyVTREM3ZNYnA3UVhaTU50dWpoZEd3M05ncHljcl9lOFBPZ1Fid3FmcDRN?oc=5",
+   "data": "Thu, 12 Nov 2026 10:47:36 GMT",
+   "fonte": "Morethantech"
   },
   {
    "titolo": "Nvidia, Alice Huang Le è scomparsa: chi è la presunta spia della Cina - Sky TG24",
@@ -250,10 +250,10 @@
    "fonte": "Sky TG24"
   },
   {
-   "titolo": "La fine di un'era per NVIDIA? Il futuro di Jensen Huang è in bilico - Morethantech",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSk50bXJmREl4bFVRa0M1UTVUUC10aFAxYlhGblFLVmRFdHRWM1d0aWdhbEtEUkVGYVNXcS12Y2hSMndGOEgyMDM5MmxRSlY3NldLWm1wMk1KZGlWLXVfbHQ2VWRfT3NJR09pZmVENWtMeHhjTmo0ejRRYlF0Ty03OFNyVTREM3ZNYnA3UVhaTU50dWpoZEd3M05ncHljcl9lOFBPZ1Fid3FmcDRN?oc=5",
-   "data": "Thu, 12 Nov 2026 10:47:36 GMT",
-   "fonte": "Morethantech"
+   "titolo": "Elon Musk: SpaceXAI punta a 1,2 milioni di chip Nvidia per Colossus 2 entro fine anno - Yahoo Finanza",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdmVWUlAwLU9tWlpMNWdsbFNlMzZ5eGUyWndjUGRXUEdzWDI4SFJOZG1XLVU2ZXB0YjZpSWkxNHJiQ0tMREctY3lTNVRrb0ZSYkk2TFlWUWFQT1RjSmNlN2FfdE92SC1ianFqZUR1MmF0dDhSRktzVEQ3bHZhODR0V0J2TVE?oc=5",
+   "data": "Fri, 25 Sep 2026 07:00:00 GMT",
+   "fonte": "Yahoo Finanza"
   },
   {
    "titolo": "Musk: il data center Colossus 2 raddoppierà i chip Nvidia entro fine anno - Investing.com",
@@ -268,10 +268,10 @@
    "fonte": "Hardware Upgrade"
   },
   {
-   "titolo": "NVIDIA RTX 5090 sparisce dal marketplace ufficiale: è davvero la fine per la top gamma? - Everyeye Tech",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZEEzel93ZkZQaXM4NWIxSU1NbnJtZVNvYkdoTVBpM1dnYlpVaFpRTEN6cFc2ZmtPMjREUDUtYWhGV0UtdXBZQzQ0U21lSTN2NUlnZzFyYnZXZUxBc1I0ME8wQUZoVlVuZkxZRXRQay14NVQ4TXlxU1dJUnJnZHZWTnpJaXZmaHZSRXFNV2NveG9LY0lSNnhjVXhVWi1RNXNDZW1TWkgzQ0ptZU1rb2c?oc=5",
-   "data": "Fri, 16 Oct 2026 07:00:00 GMT",
-   "fonte": "Everyeye Tech"
+   "titolo": "Il mistero Alice Huang, dov’è finita la spia cinese che ha fatto crollare Nvidia - la Repubblica",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV1VRSWlQMzVRX19lU0ZHSG1TSW40bE82dzlpWDZTeVUwX25wNEN1WWVYUk9JNk5WdlV6eF85Z18welNwSU8yVXJkRUtQT3RqRUtJNnN3eEk5UjJtZFVOS1ZfaGdqWkJ3VE54b0FESHJfNnRBd3ZkQmx4MTZ0WHVIdnZ2MmhQc1V0UE5rRV83VThJQmxwTlYxTGpZU2NnU09SNFFoX1hqcVTSAa4BQVVfeXFMTVhSV0JLUXNtRm1TSVhvYktFMXV2TnhCSVY3Q0sxRHE5S002Y0lBdkgydmIwOTYxdXotV0Qyb2tWeFBRcHNnUnhZQk9yNkwxSDVrU1VIOENoV3RkZUMwemJhZ05jQmhld2NXRWUwOTA1eDUtd3lTUHZ5NEhlSGo1T2ZFdjZBcWUta1huUEFlYzlhZE50c1J5OXpRS3JLN3lsN3hkY0xVcEZiY0FERGpB?oc=5",
+   "data": "Thu, 12 Nov 2026 12:19:37 GMT",
+   "fonte": "la Repubblica"
   }
  ],
  "news_brevetti": [
@@ -306,10 +306,10 @@
    "fonte": "Multiplayer"
   },
   {
-   "titolo": "Spunta una domanda di brevetto Microsoft per un'IA che riscrive le parole in diretta - Pasquale Pillitteri",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT0pOOHFyczRDb2VaZ2lOa2tQNUotN292Mnl6S0t6cTlxQ0tWMlhicG1qektJMXF1ZXg4dDUwb2VYN19CWnh0VmFIbnF4Sk5pOEtTWjZzUGo1alFWZTB3X3plX09qRk5IZWR3TkozTkdQaktZdzF5ZC14eG1ZNExwd20xSlR1MTJYcWxUNUJUemh3LTA?oc=5",
-   "data": "Fri, 06 Nov 2026 08:00:00 GMT",
-   "fonte": "Pasquale Pillitteri"
+   "titolo": "Ecco dove sono finite tutte le GeForce RTX 5090: datacenter AI cinesi - HDblog.it",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMm1wZ3hrWUJuYjhZb1BTMnV2SDBXSXN0NW5UenpNSDZEdXhVbzJNMnBXNlozSmlYeGRBdE0tS1hfb3N5ZEhxeUdhU3BFbE1xYlpGWGlQbXFyY0xWOW4tM0NZTjJZdnFFcGUzd0RyR2dNVWhoUGpDazBDdmYtcTA0MjJ1bjFMYi1Da3lHZDZObUNSdDVCUXpLVmhyNkpSQQ?oc=5",
+   "data": "Wed, 16 Sep 2026 07:00:00 GMT",
+   "fonte": "HDblog.it"
   }
  ]
 }
