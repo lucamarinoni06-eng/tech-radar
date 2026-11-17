@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-16T13:25:27+00:00",
+ "aggiornato": "2026-11-17T14:11:05+00:00",
  "filing": [
   {
    "tipo": "10-Q",
@@ -99,6 +99,16 @@
  },
  "norme_usa": [
   {
+   "titolo": "Modernizing the Labor Market Test and Improving Protections for U.S. Workers in the PERM Immigrant Visa Program",
+   "data": "2026-11-17",
+   "tipo": "Proposed Rule",
+   "agenzie": [
+    "Labor Department",
+    "Employment and Training Administration"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23370/modernizing-the-labor-market-test-and-improving-protections-for-us-workers-in-the-perm-immigrant"
+  },
+  {
    "titolo": "Foreign-Trade Zone (FTZ) 84; Authorization of Production Activity; Tesla, Inc.; (Battery Storage Products and Components); Brookshire, Texas",
    "data": "2026-11-02",
    "tipo": "Notice",
@@ -145,15 +155,6 @@
     "National Highway Traffic Safety Administration"
    ],
    "link": "https://www.federalregister.gov/documents/2026/09/30/2026-19964/the-safer-affordable-fuel-efficient-safe-vehicles-rule-iii-for-model-years-2022-to-2031-passenger"
-  },
-  {
-   "titolo": "Self-Regulatory Organizations; BOX Exchange LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Rule 5050 To Amend the Short Term Option Series Program With Respect to Qualifying Securities",
-   "data": "2026-09-29",
-   "tipo": "Notice",
-   "agenzie": [
-    "Securities and Exchange Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/09/29/2026-19868/self-regulatory-organizations-box-exchange-llc-notice-of-filing-and-immediate-effectiveness-of-a"
   }
  ],
  "news": [
@@ -166,7 +167,7 @@
   {
    "titolo": "Tesla supera le attese, ma per il futuro non basta - InsideEVs Italia",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BcjNsQmt3bHpTM0NqZWFJSTBrOUFpNDVMQlFYLUE1UjJFS1lxT3lrT0dPeThrbm0xS3VTaUhoaEFuV1BoRS1LXzJXZWF3M1lpTWxNTzNDVHRxbnNqeTkzc3RVWFE0SjNwSVZ3UXFvdFlsUWdU?oc=5",
-   "data": "Sun, 15 Nov 2026 12:04:38 GMT",
+   "data": "Tue, 17 Nov 2026 04:05:31 GMT",
    "fonte": "InsideEVs Italia"
   },
   {
@@ -182,12 +183,6 @@
    "fonte": "Virgilio"
   },
   {
-   "titolo": "Gamma Tesla 2027: la Model 3 si allarga e arriva la più economica - Fleet Magazine",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vc1hXN0RIRTRmWkp3ek5EMFhqVXpkM29qenhOS1hjTGlPdmZfZFcxcVg3ZnVVNHdBanF5c1VINnBNN01kdW1BODVVaU40VjlVLUJ5YVg1WEZzWkJWLS1rZWJsQlBQZFk4?oc=5",
-   "data": "Mon, 09 Nov 2026 15:01:17 GMT",
-   "fonte": "Fleet Magazine"
-  },
-  {
    "titolo": "Tesla, titolo chiude in calo nell'after-hours su taglio previsioni capex per il 2026 - Borsa Italiana",
    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOR1hEYU9VTGRidVdFb3NZN2dKSDFoUHZ0bjk2V3BWN1p5Rm00WEdKNGpZMjBTTGZPUXgyck5KVTVBb3l2N3d5SjY0OU4xYXVsejMtTVlsLTZoVGVHU2JuZTBaUmFGcG9HUmwwR0V3M2Q1U21RSzB1Y0VmWk5uNmV2TFJOTUpuaGd4cGd6Q0JzZFVGVFR3TVlYTERUZVlXeksxR0Zwa3BIX1B3UkRKb2xTTTRiREQtOWxxT2dQalpYRmpINjZNM09RS0JXLUx6eHV6ZWF0X1JGTHpPWFZXY1Vub1RXQXd6WlF4aW1HS1ZsalF1bnRHTldpUlhR?oc=5",
    "data": "Thu, 22 Oct 2026 07:00:00 GMT",
@@ -200,12 +195,6 @@
    "fonte": "HuffPost Italia"
   },
   {
-   "titolo": "Musk sgancia la bomba su Tesla: pochi modelli perché non ci sono talenti, in troppi se ne vanno - Hardware Upgrade",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNnZwdlBTc2FiZ0UtUG5MZTVoakhoQm5pY1RlbmlDdVBLLU96QVBhQWsyeHI3YzVIVzFPSFc4Z2hQbnJhM3FNUmVURmxVc285bkFVcjhaX3JrVWF1MFBIeHdwaTVUaUc1ZW1lQVRhdXhveTVJUnBFUVpwY2pTamVZWHVYbG04MEMyeDZUbTZ2YjI5QlJBTTR3RkJsUENEQ0otS19BcnhxcUc5SUE4MXExQ3JoWklyaGVSelQ1UGpJd3hqbk1GM2RtSmtSQmxjQlNCQW5RYS0zeV9Ya3BhQXNXSGd4QS03S3dnTmJF?oc=5",
-   "data": "Tue, 10 Nov 2026 11:07:53 GMT",
-   "fonte": "Hardware Upgrade"
-  },
-  {
    "titolo": "La Tesla volante: sfonda il muro di una casa, attraversa la terrazza e precipita in strada - Corriere della Sera",
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWnFzLXphbGlwaEpYcERNMUFhSGFTNlBXei1PNkdRZnc0d29oRThEa2wxMm5tc1hvVzU3SmxfWHlxZlNLbFB4M1B4T19yeVQ3T1NKSHFGSTZRVnNLTkZ6amZEdVhOUWtiZS1KT1M4N2x0TUVtTmxoY1hXcnQ0em1JNTB0YW1uejlyeU5wRnVZdEtzM2E3a2NTd2owMDFLRDFWNkVIN1Y4RVZ4eDVZNjZhVEVIaldEdER5M0Q0d3p2VnRBM1dOUGVVYklyVnZwM1dpaVVyT0h3NXJhcHJEaEU3cFNRcUdBakxYT3M4akdSN1RPODJVQmo4?oc=5",
    "data": "Thu, 29 Oct 2026 07:00:00 GMT",
@@ -216,20 +205,26 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBONWRWVk9DT1FsQzZ5UjlwcDQyRzJualZ6S0Rrd1pGRzlOTUxsUXVUVmRhMmtkYnR5SFowdWU0Ny1XaU0tLTVldlBIbWg2cWphaUhKZ1FxQ2F3VVpUeW1PQVpfa1RmSmlVZnQwRjdXMXEzM2d6?oc=5",
    "data": "Thu, 12 Nov 2026 21:13:00 GMT",
    "fonte": "BeInCrypto"
+  },
+  {
+   "titolo": "Tesla riduce la produzione del Cybertruck nel 2027 per puntare sui veicoli autonomi - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUW9OV1hLdEYxY0VQUEctMHF4b0taTVY0a0FwUlBWLW5GS1otbWFuMl82TWY2UVhvR1dsZTdqZnp1YTVwU29DSG9nWGptcV9jdGZYQWRYYVZNSi1VTm1YV0ttNTFJUGowVkg3aFRjRHFOMVZsUDhGSkJhZVZaVVZ6UmhqUWtoYU1ibWxQM3BBcF9tOVpudmpPT2ZPWjlzUkZCb2RLX0M4M3BoQnZWYmhBdzdfRDVqYWhhVUE?oc=5",
+   "data": "Fri, 06 Nov 2026 08:00:00 GMT",
+   "fonte": "Euronews.com"
+  },
+  {
+   "titolo": "ELON MUSK UNCOVERED. THE TESLA EXPERIMENT | Incontro con il regista Andreas Pichler - Anteo Palazzo del Cinema",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSnp6eFdsRUNtamdDRVFKRlZPVG8zV2NhRk12c3AxZGV0RTk3VTc1eU9CMFMxYjdlaDFtaU1rcjhLeWszRkZ4UTllNlBJTnRzcnl4bWcxcDVYRklSSkNidXJHX1BFMFNucHRvVHV2Wk5oenFsRC1iUlhyXzM2bWJtd2tBMkxqemtFZjVLSWNMd0RKWEJoYWZJSVVVd2xJT1cwN21zaWpZX3FMbTY5SVRjT3hFWHBONVFBaFNhT1c2UkxIN19DYTdaNWMyLWdqcndi?oc=5",
+   "data": "Sun, 01 Nov 2026 07:00:00 GMT",
+   "fonte": "Anteo Palazzo del Cinema"
   }
  ],
  "news_legali": [
   {
-   "titolo": "La produzione continua, ma il futuro resta delineato - Virgilio",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTG9pOEFUbUIycHpZQTJVV1pDdmhiMXJ1R3d5TlpNa2h0V1pmOTVTcHBZWWVHN2ZKcC1zQW80bHFWZGdGS3JkbnJ5SUZjeXR1WHdKbFhhYmJNQUlHZkZlUnl2aFJGc3JPMm9yYW5wS000U3FBREVVbEJreHRPRzNUajJpU3F4M2dtbHVvcFBKU09XQQ?oc=5",
-   "data": "Sun, 15 Nov 2026 09:38:28 GMT",
-   "fonte": "Virgilio"
-  },
-  {
-   "titolo": "Tesla smetterà gradualmente di produrre il Cybertruck - Il Post",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUFJSWUxbDhQbnVIVTR4bDdRc2YtVTVQRkFOZl9Ma0dEUHdMM01GenlNTUd0Zk5wNGdvTlFHZTJENklTSnltR0puMmFqMllHZXZsLVRyLTZZdURrUFFlR2J5d2d5WTB3R3AxVE1Cd3h6Ty02bjU4cE9MZ21rN3R5U1ZESFBQM2c?oc=5",
-   "data": "Sat, 07 Nov 2026 08:00:00 GMT",
-   "fonte": "Il Post"
+   "titolo": "Elon Musk conferma la fine del Cybertruck: Tesla restituirà gli anticipi ad alcuni clienti - Hardware Upgrade",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNU0cxSDdOQTJTLWxjZHIwTUNjZGhHVmo3S2F6MW1FejFNRWhHVkJtNmFhRHA3TUhoLXNCaWVJTlVZYmNjWHJhZ3FmR0c2VFpnM01ZclRjclBzRGEtQWU0YzVMcmZQRjFBS3BIdWVSRFlsWXFsVHJyc0gtUVl3aTAyeUU0bTZZcU5QelFaVG5nX184cEVidnZZelB5NmNGRnNSV0F5RllnZnRLWEdrbk15MkhYTTFRTTd1LURSNnZ3aVhpZG5kZ2ZubWJDbU9neGxhd0xuODZaUmRKLWxJeE9sVXIwV0xoOGdB?oc=5",
+   "data": "Mon, 09 Nov 2026 17:31:01 GMT",
+   "fonte": "Hardware Upgrade"
   },
   {
    "titolo": "Tesla estenderà la produzione del Cybertruck fino alla fine dell'estate 2027 - MarketScreener Italia",
@@ -238,10 +233,28 @@
    "fonte": "MarketScreener Italia"
   },
   {
+   "titolo": "Tesla smetterà gradualmente di produrre il Cybertruck - Il Post",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUFJSWUxbDhQbnVIVTR4bDdRc2YtVTVQRkFOZl9Ma0dEUHdMM01GenlNTUd0Zk5wNGdvTlFHZTJENklTSnltR0puMmFqMllHZXZsLVRyLTZZdURrUFFlR2J5d2d5WTB3R3AxVE1Cd3h6Ty02bjU4cE9MZ21rN3R5U1ZESFBQM2c?oc=5",
+   "data": "Sat, 07 Nov 2026 08:00:00 GMT",
+   "fonte": "Il Post"
+  },
+  {
    "titolo": "Alla fine in Svezia ha vinto Elon Musk - Internazionale",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHgxZ05kTG11SGpxc202TVdmNGVBVG54VmlRQU10Z0R3ZEswUWpINUVad1RmU08tRkd6YnB5UGIzYnI1ZTdhN3lYajNwWEhoQl91Y3lBSnhncHdvallnTlMxNTRTdDdqQjZoMzJaSmxxRTZaMUdlZ1R2azVBc05rNzFvbnhwVkIwTVRiNWI0R3hIUDNyU21rYzJKMUhhNTVYRUdVc2RB?oc=5",
    "data": "Sat, 24 Oct 2026 07:00:00 GMT",
    "fonte": "Internazionale"
+  },
+  {
+   "titolo": "La produzione continua, ma il futuro resta delineato - Virgilio",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTG9pOEFUbUIycHpZQTJVV1pDdmhiMXJ1R3d5TlpNa2h0V1pmOTVTcHBZWWVHN2ZKcC1zQW80bHFWZGdGS3JkbnJ5SUZjeXR1WHdKbFhhYmJNQUlHZkZlUnl2aFJGc3JPMm9yYW5wS000U3FBREVVbEJreHRPRzNUajJpU3F4M2dtbHVvcFBKU09XQQ?oc=5",
+   "data": "Sun, 15 Nov 2026 09:38:28 GMT",
+   "fonte": "Virgilio"
+  },
+  {
+   "titolo": "Tesla è pronta a vendere il Cybercab, ma c'è un problema - InsideEVs Italia",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WaHgxM2dfOERDSjdUSXVxV0VMVjBIdHRCRmtHZUFjQmR1aVhpNm9BUnVjR2twSF9XODFLZ0lVV05FMjlnQ2VzYmhILUZyZmdCNEZSOWxhQkhQbzNFdGlkaXRLazAyTjN3cllxMlMtUjJlVldhSDdfOE1kbw?oc=5",
+   "data": "Sun, 15 Nov 2026 17:59:33 GMT",
+   "fonte": "InsideEVs Italia"
   },
   {
    "titolo": "Tesla Cybertruck, fine della produzione entro il 2027 - La Gazzetta dello Sport",
@@ -250,28 +263,16 @@
    "fonte": "La Gazzetta dello Sport"
   },
   {
-   "titolo": "Elon Musk conferma la fine del Cybertruck: Tesla restituirà gli anticipi ad alcuni clienti - Hardware Upgrade",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNU0cxSDdOQTJTLWxjZHIwTUNjZGhHVmo3S2F6MW1FejFNRWhHVkJtNmFhRHA3TUhoLXNCaWVJTlVZYmNjWHJhZ3FmR0c2VFpnM01ZclRjclBzRGEtQWU0YzVMcmZQRjFBS3BIdWVSRFlsWXFsVHJyc0gtUVl3aTAyeUU0bTZZcU5QelFaVG5nX184cEVidnZZelB5NmNGRnNSV0F5RllnZnRLWEdrbk15MkhYTTFRTTd1LURSNnZ3aVhpZG5kZ2ZubWJDbU9neGxhd0xuODZaUmRKLWxJeE9sVXIwV0xoOGdB?oc=5",
-   "data": "Mon, 09 Nov 2026 17:31:01 GMT",
-   "fonte": "Hardware Upgrade"
-  },
-  {
-   "titolo": "Così Tesla ferma il crollo del valore dell’auto elettrica usata - InsideEVs Italia",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93SkUxbmlkQWZlNlM0WENWUkFxaWVoMElQcm0yS3Q0ajFxelA3V3dfaFp2UXNFY1JEVy1QY1JFMHU4OTluc2tkNDJPd0JVX2l0aXNmaXNKOXZCVVRQV1hZd2Rqa0M1ZlJ0SG43MGFGRDRsMmc?oc=5",
-   "data": "Sun, 15 Nov 2026 15:43:37 GMT",
-   "fonte": "InsideEVs Italia"
+   "titolo": "Tesla, è arrivata la fine del Cybertruck? - Ticinonline",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmhJbFN5UjB6Z3lWcU5KN0ZJZzlONEZob2U1bUpDcTNQX09QOW9nZV8yOGMxOFZDTmlTaU1FUkJkN2U0WE1MajRLZmExRFd4VUpxLTNadTNHNmtucFJMLXB4cUZIa2lKVEk2T2FqNlRmR2owZmNhaHRxbk1Ob0M4SDFmTVR3dEl6Tzdn?oc=5",
+   "data": "Mon, 09 Nov 2026 17:04:00 GMT",
+   "fonte": "Ticinonline"
   },
   {
    "titolo": "Tesla Cybertruck, è la fine: arrivano i rimborsi per i clienti in tutto il mondo - Everyeye Auto",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzV2OURKbU9WMzE3VmV5cFVQZnhhTzNZS2JPZ29uY0d5MGd1MkJoNHgtc2dNTVRucDE4ZDNQdzBrOEFheW1uMF9tRzZUbHBDVFQxd09fdkZYdWQ4VzFxbVYwVGVUZXVDcy1FM2FXSElzcy00ckdrbjRmdzh4emxqa1JYYXhNS3V3RmZKcmpJNGN2U0E5M012TjVrNlRDa1E?oc=5",
    "data": "Tue, 10 Nov 2026 13:29:00 GMT",
    "fonte": "Everyeye Auto"
-  },
-  {
-   "titolo": "Tesla, è arrivata la fine del Cybertruck? - Ticinonline",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmhJbFN5UjB6Z3lWcU5KN0ZJZzlONEZob2U1bUpDcTNQX09QOW9nZV8yOGMxOFZDTmlTaU1FUkJkN2U0WE1MajRLZmExRFd4VUpxLTNadTNHNmtucFJMLXB4cUZIa2lKVEk2T2FqNlRmR2owZmNhaHRxbk1Ob0M4SDFmTVR3dEl6Tzdn?oc=5",
-   "data": "Mon, 09 Nov 2026 17:04:00 GMT",
-   "fonte": "Ticinonline"
   },
   {
    "titolo": "Tesla Cybercab, obiettivo prime vendite nel 2026 | FP - News - Auto - FormulaPassion",

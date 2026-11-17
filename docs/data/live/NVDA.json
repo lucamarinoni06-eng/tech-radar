@@ -1,6 +1,11 @@
 {
- "aggiornato": "2026-11-16T13:25:21+00:00",
+ "aggiornato": "2026-11-17T14:10:59+00:00",
  "filing": [
+  {
+   "tipo": "8-K",
+   "data": "2026-11-16",
+   "link": "https://www.sec.gov/Archives/edgar/data/1045450/000119312526463901/d136944d8k.htm"
+  },
   {
    "tipo": "8-K",
    "data": "2026-11-12",
@@ -55,11 +60,6 @@
    "tipo": "DEF 14A",
    "data": "2026-03-26",
    "link": "https://www.sec.gov/Archives/edgar/data/1045450/000104545026000016/epr-20260313.htm"
-  },
-  {
-   "tipo": "10-K",
-   "data": "2026-02-26",
-   "link": "https://www.sec.gov/Archives/edgar/data/1045450/000104545026000007/epr-20251231.htm"
   }
  ],
  "bilancio": {
@@ -159,15 +159,15 @@
   },
   {
    "titolo": "Perché per Nvidia è un grande problema sostituire Jensen Huang - la Repubblica",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQjBxNExKMUt0dkxPdkpIU3AxSUZJb2lCNkdPMmo3Rzd6eU9RUFJ4M1hocVpkblB1M3dGWHE1M0V1WWFpT2ZOTWVUMlIxdEoyakZta2tJb0ZzN0cyTE56V09jOXNlbjVPUWdmTkYtZzhDQXRETm50bGl1bUdubE5LVkJiM1diUVBxMTFJa1lqRC16Tl9nX1o5Rzl0WDR5RGJPVGl6OFFTTVdtUdIBrwFBVV95cUxQd3dfcEVadzBNcjFFU2VONVpKVFJoRTc5TC1TckhKVkdrdlZ1bV82aHBqdzF1d1BCX3lpZzM0MG9SVUFtVWhBMXBUREM2azF3X3dhVHZYV0tvNlpLd0RQM1VMTzRJXzNIbXY2Vlh1TER6WmVpWjlBQUR5Yldkdzgyd0Z5X05oREVqSzlTTTBmUC1zb0IxOE55aE1VcjVRUkM2RkxUMjRoVzFUZGZwMEZ3?oc=5",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQjBxNExKMUt0dkxPdkpIU3AxSUZJb2lCNkdPMmo3Rzd6eU9RUFJ4M1hocVpkblB1M3dGWHE1M0V1WWFpT2ZOTWVUMlIxdEoyakZta2tJb0ZzN0cyTE56V09jOXNlbjVPUWdmTkYtZzhDQXRETm50bGl1bUdubE5LVkJiM1diUVBxMTFJa1lqRC16Tl9nX1o5Rzl0WDR5RGJPVGl6OFFTTVdtUQ?oc=5",
    "data": "Tue, 10 Nov 2026 12:18:46 GMT",
    "fonte": "la Repubblica"
   },
   {
-   "titolo": "Nvidia, il cda discute la cacciata di Jensen Huang - Il Sole 24 ORE",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd0ZuZ200b0ZuMU9IcjVYelpQbE4xSU5pbW9zNzVoYVQ3N1pJekEzcmRvc0lSWU1qSXBHUlNaYWhKWlpBdmFaUHFsWnZNcl9VX2VRWnZkeDFNSzJpaHM1NUM5YkV1VFFmWEJiZ1BjQ0tuMi1DUExIai1mQV9Ha0d3TGxKWXpoblRa?oc=5",
-   "data": "Thu, 12 Nov 2026 09:17:14 GMT",
-   "fonte": "Il Sole 24 ORE"
+   "titolo": "Nvidia indaga sulla relazione del CEO Huang con una presunta spia cinese - Borsa Italiana",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTmp2R2NQNHdOMGc1a21nV0ZPX1ZZanc0SUxZMFNMck1sT0RXZU9qcnY1ZjV0eW1PczNORnBLdnRiTk1JQ0dFWkdpYTZtVWtsMS10d0xQQzBfd0RnS2k3ZFdpMFFjTXpiS2VDT0ZqcEdaQm5hT1pfb2J2b0FTbEJqWlQ2RkZtdnRtRVh5V0hlMVpHSnFLQlZZWEs2UGNDYUxxbzR4RHFyd2JFa0V0Q25YZnJCaUFnSTRCRVVnVnhhVnNUdXplaDk5bVlveUZ1X2k0NHJweTVDX2Rld2pQTU44MlpXWUhoRVpsXy1aVQ?oc=5",
+   "data": "Mon, 09 Nov 2026 08:39:00 GMT",
+   "fonte": "Borsa Italiana"
   },
   {
    "titolo": "Jensen Huang si è dimesso da ceo di Nvidia con effetto immediato dopo 33 al vertice: fatali le relazioni con la «spia» cinese e la manager - Corriere della Sera",
@@ -176,40 +176,40 @@
    "fonte": "Corriere della Sera"
   },
   {
+   "titolo": "Nvidia, Financial Times: 'Huang vuole tornare a capo dell'azienda' - Sky TG24",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUXhLbE94cjlrNXhQMUVHcDdhT0tYU01EZEJyM0x5Z3h5TFdwVHlJZ0hRV0RqVVB5R2sxN1g2UHp6VkFkVEZoLXhxeVZ5aVRjV01wOFF2QVdKSmFOSDlNMnlaYm9TbWpKc283aWVoMTRQbHNaS09qUFFiNWY2ak5kMEpR?oc=5",
+   "data": "Mon, 16 Nov 2026 06:46:47 GMT",
+   "fonte": "Sky TG24"
+  },
+  {
    "titolo": "Lo scandalo della Nvidia fa tremare il mondo delle ia - Internazionale",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaXRGck9Ibk9kM0c3ZHRaVW5FdG1ubXRUc0twcFZVckIxalZ3YXc0LUZOVHpCT3JFRmZaZVo4dWRUN0NSR0c2d3k5MWFqeGNEa3hwd0V5TTRLVHhaeWhld1llSjZHRW53Q3lwNnVhZFhhN3FOOWcyWmZpMnJWc3o4RTYtcWpkSnhiMEVPVFp6TGJWNGxaVFFnNEZPbVM?oc=5",
    "data": "Wed, 11 Nov 2026 04:05:04 GMT",
    "fonte": "Internazionale"
   },
   {
-   "titolo": "Un problema per Nvidia è un problema per l’AI - Il Post",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWVdCcTh1eklRR1VrOFV3Q1BPWGZwUzlta1J5SWs0OGlKeEM5TTRTSzZDbC02M18xTVgwRlFEXy1hUnJYdmJ1UDNGTExrTnp0cXhsS0FmMVFfYWp3cDBmbDVQejhUUDl1NGlZQlJxbmhrcUcteHZKbzZnN0tFa0FvTkY4RGlnQnRlUmJ4alNKLUVtblNaUFItWUdRbWoxZUxqU2U4?oc=5",
-   "data": "Sat, 14 Nov 2026 12:34:57 GMT",
+   "titolo": "Trump dice che sulla relazione tra il CEO di Nvidia e una presunta spia cinese indaga anche l’FBI - Il Post",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YNGF1TGdaR2lnbWo0SW0tSXRsazJzZlhIZkZISGZBTkR0ZnF4d1U2bl9BZ3FSQnJUSVVmdFJ2b2JTRy1pU3pPRW0tZ1hLelRYSm1MR2tSb0l1ZUJjdDR5bWQ5SFRMSktuM0Q5N2htQQ?oc=5",
+   "data": "Tue, 10 Nov 2026 06:01:00 GMT",
    "fonte": "Il Post"
+  },
+  {
+   "titolo": "Nvidia perde 1.800 miliardi di dollari dopo l’uscita del CEO Jensen Huang - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzFVNGwwV3ZkQTIwWDAxakRJQ08yYlhkMzRISW5BS3FFRWVCa0ZkcmF0Z2puWGpZX1JuZnBLT2VOdEJDaVFZREhKdHBXdmpYX2pVcndvUTRtV0I4QTJ2b2ZMamhlZG9OUU9tQUpsWEROV1JwSTRiem9HR3ZNczNET2w5VmdLeHotdHBxWHVPRGdKWFFBbTl4U1RLRUVsQ1pZOUVNTV9YWTNMQQ?oc=5",
+   "data": "Fri, 13 Nov 2026 13:54:40 GMT",
+   "fonte": "Euronews.com"
+  },
+  {
+   "titolo": "Ft: «Jensen Huang pensa a un clamoroso ritorno alla guida di Nvidia» - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZzItU3I0TV85X2RBV2ZEUzNONDB5NXhPSjIyN280b1Q5bC16YUJ4NTV3UEdzQXZMbDB5Zl9Zbzh6Z3dvanFJTERqaGh0UkpCcHU4NVNXSlJNelgyTHdsNzNwSTZja3lObjN1N3FnVzFoeW9TdXc3RVVETEE5MTk1T0x5OTFWeDZSejBqWE5QUUZWQWxsQk5HZmFPeGw?oc=5",
+   "data": "Sun, 15 Nov 2026 19:52:05 GMT",
+   "fonte": "Il Sole 24 ORE"
   },
   {
    "titolo": "Nvidia: l’indagine sul CEO Huang getta un’ombra sul futuro dell’azienda nell’IA - Morningstar",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNDc4ODEtYzV6REtTVWxSeGpSUWNrU01DbENIaEpFeWZmZU9xbV9ZQnQyTDVVRURzVWFrTERneEZFNVdTbjhjOG55dUUzMG1mNWZkb3FXaHd6U1ZjOFNpWFhaWXZ6cUNSYlpEbFJELUtKSFIzdWVucENyYV9KSUhtcE5jLTNkRWV4dmI0OEhvREpqSXk4alhQNzRqSDZFOEhpN1FyN3piUmVzWnF2S2dvTG9wMkVrZw?oc=5",
    "data": "Mon, 09 Nov 2026 14:12:24 GMT",
    "fonte": "Morningstar"
-  },
-  {
-   "titolo": "Nvidia, riunione straordinaria del consiglio: sul tavolo il licenziamento del ceo Jensen Huang. Ed emerge un'altra relazione (con una manager) - Corriere della Sera",
-   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZ21Xc1ZpbVVCVEtsOGYwMFI2TGgyTldxRUxxMXBvNWZVU2d0aDlzUFlIeExmUmV6Q2xMa0hkWUhtR0s0M0RqWlIzcGxjNGRhR0JzZ0RYYXBuSnMxQ2M3WFk5TUREdm42b2pNQzk2N21GbWlOdEdtem9JNWlSRHFoeFpaYjh6QlZKU2lLa1VpSTVIckNab0ZnTlZuVFBtaTdFSE5IVUFQcnE4VHkxY2hYb0ZOVFRndVBSTnlXZTRMVG43OTQwUGl3M21FNVZKbXJaWUp6NGhfVkdOUG1vRkJwckQ3OUtQc3l0SmFKUTN5NjZVMTBER2w4RzVsQWtPN1FtSTVodjRSbm04elZJRzZMblZydUZlazgwckZv0gGgAkFVX3lxTFBBQUVDZ3RnMF9aQjd0SXpnNG1KYzR2TFBZT2F2UmRkMFNuYUU4eDhaWTNXUTlvME5QcEV2c0g0MjY5UWNZMjU3TWZWaXRDeDJqMHNaVjFRMDVLN0V4NGx2OTFtYW91Vks4eFZ0Xy1WT3EyWmFUeVA3OW9zUGJXcngyQS1wMzJVUFEtMldFZ3VmRU1HWG1kc2VkS0tyR0Fnbkc0ZFlSTU5rUXEtNVlpcmhyOXBrN21UUmk4aUtib3lmYUNhZDRkVHNpYlhVamhSRjcyeHc4M0poNmozMVIyT0FSSUFhVVF4b0FTTlBIcXhJTTJWRFZyamxSZVpCSUJ2aVhlbFF3Mld0OEk5VWMtdVlYMmFPQ285WTY5WjZpQmhzaw?oc=5",
-   "data": "Wed, 11 Nov 2026 23:41:00 GMT",
-   "fonte": "Corriere della Sera"
-  },
-  {
-   "titolo": "Ft: «Jensen Huang pensa a un clamoroso ritorno alla guida di Nvidia» - Il Sole 24 ORE",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZzItU3I0TV85X2RBV2ZEUzNONDB5NXhPSjIyN280b1Q5bC16YUJ4NTV3UEdzQXZMbDB5Zl9Zbzh6Z3dvanFJTERqaGh0UkpCcHU4NVNXSlJNelgyTHdsNzNwSTZja3lObjN1N3FnVzFoeW9TdXc3RVVETEE5MTk1T0x5OTFWeDZSejBqWE5QUUZWQWxsQk5HZmFPeGw?oc=5",
-   "data": "Mon, 16 Nov 2026 03:19:16 GMT",
-   "fonte": "Il Sole 24 ORE"
-  },
-  {
-   "titolo": "Trump dice che sulla relazione tra il CEO di Nvidia e una presunta spia cinese indaga anche l’FBI - Il Post",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YNGF1TGdaR2lnbWo0SW0tSXRsazJzZlhIZkZISGZBTkR0ZnF4d1U2bl9BZ3FSQnJUSVVmdFJ2b2JTRy1pU3pPRW0tZ1hLelRYSm1MR2tSb0l1ZUJjdDR5bWQ5SFRMSktuM0Q5N2htQQ?oc=5",
-   "data": "Tue, 10 Nov 2026 06:01:00 GMT",
-   "fonte": "Il Post"
   }
  ],
  "news_legali": [
@@ -232,12 +232,6 @@
    "fonte": "Sky TG24"
   },
   {
-   "titolo": "Crollano le azioni di Nvidia: il cda si prepara a rimuovere il ceo Jensen Huang - Forbes Italia",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMmpXZmQ4V3VRdXhKWjIwemdSN0Izb3pNRkxjN2l4eDJUa3piSk82d1hScUo2cTFETTNCZ09waks2MDlUZHZLNmMzbmhoaTdqT1ZQVkQ2eHpzWDJtUXBaRnFwb2x2bm1xY2FYM2x6RkJFYmRDa3Jnbk1hQ0wtN0xqanFTbVJCUGZ1SElHaFozNUNUT0dlejJTa1pfYXgwLUxXajRVODJtaVFtNG9y?oc=5",
-   "data": "Thu, 12 Nov 2026 11:24:24 GMT",
-   "fonte": "Forbes Italia"
-  },
-  {
    "titolo": "Che fine ha fatto Alice Huang Le? Affari e legami della spia cinese con il boss di Nvidia. Class action in California - Quotidiano Nazionale",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbDhpTXd3dFVKQ29rMEttOVVxUGVFVjNzQnlxZS1RaEhLMmNlc1ZLLUVEU1NXcFNWamVyU2ctRmpkT1U5VzVIMnZBQWtkWFRzY25VTTduUVN2Ykd4c1o5a3JJVWgtU0xhTUQ1WWg2YUhlMXBJX1lOMVphUElRMkdfT2VVWENkQkFLSGxyNUVQS0hoRngzMnc?oc=5",
    "data": "Tue, 10 Nov 2026 10:26:38 GMT",
@@ -252,8 +246,14 @@
   {
    "titolo": "La fine di un'era per NVIDIA? Il futuro di Jensen Huang è in bilico - Morethantech",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSk50bXJmREl4bFVRa0M1UTVUUC10aFAxYlhGblFLVmRFdHRWM1d0aWdhbEtEUkVGYVNXcS12Y2hSMndGOEgyMDM5MmxRSlY3NldLWm1wMk1KZGlWLXVfbHQ2VWRfT3NJR09pZmVENWtMeHhjTmo0ejRRYlF0Ty03OFNyVTREM3ZNYnA3UVhaTU50dWpoZEd3M05ncHljcl9lOFBPZ1Fid3FmcDRN?oc=5",
-   "data": "Thu, 12 Nov 2026 10:47:36 GMT",
+   "data": "Thu, 12 Nov 2026 07:22:27 GMT",
    "fonte": "Morethantech"
+  },
+  {
+   "titolo": "Le turbolenze di Nvidia segnano la fine dei guadagni facili per il settore dell'IA - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBWVV6NWJBdVBEa0cwTEJpMnlYNXNBbHc1OEtLWXBFMnlvdDFmU0JBWWNIdlg2NWNmNmtQYkdvMUxqQTJadFcweHZRVXFLeVlRdXZHM0ZXM2Q4MlVoVnhXWlg2RnllaHJveGYxdThyeWFUUVdlaUI4?oc=5",
+   "data": "Tue, 17 Nov 2026 11:00:51 GMT",
+   "fonte": "TradingView"
   },
   {
    "titolo": "Elon Musk: SpaceXAI punta a 1,2 milioni di chip Nvidia per Colossus 2 entro fine anno - Yahoo Finanza",
@@ -262,16 +262,16 @@
    "fonte": "Yahoo Finanza"
   },
   {
-   "titolo": "La scheda grafica NVIDIA DGX Spark da 64 GB sarà disponibile dal 23 ottobre al prezzo di 4,999 dollari, e due unità possono essere collegate in cluster fino a 128 GB tramite ConnectX-7. - StorageReview.com",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXpoMDFPR1NnUnc4UmdFWXV2ZWJacmtFQ1BidG44ZUdpbnV1bV9tQl85T3pPcEZVdER4cWpYSml1WTZYNFgxRnZ2NjF1dUdSWEM4Uy16M1JuX0JxQjRJWDBabHVSeW9kYlpTUXdVanRXUThCdXhpd2ZXaUVTTTZWTV9qemU3TGdjSlZuN1hrelVEbjJLTkxUbF9nMFVJdEVtWGNIaNIBqgFBVV95cUxQWHY2dXVRQ0RwWkdYWjg0TThCOGNHbGI2TUJ4bk5kRUJwZGtVRVg1UFdNSWNueHQybmRxb21DcFJTSzdOMUhuX2QzWVpzejliMVM0SG5NRVlYbThhaVVlQTNUVGpMVVVURWJ6WHZTNDJNRjR2NzVHRWJLWm5zdHpNWTl5c2g4SV9FX1MwTXRwRjE0WmU0VzdXdzVlblZlMkUzS1h5bkZuQlBTUQ?oc=5",
-   "data": "Fri, 02 Oct 2026 07:00:00 GMT",
-   "fonte": "StorageReview.com"
+   "titolo": "Il caso Nvidia segna la fine del denaro facile per gli investimenti nell'intelligenza artificiale - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYlc4bDZEOXh6dEI4aFdvUWVJT1Z6ZFhEN3NpaDRLUGNxR0FwczF2bzFvUnk4ZklLMkdEdGd4aVJKazViVVVpN0t0THZhUjBOTUJUa1RrUEc3V1hCVkJEbHpKVW10Zmc0b1lrb3J4bXZkMDZFejNDNG1uYTV0R0RjNUlaLUNtd2RkUFBkWXNZNnBFSHZsVXkwUDFuamhYcWNGSGE4cllzX0JzcmdGdlNPaUlhN2ZiT3hwd0t5bG9GMFRhR3Fla1gzYnhyVVJPOUlnQUZiXzJ3R0NibUd1QTY4RjdUeFhOYms?oc=5",
+   "data": "Tue, 17 Nov 2026 11:02:16 GMT",
+   "fonte": "MarketScreener Italia"
   },
   {
-   "titolo": "Il mistero Alice Huang, dov’è finita la spia cinese che ha fatto crollare Nvidia - la Repubblica",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV1VRSWlQMzVRX19lU0ZHSG1TSW40bE82dzlpWDZTeVUwX25wNEN1WWVYUk9JNk5WdlV6eF85Z18welNwSU8yVXJkRUtQT3RqRUtJNnN3eEk5UjJtZFVOS1ZfaGdqWkJ3VE54b0FESHJfNnRBd3ZkQmx4MTZ0WHVIdnZ2MmhQc1V0UE5rRV83VThJQmxwTlYxTGpZU2NnU09SNFFoX1hqcVTSAa4BQVVfeXFMTVhSV0JLUXNtRm1TSVhvYktFMXV2TnhCSVY3Q0sxRHE5S002Y0lBdkgydmIwOTYxdXotV0Qyb2tWeFBRcHNnUnhZQk9yNkwxSDVrU1VIOENoV3RkZUMwemJhZ05jQmhld2NXRWUwOTA1eDUtd3lTUHZ5NEhlSGo1T2ZFdjZBcWUta1huUEFlYzlhZE50c1J5OXpRS3JLN3lsN3hkY0xVcEZiY0FERGpB?oc=5",
-   "data": "Thu, 12 Nov 2026 12:19:37 GMT",
-   "fonte": "la Repubblica"
+   "titolo": "Musk: il data center Colossus 2 raddoppierà i chip Nvidia entro fine anno - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRFZEOG9qaFdQU1dFeE45Z2dQU0lsVUYzcVdtcW1sdGJBMklaVGdodzhWck1CVDR6NGYxWXIwQlVrRC00N29Ed3Bua2Q4Y083T3JhU1RFLUxPdlE3d1RpN2cxSEZPVUc1SHlSaEFmbmVKSlNrekIxNHk2R0VJUDg4VV9MS2wzMmFlYl96dldhTHVOMkJpbGhSS0xHXzBnbU4tQlNYRGRYd2h1aTlLcFBEOTRBdGJ3UFlleEJZdFdhZ0RyZWtkVTZxOGFiRQ?oc=5",
+   "data": "Fri, 25 Sep 2026 07:00:00 GMT",
+   "fonte": "Investing.com"
   }
  ],
  "news_brevetti": [

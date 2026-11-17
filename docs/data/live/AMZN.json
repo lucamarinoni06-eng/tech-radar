@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-16T13:25:19+00:00",
+ "aggiornato": "2026-11-17T14:10:57+00:00",
  "filing": [
   {
    "tipo": "10-Q",
@@ -93,6 +93,16 @@
  },
  "norme_usa": [
   {
+   "titolo": "Modernizing the Labor Market Test and Improving Protections for U.S. Workers in the PERM Immigrant Visa Program",
+   "data": "2026-11-17",
+   "tipo": "Proposed Rule",
+   "agenzie": [
+    "Labor Department",
+    "Employment and Training Administration"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23370/modernizing-the-labor-market-test-and-improving-protections-for-us-workers-in-the-perm-immigrant"
+  },
+  {
    "titolo": "National Television Multiple Ownership Rule",
    "data": "2026-11-12",
    "tipo": "Rule",
@@ -139,15 +149,6 @@
     "Copyright Office, Library of Congress"
    ],
    "link": "https://www.federalregister.gov/documents/2026/10/07/2026-20537/music-streaming-fraud"
-  },
-  {
-   "titolo": "Privacy Act of 1974; System of Records",
-   "data": "2026-10-07",
-   "tipo": "Notice",
-   "agenzie": [
-    "Justice Department"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/10/07/2026-20531/privacy-act-of-1974-system-of-records"
   }
  ],
  "news": [
@@ -176,22 +177,28 @@
    "fonte": "UniRoma2"
   },
   {
-   "titolo": "Scopri i giochi gratis di novembre su Amazon Luna e Prime Gaming: c'è anche Kingdom Come Deliverance 2 - Everyeye.it",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZzF5bG1KRXRqaERoRVR2bm1pOU5CSTJWNjNTbXd0M0I4bjhoZXR0WlBvQldkSmpKWVVOQmJJaUxRVVNWTUl0VElZcTAwN0FRdDhxUERMeDd3Y21EN092RXNRZ2w2SjF4X2hTRXRWdzVnNHFxM2J6ZFZfc3dlUW5mOTg4VTVXZDdXRi1WVmpEVUtkWm1vQXRKbWdLSlQ2SWNUMDJSRXNmTHF0MGVtYjMxVV9hNUJrb3Z5VTFCVHlxM3NIMzQ?oc=5",
-   "data": "Sat, 14 Nov 2026 13:22:00 GMT",
-   "fonte": "Everyeye.it"
+   "titolo": "Quando inizia il Black Friday 2026 su Amazon: il calendario e le date - Sky TG24",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOXV3WUdJb1VwQUhvcy1NbGV4VVdNaVlleTIyV3Nmenp4QVNUNUVrVEpoVVIxRHdBNHpSNUM0WFI0bWxQUG4xWTJJSXU4cl9uSmRaRmR0Y2Y1TWF6Wkw1a3F6SWdtaENSa0xwblVZZ2hTUnJRV2x0ay1lSW5pY0FkZGtiMnZUTkk?oc=5",
+   "data": "Tue, 17 Nov 2026 05:44:55 GMT",
+   "fonte": "Sky TG24"
+  },
+  {
+   "titolo": "Il razzo Vulcan è esploso 10 minuti dopo il lancio, trasportava a bordo 40 satelliti di Amazon - La Stampa",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQTVyTHRtUEN0UHZIQU1NNlF3clhkZnRNUjV3X284RUVqOEY5Y2dLWmw2b3RLTWh3QUVKam1fTGxUYzkxSDJXVGljS1lMLTJBT01rcWtFQVRZdkFFajFMel9rNW1LSEVMNFEyVGRvVVNoOEgxUVZONTNlTUU3N2RHU3ZMRENSNUhHbDdqNEdhRTVvUVFLVHZGYkFCSEVjaG1NRTZkWnU4TVZLS2I1Vkdj?oc=5",
+   "data": "Mon, 16 Nov 2026 08:50:00 GMT",
+   "fonte": "La Stampa"
   },
   {
    "titolo": "Il calo di Amazon dopo la chiusura la porta sotto il target di prezzo più basso di Wall Street - Yahoo Finanza",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwX2hFRDZqOXVvRS1FaFY3MWJZTHVXeGxZQzRKS0NRdWg2MVQ1d0hVOWVOb0M1dTZ0a1dvdjc0RHBRZnJTSm9jcHpvaVB3RjVIdHg1SXV3dzROY05uRUVsZE50Y0ZOSElTNTVGV0E4NUlQMEpLdG0xQmZzaWJIdDg?oc=5",
-   "data": "Fri, 30 Oct 2026 07:00:00 GMT",
+   "data": "Thu, 29 Oct 2026 07:00:00 GMT",
    "fonte": "Yahoo Finanza"
   },
   {
-   "titolo": "\"Amazon apre a Maratta un hub per le consegne a zero emissioni\" - Comune di Terni",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZzgydEV5NERtNjdUT1BOcjNUenZBbFRfV1pBOHJSZDdiWDNpU2EtZTVLbjVieHQtTnlic29kQ1hJODRjbGtEZTFFa2NOUGE2Z0hqeFVqV0R5TTlYNlk4Z1l6WnYzdDY5ZVloTUZEYlhPSHZQS1hMYWtMM0hFSmxMYkFjd2JaTktHZlRuSThVSXF0Y2doS2xFbmsxRzFTVk5K?oc=5",
-   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
-   "fonte": "Comune di Terni"
+   "titolo": "Offerte in anticipo della Settimana del Black Friday di Amazon: scoppiettanti offerte sui videogiochi - Everyeye.it",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYUdaRHpIN0tTdzhmYThPallhWU54S1NDWnlwdUdBTmFYeXl6QUlSRXFrUUZnQ1Ytc0l3Zm1jQ2p2VUxjVmtFV2w4Z2lzdG9rWG5EcG5UdExKYWRXRzJ2dlJ4aGR4Z0Z5aHFkV1c5RWYyOGduOEhBMHVzOVgwcEtjdFNwaDlVZGh2dGVIMFZJUVRPUDZ6cVJaalIwdlF3akFieGZBQlZmNm5WVkhFWmFKRFRPcnRoZw?oc=5",
+   "data": "Mon, 16 Nov 2026 21:05:00 GMT",
+   "fonte": "Everyeye.it"
   },
   {
    "titolo": "Black Friday Amazon 2026: tutte le offerte e sconti in tempo reale | Live - HDblog.it",
@@ -200,16 +207,10 @@
    "fonte": "HDblog.it"
   },
   {
-   "titolo": "Torna il Mese della Lettura Amazon: un novembre di storie e grandi risparmi - About Amazon Italia",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRjFETENFSlBDcUhxVTUxemMyV2dBbkF5bE1JM3o2VmRpQkd1aHQ5VzFQMkptS3JlM1RGLVVLZktpR2JoNVlrUjlWRGZWbkJNd2dja1c0RTBfS3N5YXh4cVdhcHpzTkM4Z0FwcTJUYUxhTjFTZVVMc1lQdXptODVHVjRwbk1scjdWclE?oc=5",
-   "data": "Tue, 03 Nov 2026 08:00:00 GMT",
-   "fonte": "About Amazon Italia"
-  },
-  {
-   "titolo": "I titoli della tecnologia crollano dopo che gli utili di Amazon e Intel allarmano gli investitori - Morningstar",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMWVhaC1vbFhxUEdFR2lPay1mRFJzeHo3cnRrSmFaMUNOT0J1WlpWVVRISVpTVXZhTTIzdE5fdVBZY014dUtBVi03S3JJX3R5ODhMM21nZXBsTmExLWxzSHd0NzBPeTA5ZkswUEVkWmU4SzhyX3hmNk5sZUREM1FHdUt4WHlpMGhRODhOTFB6c1J0OXptREN2LVI1X2s5bjBTMFg0aThwUC1CRFRKT3ctOUtuUkdGREtJcWlNWlZ3X2J4UTJJUldiSGF5RkhGMWFTN1pvY2VB?oc=5",
-   "data": "Fri, 30 Oct 2026 07:00:00 GMT",
-   "fonte": "Morningstar"
+   "titolo": "Un razzo che doveva portare in orbita 40 satelliti di Amazon ha avuto un'avaria poco dopo il lancio - Il Post",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FQjRKdUs3anVKa3l4RTRLemRFcFg5RDhLOUd2VnA2MVhOWVZrNG9FbnNwVE1SNFNnVTFMRktPYjFEUTBNR2NyNkpRNzZDbmVTalM0c2JyTkJtQ3FHcFVjbHcxdnpoLU1JbFBYazFfTGM?oc=5",
+   "data": "Mon, 16 Nov 2026 05:30:38 GMT",
+   "fonte": "Il Post"
   }
  ],
  "news_legali": [
@@ -238,6 +239,12 @@
    "fonte": "Key4biz"
   },
   {
+   "titolo": "Amplify: 30 anni di bellezza, speranza e solidarietà per l'Amazzonia - amazonwatch.org",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOXy1GajFGUER5bTFhc3VlRC0yOVNYNTlpUEFaTnNjS0VwVEZjWk9rX1B6cnl0Mk0yOGF0cFpJTWtuUG8yeU9ta1FQMnNkVElvcUhWazZzeUtiUk8wZmNOYWZnczFTUENnN21zcElzQWsyR3lyYTVLclZDZldIbHhUZXg0WWRseFFlcjJZcUx5YVp0bGV0a0xaUUwxNGN4cFFHWkN4Znhn?oc=5",
+   "data": "Fri, 30 Oct 2026 07:00:00 GMT",
+   "fonte": "amazonwatch.org"
+  },
+  {
    "titolo": "Amazon rinuncia al data center da 427 mln di dollari in Virginia e dona i terreni alla contea - Fortune Italia",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZmlmUnl6YnhUOW5CV0FjbS1paC1hNVdoaWRBTUlXc1hfRDlCSVFzci01MUZfaVNOdlkteFp5MThLYVZQNU8ybF9yRzdsXy1jdUtJaGM1Q1o2MzMwYm5iRlRLejZpQkJBdVcza3hPUl9wbTBacll1OEtjWS1HcEFJc25Pcng0TG1DUVNhN2gtVG1qREY4M0tYc3hueHpMYmtxczhXSlozajhSUm9RbEdMUDRFY0RmdUZVNlFEYzFvTjFJMndGMFl2alpieEc?oc=5",
    "data": "Thu, 22 Oct 2026 07:00:00 GMT",
@@ -250,16 +257,10 @@
    "fonte": "SmartWorld"
   },
   {
-   "titolo": "Black Friday e Black Week: come capire se lo sconto è vero - il Salvagente",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeF9mdk5vb29kYlpSV1FaeXNWTjEyYUJVWU9KRFB4ZmdyTkxwNXJvZHJNQXZFNUJpOXV5a3JyNFVMQkxKUmxkNWdVa19aUm9pVzF4dzZNZlRISEg4OXBjSldpRUl6LVhtbkczT3hVRkRncHAzdXJsMXZBVEpqeEhOcF92czBkUUNpMjJpV0x4eHY5U1hIUlFxUQ?oc=5",
-   "data": "Sun, 15 Nov 2026 08:00:54 GMT",
-   "fonte": "il Salvagente"
-  },
-  {
-   "titolo": "Non c'è sicurezza in Amazzonia senza i popoli indigeni - amazonwatch.org",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVjdLcjRpdFVZZXhiQjljR3FoSzljeWtqZXVZNzNCZUU2ZEZkN2JmTjdzaXJDcTFDYndURVlwZjBpZnZVWjQ2QUpSb0Uwd1lJeUVrN0VXYjdZTmdFYTVkdi1Ja0oyTUdrQllQZ2F2ejZxU1ZFRWNvR3RNNkhiS0FPVXBNVjdHSHZrZDlvNDZzak83dFNXVzRIRURIbUVhb3JUVW1FaTV3?oc=5",
-   "data": "Tue, 20 Oct 2026 07:00:00 GMT",
-   "fonte": "amazonwatch.org"
+   "titolo": "Trump mette l'antitrust Usa sotto il controllo della Casa Bianca. E può essere un rischio per Google, Meta e Amazon - Milano Finanza",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQWJYRXV3ZVlRSEJoZ2lzbDhpY2xDZ1BISzdGa2pzR0dHUkZnblZFU1FlTUd0b3JmV3UzdzhyemNMS09QRVRjaVhHTG9iU0JMZlc0MkVFYllDdFhSVExjZEJIY3BBemlDOWxVdkxZVHMtYTdhcENSeXhpb3I3V3B5bjEycENWVnlLa29EUDdZSjlPa213VERFa2wzT2l0TzlIV09UQ0k3NzBxdmc3bTdRTThXc01WNTJ5WFdnVE5tcElHdG1pQndz?oc=5",
+   "data": "Tue, 17 Nov 2026 11:28:00 GMT",
+   "fonte": "Milano Finanza"
   },
   {
    "titolo": "Pixel 11 da 512 GB al prezzo più basso: oggi in offerta su Amazon a 836€ - HDblog.it",
@@ -276,15 +277,15 @@
  ],
  "news_brevetti": [
   {
-   "titolo": "Amazon: regala Disney+ per guardare Toy Story 5, Mandalorian & Grogu e King Marracash - Everyeye.it",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVFBpYnhHd1M5UElHODFCbkpBU1UzWkVDTnBESzZ5QjJXdjFpRlF1TXhKMmNoN29McHpZQ2xEMkF4RDNkY25JcHFqbDNaOHhpZlFRcVhjUzFCRGNZUWJZcWZUc19Id19fNjRIVnIxQWU3V3JfdHJSWlhueFJOWlEtUlRPV05RWGc4cWRZT2xBNFllZ3o1S09FVzg0ZkwtUUhtY2Q4RjZNSkZzbW5qVDdYaC1EOWdsbHJHQ2c?oc=5",
-   "data": "Wed, 23 Sep 2026 07:00:00 GMT",
+   "titolo": "Su PlayStation 6 ci saranno giochi VR più immersivi? Spunta il brevetto di un collare che soffia aria - Everyeye.it",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMHJoNGxKaFpJejI0ME84WTNqaEk2RjFTc1VsVGxWVGE0T2R3cG1sWk95dHlEcUJ4MkhZOFNZa05jTjZvakxuamFKVFNsdThnQ3JoNHlWeU9uNXNGM0hzcUtxa0JiUFJnd2cybnJQMnJ5TElfUkRBQnZ2cHpBTmE1cVpoN3JKb0l3OXhZVkN1Y25CNHFmaDJPbER5M3l1aGFQODUwUFdmcDMwTElxUGNrYWFScw?oc=5",
+   "data": "Tue, 17 Nov 2026 09:53:00 GMT",
    "fonte": "Everyeye.it"
   },
   {
-   "titolo": "Un brevetto Sony svela il controller PlayStation che paga col telefono - Pasquale Pillitteri",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZmJxazVnQkhrajU1bzhPTC1QYmg2WGo4cnBwLTVkbHNmSGd6eWNfRlZDQzhpS0EzaFdWdGI5SGd4UVFVTWU1QzBfMU1EREFPcm8tbE84SDh5VWltT0xMaEdWdXZCamJnR3piY3NkZ2R1dFVPYzZETmJteXd0N0JOZ1o3bWV3QUtQQ250TFM2dWEyVUh2SHoxaEMzVC11RXc?oc=5",
-   "data": "Mon, 16 Nov 2026 08:43:03 GMT",
+   "titolo": "Spunta una domanda di brevetto Microsoft per un'IA che riscrive le parole in diretta - Pasquale Pillitteri",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT0pOOHFyczRDb2VaZ2lOa2tQNUotN292Mnl6S0t6cTlxQ0tWMlhicG1qektJMXF1ZXg4dDUwb2VYN19CWnh0VmFIbnF4Sk5pOEtTWjZzUGo1alFWZTB3X3plX09qRk5IZWR3TkozTkdQaktZdzF5ZC14eG1ZNExwd20xSlR1MTJYcWxUNUJUemh3LTA?oc=5",
+   "data": "Fri, 06 Nov 2026 08:00:00 GMT",
    "fonte": "Pasquale Pillitteri"
   },
   {
@@ -294,10 +295,10 @@
    "fonte": "SpazioGames"
   },
   {
-   "titolo": "La voglia di privacy Apple guarda alla conduzione ossea - WeAr news",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fYm1kSkpuS0luU0h3amF1MTdHN2tVbXZfcFphVThkeDF1dllPcXVGSWFOTDNIay1pY09iZTJjUUpQX0VZWEloZ2liZGxSclNOQUdvM3hUS1BBWllTbWhwZW1WSklvcDB3T2Q2MlZnNFM5TTlmZlE?oc=5",
-   "data": "Thu, 05 Nov 2026 15:47:59 GMT",
-   "fonte": "WeAr news"
+   "titolo": "BYD non si ferma più, ora vuole fare concorrenza anche alla Smart #2: ecco il brevetto - Everyeye Auto",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUDlnS2dzdElvTERveUVKS2Q4bUpqY2lzQVcyX2ZrclNfMkNKRi1HXzEyVV9nUVdtVGpFVl9VMnNNa041ZkZ0Y0dLQ3RZYW5mYWoyRnQ0QXlhaVpLMGhMUzdGVTA2b3NZN3F6Y0R3WUpXXy1jNHJPTndmNGp5YUZmRjM2ZmpuXzA2NzN4WHhXRzI3RkRXQjM2V3FaNmJWUQ?oc=5",
+   "data": "Wed, 11 Nov 2026 12:19:00 GMT",
+   "fonte": "Everyeye Auto"
   },
   {
    "titolo": "Qualcomm Secures Major Multiyear AI and 5G Patent License Agreement With Huawei - TIKR.com",
@@ -306,10 +307,10 @@
    "fonte": "TIKR.com"
   },
   {
-   "titolo": "BYD non si ferma più, ora vuole fare concorrenza anche alla Smart #2: ecco il brevetto - Everyeye Auto",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUDlnS2dzdElvTERveUVKS2Q4bUpqY2lzQVcyX2ZrclNfMkNKRi1HXzEyVV9nUVdtVGpFVl9VMnNNa041ZkZ0Y0dLQ3RZYW5mYWoyRnQ0QXlhaVpLMGhMUzdGVTA2b3NZN3F6Y0R3WUpXXy1jNHJPTndmNGp5YUZmRjM2ZmpuXzA2NzN4WHhXRzI3RkRXQjM2V3FaNmJWUQ?oc=5",
-   "data": "Wed, 11 Nov 2026 12:19:00 GMT",
-   "fonte": "Everyeye Auto"
+   "titolo": "Un brevetto Sony svela il controller PlayStation che paga col telefono - Pasquale Pillitteri",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZmJxazVnQkhrajU1bzhPTC1QYmg2WGo4cnBwLTVkbHNmSGd6eWNfRlZDQzhpS0EzaFdWdGI5SGd4UVFVTWU1QzBfMU1EREFPcm8tbE84SDh5VWltT0xMaEdWdXZCamJnR3piY3NkZ2R1dFVPYzZETmJteXd0N0JOZ1o3bWV3QUtQQ250TFM2dWEyVUh2SHoxaEMzVC11RXc?oc=5",
+   "data": "Mon, 16 Nov 2026 08:43:03 GMT",
+   "fonte": "Pasquale Pillitteri"
   }
  ]
 }
