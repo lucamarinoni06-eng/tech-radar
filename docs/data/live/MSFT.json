@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-17T14:10:51+00:00",
+ "aggiornato": "2026-11-18T13:42:42+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -99,6 +99,53 @@
  },
  "norme_usa": [
   {
+   "titolo": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to Military Readiness Activities in the Mariana Islands Training and Testing Study Area",
+   "data": "2026-11-18",
+   "tipo": "Proposed Rule",
+   "agenzie": [
+    "Commerce Department",
+    "National Oceanic and Atmospheric Administration"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23450/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to"
+  },
+  {
+   "titolo": "Algonquin Gas Transmission, LLC; Notice of Application and Establishing Intervention Deadline",
+   "data": "2026-11-18",
+   "tipo": "Notice",
+   "agenzie": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23446/algonquin-gas-transmission-llc-notice-of-application-and-establishing-intervention-deadline"
+  },
+  {
+   "titolo": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Its Rules its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
+   "data": "2026-11-18",
+   "tipo": "Notice",
+   "agenzie": [
+    "Securities and Exchange Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23427/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed"
+  },
+  {
+   "titolo": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing and Immediate Effectiveness of Proposed Change To Amend Its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
+   "data": "2026-11-18",
+   "tipo": "Notice",
+   "agenzie": [
+    "Securities and Exchange Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23425/self-regulatory-organizations-nyse-american-llc-notice-of-filing-and-immediate-effectiveness-of"
+  },
+  {
+   "titolo": "Applications for Inclusion on the Binational Panels Roster Under the United States-Mexico-Canada Agreement",
+   "data": "2026-11-18",
+   "tipo": "Notice",
+   "agenzie": [
+    "Trade Representative, Office of United States"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23412/applications-for-inclusion-on-the-binational-panels-roster-under-the-united-states-mexico-canada"
+  },
+  {
    "titolo": "Delfin LNG LLC; Notice of Request for Extension of Time",
    "data": "2026-11-16",
    "tipo": "Notice",
@@ -107,54 +154,6 @@
     "Federal Energy Regulatory Commission"
    ],
    "link": "https://www.federalregister.gov/documents/2026/11/16/2026-23232/delfin-lng-llc-notice-of-request-for-extension-of-time"
-  },
-  {
-   "titolo": "Iroquois Gas Transmission System, L.P.; Notice of Request for Extension of Time",
-   "data": "2026-11-13",
-   "tipo": "Notice",
-   "agenzie": [
-    "Energy Department",
-    "Federal Energy Regulatory Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/13/2026-23171/iroquois-gas-transmission-system-lp-notice-of-request-for-extension-of-time"
-  },
-  {
-   "titolo": "Equitrans, L.P.; Notice of Request Under Blanket Authorization and Establishing Intervention and Protest Deadline",
-   "data": "2026-11-13",
-   "tipo": "Notice",
-   "agenzie": [
-    "Energy Department",
-    "Federal Energy Regulatory Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/13/2026-23170/equitrans-lp-notice-of-request-under-blanket-authorization-and-establishing-intervention-and-protest"
-  },
-  {
-   "titolo": "Yavapai Resource Advisory Committee",
-   "data": "2026-11-13",
-   "tipo": "Notice",
-   "agenzie": [
-    "Agriculture Department",
-    "Forest Service"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/13/2026-23136/yavapai-resource-advisory-committee"
-  },
-  {
-   "titolo": "Chief Human Capital Officers Council Meeting",
-   "data": "2026-11-12",
-   "tipo": "Notice",
-   "agenzie": [
-    "Personnel Management Office"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/12/2026-23046/chief-human-capital-officers-council-meeting"
-  },
-  {
-   "titolo": "741st Meeting of the Advisory Committee on Reactor Safeguards (ACRS)",
-   "data": "2026-11-12",
-   "tipo": "Notice",
-   "agenzie": [
-    "Nuclear Regulatory Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/12/2026-23013/741st-meeting-of-the-advisory-committee-on-reactor-safeguards-acrs"
   }
  ],
  "news": [
@@ -177,22 +176,16 @@
    "fonte": "Federazione Italiana Pallavolo"
   },
   {
-   "titolo": "Outlook down, Microsoft 365 in tilt: cosa succede e perché - ZeroUno",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYkFCSG4waHpJa0NfRjIzYURpZzkzVnNKWWpxVU1BRDU3QVpwT25rZ2hOSE1vZ1d4M1NZRnBhZG9SeExGck9rWWlhcmdrdTc3RGRyVFlVUWtwSDA4M2F2dFJHRk5kQ2p0RnZKdG1oM20yaHNWck1xTVp3M0V1cUlpLVpOQjMxUGhZdEdpLWxRMGRKanBTZm5QT19TdGJITDBGckxB?oc=5",
-   "data": "Fri, 13 Nov 2026 12:52:53 GMT",
-   "fonte": "ZeroUno"
+   "titolo": "Microsoft down in tutto il mondo: Outlook, Teams e Copilot in tilt per 20 ore: «Parziale miglioramento». Cosa sta succedendo - Corriere della Sera",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPTE1HMkkxN05tRFdUc2hHMVdpa1R3MHZKWkYxR2E5bXhyb1NDTkUyV0Rscy1MMFRtQ2FjTC1YV1BfT3o0MWRtYXRIZktjUG9Va0EwTU9zSFRQd2l2S3ZKTWZxZGxqczFmV1liaDdGVnY1LUM5S3NOR3A0czZmYkZhUHpQZWY5NzBOa0wtOHhjT3N4TWdWOVdYWXV1REE5QTVPb0drTWwwdHJjQTlSTVJnZmxXc1hTMUkxZC11TXB5bTJBTnJCZFFHNVRfQ3o3OURTZmRKWWs2alJSUDZkX2dYTWJTWjVGTmQwWkpoZF9fS293UDV1V19SRWFnM3dQZnFDZ3ZrUTFFX2hBVHRWSG5CaWwzaVp6QWF3R1JLQkJR0gGjAkFVX3lxTE4xU1FZRGJiUTY5dkptanJTMDdkUXE1NnEwWkQwdDM5UEt4bzYzcmtIanpRcDVGRU1QM21qLXg1TWFjdjZDYlhMYVJRWmNNWHRZbVB5bFpYb0RHWlFBa2lpUkloNHViZjVfQjNmcnRvR2tDbFFhZFpjZEZnZWtPMnJtRkxXVGhpRGlQV2hlRGlvUXhVM050b3FMbWRuUFJ6UGNvY1N1ZHVyR1pBa1pXbGgtUFlZQVcxbGM5NzdBd2RYTlBLNERwd1o1RVdKcXdra2FySVRydW9fdEdkemVzMVN6MTZHLTNHLXV5X244d1Zmb1NkSHdqNUNBcVZkeXNta2JYVXBmNG1BNjNEMUhhR2Z4S2puZllaMUZlaTlWV29ua0I1aw?oc=5",
+   "data": "Fri, 13 Nov 2026 14:49:30 GMT",
+   "fonte": "Corriere della Sera"
   },
   {
    "titolo": "I servizi di Microsoft stanno tornando a funzionare gradualmente - Il Post",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11MlFrNHdLUFlKdjlwcGF4bl85Q3NGeThNRlJkdkozbnpMZmpiX1ZMeWNLaGhVeDBOMWhXOHg3d1ZVNjU3VUNhZnNCOENkODhPWFRBZHBEN1dHTXhOYTM1NGsyeWxtY3FZWDF5UVZkWWxuYW45WGRF?oc=5",
    "data": "Fri, 13 Nov 2026 05:29:38 GMT",
    "fonte": "Il Post"
-  },
-  {
-   "titolo": "Microsoft down in tutto il mondo: Outlook, Teams e Copilot in tilt per 20 ore: «Parziale miglioramento». Cosa sta succedendo - Corriere della Sera",
-   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPTE1HMkkxN05tRFdUc2hHMVdpa1R3MHZKWkYxR2E5bXhyb1NDTkUyV0Rscy1MMFRtQ2FjTC1YV1BfT3o0MWRtYXRIZktjUG9Va0EwTU9zSFRQd2l2S3ZKTWZxZGxqczFmV1liaDdGVnY1LUM5S3NOR3A0czZmYkZhUHpQZWY5NzBOa0wtOHhjT3N4TWdWOVdYWXV1REE5QTVPb0drTWwwdHJjQTlSTVJnZmxXc1hTMUkxZC11TXB5bTJBTnJCZFFHNVRfQ3o3OURTZmRKWWs2alJSUDZkX2dYTWJTWjVGTmQwWkpoZF9fS293UDV1V19SRWFnM3dQZnFDZ3ZrUTFFX2hBVHRWSG5CaWwzaVp6QWF3R1JLQkJR0gGjAkFVX3lxTE4xU1FZRGJiUTY5dkptanJTMDdkUXE1NnEwWkQwdDM5UEt4bzYzcmtIanpRcDVGRU1QM21qLXg1TWFjdjZDYlhMYVJRWmNNWHRZbVB5bFpYb0RHWlFBa2lpUkloNHViZjVfQjNmcnRvR2tDbFFhZFpjZEZnZWtPMnJtRkxXVGhpRGlQV2hlRGlvUXhVM050b3FMbWRuUFJ6UGNvY1N1ZHVyR1pBa1pXbGgtUFlZQVcxbGM5NzdBd2RYTlBLNERwd1o1RVdKcXdra2FySVRydW9fdEdkemVzMVN6MTZHLTNHLXV5X244d1Zmb1NkSHdqNUNBcVZkeXNta2JYVXBmNG1BNjNEMUhhR2Z4S2puZllaMUZlaTlWV29ua0I1aw?oc=5",
-   "data": "Fri, 13 Nov 2026 14:49:30 GMT",
-   "fonte": "Corriere della Sera"
   },
   {
    "titolo": "Microsoft, blackout non ancora risolto ma esclusa matrice dolosa - Borsa Italiana",
@@ -213,6 +206,12 @@
    "fonte": "Il Sole 24 ORE"
   },
   {
+   "titolo": "Microsoft down, quanto è costato e come chiedere un indennizzo per i disservizi - Sky TG24",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObjZpNDJJSFg3OUx0NHhiWDFLR1QxQ2xXRUg4SjFGMmlvbkxHR2FwRjlqTC1LOXNjVGYtR1doWGRTYm1SZ1ZLUDhTYV9JN0dKd3MxQVpHeDVOOEMtWXlZVkJWVzA5amE3dmhJZDdaVHdLb0FjX2IxNzJvMFBHdVptRXFTLTY2UQ?oc=5",
+   "data": "Tue, 17 Nov 2026 05:41:14 GMT",
+   "fonte": "Sky TG24"
+  },
+  {
    "titolo": "Outlook in tilt, disagi anche per Teams e Copilot: Microsoft indaga - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTEdueWY0dWRaSFJ0cS1aVVBRNmlwcVdsc0lHczBFUVNRNDhiSWtjWU9PRmMtSEpQVFV6dGxJNU5rNmNNYUtxcF9QTVhBVVNiV2dDSWpSUzZ5eTBuZFJUQ2puSzFsOFRJS1YxQXgwSjMtbEg0cVRzQ3BUM1M1X2FtNzhkWGFjazRjY0xDTGdPLXBaYW42RmRMQm1HNHJIUEFIcDJFWWdjZHNfZFVHMnI2OFRUSTdsZGdvcG5tUzBfVnZFcGM?oc=5",
    "data": "Thu, 12 Nov 2026 19:37:38 GMT",
@@ -220,12 +219,6 @@
   }
  ],
  "news_legali": [
-  {
-   "titolo": "Microsoft 365, stop Antitrust agli impegni sul rincaro abbonamenti - SoldiOnline.it",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQnlUTFpqdUVOamNTbjl5cnN6WHUyanhWcVJKZExibjJlcml4UHFMQ0ZfOWdCYThfelpySDZOWllGWDkzbkUzcWZ4eWpzcUpnY3NkWGlOeFZlSTJESEM2aXdwU1VWMjdRSEFITHZsS0NsZjBOVWhwbi1EbjdNNmdhVHdEM2F0dmQwQ0c5eHF4VkpzbXJ2TE9NSXNtUmVRTnNqUjJFQ1R0Ynd3YmQyclVSY0RUQW9vcXdkQ0E?oc=5",
-   "data": "Thu, 24 Sep 2026 07:00:00 GMT",
-   "fonte": "SoldiOnline.it"
-  },
   {
    "titolo": "Perché l’Antitrust UK sfruculia Microsoft per i suoi software aziendali - Startmag",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS0hpS0hmM0czT2pDa2Z3Zy1ybGJQWThtQm9WM3g0b213OHVILWNxdXJzWkRkLTNqcy1saXdNUG1oc25vcWVXMnpnM01oazJNOXFWVXlYMF85UmpYTE9FSFVQSmZmQjBWVjlCV2hfdkQwN0xBRVIyb2hmcm03WHNwa1ZoQ2tJUl9Sa1lVZ2V3S2hzU3FienlLRHdiT2tRRFluM3ZuQzZNMA?oc=5",
@@ -245,16 +238,22 @@
    "fonte": "Hardware Upgrade"
   },
   {
-   "titolo": "Microsoft ripensa Copilot: meno chatbot, più agente AI - La Stampa",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbE80a3VPckVkTE9zRXpQQ0FDa3RrMHVXZ0ljNTBieXQ3OWJvakp3TkdocExBWFpud3JRX0c3OTk0UEhOcHBWRXNzTURBQ21tQ09ZYklhVms5bzZ2OGppVWlmOHc0RWY0MXJoR0tXcGhNVjYtdm9TOUg5Y0ZZRVZGRktiRERTd0dWc0tmdmsxT3BjOUVmb2F3UmFNVUhicDBWWlZtd05yWG4xRFHSAbABQVVfeXFMTVRJRkNEMlotUHp5RldLSkE3UzdGMFBIeWVOWmxTVXR2S1gzcWRtV1I5cC1IV0xMdV9QYTE1dVJnR2MyRHJyVmNoNlFIbjUxbklEM0p2dk5ORlF4RzJxbVRTeDFQcUpzTWFPRmdFU3dfWE1SYk1DRHZYSXpCZ25yMGJvb2NqcWdYZFBiVU81WGdPRWxjYzIza1Ywb2lLQTRqVUtaM212MGRhRndST2J4WlA?oc=5",
-   "data": "Sun, 27 Sep 2026 07:00:00 GMT",
-   "fonte": "La Stampa"
-  },
-  {
    "titolo": "Gaming, azioni coordinate nell’Ue. L’Antitrust italiana guida l’attività su videogiochi che fanno capo a Microsoft - iGizmo.it",
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaEZqZmR2Y1JlMXNBeEk5dDFoSWYtaUo5M1VucTN5WGsxX1BKMVVmT2hxd0paby1jbzBZcFVQSFp3MExlWEdOX0pES0xoV2tIOGY3SHdpeDA5WFRobUw5anhMcFNkaU9pRzk5VVh2X00wY2JKRkNWWHRzZGIySTl5WXVyYjBYMmtDNHJOQkdGeFY5OURYSzBrbDlNLVZ5cVVvVFFEbzdXLVphWlVoQ0g3TWZpdFlEM2pFYkRnd0ZUZEdTXzJ3YjIxNnpMZHg?oc=5",
    "data": "Thu, 08 Oct 2026 07:00:00 GMT",
    "fonte": "iGizmo.it"
+  },
+  {
+   "titolo": "Microsoft ripensa Copilot: meno chatbot, più agente AI - La Stampa",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbE80a3VPckVkTE9zRXpQQ0FDa3RrMHVXZ0ljNTBieXQ3OWJvakp3TkdocExBWFpud3JRX0c3OTk0UEhOcHBWRXNzTURBQ21tQ09ZYklhVms5bzZ2OGppVWlmOHc0RWY0MXJoR0tXcGhNVjYtdm9TOUg5Y0ZZRVZGRktiRERTd0dWc0tmdmsxT3BjOUVmb2F3UmFNVUhicDBWWlZtd05yWG4xRFE?oc=5",
+   "data": "Sun, 27 Sep 2026 07:00:00 GMT",
+   "fonte": "La Stampa"
+  },
+  {
+   "titolo": "Alla fine, cosa abbiamo saputo del blackout Microsoft - ImpresaCity",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObC1FUmpaUVJKU29SYU5VR3hmTFV3WnZINW5PR1ZXMXdYVmZlaGZhbVZOZ3NXQnZHLThTQnlfMHRJazl3WllkS1ZmX0lGMDFkUE55Y3BDbndJRFZCZzRjWUZnRFhCc1B6LUtPVlhhTHI5VkQ4Smp3V3VVSXdzY2lKaDRjaXU5M3dJMUFQLWRlNEI4bjA4R1g0eWttc2hpNG1IeE1QU0Rka1UyQQ?oc=5",
+   "data": "Tue, 17 Nov 2026 16:57:00 GMT",
+   "fonte": "ImpresaCity"
   },
   {
    "titolo": "Microsoft riorganizza Xbox: Halo passa ad Activision - Key4biz",
@@ -269,15 +268,15 @@
    "fonte": "Quotidiano Nazionale"
   },
   {
-   "titolo": "Microsoft fa diventare Copilot una “super app”: ora programma e lavora da sola - DDay.it",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ19FVFpuOThVSW5FeE93UkllWnNhbVIwdHAzQUFRekMxSkp4aXpDQktRNWdzRGx0YjBuUHpsck9DNFVvZXdkYzI2RUswYkhTUU1Cc0prYV9NRXlGU29DOHMyd1l0MEFESlliaUtrdDk0dk9xdlJKSTYyTlg4UjlpRlBRekZXcVd6V0RXQ1g0NGRLUXJVcmJpdldiN2EwWmpKdWlyZFRqVmk5b1NrY3NCMkpxd3lSWlZX?oc=5",
-   "data": "Fri, 25 Sep 2026 07:00:00 GMT",
-   "fonte": "DDay.it"
+   "titolo": "Residenza dati Copilot UE: il piano per Claude - NeoTeo",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUmFJSzR0MU83YkU3RFJ5YWVvbmRITXU4bGlMUE4zdXg3YUpkbnhaRjNkOXFkODYxX3pqMlpxckJRZS11cHhhQTFUdXF2akoxNEtDNlRnZG5EZkZBc2RlVTRmaENpcVJrYjRYQjdiRmtQRlZBY3pvbXo4cVBnVFk5Y1EwZGUwMzZMRXhxdzR6dDF0RlRrNlFkTnFtNjA1bVJqcURMRk9pZGxLeEZZaldfQg?oc=5",
+   "data": "Tue, 17 Nov 2026 06:09:51 GMT",
+   "fonte": "NeoTeo"
   },
   {
-   "titolo": "Microsoft ostacola la concorrenza con i suoi software? - Punto Informatico",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwVXAyVHRQUWkzTnBMeGJhSjJvTVo0MDBRMkJFdEYtb1VxdmFmTjlxOUpWNGlyRXFKcWFBb0J2QXRfcC1ON2Zhb1pkWFhwV0sybGpFTVNkMkVBTmZScjNySk9aZE5WZlBVQk1wZDVhUE9EUFlNUlJ3T3pYbWtLdw?oc=5",
-   "data": "Sun, 18 Oct 2026 07:00:00 GMT",
+   "titolo": "Microsoft annuncia la nuova app Foto per Windows 11 - Punto Informatico",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS1czVktCeVpUUGR6Mk01eVIzc2NDbU1TZTBscjlkbWRqMVlmNm9UVk9rdjlwRDlnLWp6X0hBT3dOTHFCZW1wSFRTWmh2Zm5PRFlrN3JBa0NQU3RQRTFaMUJTZzM3TktlV3ZIQXpZNHlEUkVWeEhSQkpzTjIxV3JnUk1wWUg?oc=5",
+   "data": "Thu, 15 Oct 2026 07:00:00 GMT",
    "fonte": "Punto Informatico"
   }
  ],
@@ -295,10 +294,10 @@
    "fonte": "SpazioGames"
   },
   {
-   "titolo": "Pubblicità nel mezzo del gameplay per poter continuare a giocare: è il brevetto di Microsoft - Multiplayer",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMzAwM3VhWjV5T0F4NXBJUnBLUzBVZFlGRk03V0ZEeTVSWmZZOThyOGl0VFNIbmVMTXA0SHNPcllVOG1oMmd4WllmNkR0RWEzR0Z5V2NLZGlReHotZks5NzlBXzJWMk9nd3ZVY0Fjc3NsNWdQcUJFU0ExVXBiQ29KSEE1VDlWdnJjdjMwZVd5OU9KUmdtdi1QamVxQURPY0ZXVXNqa3RPN3ZRc2l5OEVrcXlWc181dzNMT2RZ?oc=5",
-   "data": "Wed, 23 Sep 2026 07:00:00 GMT",
-   "fonte": "Multiplayer"
+   "titolo": "Microsoft, il nuovo brevetto AI che rischia di favorire i deepfake - Key4biz",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUk5US01BWkRuQlV2OWNKN05qV1ZUazhzOF96UHF0ZkVTcXdiNnhzLWU4STV2UWNaQXZ4ajBWMkJSWFVVcDNMM1dKc0dnV3loeE43YnpiNzloaEl2T2lCaUxIc3p3QlpHLTgyWjdTNXctOU1GZWprUWdaZHJ1V3NOUXhYOTN4U3dHYjV5OFVBaVdsSFhZNnNkV3VrZThuRF9OUUJUd1F1QXhiRE5RUG5UbU5iaDd2OFlwcmIwMEJVV2FFaGl4T0tmX2dEekFyQ1YxLVZUSVJqQ0cxWkNJQ3UzQ3ZVaWw?oc=5",
+   "data": "Thu, 05 Nov 2026 11:28:18 GMT",
+   "fonte": "Key4biz"
   },
   {
    "titolo": "Microsoft e pubblicità nei videogiochi, nuovo brevetto depositato - HDblog.it",
@@ -307,10 +306,10 @@
    "fonte": "HDblog.it"
   },
   {
-   "titolo": "Microsoft, il nuovo brevetto AI che rischia di favorire i deepfake - Key4biz",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUk5US01BWkRuQlV2OWNKN05qV1ZUazhzOF96UHF0ZkVTcXdiNnhzLWU4STV2UWNaQXZ4ajBWMkJSWFVVcDNMM1dKc0dnV3loeE43YnpiNzloaEl2T2lCaUxIc3p3QlpHLTgyWjdTNXctOU1GZWprUWdaZHJ1V3NOUXhYOTN4U3dHYjV5OFVBaVdsSFhZNnNkV3VrZThuRF9OUUJUd1F1QXhiRE5RUG5UbU5iaDd2OFlwcmIwMEJVV2FFaGl4T0tmX2dEekFyQ1YxLVZUSVJqQ0cxWkNJQ3UzQ3ZVaWw?oc=5",
-   "data": "Thu, 05 Nov 2026 11:28:18 GMT",
-   "fonte": "Key4biz"
+   "titolo": "Pubblicità nel mezzo del gameplay per poter continuare a giocare: è il brevetto di Microsoft - Multiplayer",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMzAwM3VhWjV5T0F4NXBJUnBLUzBVZFlGRk03V0ZEeTVSWmZZOThyOGl0VFNIbmVMTXA0SHNPcllVOG1oMmd4WllmNkR0RWEzR0Z5V2NLZGlReHotZks5NzlBXzJWMk9nd3ZVY0Fjc3NsNWdQcUJFU0ExVXBiQ29KSEE1VDlWdnJjdjMwZVd5OU9KUmdtdi1QamVxQURPY0ZXVXNqa3RPN3ZRc2l5OEVrcXlWc181dzNMT2RZ?oc=5",
+   "data": "Wed, 23 Sep 2026 07:00:00 GMT",
+   "fonte": "Multiplayer"
   },
   {
    "titolo": "Spunta una domanda di brevetto Microsoft per un'IA che riscrive le parole in diretta - Pasquale Pillitteri",

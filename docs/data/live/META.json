@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-17T14:11:02+00:00",
+ "aggiornato": "2026-11-18T13:42:52+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -99,6 +99,24 @@
  },
  "norme_usa": [
   {
+   "titolo": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Its Rules its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
+   "data": "2026-11-18",
+   "tipo": "Notice",
+   "agenzie": [
+    "Securities and Exchange Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23427/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed"
+  },
+  {
+   "titolo": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing and Immediate Effectiveness of Proposed Change To Amend Its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
+   "data": "2026-11-18",
+   "tipo": "Notice",
+   "agenzie": [
+    "Securities and Exchange Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23425/self-regulatory-organizations-nyse-american-llc-notice-of-filing-and-immediate-effectiveness-of"
+  },
+  {
    "titolo": "Notice Pursuant to the National Cooperative Research and Production Act of 1993-Silicon Integration Initiative, Inc.",
    "data": "2026-11-10",
    "tipo": "Notice",
@@ -137,25 +155,6 @@
     "Centers for Medicare & Medicaid Services"
    ],
    "link": "https://www.federalregister.gov/documents/2026/11/03/2026-22381/medicare-and-medicaid-programs-organ-procurement-organizations-conditions-for-coverage-revisions-to"
-  },
-  {
-   "titolo": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as Modified by Amendment No. 1, To Permit the Listing of Binary Options Overlying Key Performance Indicators Reported by Certain Issuers of Stock",
-   "data": "2026-10-16",
-   "tipo": "Notice",
-   "agenzie": [
-    "Securities and Exchange Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/10/16/2026-21149/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order"
-  },
-  {
-   "titolo": "Global Benchmark for Efficient Drug Pricing (GLOBE) Model",
-   "data": "2026-10-02",
-   "tipo": "Rule",
-   "agenzie": [
-    "Health and Human Services Department",
-    "Centers for Medicare & Medicaid Services"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20281/global-benchmark-for-efficient-drug-pricing-globe-model"
   }
  ],
  "news": [
@@ -208,9 +207,9 @@
    "fonte": "MarketScreener Italia"
   },
   {
-   "titolo": "Perché il titolo di Meta Platforms sta salendo oggi? - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYUU4LUNUMFBaRTh3cDhHR1FkdUZDTV9CUm1NZHdyMzcwUVNKV2g2S3BxVWh1QUp3LU5Pc0FaOTNuOVlTUnJvVHY3U2pJdlYwQkNVVHFYUFhJMDB4aUR1d2xXTFdTd2E0azFONGl1czVXMW1lMzlQOXRhYUtEVnNleWNWbWllTmczR0ZKcU51VWNLQ1BMWG4xcEw2eXVRX0pVUDVQaGg4cnNldjF5dEhwV09R?oc=5",
-   "data": "Fri, 13 Nov 2026 15:20:00 GMT",
+   "titolo": "Gli EPS di Meta Platforms hanno battuto le aspettative per 3,83$, il fatturato supera le previsioni - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMG1qNnpHY1JKdGw2R3pkUmJHa1Z0d25Zb1ZGMTFETm11NDFKaEo2T2pzaW8wcUctYWdxY2NwcVl2LUYwRnp0ZlFmOGpsWEhudkFpQXVxWUpETURqR2pSZ0ZnREVZSmh1dmYycVdySjlzMFFsTURVQ2NjUzFUd2xVdXNUcTJ3UVgyd0tDRlRIWm1wYVhjT2hLN1VrZlZkMTRqdjlSMDBDdVJnMnZNOXV4YkVZdFVqeGRsN2g0bE9QcHdHRHppRTBUdDFjMDA0Sy12eVR0dkJHSzFiWjg?oc=5",
+   "data": "Wed, 21 Oct 2026 07:00:00 GMT",
    "fonte": "Investing.com"
   },
   {
@@ -258,10 +257,10 @@
    "fonte": "FashionNetwork Italia"
   },
   {
-   "titolo": "Meta perde 400 miliardi di dollari, mette all’asta altre azioni ma gli analisti vedono ancora un potenziale rialzo di 1,4 volte - BeInCrypto",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pWV82TGFSSTQ2ZVFGVDRZQzFSbzNVVkdnN0wtQk5STXByTEwyNGhwYnh4WFh3U2N2ellkM0t6VWoxdFI0TnY3cGVTVXJLT0k2WTRSWnZ1OC1YUlN0SEc1U3ZiamV4WjgxeHNMcV9Wb3g1MW9IMEduOHRmNFBVQQ?oc=5",
-   "data": "Tue, 27 Oct 2026 07:00:00 GMT",
-   "fonte": "BeInCrypto"
+   "titolo": "Meta Platforms, Inc.: Arete conferma il rating Buy - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUEk2OEMzQXRYeVpPNGVpeHhUR3laellCbkxVVzJOb1JQaWk2dFdqTzBkMGNHUkFQOUdyMGRWY21OcDZHZ256M2lLQmtDYWMzeFE4cmtQODVFVVQ4VjhKdXNkU2Vsem1wQVozZlNZZzlud1ZGam5LNjdCTVRaUUd3TXJfMEN1UFhpTVpDZG5HX1pHVFFYSTF3YURPSFI5a0Y1MGFpVQ?oc=5",
+   "data": "Mon, 16 Nov 2026 15:18:38 GMT",
+   "fonte": "MarketScreener Italia"
   },
   {
    "titolo": "Lanciata con Essilux nuova generazione di AI Glasses - Quotidiano Nazionale",
@@ -282,5 +281,12 @@
    "fonte": "TIKR.com"
   }
  ],
- "news_brevetti": []
+ "news_brevetti": [
+  {
+   "titolo": "BYD, un brevetto mostra il progetto di una microcar a due porte - ChinaSmartBuy",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2Znk1aVpDUUFlck1pdEdsR200SmE0Ums1RzVTLTlCVkhSc1YydENnWmMzWUYyTUwxek9xNGpkNGdsc0pWZm56OVFFRjBmY01xMGl0NFpGYTZwbXZDZW9jUGQtU2EzRjB4YzFZYjFXWTFzeDE4TDVLSGtaY0pDSWM?oc=5",
+   "data": "Tue, 10 Nov 2026 22:36:00 GMT",
+   "fonte": "ChinaSmartBuy"
+  }
+ ]
 }

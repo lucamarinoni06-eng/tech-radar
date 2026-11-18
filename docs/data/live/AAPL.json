@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-17T14:10:48+00:00",
+ "aggiornato": "2026-11-18T13:42:40+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -99,6 +99,24 @@
  },
  "norme_usa": [
   {
+   "titolo": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Its Rules its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
+   "data": "2026-11-18",
+   "tipo": "Notice",
+   "agenzie": [
+    "Securities and Exchange Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23427/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed"
+  },
+  {
+   "titolo": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing and Immediate Effectiveness of Proposed Change To Amend Its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
+   "data": "2026-11-18",
+   "tipo": "Notice",
+   "agenzie": [
+    "Securities and Exchange Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23425/self-regulatory-organizations-nyse-american-llc-notice-of-filing-and-immediate-effectiveness-of"
+  },
+  {
    "titolo": "Modernizing the Labor Market Test and Improving Protections for U.S. Workers in the PERM Immigrant Visa Program",
    "data": "2026-11-17",
    "tipo": "Proposed Rule",
@@ -135,24 +153,6 @@
     "Antitrust Division"
    ],
    "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22832/united-states-of-america-et-al-v-realpage-inc-et-al-response-of-the-united-states-to-public-comments"
-  },
-  {
-   "titolo": "Pesticides; Notice of Receipt of Requests to Voluntarily Cancel Certain Pesticide Registrations and/or Amend Registrations To Terminate Certain Uses With a 30-Day Comment Period (June 2026)",
-   "data": "2026-11-09",
-   "tipo": "Notice",
-   "agenzie": [
-    "Environmental Protection Agency"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22769/pesticides-notice-of-receipt-of-requests-to-voluntarily-cancel-certain-pesticide-registrations-andor"
-  },
-  {
-   "titolo": "TBL Group, Inc.-Acquisition of Control-Horizon Motor Coach, Inc.",
-   "data": "2026-10-29",
-   "tipo": "Notice",
-   "agenzie": [
-    "Surface Transportation Board"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/10/29/2026-22035/tbl-group-inc-acquisition-of-control-horizon-motor-coach-inc"
   }
  ],
  "news": [
@@ -163,58 +163,58 @@
    "fonte": "Borsa Italiana"
   },
   {
-   "titolo": "Apple, 50 anni di miti e bugie: il garage che non c'era, Jobs cacciato e il fallimento che salvò la Mela - Corriere della Sera",
-   "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPQUVEakpqRHYzUWI3YnRsUHJBb0tWZTZNMGJHUDhxZ2NDbnR6NkdENHExNnVYU2VneVhGdE0yTld3WDcwekJhME1NU01EcXUxZnpGOS1VQnpFMDBGb3cwWEtLRnN2N1RhdUtta2pOdl82RTdkQVV2QVJ2T3dFUmF5emRDaHVXSkY0RWlYMmNqY0dKTHFyTW5saElXQmdZTXFKeThCb2JpU0M0eGhqaWQwekpMRlN4RWhhZGtZRGFyOXA5Z3JwZFkyT2xBem53S2tRakFIUmhDamhkUzVyak50bk9sZlNKOFQxT3gxclBpZ2p0enB4bFoyMjhRODg4aVFIazdwdUJzbmhTZjdJZk96aHZVdGh6bDVCUkxlVkNyUnFjbmJ2WXFr0gGsAkFVX3lxTFBJSjBEQks0Qkx3OUpWQzlzYlVBbnV2SW4xTmNCa0ZNalNjMDh2S2oxeWNjZGtZRDBDOWlqaEZXdzBaUWlDeTB3UXBsRTlyTmpUaHN2a25kcEx2eTBHM2pld2pnZHRmZ2hpOGVjR09OSWJYTE1Zb2RuRHM4a0RkZnA1alJUMHVVZEk5N3h6SHF5Y0JqZkpDdGpZb2pfRjg4SzQwTDA4S2dyc2h3RndkalhqLTJTazl2V2JJVG5IekJ5YVN5SlR6VDZ0bWFLeDQyeXBGeDJ5eDNpbkZvWC01bVVNT3JybkRyTF9YSEV4aklBR25BVXhqbnlpY0dybEhWemJ6d1NDVm83M3oxa2lqbTVhcDFrUDZiTmlqYlBEWFNVQVdQZ0J3RE1GbTd2cg?oc=5",
-   "data": "Sun, 08 Nov 2026 08:00:00 GMT",
-   "fonte": "Corriere della Sera"
-  },
-  {
-   "titolo": "Apple, l'evento Pro and tell per il lancio di MacBook Pro e iPad mini - Sky TG24",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcWtJd2tjWnRYVWt0WXdKTzlzZ0g5ZWItN0gybS1YczQtMENlOVlwT2RBVzlyMExMYVZ1WXdkdXFfOTNNc2pxbEhSdXhkbW1KclMtYWF5VUZ0dllYRzRwRHhHczNKWWtOSktTMzE5VkZXUE40eU9CcEFpSFVNS1d3UEk2dFRSbE13?oc=5",
-   "data": "Tue, 20 Oct 2026 07:00:00 GMT",
-   "fonte": "Sky TG24"
-  },
-  {
-   "titolo": "Apple festeggia i 30 anni dei Pokémon con wallpaper speciali per iPhone da scaricare gratis - iPhone Italia",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYjJ1ekdrWXoyd1E4Y2trRU9WLXp3azJWVXhKSW1yWDZjV2tJN3BUeGJtUkVwYU1ZQXpXZmw0ZFp0VVlQSktTOS0xNFJsYkxwd2UxQnZuc3F3TXNYcnMtRnhxUDNtN2wxVFBubGhOVjZlQjlPN08yeHcwYVgza3ZnNFpJNjc4NVc2emppUE9SR2pQQXJMaV85Mm5CcmppVnRENHJTMldaa2Y1MWtZaDR1czlvc25Pd0FxaGNPcDJHQkl5Ti00cWc?oc=5",
-   "data": "Mon, 16 Nov 2026 20:19:23 GMT",
-   "fonte": "iPhone Italia"
-  },
-  {
-   "titolo": "iPhone 18 Pro Max è in offerta: prezzo scontato per il top di gamma Apple - HDblog.it",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd0x2M0VhWXJyT09fclBwOURPaUtWUHBwTVlkc25GVWpheTlnQTFKOXI4Z1ZSMWEySEwyeElPVlpPc1BRaHphT19hYWdnUWNJM0E2VFVnWE5SMWs2OXV5Q3pvNUhvUzlyNU9tS2NERElHRjdwNUhjZEtELVgtYUxCQUxDc2d1TnM3eHlxbktzMG9tUQ?oc=5",
-   "data": "Mon, 16 Nov 2026 11:18:03 GMT",
-   "fonte": "HDblog.it"
-  },
-  {
-   "titolo": "Export, dipartimento Attività produttive premiato in Cina con il Golden Apple Award - | Regione Siciliana",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdmlIekxxN25ROFd0eU5ybk4wcXdKNEZqZW5DU0pyWDdBclJSeGIzZ0xDaG9ZTmtMRUlfTnozZTl3eUo1eWt2NjBac2lDQW9DSWJYTEpCNHlkU1ZHbnl1dktpRDN4MnRTZlFHRTc4YUpIUVVhUHJqeGJCLV9NMnVFV2ZwS0hSOHdOaDZTMEdUeTlydTR4V19MWExxbm96QkRvV2tNVlN0YUxiSms5emNkRlJ0QXJfTDh6eVZTSXZEaw?oc=5",
-   "data": "Wed, 11 Nov 2026 13:12:21 GMT",
-   "fonte": "| Regione Siciliana"
-  },
-  {
-   "titolo": "Apple Lavora con noi – Assunzioni e Posizioni aperte - Concorsando.it",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91ZXpoenoxYV8za29Qa0xSN1daeUNJN0NQSkJJZkc2WHkyT24tSlV4TTcxdnJ3ZHVWTTRMUWxzQzdyR1A0cWtJTTJSUWg2OGZMN2pydVdBb3pwNHgwODdEeVFMaw?oc=5",
-   "data": "Wed, 11 Nov 2026 08:30:28 GMT",
-   "fonte": "Concorsando.it"
-  },
-  {
-   "titolo": "Apple ha infine ceduto ai MacBook con schermo touch - Il Post",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zN3l2R2RNdDhDajV4WTU1LXBkd2FpNnd1WUZNQ2JLZlFsRTJhYkJySmY3R0ZFb0J1bXhHNGo2R25ON2YxY3FZQW1OTkRUZFdiVXVYWkZOMTRWVlFJRjJwVWhhd0dKSDZi?oc=5",
-   "data": "Thu, 29 Oct 2026 07:00:00 GMT",
+   "titolo": "I problemi di Apple sono stati risolti dopo diverse ore di disservizi - Il Post",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15aC1SaWtyeHBSd2k1NkV4Unc4M1JxalRnQnhfSHJBY1pxa0N5d1Ytb29TbzNweEd4OHREQUk1UFRnck83Z09WdVJfQUdQNU1RLVY0R05oNHcxVkRnV09mQTk0bnhYWWc?oc=5",
+   "data": "Wed, 18 Nov 2026 07:16:05 GMT",
    "fonte": "Il Post"
   },
   {
-   "titolo": "Trimestrale Apple: margini sotto pressione a causa del prezzo delle memorie - Morningstar",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejIwNXhLeFVFVHhFZFhUd05XcTdOZFNFWnV0d0xmdVlPZFdzNFlJLWZsdUU2QTRGNDJ6Y3dFazdMRGRybmczTUpJWkx2MDZkOXVtQ1NiN29hckhXSDdFckV6ZVc3eEpjYnFRVHdvTUk1a0lkOTRXbE5iR0N1YjkwU3hwQ0pyRXRWSG9RT1VPQU5FOUs1cXpReXRnQ3ROb3FSUTFhMnpxOHFiMmlqSjh4b2Fnbw?oc=5",
-   "data": "Tue, 03 Nov 2026 08:00:00 GMT",
-   "fonte": "Morningstar"
+   "titolo": "Apple down, segnalati problemi a iCloud e agli account. Cos’è successo - Fastweb",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNGUxUW0wVUQwV055LUFVbVQ0ZkoyUXpGQmk4aUduekNoWlJJOTU3NTEtZnVhUGNfSTJvSzY4UGQ1ZEhDeTlkVGNid2xITXpzOWkzQ2p6aUhRaXRFa3Z5a21iaklzNE50SmpLUXVyMFoyekR2MDR2THcwTDZMSXQ4NmhSa1lEQXVCTmdhMXE5T1FyVzhGdmZscGZQS0tuZUFSXy1KZm93d3VZQ3dYVllpWnAwVWdoRmVBVk5QMXkxb05XcjQ?oc=5",
+   "data": "Wed, 18 Nov 2026 09:29:38 GMT",
+   "fonte": "Fastweb"
   },
   {
-   "titolo": "Apple presenta il rivoluzionario MacBook Pro con display PROLED XDR ed esperienza touch, per la prima volta su Mac - Apple",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDdkT25RVHY4czUxNUdsVVZHcWlFeWFtRWNJSEJpTThQU1VyQzFMblRDaGZMVkpiaEhGVFZaSFE4UFY5M3d3bzhEVUxjdlFwanpLa1FySnlfSDd1eDRiN0NsenQ0OVlUXzRhOW1HOUdZblRKZEZWaXlBeTBaam12RlFsSF9fVXZ6N0QzVXJkQmt2ZGExRmJ0Qm5QbEN4Z1ptOG5XOUV3a0dzM1k?oc=5",
-   "data": "Wed, 28 Oct 2026 07:00:00 GMT",
-   "fonte": "Apple"
+   "titolo": "Apple, malfunzionamenti oggi hanno interessato numerosi servizi - RaiNews",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMGhubUhZSXY5Rk14NFg3ZHoxU2tvZWc4Ny0xMHppMnhQT29pT0p2Ti1OakEyazRqVXRFdC1rMzBHZjdacjE3SHYyTXRUODA5YUFrQy1qUDdWSEsyYUtxQWx6N3QwNEhmTElZWTZGOHowaGVPakEzZjdxR2dTWU1DMG1WdUtOd0kybHlibUFzTFNIXzRyVDhFcUJTOEZrdzd3b192VTlBaUJYbkxTQkVMS2x4eWhib0RHNW4td1pkQUZUZlZua1o5bkYyZ0I1V0ZBOGNEQWo3SFFuSUdCSVZYWWdYYUTSAeoBQVVfeXFMTmUtTHJjRW0zYVlCd29VUmxBbjFqRnlNRm5jc0ZXMVBSZ00zQW5Ed0Z6Y1gzSGRnTTFhcHZZR1NfdFYzZVVxRmQzRlQwY05TbVF3b3JxRldRTGJkY0hYdmpVS0ZEQU94ZDlkMHkyMUdza0t6eU0wTWRzOXNLV0R3WEZyT1FmUW5KOWU5Zmw5ZUFnMkNjQW4tVDZtMXZKTUJBbnMzb3VsLVZlSlB3a09iRzJVTlVZTE02T0gzVkU2cnBlc1A1aldWSHpLV0c0eEdaalBXWS1ma3ZzX2xic1ZfSkNQNElUVDk1OXFB?oc=5",
+   "data": "Tue, 17 Nov 2026 20:13:00 GMT",
+   "fonte": "RaiNews"
+  },
+  {
+   "titolo": "Apple Black Friday 2026, le migliori offerte su iPhone, iPad e MacBook. FOTO - Sky TG24",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0eEw5dG1mMzZ3cWJtVVJLNmV5OS1KZVBKbEhGemI2MmlDU2tiVHZvOUw3U1pMN3dDZEpxTzZKS1NJS3ladVdmUENtUVE3T0lpRldOeERJeDlsdnAxMEl5MV96MkRzdkxyNWZFNmkzN1JrdXIyQk1vckVINnVvdw?oc=5",
+   "data": "Wed, 18 Nov 2026 05:06:06 GMT",
+   "fonte": "Sky TG24"
+  },
+  {
+   "titolo": "Apple down, problemi per iCloud, App Store e Music: «Nessun attacco hacker» - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYWgwTlJ6dEtIc0NGYzVhWDBZM05BNWc2aHRmbHRKQ2s4Q0I3bTYzdUlLYnUxS3IzeUJOb2JEd0xRVmNheGM5eWxyWVpiRmJ6Q1g1OHlVd1JzSFY3NkUwRTZnVFBLYTRYczFoZjdlalBMVTJEWGtHUzRCM0hNdl9rcXczNnl2UjZIR2dz?oc=5",
+   "data": "Tue, 17 Nov 2026 23:43:20 GMT",
+   "fonte": "Il Sole 24 ORE"
+  },
+  {
+   "titolo": "Apple down, problemi ai servizi della multinazionale tech: segnalazioni per iCloud e App Store - Il Fatto Quotidiano",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeG1jMG41Q29vaDBsaDgybXBwTk5WNjA4X2NjZjN2YWNxMy1zRW5aY3hGR0pSMzViUldPcDF1YU9Ma1djbkJxTWxwWG9jVlBCemVCc3pfcmlQOElFN3lKQmRyaHpQM1BYaHhhZVB6b2J2RDZETHlBd3RvSE9UR0RLNnJNWGw2R1RIYlpheTlBclY5dw?oc=5",
+   "data": "Tue, 17 Nov 2026 19:28:12 GMT",
+   "fonte": "Il Fatto Quotidiano"
+  },
+  {
+   "titolo": "Apple, Gmail e Nsa down, escluso un cyberattacco ma Fbi lanciò alert - ANSA",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWWdzS0NjbXB4UGRzN2ZzTTFtcnV0OGVqa0ZobmEyRzlVYXdCYzRoZnBQVWt1Y2dvcUt5R25SZmNSYzYtOXRpU1pxZElMUXNVbVg3aWw1WEhMakw4d2pDMWRmSDQ4M3FCTlZoUHJjTkZOclJSbjhsb25XUFhESTVaMzNkMGpMV19RdThKSFF0aG9fYXRqd3JoajZJR1phOHpXbzBmdEhsVXJndWc4VWF0OVV2NjhSNmhvU3FiZUpSTVV6MEpQa1c4cGVmTC1NaXZ5d09oWnowNmFOS0U4MHpNT3JGTW0zSW8tcHfSAe8BQVVfeXFMTlB5YWNSN3JMLUstcUI3TlRlbWx2MjY1T0hYSWhNTXQ2cWFESmV6YjlFU2N5bS03SHUyWTkyRHRUVXpEcUI4UWNCaUdsSVlJbTIyTmVZbHRzbFNjYkNfLXROSGswX3AydGctX2ZSYXp3LWRIalBLWGQwa09mVHFjTVVyS04wTVFraG50RHU2eDA0Mnd3S29mZ0tKUHFrQWU0a2UyUndOc2pmSnMtbjlTSW5acV9pQ1VrZHM2UFMxVkRMSl9NSmlNV2FvSEJkaldBY1lNUzRlZy1feTBMUU5pTTdkMU5vakpPUkdCYUZsN2c?oc=5",
+   "data": "Tue, 17 Nov 2026 19:14:00 GMT",
+   "fonte": "ANSA"
+  },
+  {
+   "titolo": "Interruzione dei servizi Apple: la causa sarebbe stata un aggiornamento interno, non un attacco informatico - Libero",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ2duamF1Ui1TMmlGUGVuTF9lSmFWWGZmQkgwbzRRQl9FbjdFUnlvUnBFMDVaajdWdkNSd3JxRDRIZmVWMmV5T0JrY3h0U3lQUnRZck85VmZJSkpNNngwcmphR2pzTHl2MVY5allESUp3eURKSWpUb2pmZnJlSzZGS0RDRHlfVHI4c2xKTjFaN2hmQdIBlwFBVV95cUxNRmkxWlhYdHE5Z1p6a2JwZ0hWTEhobkgyVTJiTl9IcEc5N0pueGNxUU1NbDhkSDZHc0M0VjBFZUpsU3pCN0pxZVJqUVlDekpzaXNJNjNwNUZCS2E4YkhWYVFqRmVQMXZUUkkza2FETGVQeGxvVW9mRHJabWw0eXpKakJfNl92a0pwcGk5Y3YyZnVvOVJpdGhr?oc=5",
+   "data": "Wed, 18 Nov 2026 07:19:00 GMT",
+   "fonte": "Libero"
+  },
+  {
+   "titolo": "Unieuro Apple Black Friday: 6 offerte al top fino al 18 novembre - HDblog.it",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS3RXY2xLZ1VLTnk3aUh0UkE3UXg1NDZfbk1LdHBSQVpLRVh5SFcySk5UZkk0RllPMGtla2hIZnhJWG96N2ppdVVWa0dVekFSVDBmSVhLLWdRSEUxeFFMa3hKRlJ3cVVEbXdqeDZoLXBjSWFFNmkzbjE5ZVFBT0p1QU82RnhxMU8zRXdCZi1vMlBneEFqQjNlaVdVSVI?oc=5",
+   "data": "Tue, 17 Nov 2026 05:14:33 GMT",
+   "fonte": "HDblog.it"
   }
  ],
  "news_legali": [
@@ -261,22 +261,22 @@
    "fonte": "HDblog.it"
   },
   {
-   "titolo": "Apple verso accordo antitrust Ue: sviluppatori italiani temono limiti al modello di app store - Techpost",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPelRLS0RMdlJjc1pTSDFING1xb1AzaGRISkVrd3FPRkx4TFNwTEZFUUlqZ1JNcWFMS2dnTlpacTcxMzhkV0dUanRfM0h4WFViaHVlV3lhRFFzU3NLOEQwUDZIUkpadzFnSmJwOU9oX2xYeDR6TjRfY1o5YkNaLWJ6TTczRDVPREloSFNNTGVOX2l2TENhRUppZXkyZzg5TXFQTFlxQTlfUUJPVHV3S2NZRFNLU1hPM2NKUnRXTmxLTjRvMmhfREZLYVM0NGZZZTBlTEFkQjBVbi1PNms?oc=5",
-   "data": "Sat, 17 Oct 2026 07:00:00 GMT",
-   "fonte": "Techpost"
-  },
-  {
-   "titolo": "Il centro vendite di Apple chiuso da fine estate: «Rischio fallimento» - il Centro",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTmwzQk1MNjc5RWdkamZYQWRUVjRlemhMTlVpRTd1R0VqSmpseVpacHJYZ1V4bGk3SDJONlprQnh0NXZqTzRBWUZweTkzaUVGTFlQVDF2bmlmN2hjS1BIMnFocnM1aWxuQ0xsV1g3anZYN2lPaGFZdG1yU2FzSnZxSGhuWEZEY0dkdlZEWGN3bXRDdmNMd1JiTEo0a0w4RHZMMGlNMjBVSWlqajRz?oc=5",
-   "data": "Mon, 19 Oct 2026 07:00:00 GMT",
-   "fonte": "il Centro"
+   "titolo": "Apple occhiali smart, WWDC 2027 e Siri per le app - Meteora Web",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMUVNblVYeGNia2hiUVk5Tl9wbzFYTHRocTkteEVacVYyMnpSZVM2UDlmMXY4S0VKcG0tbWJTRDhqTE96WUhmYnR5b2w5Tnk5cmJVbDVnWUZzSWItdHQ3X0p2WEVhYTNnTTFPU2UtWmpXeVpYby1VR3JOejZ6Q2U0dVR0YU1KWWM1YmR5dG52V3BFVTlnRHNYb1JXNFpDX3B2SzFIYVMwOS1NWGplcEpXYU9teVZoZw?oc=5",
+   "data": "Sun, 15 Nov 2026 18:04:34 GMT",
+   "fonte": "Meteora Web"
   },
   {
    "titolo": "iPhone Duo, oggi partono le vendite ma le consegne slittano a fine gennaio - Corriere della Sera",
    "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQVG5uQjR2dHhnV1FKU2RabzM0SWVxU2Q2SHh2M2FCN251dmtlMnMydXRtQVRzb2FYaU9Xa0xwcm1vdUdmcjJkWml0LVhzdzdPcWxsUF9GUERudkNsdW9WNjd5MVo5ekN4M3IzV0c1anlaVWRyelVfUzh5OFV4THhmTEU0VUx1Ql9hQkp5ZWdUVVRiMGZxeUhmNHhUQ2FZc3NTTk1hdVhLMVVkWHBJcWpOMmZEbmZydDJtUXl5SXBYSlBEVVRvY0M4R25nbHByNl9qT05UYy0telNDUXB5bHh6alM3UUpDQ3dmckp3NERwOVA0emM0YVpsaTNsc2k1M09naDdwOVVCSnJkUVdVd1FFTkNzaXdOX2RMTG0zOUhFOTRicXBfMmR2SE9jUFNnZWdsdEdDaVZ1MjF4UHEtUV9RWjRuTEVQUlJNSnZBN1djOXlpRE1lZ0dwd9IB3gJBVV95cUxOWnVhT19fRlV5MTJqWWNFdjVwZFhfSGp1a2llNl9yRFpXN2g4UU9PYk5HUktuZ1dfVFZlcnpwMGNPRGxhMGtkX1FfRHJlM0dTTFQtS0RNc1ZVTXFxQXJXODZucXVLc2JBWWhCR1JqX3J5dlQ1a0VscjdfUkJiYV9na1JhTDlwLUhWSnZuY1N2RUE2bkx1MTJYeFVYdFVZaFEzU1FmeFNEM2RhcXh3WUxCem9XT3E3eUNKamY0aWh6bmx3alZTcHRrZnVndGp6amdEaHlEX2ZQQWp4OTdBMk04QWhBVWVHdG4yRHJUcXBKMG1TR0VOcVdUOEM0Sm1qejUzM1ItZzVlRnZtZHpJb2hLSV9FSmUwc3NNVTM1TXI3Q0JucWRPcmRSbHRTOWNwb0p1ZVRlWDlTbXBHUkF2Nld0NG85ZThvNENnTlVYYlZxNlpqSmpEbHEzNXQ0RWR4Zw?oc=5",
    "data": "Fri, 23 Oct 2026 07:00:00 GMT",
    "fonte": "Corriere della Sera"
+  },
+  {
+   "titolo": "Il centro vendite di Apple chiuso da fine estate: «Rischio fallimento» - il Centro",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTmwzQk1MNjc5RWdkamZYQWRUVjRlemhMTlVpRTd1R0VqSmpseVpacHJYZ1V4bGk3SDJONlprQnh0NXZqTzRBWUZweTkzaUVGTFlQVDF2bmlmN2hjS1BIMnFocnM1aWxuQ0xsV1g3anZYN2lPaGFZdG1yU2FzSnZxSGhuWEZEY0dkdlZEWGN3bXRDdmNMd1JiTEo0a0w4RHZMMGlNMjBVSWlqajRz?oc=5",
+   "data": "Mon, 19 Oct 2026 07:00:00 GMT",
+   "fonte": "il Centro"
   }
  ],
  "news_brevetti": [
@@ -287,16 +287,16 @@
    "fonte": "WeAr news"
   },
   {
-   "titolo": "Il CARTONE della PIZZA INTELLIGENTE fatto da APPLE! - Andrea Galeazzi",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nTzBoNjVzckp2VlBSLW0xdWNVNzhHYUJoVHNMaDdiTVFMSDZsNVd6cExZVHFxUW5fX2pjdktHaG9GZ0xqa0MwbzVSNTBFSXVSVUktbFJHcU5QcXQ2Q1BaOExva2lQZ0lPUEYyN1V5VGNkcUp0?oc=5",
-   "data": "Thu, 27 Aug 2026 07:00:00 GMT",
-   "fonte": "Andrea Galeazzi"
-  },
-  {
    "titolo": "Duo, l’iPhone pieghevole la scommessa Apple al costo di 2000 dollari - la Repubblica",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMGZ1cjV5OEw1cXU4Ml93MTVULVpBZUIyZUtlNmg4bU5jaFFlTW1SM2NWYVNKREcyeHNyWVR6bFJ6QnMyZEswcU1fMTdaNzEwdzhoamtwbEdwSms2MExNMnh2QUNKRE1wMVJWMUx3QmI0c3FIa2NGSHl0MnZnQnQ3cm91Z3diWWN6THhqSUs5RmRqcTQxaThWQUFIc0RMMUJ6SW9Wa015S0dfenZ0V2x1T2g2N0ZtcDZaM2NjSVJfM2YxUQ?oc=5",
    "data": "Thu, 10 Sep 2026 07:00:00 GMT",
    "fonte": "la Repubblica"
+  },
+  {
+   "titolo": "Il CARTONE della PIZZA INTELLIGENTE fatto da APPLE! - Andrea Galeazzi",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nTzBoNjVzckp2VlBSLW0xdWNVNzhHYUJoVHNMaDdiTVFMSDZsNVd6cExZVHFxUW5fX2pjdktHaG9GZ0xqa0MwbzVSNTBFSXVSVUktbFJHcU5QcXQ2Q1BaOExva2lQZ0lPUEYyN1V5VGNkcUp0?oc=5",
+   "data": "Thu, 27 Aug 2026 07:00:00 GMT",
+   "fonte": "Andrea Galeazzi"
   },
   {
    "titolo": "La strategia di Apple non insegue il mercato maturo - Melamorsicata",

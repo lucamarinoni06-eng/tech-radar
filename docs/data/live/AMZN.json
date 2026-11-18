@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-17T14:10:57+00:00",
+ "aggiornato": "2026-11-18T13:42:46+00:00",
  "filing": [
   {
    "tipo": "10-Q",
@@ -93,6 +93,16 @@
  },
  "norme_usa": [
   {
+   "titolo": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to Military Readiness Activities in the Mariana Islands Training and Testing Study Area",
+   "data": "2026-11-18",
+   "tipo": "Proposed Rule",
+   "agenzie": [
+    "Commerce Department",
+    "National Oceanic and Atmospheric Administration"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23450/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to"
+  },
+  {
    "titolo": "Modernizing the Labor Market Test and Improving Protections for U.S. Workers in the PERM Immigrant Visa Program",
    "data": "2026-11-17",
    "tipo": "Proposed Rule",
@@ -139,16 +149,6 @@
     "Federal Motor Carrier Safety Administration"
    ],
    "link": "https://www.federalregister.gov/documents/2026/10/09/2026-20734/parts-and-accessories-necessary-for-safe-operation-application-for-exemption-from-aurora-operations"
-  },
-  {
-   "titolo": "Music Streaming Fraud",
-   "data": "2026-10-07",
-   "tipo": "Notice",
-   "agenzie": [
-    "Library of Congress",
-    "Copyright Office, Library of Congress"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/10/07/2026-20537/music-streaming-fraud"
   }
  ],
  "news": [
@@ -171,16 +171,16 @@
    "fonte": "Morningstar"
   },
   {
+   "titolo": "Il Black Friday di Amazon è già iniziato: le offerte in anticipo - Sky TG24",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WTEY5MXdaTEozMW5WbGFGZ2Q2VlpKUlZLeVJuWFJvVzB0QXpJQnkyQVMtcWY2Qkw3R3B3Y182aWlPVk9ZMmtCbmhmWkpiSE5WVjVMdUhSVF80UXlDbElRVzJROUdvbzhGWlBuLXNldFhmOUgtWEQ0?oc=5",
+   "data": "Tue, 17 Nov 2026 17:27:50 GMT",
+   "fonte": "Sky TG24"
+  },
+  {
    "titolo": "Angela Renzelli vince la borsa di studio “Amazon Women in Innovation” 2026 per Roma Tor Vergata - UniRoma2",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNek1FczJqMFVhTFkzdDYyU3B3NEwtbUpXZjBZbk9CeFptSmNEZVljeTRZcE14ZGdMdHEyS21YWXgxM3Vfa2tud0lvVEY2YVllbHU5Qk1zTU5ISDFFYy16THN6cnZ5NkRtM0p3YmZhUmQtQTFKT1U1b08xNzVpVmVYT24wR25DcTFHbkVJQUtBUFF5dlFWMmhOcFBlMWRUSTVJb2FBal9VM3FYY1FRZ1RLQW1mQmZLdkNCcU9iR0FrQkJmQnhlaTk4OXNR?oc=5",
    "data": "Sat, 31 Oct 2026 15:41:03 GMT",
    "fonte": "UniRoma2"
-  },
-  {
-   "titolo": "Quando inizia il Black Friday 2026 su Amazon: il calendario e le date - Sky TG24",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOXV3WUdJb1VwQUhvcy1NbGV4VVdNaVlleTIyV3Nmenp4QVNUNUVrVEpoVVIxRHdBNHpSNUM0WFI0bWxQUG4xWTJJSXU4cl9uSmRaRmR0Y2Y1TWF6Wkw1a3F6SWdtaENSa0xwblVZZ2hTUnJRV2x0ay1lSW5pY0FkZGtiMnZUTkk?oc=5",
-   "data": "Tue, 17 Nov 2026 05:44:55 GMT",
-   "fonte": "Sky TG24"
   },
   {
    "titolo": "Il razzo Vulcan è esploso 10 minuti dopo il lancio, trasportava a bordo 40 satelliti di Amazon - La Stampa",
@@ -191,26 +191,26 @@
   {
    "titolo": "Il calo di Amazon dopo la chiusura la porta sotto il target di prezzo più basso di Wall Street - Yahoo Finanza",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwX2hFRDZqOXVvRS1FaFY3MWJZTHVXeGxZQzRKS0NRdWg2MVQ1d0hVOWVOb0M1dTZ0a1dvdjc0RHBRZnJTSm9jcHpvaVB3RjVIdHg1SXV3dzROY05uRUVsZE50Y0ZOSElTNTVGV0E4NUlQMEpLdG0xQmZzaWJIdDg?oc=5",
-   "data": "Thu, 29 Oct 2026 07:00:00 GMT",
+   "data": "Fri, 30 Oct 2026 07:00:00 GMT",
    "fonte": "Yahoo Finanza"
   },
   {
-   "titolo": "Offerte in anticipo della Settimana del Black Friday di Amazon: scoppiettanti offerte sui videogiochi - Everyeye.it",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYUdaRHpIN0tTdzhmYThPallhWU54S1NDWnlwdUdBTmFYeXl6QUlSRXFrUUZnQ1Ytc0l3Zm1jQ2p2VUxjVmtFV2w4Z2lzdG9rWG5EcG5UdExKYWRXRzJ2dlJ4aGR4Z0Z5aHFkV1c5RWYyOGduOEhBMHVzOVgwcEtjdFNwaDlVZGh2dGVIMFZJUVRPUDZ6cVJaalIwdlF3akFieGZBQlZmNm5WVkhFWmFKRFRPcnRoZw?oc=5",
-   "data": "Mon, 16 Nov 2026 21:05:00 GMT",
-   "fonte": "Everyeye.it"
-  },
-  {
-   "titolo": "Black Friday Amazon 2026: tutte le offerte e sconti in tempo reale | Live - HDblog.it",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaVRkV0V6dmQ1eGpVUnZnWDJETmtJbjZVWVpJTmVJc3EzQXdBdmwxWWxfWnpDYjM2MnFCRnozenZYTW1PSnNnNXpEMDlwdEpuRUxxTjgyTU1YVVRoVGtSVVlQVkxwdEg3VmIxM2RZUlc1eHJXX2tIRnVGVnNlZWNpd3ZyMnBNeEU1d0oxUnBzYk1xTjkw?oc=5",
-   "data": "Mon, 16 Nov 2026 09:13:03 GMT",
-   "fonte": "HDblog.it"
+   "titolo": "Le foto dei volti gestite da Amazon: Israele profila i palestinesi - il manifesto",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUlIzTmZJVGZMc3VaNlV0REhHUk5pM0VtVi1NRFE5eUFGZzFpX2JvLW5majRoYm5jOVN1MFNFMWprcFQyQ1UtVElpZmt5am8zMzNLZFZPQjBjcTduM2JQZVhPa0pTYTE0R0VoclNXWUZCamlGdE02OTlvekM1aHZWcFpUbUZUV1NBNGM2REhlSHBqQQ?oc=5",
+   "data": "Wed, 18 Nov 2026 10:04:30 GMT",
+   "fonte": "il manifesto"
   },
   {
    "titolo": "Un razzo che doveva portare in orbita 40 satelliti di Amazon ha avuto un'avaria poco dopo il lancio - Il Post",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FQjRKdUs3anVKa3l4RTRLemRFcFg5RDhLOUd2VnA2MVhOWVZrNG9FbnNwVE1SNFNnVTFMRktPYjFEUTBNR2NyNkpRNzZDbmVTalM0c2JyTkJtQ3FHcFVjbHcxdnpoLU1JbFBYazFfTGM?oc=5",
    "data": "Mon, 16 Nov 2026 05:30:38 GMT",
    "fonte": "Il Post"
+  },
+  {
+   "titolo": "Offerte in anticipo della Settimana del Black Friday di Amazon: scoppiettanti offerte sui videogiochi - Everyeye.it",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYUdaRHpIN0tTdzhmYThPallhWU54S1NDWnlwdUdBTmFYeXl6QUlSRXFrUUZnQ1Ytc0l3Zm1jQ2p2VUxjVmtFV2w4Z2lzdG9rWG5EcG5UdExKYWRXRzJ2dlJ4aGR4Z0Z5aHFkV1c5RWYyOGduOEhBMHVzOVgwcEtjdFNwaDlVZGh2dGVIMFZJUVRPUDZ6cVJaalIwdlF3akFieGZBQlZmNm5WVkhFWmFKRFRPcnRoZw?oc=5",
+   "data": "Mon, 16 Nov 2026 21:05:00 GMT",
+   "fonte": "Everyeye.it"
   }
  ],
  "news_legali": [
@@ -225,6 +225,12 @@
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN2oxeG5wcUdfYmU5QnZPZjJZckFubVlRVFBtV3ptVlZEbUR1OGZJNk1MOTVEaGI3RjZQMS1JY3JGV2JnLWNUbjBJTnBIQ2xhRzYxalNvNnk3R3lwVnlpTnpjbTY2LTQ0THpDYVRWN09jY29ha0tSQzRkN0J2Nmg2bWlR?oc=5",
    "data": "Mon, 16 Nov 2026 06:04:20 GMT",
    "fonte": "Amnesty International Italia"
+  },
+  {
+   "titolo": "Amazon Luna su Prime Video si espande in altri 12 Paesi - Amazon Game Studios",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSFdjMHpwamdHNzF1bDdDazN0ckxpcVkwOTRVNDgtb1FycXZSbWZfbnlYbUV0cnlnQ2I5ZEJsVVdzZS14Q1VxNDJ1aTdteDREQldMWnRqY21pV1JMNHJxajVzc19EN0k2TDZoYl9zOWN2VlQxa2tFei1WVzg5TndSVF9ZVQ?oc=5",
+   "data": "Mon, 19 Oct 2026 15:39:20 GMT",
+   "fonte": "Amazon Game Studios"
   },
   {
    "titolo": "Amazon esagera per la fine del Prime Day: set LEGO nerd a meno di 7 euro - Everyeye.it",
@@ -257,16 +263,10 @@
    "fonte": "SmartWorld"
   },
   {
-   "titolo": "Trump mette l'antitrust Usa sotto il controllo della Casa Bianca. E può essere un rischio per Google, Meta e Amazon - Milano Finanza",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQWJYRXV3ZVlRSEJoZ2lzbDhpY2xDZ1BISzdGa2pzR0dHUkZnblZFU1FlTUd0b3JmV3UzdzhyemNMS09QRVRjaVhHTG9iU0JMZlc0MkVFYllDdFhSVExjZEJIY3BBemlDOWxVdkxZVHMtYTdhcENSeXhpb3I3V3B5bjEycENWVnlLa29EUDdZSjlPa213VERFa2wzT2l0TzlIV09UQ0k3NzBxdmc3bTdRTThXc01WNTJ5WFdnVE5tcElHdG1pQndz?oc=5",
-   "data": "Tue, 17 Nov 2026 11:28:00 GMT",
-   "fonte": "Milano Finanza"
-  },
-  {
-   "titolo": "Pixel 11 da 512 GB al prezzo più basso: oggi in offerta su Amazon a 836€ - HDblog.it",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaVVRS0xZUm04QzNUdVppcld6MHNxdGpxcXhJdjF5MFFhdW40M2dudXFjbzhPVjZ6MC1MbjlFeTI2LTZEcnd2bWcwZ2tGNUpRTk5WMnlwejRQdE9RRDZCRUlNN1ZDNmJpcGZ2RkZTN2U5U01OMXRSZE5LOFZ4bXM5N1Z5aTZFeHA2cEFQanJ0bGFDbUUtTGkwVQ?oc=5",
-   "data": "Tue, 03 Nov 2026 08:00:00 GMT",
-   "fonte": "HDblog.it"
+   "titolo": "Black Friday e Black Week: come capire se lo sconto è vero - il Salvagente",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeF9mdk5vb29kYlpSV1FaeXNWTjEyYUJVWU9KRFB4ZmdyTkxwNXJvZHJNQXZFNUJpOXV5a3JyNFVMQkxKUmxkNWdVa19aUm9pVzF4dzZNZlRISEg4OXBjSldpRUl6LVhtbkczT3hVRkRncHAzdXJsMXZBVEpqeEhOcF92czBkUUNpMjJpV0x4eHY5U1hIUlFxUQ?oc=5",
+   "data": "Sun, 15 Nov 2026 08:00:54 GMT",
+   "fonte": "il Salvagente"
   },
   {
    "titolo": "Love Me Love Me 3 si farà: Amazon punta tutto sul fenomeno letterario di Stefania S ma non è l'unica novità da urlo - Libero",

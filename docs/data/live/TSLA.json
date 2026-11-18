@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-17T14:11:05+00:00",
+ "aggiornato": "2026-11-18T13:42:54+00:00",
  "filing": [
   {
    "tipo": "10-Q",
@@ -99,6 +99,24 @@
  },
  "norme_usa": [
   {
+   "titolo": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Its Rules its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
+   "data": "2026-11-18",
+   "tipo": "Notice",
+   "agenzie": [
+    "Securities and Exchange Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23427/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed"
+  },
+  {
+   "titolo": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing and Immediate Effectiveness of Proposed Change To Amend Its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
+   "data": "2026-11-18",
+   "tipo": "Notice",
+   "agenzie": [
+    "Securities and Exchange Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23425/self-regulatory-organizations-nyse-american-llc-notice-of-filing-and-immediate-effectiveness-of"
+  },
+  {
    "titolo": "Modernizing the Labor Market Test and Improving Protections for U.S. Workers in the PERM Immigrant Visa Program",
    "data": "2026-11-17",
    "tipo": "Proposed Rule",
@@ -136,25 +154,6 @@
     "International Trade Administration"
    ],
    "link": "https://www.federalregister.gov/documents/2026/10/06/2026-20490/new-mexico-institute-of-mining-and-technology-etal-notice-of-decision-on-application-for-duty-free"
-  },
-  {
-   "titolo": "Self-Regulatory Organizations; North American Derivatives Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change Relating to Rules Governing Contract Specifications for Perpetual Cash-Settled Single Stock Security Futures",
-   "data": "2026-10-02",
-   "tipo": "Notice",
-   "agenzie": [
-    "Securities and Exchange Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/10/02/2026-20194/self-regulatory-organizations-north-american-derivatives-exchange-inc-notice-of-filing-and-immediate"
-  },
-  {
-   "titolo": "The Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule III for Model Years 2022 to 2031 Passenger Cars and Light Trucks",
-   "data": "2026-09-30",
-   "tipo": "Rule",
-   "agenzie": [
-    "Transportation Department",
-    "National Highway Traffic Safety Administration"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/09/30/2026-19964/the-safer-affordable-fuel-efficient-safe-vehicles-rule-iii-for-model-years-2022-to-2031-passenger"
   }
  ],
  "news": [
@@ -183,16 +182,28 @@
    "fonte": "Virgilio"
   },
   {
+   "titolo": "Gamma Tesla 2027: la Model 3 si allarga e arriva la più economica - Fleet Magazine",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PVVRsbVVURVh2WlYwNnNpVjlJdVI1dUNOVGQ3Tl9fVE1vbEdzUjJJaFVBTmstS2swMTFPOFJwdF9OeWdDZTFmNEtCblRTSVQxeGpxeXhxd1dsZHpYaWRDUm9QalM0UQ?oc=5",
+   "data": "Fri, 13 Nov 2026 16:01:33 GMT",
+   "fonte": "Fleet Magazine"
+  },
+  {
+   "titolo": "Il Tesla Cybercab ora si può comprare a meno di 30.000 dollari - alVolante",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdmpCb0F6U2RLNEdFQzZDN05OWFljNzZHNGMwdjRnaUlIcjlacllESHV5cTBxZE1yN1ROeUFXNGQ3RzlsVmJKSzlrN1Z2YmJvanVrbnpuckhTY2lHUmtOZFdtVDRSRjQ1S1JLMFRYZFZhUEw5Z0tjVlVDYUtoMzUxbHNtMzNkN295TWcyNXNTdEpod3EyeW1TUUNB?oc=5",
+   "data": "Mon, 16 Nov 2026 10:58:17 GMT",
+   "fonte": "alVolante"
+  },
+  {
    "titolo": "Tesla, titolo chiude in calo nell'after-hours su taglio previsioni capex per il 2026 - Borsa Italiana",
    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOR1hEYU9VTGRidVdFb3NZN2dKSDFoUHZ0bjk2V3BWN1p5Rm00WEdKNGpZMjBTTGZPUXgyck5KVTVBb3l2N3d5SjY0OU4xYXVsejMtTVlsLTZoVGVHU2JuZTBaUmFGcG9HUmwwR0V3M2Q1U21RSzB1Y0VmWk5uNmV2TFJOTUpuaGd4cGd6Q0JzZFVGVFR3TVlYTERUZVlXeksxR0Zwa3BIX1B3UkRKb2xTTTRiREQtOWxxT2dQalpYRmpINjZNM09RS0JXLUx6eHV6ZWF0X1JGTHpPWFZXY1Vub1RXQXd6WlF4aW1HS1ZsalF1bnRHTldpUlhR?oc=5",
    "data": "Thu, 22 Oct 2026 07:00:00 GMT",
    "fonte": "Borsa Italiana"
   },
   {
-   "titolo": "Il metodo Musk: promettere il futuro di Tesla e rimandarlo sempre a domani (di A. Sarno) - HuffPost Italia",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYWZDbDBoMXVkQ2J5OFNsdVFvZ040R3B3ZjR2S2wwTGhMR3dTc0I3dm1vSHB4aGprckI1S1dwbFJPbF9zdllSSk9MeHBpRlRaemwwSGpURndENDdUVjN1MWpyR29CTWNOM1JmQVpHR0VpVHZMMnV5a1NwWktKR0VqQU12MVRSdlgtU2hyaDRzSkpnRUlB?oc=5",
+   "titolo": "La fabbrica di chip Terafab da 119 miliardi di dollari di Elon Musk può avere successo senza clienti esterni? - Yahoo Finanza",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTldKaE41aWdFMl8yaW1sTktZdGdMV0Vidmx4SDJGUktlYzRwOEl5Nm5rWXp5czJ6Sno1emlDZUtSUjRDMFpibXlOSFlCc3RIWXNNczh1eGlPVU03Qks5aXB2V1pTRTVERkpabG1FM2NZbDRXeHY2TFdoUWdYZllVazdBczgyZw?oc=5",
    "data": "Fri, 30 Oct 2026 07:00:00 GMT",
-   "fonte": "HuffPost Italia"
+   "fonte": "Yahoo Finanza"
   },
   {
    "titolo": "La Tesla volante: sfonda il muro di una casa, attraversa la terrazza e precipita in strada - Corriere della Sera",
@@ -205,38 +216,20 @@
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBONWRWVk9DT1FsQzZ5UjlwcDQyRzJualZ6S0Rrd1pGRzlOTUxsUXVUVmRhMmtkYnR5SFowdWU0Ny1XaU0tLTVldlBIbWg2cWphaUhKZ1FxQ2F3VVpUeW1PQVpfa1RmSmlVZnQwRjdXMXEzM2d6?oc=5",
    "data": "Thu, 12 Nov 2026 21:13:00 GMT",
    "fonte": "BeInCrypto"
-  },
-  {
-   "titolo": "Tesla riduce la produzione del Cybertruck nel 2027 per puntare sui veicoli autonomi - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUW9OV1hLdEYxY0VQUEctMHF4b0taTVY0a0FwUlBWLW5GS1otbWFuMl82TWY2UVhvR1dsZTdqZnp1YTVwU29DSG9nWGptcV9jdGZYQWRYYVZNSi1VTm1YV0ttNTFJUGowVkg3aFRjRHFOMVZsUDhGSkJhZVZaVVZ6UmhqUWtoYU1ibWxQM3BBcF9tOVpudmpPT2ZPWjlzUkZCb2RLX0M4M3BoQnZWYmhBdzdfRDVqYWhhVUE?oc=5",
-   "data": "Fri, 06 Nov 2026 08:00:00 GMT",
-   "fonte": "Euronews.com"
-  },
-  {
-   "titolo": "ELON MUSK UNCOVERED. THE TESLA EXPERIMENT | Incontro con il regista Andreas Pichler - Anteo Palazzo del Cinema",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSnp6eFdsRUNtamdDRVFKRlZPVG8zV2NhRk12c3AxZGV0RTk3VTc1eU9CMFMxYjdlaDFtaU1rcjhLeWszRkZ4UTllNlBJTnRzcnl4bWcxcDVYRklSSkNidXJHX1BFMFNucHRvVHV2Wk5oenFsRC1iUlhyXzM2bWJtd2tBMkxqemtFZjVLSWNMd0RKWEJoYWZJSVVVd2xJT1cwN21zaWpZX3FMbTY5SVRjT3hFWHBONVFBaFNhT1c2UkxIN19DYTdaNWMyLWdqcndi?oc=5",
-   "data": "Sun, 01 Nov 2026 07:00:00 GMT",
-   "fonte": "Anteo Palazzo del Cinema"
   }
  ],
  "news_legali": [
   {
-   "titolo": "Elon Musk conferma la fine del Cybertruck: Tesla restituirà gli anticipi ad alcuni clienti - Hardware Upgrade",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNU0cxSDdOQTJTLWxjZHIwTUNjZGhHVmo3S2F6MW1FejFNRWhHVkJtNmFhRHA3TUhoLXNCaWVJTlVZYmNjWHJhZ3FmR0c2VFpnM01ZclRjclBzRGEtQWU0YzVMcmZQRjFBS3BIdWVSRFlsWXFsVHJyc0gtUVl3aTAyeUU0bTZZcU5QelFaVG5nX184cEVidnZZelB5NmNGRnNSV0F5RllnZnRLWEdrbk15MkhYTTFRTTd1LURSNnZ3aVhpZG5kZ2ZubWJDbU9neGxhd0xuODZaUmRKLWxJeE9sVXIwV0xoOGdB?oc=5",
-   "data": "Mon, 09 Nov 2026 17:31:01 GMT",
-   "fonte": "Hardware Upgrade"
+   "titolo": "Tesla smetterà gradualmente di produrre il Cybertruck - Il Post",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUFJSWUxbDhQbnVIVTR4bDdRc2YtVTVQRkFOZl9Ma0dEUHdMM01GenlNTUd0Zk5wNGdvTlFHZTJENklTSnltR0puMmFqMllHZXZsLVRyLTZZdURrUFFlR2J5d2d5WTB3R3AxVE1Cd3h6Ty02bjU4cE9MZ21rN3R5U1ZESFBQM2c?oc=5",
+   "data": "Sat, 07 Nov 2026 08:00:00 GMT",
+   "fonte": "Il Post"
   },
   {
    "titolo": "Tesla estenderà la produzione del Cybertruck fino alla fine dell'estate 2027 - MarketScreener Italia",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQzhVTWVzZGxCWHN1NHRzdGk4Q2ZIMnJIdktmWVpWT0hrQWFPbUpmby03OVlPMi1DbV9ZSDZhd2w3Z2ViRlFiUTNBSGp4TlEzR1FLOEhrdl8yRDMtei1tMlZGa3NhNzZxa2doMkdCUm83NjFnOFBqZWNwVXlmdnRjQXI5THA1alJ6OVNkSmdMR29HTzBBMEJXam9aSm41bG43X0hZYUlwSFJVN1NHcVAxT3BuQUlBUExRZUNWV3lzNm1KUUt1TjdaZVJUaw?oc=5",
    "data": "Wed, 11 Nov 2026 17:25:15 GMT",
    "fonte": "MarketScreener Italia"
-  },
-  {
-   "titolo": "Tesla smetterà gradualmente di produrre il Cybertruck - Il Post",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUFJSWUxbDhQbnVIVTR4bDdRc2YtVTVQRkFOZl9Ma0dEUHdMM01GenlNTUd0Zk5wNGdvTlFHZTJENklTSnltR0puMmFqMllHZXZsLVRyLTZZdURrUFFlR2J5d2d5WTB3R3AxVE1Cd3h6Ty02bjU4cE9MZ21rN3R5U1ZESFBQM2c?oc=5",
-   "data": "Sat, 07 Nov 2026 08:00:00 GMT",
-   "fonte": "Il Post"
   },
   {
    "titolo": "Alla fine in Svezia ha vinto Elon Musk - Internazionale",
@@ -261,6 +254,12 @@
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSFZteUhNR0ZJV0JReE9xTlM2bWFodk50T1FuTEZBUTFUcER4MThidWFKTjdaVHk4akhkejN4OFE3Y3RmdHlnNTF3Z3pfaXhEMEhBd1RkVDQ0c01xalBRanNWUWFUNlB3SmtiZVkzMkxwZ1haNVE0S1E5aUNoNWI4OXNYdl9GU1NPRkFYV0hvOW10OXVSTkZFbk96bEZOZW45bG5ObTZZZG14MEMwTzA3Yk14aDBzemlkTW1YWnRn0gHDAUFVX3lxTE5JaGg3QkE5SWtoRlBlRG1sbmNIYUlGS3BROFF0Wjh1NV9ibWdwd0FONkpNa1ZBc2xYQTdfaUJROHI2cThMM0J3dF9wMGlxWVlGaEltSUZCbjlmNUtldWFZZGU4dEdkVHJnU1ZVS1B6UnIzZUVoNm01WmFGUHliTGdJMDZNQS0xb1BBRmE1VnM1cXBEaXRkcWhRQWFaTDJqRmxJeHNVMEhIWE96eUVTbnBvdXllQzZmVVVRYUlETnhzMy01VQ?oc=5",
    "data": "Sat, 07 Nov 2026 08:00:00 GMT",
    "fonte": "La Gazzetta dello Sport"
+  },
+  {
+   "titolo": "Elon Musk conferma la fine del Cybertruck: Tesla restituirà gli anticipi ad alcuni clienti - Hardware Upgrade",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNU0cxSDdOQTJTLWxjZHIwTUNjZGhHVmo3S2F6MW1FejFNRWhHVkJtNmFhRHA3TUhoLXNCaWVJTlVZYmNjWHJhZ3FmR0c2VFpnM01ZclRjclBzRGEtQWU0YzVMcmZQRjFBS3BIdWVSRFlsWXFsVHJyc0gtUVl3aTAyeUU0bTZZcU5QelFaVG5nX184cEVidnZZelB5NmNGRnNSV0F5RllnZnRLWEdrbk15MkhYTTFRTTd1LURSNnZ3aVhpZG5kZ2ZubWJDbU9neGxhd0xuODZaUmRKLWxJeE9sVXIwV0xoOGdB?oc=5",
+   "data": "Mon, 09 Nov 2026 08:00:00 GMT",
+   "fonte": "Hardware Upgrade"
   },
   {
    "titolo": "Tesla, è arrivata la fine del Cybertruck? - Ticinonline",
@@ -295,9 +294,9 @@
    "fonte": "Motorionline.com"
   },
   {
-   "titolo": "Tesla prova i laser per pulire il parabrezza, per il Cybercab - InsideEVs Italia",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WTnNhXzR6MDlCbUhoQnlFYzY1akRfOXNWbmE2RG5SVEdEd2NUZXNIWEctbWtIQ1FuZDJjSWZ3QVBHUlRKWF9YQ3Jldk83UWhKdmF2YUZQT3pRM0ZzR1lvQk5wNzROM0dMTHAyWGJ3ak8zWkU?oc=5",
-   "data": "Sun, 15 Nov 2026 09:51:58 GMT",
+   "titolo": "Tesla brevetta la ricarica wireless che “vede” il metallo - InsideEVs Italia",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5M3B4T2dHSlZwRWlVQXVPc0x5SUxnb29WX3RMd3VDMzhGbFpheUtUN3BuTUp6QVZuYS1vbGpvVjBHMDZzT3BIY29JNExrOUZPMWJTUENYazVDWDN2RlVjaDVBbkZmVXE4b3p5Z0lpbENqeWZUMGVKZFZncWg?oc=5",
+   "data": "Fri, 02 Oct 2026 07:00:00 GMT",
    "fonte": "InsideEVs Italia"
   },
   {
@@ -307,16 +306,16 @@
    "fonte": "FormulaPassion"
   },
   {
-   "titolo": "Tesla Roadster, il brevetto svela l’ala da 700 kg: ecco come sarà la nuova supercar elettrica - Automoto.it",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVnVFTGxkRG81NEQ2VkVQVjNMcjhKazdxeVlOTFlEUno4X1Fpc04xQW1wVzVMUW9TVy16b2xlaW9CNGRSdHhJZXlhbnppN2dhWUJfdGt3QjJwbEdLei1lYzd2bG91MWVRVXRKakMxRUdVQ3JqWTlJTEdaQXlxdTZLd19SWDg3S1EwRnZRcGFDTmt1ZTNyRWFKR2dxYjRTUW9lc1ZlU2w2WUQ3dFZWdjlIMEtySkxmM1dmYXl1NGtCM1JsY1U?oc=5",
-   "data": "Mon, 28 Sep 2026 07:00:00 GMT",
-   "fonte": "Automoto.it"
-  },
-  {
    "titolo": "Tesla, auto incollata alla strada con le ventole: il progetto a un passo dal debutto della Roadster - ClubAlfa.it",
    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY0lRdmVrZmVMSTF6eUp5ZjQ4SVRMT0lBZmwySTFyU3FpMHlRM1Nvdk5iTUF2Y1AwLTBDY0d0Mlo4TDJiMnpXQWNsMnhSNjR5dXloT1FXdU15NzR2VWJHOUVsWDRXSGZvenRldExMM2pLc3kzVENtUmFWamo2eFJERzNpM0d4SF9tVzlvOEhESU1BWHFPUkhTZ3BOT05BR2xDTnp3Q2NEY3k0M1JZSE9YRDN4Q3BWd3JPWGFHVmNsSkZ2TGFOV0VSMk9zaTVxeXdzcm5GNg?oc=5",
    "data": "Fri, 02 Oct 2026 07:00:00 GMT",
    "fonte": "ClubAlfa.it"
+  },
+  {
+   "titolo": "Tesla Roadster, il brevetto svela l’ala da 700 kg: ecco come sarà la nuova supercar elettrica - Automoto.it",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVnVFTGxkRG81NEQ2VkVQVjNMcjhKazdxeVlOTFlEUno4X1Fpc04xQW1wVzVMUW9TVy16b2xlaW9CNGRSdHhJZXlhbnppN2dhWUJfdGt3QjJwbEdLei1lYzd2bG91MWVRVXRKakMxRUdVQ3JqWTlJTEdaQXlxdTZLd19SWDg3S1EwRnZRcGFDTmt1ZTNyRWFKR2dxYjRTUW9lc1ZlU2w2WUQ3dFZWdjlIMEtySkxmM1dmYXl1NGtCM1JsY1U?oc=5",
+   "data": "Mon, 28 Sep 2026 07:00:00 GMT",
+   "fonte": "Automoto.it"
   }
  ]
 }
