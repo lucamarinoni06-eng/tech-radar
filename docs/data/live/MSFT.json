@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-18T13:42:42+00:00",
+ "aggiornato": "2026-11-19T14:10:53+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -99,6 +99,36 @@
  },
  "norme_usa": [
   {
+   "titolo": "Agency Information Collection Activities: Requests for Comments; Clearance of Renewed Approval of Information Collection: Monitoring, Reporting, and Verification (MRV) Program for Annex 16, Volume IV of the Convention on Civil Aviation",
+   "data": "2026-11-19",
+   "tipo": "Notice",
+   "agenzie": [
+    "Transportation Department",
+    "Federal Aviation Administration"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/19/2026-23612/agency-information-collection-activities-requests-for-comments-clearance-of-renewed-approval-of"
+  },
+  {
+   "titolo": "Freeport LNG Development, L.P., FLNG Liquefaction, LLC, FLNG Liquefaction 2, LLC, FLNG Liquefaction 3, LLC, FLNG Liquefaction 4, LLC; Notice of Application and Establishing Intervention Deadline",
+   "data": "2026-11-19",
+   "tipo": "Notice",
+   "agenzie": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/19/2026-23609/freeport-lng-development-lp-flng-liquefaction-llc-flng-liquefaction-2-llc-flng-liquefaction-3-llc"
+  },
+  {
+   "titolo": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; National Survey of Children's Health",
+   "data": "2026-11-19",
+   "tipo": "Notice",
+   "agenzie": [
+    "Commerce Department",
+    "Census Bureau"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/19/2026-23557/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
+  },
+  {
    "titolo": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to Military Readiness Activities in the Mariana Islands Training and Testing Study Area",
    "data": "2026-11-18",
    "tipo": "Proposed Rule",
@@ -126,34 +156,6 @@
     "Securities and Exchange Commission"
    ],
    "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23427/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed"
-  },
-  {
-   "titolo": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing and Immediate Effectiveness of Proposed Change To Amend Its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
-   "data": "2026-11-18",
-   "tipo": "Notice",
-   "agenzie": [
-    "Securities and Exchange Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23425/self-regulatory-organizations-nyse-american-llc-notice-of-filing-and-immediate-effectiveness-of"
-  },
-  {
-   "titolo": "Applications for Inclusion on the Binational Panels Roster Under the United States-Mexico-Canada Agreement",
-   "data": "2026-11-18",
-   "tipo": "Notice",
-   "agenzie": [
-    "Trade Representative, Office of United States"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23412/applications-for-inclusion-on-the-binational-panels-roster-under-the-united-states-mexico-canada"
-  },
-  {
-   "titolo": "Delfin LNG LLC; Notice of Request for Extension of Time",
-   "data": "2026-11-16",
-   "tipo": "Notice",
-   "agenzie": [
-    "Energy Department",
-    "Federal Energy Regulatory Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/16/2026-23232/delfin-lng-llc-notice-of-request-for-extension-of-time"
   }
  ],
  "news": [
@@ -164,16 +166,16 @@
    "fonte": "RaiNews"
   },
   {
-   "titolo": "Down mondiale di Microsoft, servizi regolari in Europa. L’azienda assicura: “Nessun attacco hacker” - la Repubblica",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcmxuZGFjUTFkSDBjaVYtelM1N2Y5OUlKV2NXUFJZZkR0VlpFbUZmSnZoLXNtV05EQ1dHWnJ2bG54NXp1Z0JBQXVYcEVYUUhYLXFuMXp5RjNaeFVDckMwS1RrclJWUlYzcTdZSTQ5QjJYMURYLThFMVZrbV9scmFXYURyVms3elZoM3dpa0RyV1dOczRubEl4b0QtcTJGT1U2ZVBvd2ZPZjBQekxCNXM5eVlxVExNeEV2QXZQcjFPajJEaFdkbFJnaWN1eUFNdTFESHJJdkw3ZkVMVmZ5NlViTA?oc=5",
-   "data": "Thu, 12 Nov 2026 18:44:49 GMT",
-   "fonte": "la Repubblica"
-  },
-  {
    "titolo": "Avviso su disservizi temporanei Microsoft 365 - Federazione Italiana Pallavolo",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IdW1LYXY2emFyb0NaNHQwelN1WnR4azdBM1M1Z0ZoS0xSdkZVYXFIdTlLenYzMUtHMklJSUZWTmVSRnhJTjhZQzgxVWJoanppMVk4R0hCVi1ZdkxPZFE2ZllGRk9yay1leXl2Rlpyc05ZZ3dTZl9INGVlcDQ?oc=5",
    "data": "Fri, 13 Nov 2026 08:59:41 GMT",
    "fonte": "Federazione Italiana Pallavolo"
+  },
+  {
+   "titolo": "Down mondiale di Microsoft, servizi regolari in Europa. L’azienda assicura: “Nessun attacco hacker” - la Repubblica",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcmxuZGFjUTFkSDBjaVYtelM1N2Y5OUlKV2NXUFJZZkR0VlpFbUZmSnZoLXNtV05EQ1dHWnJ2bG54NXp1Z0JBQXVYcEVYUUhYLXFuMXp5RjNaeFVDckMwS1RrclJWUlYzcTdZSTQ5QjJYMURYLThFMVZrbV9scmFXYURyVms3elZoM3dpa0RyV1dOczRubEl4b0QtcTJGT1U2ZVBvd2ZPZjBQekxCNXM5eVlxVExNeEV2QXZQcjFPajJEaFdkbFJnaWN1eUFNdTFESHJJdkw3ZkVMVmZ5NlViTA?oc=5",
+   "data": "Thu, 12 Nov 2026 18:44:49 GMT",
+   "fonte": "la Repubblica"
   },
   {
    "titolo": "Microsoft down in tutto il mondo: Outlook, Teams e Copilot in tilt per 20 ore: «Parziale miglioramento». Cosa sta succedendo - Corriere della Sera",
@@ -182,16 +184,16 @@
    "fonte": "Corriere della Sera"
   },
   {
-   "titolo": "I servizi di Microsoft stanno tornando a funzionare gradualmente - Il Post",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11MlFrNHdLUFlKdjlwcGF4bl85Q3NGeThNRlJkdkozbnpMZmpiX1ZMeWNLaGhVeDBOMWhXOHg3d1ZVNjU3VUNhZnNCOENkODhPWFRBZHBEN1dHTXhOYTM1NGsyeWxtY3FZWDF5UVZkWWxuYW45WGRF?oc=5",
-   "data": "Fri, 13 Nov 2026 05:29:38 GMT",
-   "fonte": "Il Post"
-  },
-  {
    "titolo": "Microsoft, blackout non ancora risolto ma esclusa matrice dolosa - Borsa Italiana",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSkpkMDdYTlA5ZEtRTXBDb3lRaVFROUNPQkpFaWNYWi1sMjJPa2d0MWtKUTRheWxPNzdpeHR6SE9TMFhBVVV0QWhIMmVLNDJNRXFrbEloWUdzRkx6djNBQlFYRk9SeXFFbjlEcGNRSmhkZUhjTlpuZW1nTU9xNXY0NlJkUUREWTNYVTQtdUhyRkJodTNJYVkyQ1Q0MDNIWlhyck44bTNOQWxJZjVhTDlRb1RDY0ZHUVJrbkZxRFRwOVJxWV81SEF4MDVwV1Q5cEZaS0ZTZEdmSFQzVjFLeVVhZg?oc=5",
    "data": "Fri, 13 Nov 2026 10:10:00 GMT",
    "fonte": "Borsa Italiana"
+  },
+  {
+   "titolo": "I servizi di Microsoft stanno tornando a funzionare gradualmente - Il Post",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11MlFrNHdLUFlKdjlwcGF4bl85Q3NGeThNRlJkdkozbnpMZmpiX1ZMeWNLaGhVeDBOMWhXOHg3d1ZVNjU3VUNhZnNCOENkODhPWFRBZHBEN1dHTXhOYTM1NGsyeWxtY3FZWDF5UVZkWWxuYW45WGRF?oc=5",
+   "data": "Fri, 13 Nov 2026 05:29:38 GMT",
+   "fonte": "Il Post"
   },
   {
    "titolo": "Microsoft down: il blackout che ha mandato in tilt il Pianeta - Avvenire",
@@ -206,9 +208,9 @@
    "fonte": "Il Sole 24 ORE"
   },
   {
-   "titolo": "Microsoft down, quanto è costato e come chiedere un indennizzo per i disservizi - Sky TG24",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObjZpNDJJSFg3OUx0NHhiWDFLR1QxQ2xXRUg4SjFGMmlvbkxHR2FwRjlqTC1LOXNjVGYtR1doWGRTYm1SZ1ZLUDhTYV9JN0dKd3MxQVpHeDVOOEMtWXlZVkJWVzA5amE3dmhJZDdaVHdLb0FjX2IxNzJvMFBHdVptRXFTLTY2UQ?oc=5",
-   "data": "Tue, 17 Nov 2026 05:41:14 GMT",
+   "titolo": "Outlook down in tutto il mondo, Microsoft: \"Escluso attacco hacker. Ripristino parziale\" - Sky TG24",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY1ZTaTFOdEU0QUxDSWNmMmVPcnRsWGkxUVNrM3liQk1ZZENlOW04aDEwV3FiVlhsS0dRNlFYU3lYcUxzaGU2SGZXTE5xZnJxX2JjLURZSlJHVVF4ZnAtc3pZQ1ZoN1dTdG9HbmRQbzNiTnFFQTFTenIxSktwckxZSzlHbmJmT3dLUEdVdU93?oc=5",
+   "data": "Fri, 13 Nov 2026 06:38:29 GMT",
    "fonte": "Sky TG24"
   },
   {
@@ -219,6 +221,12 @@
   }
  ],
  "news_legali": [
+  {
+   "titolo": "Microsoft 365, stop Antitrust agli impegni sul rincaro abbonamenti - SoldiOnline.it",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQnlUTFpqdUVOamNTbjl5cnN6WHUyanhWcVJKZExibjJlcml4UHFMQ0ZfOWdCYThfelpySDZOWllGWDkzbkUzcWZ4eWpzcUpnY3NkWGlOeFZlSTJESEM2aXdwU1VWMjdRSEFITHZsS0NsZjBOVWhwbi1EbjdNNmdhVHdEM2F0dmQwQ0c5eHF4VkpzbXJ2TE9NSXNtUmVRTnNqUjJFQ1R0Ynd3YmQyclVSY0RUQW9vcXdkQ0E?oc=5",
+   "data": "Thu, 24 Sep 2026 07:00:00 GMT",
+   "fonte": "SoldiOnline.it"
+  },
   {
    "titolo": "Perché l’Antitrust UK sfruculia Microsoft per i suoi software aziendali - Startmag",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS0hpS0hmM0czT2pDa2Z3Zy1ybGJQWThtQm9WM3g0b213OHVILWNxdXJzWkRkLTNqcy1saXdNUG1oc25vcWVXMnpnM01oazJNOXFWVXlYMF85UmpYTE9FSFVQSmZmQjBWVjlCV2hfdkQwN0xBRVIyb2hmcm03WHNwa1ZoQ2tJUl9Sa1lVZ2V3S2hzU3FienlLRHdiT2tRRFluM3ZuQzZNMA?oc=5",
@@ -268,16 +276,10 @@
    "fonte": "Quotidiano Nazionale"
   },
   {
-   "titolo": "Residenza dati Copilot UE: il piano per Claude - NeoTeo",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUmFJSzR0MU83YkU3RFJ5YWVvbmRITXU4bGlMUE4zdXg3YUpkbnhaRjNkOXFkODYxX3pqMlpxckJRZS11cHhhQTFUdXF2akoxNEtDNlRnZG5EZkZBc2RlVTRmaENpcVJrYjRYQjdiRmtQRlZBY3pvbXo4cVBnVFk5Y1EwZGUwMzZMRXhxdzR6dDF0RlRrNlFkTnFtNjA1bVJqcURMRk9pZGxLeEZZaldfQg?oc=5",
-   "data": "Tue, 17 Nov 2026 06:09:51 GMT",
-   "fonte": "NeoTeo"
-  },
-  {
-   "titolo": "Microsoft annuncia la nuova app Foto per Windows 11 - Punto Informatico",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS1czVktCeVpUUGR6Mk01eVIzc2NDbU1TZTBscjlkbWRqMVlmNm9UVk9rdjlwRDlnLWp6X0hBT3dOTHFCZW1wSFRTWmh2Zm5PRFlrN3JBa0NQU3RQRTFaMUJTZzM3TktlV3ZIQXpZNHlEUkVWeEhSQkpzTjIxV3JnUk1wWUg?oc=5",
-   "data": "Thu, 15 Oct 2026 07:00:00 GMT",
-   "fonte": "Punto Informatico"
+   "titolo": "Microsoft fa diventare Copilot una “super app”: ora programma e lavora da sola - DDay.it",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ19FVFpuOThVSW5FeE93UkllWnNhbVIwdHAzQUFRekMxSkp4aXpDQktRNWdzRGx0YjBuUHpsck9DNFVvZXdkYzI2RUswYkhTUU1Cc0prYV9NRXlGU29DOHMyd1l0MEFESlliaUtrdDk0dk9xdlJKSTYyTlg4UjlpRlBRekZXcVd6V0RXQ1g0NGRLUXJVcmJpdldiN2EwWmpKdWlyZFRqVmk5b1NrY3NCMkpxd3lSWlZX?oc=5",
+   "data": "Fri, 25 Sep 2026 07:00:00 GMT",
+   "fonte": "DDay.it"
   }
  ],
  "news_brevetti": [
@@ -300,10 +302,10 @@
    "fonte": "Key4biz"
   },
   {
-   "titolo": "Microsoft e pubblicità nei videogiochi, nuovo brevetto depositato - HDblog.it",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYzRxX3JQRUZ1NzdzOVJRWHVvUk9PdEVNXy1rRWRaSVprYk04QnoxSm5Xam05XzF1TmJuQ1F0cjZjS2NsVlEtRmVzMVlhc3lDVEpzR19keGo2RUJ2VXV0dngwdl82X2pjY0dld1VJRm85NjE5TFFuMENEaTJBUDFaV0JuSkh2ZU83VmpwMVpKR1ItZnJCQ1E?oc=5",
-   "data": "Mon, 21 Sep 2026 07:00:00 GMT",
-   "fonte": "HDblog.it"
+   "titolo": "Spunta un brevetto Microsoft per pagare chi presta la GPU all'IA - Pasquale Pillitteri",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWFN6TmZxbnNSOHBsVjlOVnF2NHlERjNCaTEtWUI1SEIxYVlkNnJ2ZF9EZEFuaV84NHlaVU1YdFM5LW9TMnprNHBwS0MySVBJa3dCVmNGeWtUN1pkSmsxMEYtY1VHczRpQXkyU2g3VUtvMERwWm9YZFdEcVVZQkZPV2IyakY1dHBTVDE1YXFJYw?oc=5",
+   "data": "Wed, 11 Nov 2026 08:00:00 GMT",
+   "fonte": "Pasquale Pillitteri"
   },
   {
    "titolo": "Pubblicità nel mezzo del gameplay per poter continuare a giocare: è il brevetto di Microsoft - Multiplayer",
@@ -312,10 +314,10 @@
    "fonte": "Multiplayer"
   },
   {
-   "titolo": "Spunta una domanda di brevetto Microsoft per un'IA che riscrive le parole in diretta - Pasquale Pillitteri",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT0pOOHFyczRDb2VaZ2lOa2tQNUotN292Mnl6S0t6cTlxQ0tWMlhicG1qektJMXF1ZXg4dDUwb2VYN19CWnh0VmFIbnF4Sk5pOEtTWjZzUGo1alFWZTB3X3plX09qRk5IZWR3TkozTkdQaktZdzF5ZC14eG1ZNExwd20xSlR1MTJYcWxUNUJUemh3LTA?oc=5",
-   "data": "Fri, 06 Nov 2026 08:00:00 GMT",
-   "fonte": "Pasquale Pillitteri"
+   "titolo": "Microsoft e pubblicità nei videogiochi, nuovo brevetto depositato - HDblog.it",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYzRxX3JQRUZ1NzdzOVJRWHVvUk9PdEVNXy1rRWRaSVprYk04QnoxSm5Xam05XzF1TmJuQ1F0cjZjS2NsVlEtRmVzMVlhc3lDVEpzR19keGo2RUJ2VXV0dngwdl82X2pjY0dld1VJRm85NjE5TFFuMENEaTJBUDFaV0JuSkh2ZU83VmpwMVpKR1ItZnJCQ1E?oc=5",
+   "data": "Mon, 21 Sep 2026 07:00:00 GMT",
+   "fonte": "HDblog.it"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-18T13:42:49+00:00",
+ "aggiornato": "2026-11-19T14:11:01+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -92,6 +92,16 @@
  },
  "norme_usa": [
   {
+   "titolo": "Addressing Remote Access to Advanced Semiconductors",
+   "data": "2026-11-19",
+   "tipo": "Rule",
+   "agenzie": [
+    "Commerce Department",
+    "Industry and Security Bureau"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors"
+  },
+  {
    "titolo": "Outbound Investment Security Program Regulations",
    "data": "2026-10-26",
    "tipo": "Proposed Rule",
@@ -138,16 +148,6 @@
     "Industry and Security Bureau"
    ],
    "link": "https://www.federalregister.gov/documents/2026/07/14/2026-14132/enhanced-favorable-treatment-for-the-united-arab-emirates-under-the-export-administration"
-  },
-  {
-   "titolo": "Revision to License Review Policy for Advanced Computing Commodities",
-   "data": "2026-01-15",
-   "tipo": "Rule",
-   "agenzie": [
-    "Commerce Department",
-    "Industry and Security Bureau"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/01/15/2026-00789/revision-to-license-review-policy-for-advanced-computing-commodities"
   }
  ],
  "news": [
@@ -158,10 +158,10 @@
    "fonte": "Morningstar"
   },
   {
-   "titolo": "Perché per Nvidia è un grande problema sostituire Jensen Huang - la Repubblica",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQjBxNExKMUt0dkxPdkpIU3AxSUZJb2lCNkdPMmo3Rzd6eU9RUFJ4M1hocVpkblB1M3dGWHE1M0V1WWFpT2ZOTWVUMlIxdEoyakZta2tJb0ZzN0cyTE56V09jOXNlbjVPUWdmTkYtZzhDQXRETm50bGl1bUdubE5LVkJiM1diUVBxMTFJa1lqRC16Tl9nX1o5Rzl0WDR5RGJPVGl6OFFTTVdtUQ?oc=5",
-   "data": "Tue, 10 Nov 2026 08:00:00 GMT",
-   "fonte": "la Repubblica"
+   "titolo": "Cosa sappiamo della relazione del Ceo di Nvidia Jensen Huang con una \"spia cinese\" - Sky TG24",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTno3eExEbFZiN2wwOTc0Y3QyUWpPR1ZYbjhTZDZmajhLWGJlYXpNSkJBeXAtbTRUTlhpMl92ZnlNcEtBeEp6aUIycUh6b0xydUZnY2lYR05zWkZadVpfYzRudTdWMU9VOXlfTGY3d21iczgzUG1ya215ZzdzNWZkbEdFeFFXVkpQbXJIYzB3?oc=5",
+   "data": "Mon, 09 Nov 2026 08:00:00 GMT",
+   "fonte": "Sky TG24"
   },
   {
    "titolo": "Jensen Huang si è dimesso da ceo di Nvidia con effetto immediato dopo 33 al vertice: fatali le relazioni con la «spia» cinese e la manager - Corriere della Sera",
@@ -170,10 +170,16 @@
    "fonte": "Corriere della Sera"
   },
   {
-   "titolo": "Nvidia, la Sec apre un’inchiesta sull’uscita di Jensen Huang - Il Sole 24 ORE",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYzg1UUhsa2xVU2RCQ1U0aVB1M3VJY0Vuekc3NllSS19OemRaQ2diNHRvMUpQOWtmc3pic0p4ZDRJa2FVdkwwU1dJZFdCNmR5cFhmMmdFVTZLZ2R5Um5CVmNuanBZZElsbXE2Vl85TkFOaVFya0JSbm5ueUNDRFF1b3MzeTRzclc2ZWppRTUxOHFaR1lRcXpRMHlB?oc=5",
-   "data": "Tue, 17 Nov 2026 21:15:08 GMT",
-   "fonte": "Il Sole 24 ORE"
+   "titolo": "Nvidia supera le stime e il cda esclude il ritorno di Huang come CEO - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZXlzd1NyQmFFZTdPcjdvaXhhd1prSzN1MVNwX2dsQ2cwWTFiWF9fUXZic0ZnU2t4ZWxlemRSRkFrU0Y0Y0NQVHRHbV9zM3hNbmFzeGpLRW9Xd1p0NllDUjJvempzQ2J1cUQ5Q00teU9mTElhRVFWbEdCTzEzQVFnVGNlbjZkaWRBUmQtS0I3NUpkUlVWOVQtdVhoNndobWl1MlRhSE1R?oc=5",
+   "data": "Wed, 18 Nov 2026 05:32:25 GMT",
+   "fonte": "Euronews.com"
+  },
+  {
+   "titolo": "Nvidia supera le attese, ma restano i dubbi sulla leadership - Borsa Italiana",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTlFjc1VzQ0ZaNk9kYms0cUxIYUZ4RkxOZHhiRnBmZ0Q3cWJaVXJoc1c5RHNWQnByU1pmR1RtbjVVS2hmcFdxbVJMWUU0ejN5U0dieGVWd0wxQWhjcUFBbW1BTWNUb2dXSmt6QmJxajN1NlRiRWZMVi1HNVlmcV8tV3NGNzhHa2NIM0YtcnFtRkZodUJsN0FZYTVkUVZtNnZ6VFB3amliZmVzdUdEMWVnZGh2cWFoUEwwYkN1RHhTVnI4T2VzUFhYaWlzWXJMRFd1UGtDM3JIR0N5dw?oc=5",
+   "data": "Wed, 18 Nov 2026 07:15:00 GMT",
+   "fonte": "Borsa Italiana"
   },
   {
    "titolo": "Lo scandalo della Nvidia fa tremare il mondo delle ia - Internazionale",
@@ -182,34 +188,28 @@
    "fonte": "Internazionale"
   },
   {
-   "titolo": "Nvidia, il board boccia il ritorno di Huang. La Sec indaga su false comunicazioni agli investitori - La Stampa",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORmhLRlVsTVlkZUlhVTBBNFFueHJPdFVBZC0yekliZ1EyM1FfdlQ1My1RMGZteDhMZ204QzNEWDdGak5oVEUyeHVwdlFldHZPbWdwSkpkLWl4M2I0VVNFRWRqM3ZlUVdyd0lxN3pMLWN6bXhBRV85azBSZFlNZHRqLXZnRWVMUXZQM1ZBNlBCaHExeXZ1cDhlZw?oc=5",
-   "data": "Tue, 17 Nov 2026 22:58:00 GMT",
-   "fonte": "La Stampa"
-  },
-  {
    "titolo": "Un problema per Nvidia è un problema per l’AI - Il Post",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWVdCcTh1eklRR1VrOFV3Q1BPWGZwUzlta1J5SWs0OGlKeEM5TTRTSzZDbC02M18xTVgwRlFEXy1hUnJYdmJ1UDNGTExrTnp0cXhsS0FmMVFfYWp3cDBmbDVQejhUUDl1NGlZQlJxbmhrcUcteHZKbzZnN0tFa0FvTkY4RGlnQnRlUmJ4alNKLUVtblNaUFItWUdRbWoxZUxqU2U4?oc=5",
    "data": "Sat, 14 Nov 2026 12:34:57 GMT",
    "fonte": "Il Post"
   },
   {
-   "titolo": "Nvidia: l’indagine sul CEO Huang getta un’ombra sul futuro dell’azienda nell’IA - Morningstar",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNDc4ODEtYzV6REtTVWxSeGpSUWNrU01DbENIaEpFeWZmZU9xbV9ZQnQyTDVVRURzVWFrTERneEZFNVdTbjhjOG55dUUzMG1mNWZkb3FXaHd6U1ZjOFNpWFhaWXZ6cUNSYlpEbFJELUtKSFIzdWVucENyYV9KSUhtcE5jLTNkRWV4dmI0OEhvREpqSXk4alhQNzRqSDZFOEhpN1FyN3piUmVzWnF2S2dvTG9wMkVrZw?oc=5",
-   "data": "Mon, 09 Nov 2026 08:00:00 GMT",
-   "fonte": "Morningstar"
-  },
-  {
-   "titolo": "Nvidia, il cda discute la cacciata di Jensen Huang - Il Sole 24 ORE",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd0ZuZ200b0ZuMU9IcjVYelpQbE4xSU5pbW9zNzVoYVQ3N1pJekEzcmRvc0lSWU1qSXBHUlNaYWhKWlpBdmFaUHFsWnZNcl9VX2VRWnZkeDFNSzJpaHM1NUM5YkV1VFFmWEJiZ1BjQ0tuMi1DUExIai1mQV9Ha0d3TGxKWXpoblRa?oc=5",
-   "data": "Thu, 12 Nov 2026 09:17:14 GMT",
+   "titolo": "Nvidia, la Sec apre un’inchiesta sull’uscita di Jensen Huang - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYzg1UUhsa2xVU2RCQ1U0aVB1M3VJY0Vuekc3NllSS19OemRaQ2diNHRvMUpQOWtmc3pic0p4ZDRJa2FVdkwwU1dJZFdCNmR5cFhmMmdFVTZLZ2R5Um5CVmNuanBZZElsbXE2Vl85TkFOaVFya0JSbm5ueUNDRFF1b3MzeTRzclc2ZWppRTUxOHFaR1lRcXpRMHlB?oc=5",
+   "data": "Tue, 17 Nov 2026 21:13:17 GMT",
    "fonte": "Il Sole 24 ORE"
   },
   {
-   "titolo": "Nvidia, riunione straordinaria del consiglio: sul tavolo il licenziamento del ceo Jensen Huang. Ed emerge un'altra relazione (con una manager) - Corriere della Sera",
-   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZ21Xc1ZpbVVCVEtsOGYwMFI2TGgyTldxRUxxMXBvNWZVU2d0aDlzUFlIeExmUmV6Q2xMa0hkWUhtR0s0M0RqWlIzcGxjNGRhR0JzZ0RYYXBuSnMxQ2M3WFk5TUREdm42b2pNQzk2N21GbWlOdEdtem9JNWlSRHFoeFpaYjh6QlZKU2lLa1VpSTVIckNab0ZnTlZuVFBtaTdFSE5IVUFQcnE4VHkxY2hYb0ZOVFRndVBSTnlXZTRMVG43OTQwUGl3M21FNVZKbXJaWUp6NGhfVkdOUG1vRkJwckQ3OUtQc3l0SmFKUTN5NjZVMTBER2w4RzVsQWtPN1FtSTVodjRSbm04elZJRzZMblZydUZlazgwckZv0gGgAkFVX3lxTFBBQUVDZ3RnMF9aQjd0SXpnNG1KYzR2TFBZT2F2UmRkMFNuYUU4eDhaWTNXUTlvME5QcEV2c0g0MjY5UWNZMjU3TWZWaXRDeDJqMHNaVjFRMDVLN0V4NGx2OTFtYW91Vks4eFZ0Xy1WT3EyWmFUeVA3OW9zUGJXcngyQS1wMzJVUFEtMldFZ3VmRU1HWG1kc2VkS0tyR0Fnbkc0ZFlSTU5rUXEtNVlpcmhyOXBrN21UUmk4aUtib3lmYUNhZDRkVHNpYlhVamhSRjcyeHc4M0poNmozMVIyT0FSSUFhVVF4b0FTTlBIcXhJTTJWRFZyamxSZVpCSUJ2aVhlbFF3Mld0OEk5VWMtdVlYMmFPQ285WTY5WjZpQmhzaw?oc=5",
-   "data": "Wed, 11 Nov 2026 23:41:00 GMT",
-   "fonte": "Corriere della Sera"
+   "titolo": "Nvidia, il board boccia il ritorno di Huang. La Sec indaga su false comunicazioni agli investitori - La Stampa",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORmhLRlVsTVlkZUlhVTBBNFFueHJPdFVBZC0yekliZ1EyM1FfdlQ1My1RMGZteDhMZ204QzNEWDdGak5oVEUyeHVwdlFldHZPbWdwSkpkLWl4M2I0VVNFRWRqM3ZlUVdyd0lxN3pMLWN6bXhBRV85azBSZFlNZHRqLXZnRWVMUXZQM1ZBNlBCaHExeXZ1cDhlZw?oc=5",
+   "data": "Tue, 17 Nov 2026 22:58:00 GMT",
+   "fonte": "La Stampa"
+  },
+  {
+   "titolo": "Ascesa e caduta di Jensen Huang, l’ex CEO di Nvidia che ha creato un impero dell’IA - la Repubblica",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeUlIUUtyQjNnSkNKUXAxTFh0SVktSlUwMy1TcG9nUzdOMkQyd0Q0SnhSM3A4cXFfTzhrMkJmZXV4WFhwcTcwYWJCam0tbTdTSVEwaGl5NzhOYnhKYnU2ejllbHBabHpGYkRqSkR3TnBOTGhZYWIzZnB6b3JKMVVKNzJhX3FVaTBOSjVVcmlHdVJ3S3dWRklGSml4X3ZFMGt6NVE?oc=5",
+   "data": "Thu, 12 Nov 2026 13:33:31 GMT",
+   "fonte": "la Repubblica"
   }
  ],
  "news_legali": [
@@ -228,7 +228,7 @@
   {
    "titolo": "Nvidia, Alice Huang Le è scomparsa: chi è la presunta spia della Cina - Sky TG24",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oYjRxUGNzTS1lR21XN1pjYUVBdlFSU2NSemlqcU56Zl9zaFo3QlJGTTBGcDJ2ekM3blo4bFB0UVBtNXhWN3NzMDFLaDdCZlVpZzJFcGlGRDlCZkVfQzh0Q0dkWWR6ZkpLMTlxTW1Oc3cxXzFWY1E?oc=5",
-   "data": "Tue, 10 Nov 2026 11:23:21 GMT",
+   "data": "Tue, 10 Nov 2026 08:00:00 GMT",
    "fonte": "Sky TG24"
   },
   {
@@ -242,12 +242,6 @@
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSk50bXJmREl4bFVRa0M1UTVUUC10aFAxYlhGblFLVmRFdHRWM1d0aWdhbEtEUkVGYVNXcS12Y2hSMndGOEgyMDM5MmxRSlY3NldLWm1wMk1KZGlWLXVfbHQ2VWRfT3NJR09pZmVENWtMeHhjTmo0ejRRYlF0Ty03OFNyVTREM3ZNYnA3UVhaTU50dWpoZEd3M05ncHljcl9lOFBPZ1Fid3FmcDRN?oc=5",
    "data": "Thu, 12 Nov 2026 07:22:27 GMT",
    "fonte": "Morethantech"
-  },
-  {
-   "titolo": "Le turbolenze di Nvidia segnano la fine dei guadagni facili per il settore dell'IA - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBBWVV6NWJBdVBEa0cwTEJpMnlYNXNBbHc1OEtLWXBFMnlvdDFmU0JBWWNIdlg2NWNmNmtQYkdvMUxqQTJadFcweHZRVXFLeVlRdXZHM0ZXM2Q4MlVoVnhXWlg2RnllaHJveGYxdThyeWFUUVdlaUI4?oc=5",
-   "data": "Tue, 17 Nov 2026 11:00:51 GMT",
-   "fonte": "TradingView"
   },
   {
    "titolo": "NVIDIA smentisce la fine della RTX 5090, ma i partner raccontano un'altra storia - Hardware Upgrade",
@@ -272,6 +266,12 @@
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV1VRSWlQMzVRX19lU0ZHSG1TSW40bE82dzlpWDZTeVUwX25wNEN1WWVYUk9JNk5WdlV6eF85Z18welNwSU8yVXJkRUtQT3RqRUtJNnN3eEk5UjJtZFVOS1ZfaGdqWkJ3VE54b0FESHJfNnRBd3ZkQmx4MTZ0WHVIdnZ2MmhQc1V0UE5rRV83VThJQmxwTlYxTGpZU2NnU09SNFFoX1hqcVQ?oc=5",
    "data": "Thu, 12 Nov 2026 12:19:37 GMT",
    "fonte": "la Repubblica"
+  },
+  {
+   "titolo": "Il caos di Nvidia segna la fine del denaro facile per il comparto dell'intelligenza artificiale - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNYlc4bDZEOXh6dEI4aFdvUWVJT1Z6ZFhEN3NpaDRLUGNxR0FwczF2bzFvUnk4ZklLMkdEdGd4aVJKazViVVVpN0t0THZhUjBOTUJUa1RrUEc3V1hCVkJEbHpKVW10Zmc0b1lrb3J4bXZkMDZFejNDNG1uYTV0R0RjNUlaLUNtd2RkUFBkWXNZNnBFSHZsVXkwUDFuamhYcWNGSGE4cllzX0JzcmdGdlNPaUlhN2ZiT3hwd0t5bG9GMFRhR3Fla1gzYnhyVVJPOUlnQUZiXzJ3R0NibUd1QTY4RjdUeFhOYms?oc=5",
+   "data": "Tue, 17 Nov 2026 11:02:16 GMT",
+   "fonte": "MarketScreener Italia"
   }
  ],
  "news_brevetti": [
@@ -284,7 +284,7 @@
   {
    "titolo": "Spunta un brevetto Microsoft per pagare chi presta la GPU all'IA - Pasquale Pillitteri",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWFN6TmZxbnNSOHBsVjlOVnF2NHlERjNCaTEtWUI1SEIxYVlkNnJ2ZF9EZEFuaV84NHlaVU1YdFM5LW9TMnprNHBwS0MySVBJa3dCVmNGeWtUN1pkSmsxMEYtY1VHczRpQXkyU2g3VUtvMERwWm9YZFdEcVVZQkZPV2IyakY1dHBTVDE1YXFJYw?oc=5",
-   "data": "Wed, 11 Nov 2026 17:29:47 GMT",
+   "data": "Wed, 11 Nov 2026 08:00:00 GMT",
    "fonte": "Pasquale Pillitteri"
   },
   {
@@ -294,16 +294,16 @@
    "fonte": "HDblog.it"
   },
   {
-   "titolo": "Ddl bilancio: Egualia, stop payback su farmaci fuori brevetto acquistati in gara - Il Sole 24 ORE",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oY21qTUJDWnYwT1otemw0eHZxTjRIclVTajdyem9WTnhQRG1UZDJYVDZnY0JOY25XN210RWVVTWZmbzRMaHlrbHR5OWhZalJCaTRlblpYOUNEZGF3TXA1dk55bEx6elBWSVltWXFB?oc=5",
-   "data": "Mon, 09 Nov 2026 16:44:26 GMT",
-   "fonte": "Il Sole 24 ORE"
-  },
-  {
    "titolo": "Spunta una domanda di brevetto Microsoft per un'IA che riscrive le parole in diretta - Pasquale Pillitteri",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT0pOOHFyczRDb2VaZ2lOa2tQNUotN292Mnl6S0t6cTlxQ0tWMlhicG1qektJMXF1ZXg4dDUwb2VYN19CWnh0VmFIbnF4Sk5pOEtTWjZzUGo1alFWZTB3X3plX09qRk5IZWR3TkozTkdQaktZdzF5ZC14eG1ZNExwd20xSlR1MTJYcWxUNUJUemh3LTA?oc=5",
    "data": "Fri, 06 Nov 2026 08:00:00 GMT",
    "fonte": "Pasquale Pillitteri"
+  },
+  {
+   "titolo": "Sanita': Aifa approva la rimborsabilita' di un nuovo farmaco orfano - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGV0lOQU54ODFGZ2lwYW5HTC0tcm1rQUswWFNkVllSWTc0ZTFNZ2tPOFlRX0NOU0pDQUk3Y1VLTzNaZi1NUFpyV0FzTlNrMzAtNG9zLXlmd3k3UGlVZTIxTUp6SVZfdkxMR2ltUzZB?oc=5",
+   "data": "Thu, 15 Oct 2026 07:00:00 GMT",
+   "fonte": "Il Sole 24 ORE"
   },
   {
    "titolo": "Un brevetto Sony svela il controller PlayStation che paga col telefono - Pasquale Pillitteri",
