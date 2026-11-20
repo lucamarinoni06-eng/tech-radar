@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-19T14:10:56+00:00",
+ "aggiornato": "2026-11-20T13:52:59+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -99,6 +99,24 @@
  },
  "norme_usa": [
   {
+   "titolo": "Self-Regulatory Organizations; MEMX LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
+   "data": "2026-11-20",
+   "tipo": "Notice",
+   "agenzie": [
+    "Securities and Exchange Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/20/2026-23650/self-regulatory-organizations-memx-llc-notice-of-filing-and-immediate-effectiveness-of-a-proposed"
+  },
+  {
+   "titolo": "Self-Regulatory Organizations; Miami International Securities Exchange, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Permit the Listing of Binary Options Overlying Key Performance Indicators Reported by Certain Issuers of Stock",
+   "data": "2026-11-20",
+   "tipo": "Notice",
+   "agenzie": [
+    "Securities and Exchange Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/20/2026-23649/self-regulatory-organizations-miami-international-securities-exchange-llc-notice-of-filing-and"
+  },
+  {
    "titolo": "Policies on the Use of Generative Super Intelligence in Agency Adjudication; Request for Comments",
    "data": "2026-11-19",
    "tipo": "Notice",
@@ -134,24 +152,6 @@
     "Securities and Exchange Commission"
    ],
    "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23425/self-regulatory-organizations-nyse-american-llc-notice-of-filing-and-immediate-effectiveness-of"
-  },
-  {
-   "titolo": "Notice of Receipt of Complaint; Solicitation of Comments Relating to the Public Interest",
-   "data": "2026-11-13",
-   "tipo": "Notice",
-   "agenzie": [
-    "International Trade Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/13/2026-23178/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest"
-  },
-  {
-   "titolo": "National Television Multiple Ownership Rule",
-   "data": "2026-11-12",
-   "tipo": "Rule",
-   "agenzie": [
-    "Federal Communications Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/12/2026-23040/national-television-multiple-ownership-rule"
   }
  ],
  "news": [
@@ -160,6 +160,12 @@
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeFloMkhjbC1VX3k4UEx4dVBadXZROXZmcWszU00yOUZjZXgwMzdLT2xzMFFRTFFjVXc0ME1qNUl4OXFuOGV5elRzY0c1Qk95RmpXZThHdU1XNm02Rm9YcTB3WnhCRm9ORkVHWnMzZ2xoTWFnelM5RURMSGNTNjFpd2VkekxFWklDamc?oc=5",
    "data": "Wed, 28 Oct 2026 07:00:00 GMT",
    "fonte": "Yahoo Finanza"
+  },
+  {
+   "titolo": "La trimestrale di Alphabet delude le attese. Il titolo crolla in Borsa - Forbes Italia",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHR0QW10Q3h3WnFwelJqYWpNQjhtZ0dkdzlIb1pkblMyUm1tSVh5cHNDcW9jZE00aWZWV3Awb1pJU2dld25BNTE3aUxmZm5IZmhrLU5VNDNlbGdIQ1FqNTFKMTg2MnVpZEJxbjJjQzFuejN3ejdFdFJRdG9icGFwRnZTUUpFQ25PN3VQXw?oc=5",
+   "data": "Thu, 29 Oct 2026 07:00:00 GMT",
+   "fonte": "Forbes Italia"
   },
   {
    "titolo": "Agcom, Alphabet/Google supera per la prima volta la Rai nel Sistema Integrato delle Comunicazioni - Brand News",
@@ -174,12 +180,6 @@
    "fonte": "Il Post"
   },
   {
-   "titolo": "La trimestrale di Alphabet delude le attese. Il titolo crolla in Borsa - Forbes Italia",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHR0QW10Q3h3WnFwelJqYWpNQjhtZ0dkdzlIb1pkblMyUm1tSVh5cHNDcW9jZE00aWZWV3Awb1pJU2dld25BNTE3aUxmZm5IZmhrLU5VNDNlbGdIQ1FqNTFKMTg2MnVpZEJxbjJjQzFuejN3ejdFdFJRdG9icGFwRnZTUUpFQ25PN3VQXw?oc=5",
-   "data": "Thu, 29 Oct 2026 07:00:00 GMT",
-   "fonte": "Forbes Italia"
-  },
-  {
    "titolo": "L'AI fa bruciare ad Alphabet (Google) miliardi su miliardi. E il titolo scivola in Borsa di oltre 11 punti - StartupItalia",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqSXZUUWM1Sy1YWTRPM1g3YTFqYlBhc2x5ckhSYVpteXhCN1NHRGFXRmt0SGJYd3NuTGExVzE4bkVFbU92V3JNcHNRemVlSl93X3lJeTVod0tLc3dvaXRIRk0yQlNobll1anJKLXExQ0ZYUGpBWm5v?oc=5",
    "data": "Thu, 29 Oct 2026 07:00:00 GMT",
@@ -192,6 +192,12 @@
    "fonte": "We Wealth"
   },
   {
+   "titolo": "Azioni Alphabet: Google primo operatore media italiano per fatturato, cosa fare? - Borsa&Finanza",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ1dfcDc2aDNYMEMwc1NhOUJRVHhRMlhQdUJoTUx3ck1BeXk2Wnp5Ukt4REp2dE9ETVdtSTlaVG1pWXFpbkxkZWliaHhCT3VWLXBndmt3Z0VVbGVLYjJxRC1XNTM4VUFRdUU1UUJMY21nNVY5UENwY0cwcXc5cENUc1RheW1aaFpoeXNlREE1endzblhPRC1LNDFRQWd4NlQyLVZWYTBn?oc=5",
+   "data": "Mon, 02 Nov 2026 08:00:00 GMT",
+   "fonte": "Borsa&Finanza"
+  },
+  {
    "titolo": "Alphabet: Google acquisisce un sito in Wyoming per un progetto di data center - MarketScreener Italia",
    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTGlFTFZkTW1oYURPVkd0dUpiYzZTV1c4ODVKWUJBU1FQXzQ5YWlXcWdiN2dLLXllNmJYRzRhV05vVmtHeXJUdVB6d3FYWFg2M2h4R3hSWExzeWZ1SnRBVUdyWVZ3WEhJQ2Fla3NqaGRNdGxHeGE1TFp0QmdaR29YUVQ4MC1OZjJHUmlHY1Naa3U0dHZ0RlVnTU45QXktWXMtRzVzVmdpeGJpeHVlYXRUdVVRT2dEVFU4cWF3YlVhMmVsa2twSjVDVTd1Yw?oc=5",
    "data": "Fri, 06 Nov 2026 21:36:19 GMT",
@@ -202,12 +208,6 @@
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTXdWUDh6enM0Zzh1RzFtRGM4eTM3TkpQdHFFMzRFQjlSRVM2YU93QlQ0RWQ3eGF3Njl1cmNXdVBqMFJqZ09LSDRiUGkwdWpBd2s1NHI3T1Q0VW5nS0ZNVks0V3QzTy1tWlYyNDJSM2t1alJBSkhwTzVXaVFpSVJBNjZzaW9hSmV3Ry1RMUhsZkMtSURfcV9vYzJ5WDdEMlVFaU5wMEpGTUNiaktDemc?oc=5",
    "data": "Fri, 30 Oct 2026 07:00:00 GMT",
    "fonte": "Agenda Digitale"
-  },
-  {
-   "titolo": "Azioni Alphabet: Google primo operatore media italiano per fatturato, cosa fare? - Borsa&Finanza",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ1dfcDc2aDNYMEMwc1NhOUJRVHhRMlhQdUJoTUx3ck1BeXk2Wnp5Ukt4REp2dE9ETVdtSTlaVG1pWXFpbkxkZWliaHhCT3VWLXBndmt3Z0VVbGVLYjJxRC1XNTM4VUFRdUU1UUJMY21nNVY5UENwY0cwcXc5cENUc1RheW1aaFpoeXNlREE1endzblhPRC1LNDFRQWd4NlQyLVZWYTBn?oc=5",
-   "data": "Mon, 02 Nov 2026 08:00:00 GMT",
-   "fonte": "Borsa&Finanza"
   },
   {
    "titolo": "L’intelligenza artificiale fa crollare Google in Borsa - Startmag",
@@ -230,16 +230,22 @@
    "fonte": "Agenda Digitale"
   },
   {
+   "titolo": "Doccia fredda per Google: il consigliere della Corte UE conferma l'ammenda antitrust da 1,7 Mrd USD - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRlZKeng1Z3RWV1dObnczSURfbUVGRGNvZGRXN042eVVQV3dEejUzZHlUS2RpT1laUWdvT1dTa1VRcHJmcHNfYVZiRVhhNWhYaW8tS1d3dy0tSGV6bjRvSzlueEJtTXlVTE5ueF9HZVpOS0dsUDBJWDVkOFZvNEVPRGh2QUpPZi01WWJYaG04RnNWMXJubmVaWjd6QlI0QjVGMmQ2NjRnQlJfOGEwUU53NnZiSVJTSVRHR0xFUVNLLVNoaHJ1NGJ2ZzdoRGw5cXdyU0RLem50Y2dvcEt4TUFHZ2FnWDZJU0pDZ3c?oc=5",
+   "data": "Thu, 12 Nov 2026 09:24:23 GMT",
+   "fonte": "MarketScreener Italia"
+  },
+  {
    "titolo": "Alphabet perde il 12,6% e brucia 500 miliardi, l'AI Mode rende meno - Pasquale Pillitteri",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YYnl3Wkd0M0RtRzdHV2pEY0lLVHo1V2gwODRNdjNQaHh2cXRIdE9tWU1vcGlPeGZ1NFFDbzBEdXZ4YlpDdERMZkoyMExCODJBcGw0SzBPdjdyMmh6eFgzMjR6YUdIZGxWcEJFR011SWEzd1YtRFBj?oc=5",
    "data": "Fri, 30 Oct 2026 07:00:00 GMT",
    "fonte": "Pasquale Pillitteri"
   },
   {
-   "titolo": "Doccia fredda per Google: il consigliere della Corte UE conferma l'ammenda antitrust da 1,7 Mrd USD - MarketScreener Italia",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRlZKeng1Z3RWV1dObnczSURfbUVGRGNvZGRXN042eVVQV3dEejUzZHlUS2RpT1laUWdvT1dTa1VRcHJmcHNfYVZiRVhhNWhYaW8tS1d3dy0tSGV6bjRvSzlueEJtTXlVTE5ueF9HZVpOS0dsUDBJWDVkOFZvNEVPRGh2QUpPZi01WWJYaG04RnNWMXJubmVaWjd6QlI0QjVGMmQ2NjRnQlJfOGEwUU53NnZiSVJTSVRHR0xFUVNLLVNoaHJ1NGJ2ZzdoRGw5cXdyU0RLem50Y2dvcEt4TUFHZ2FnWDZJU0pDZ3c?oc=5",
-   "data": "Thu, 12 Nov 2026 09:24:23 GMT",
-   "fonte": "MarketScreener Italia"
+   "titolo": "Modello di business di Google: come Alphabet guadagna (2026) - FourWeekMBA",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jb1B2M1htX29lcDQ3TU1ZakI4TVRDaDgwX1BtY0ZScUhVU0V2ZUN3eERPaU54eld1Y0pobktYTzZ6blRLNkxQREcya2xLdWx2eWQ5MmRGc1gwQ3I1RWlwUDlRUmFNaE95?oc=5",
+   "data": "Sun, 18 Oct 2026 07:00:00 GMT",
+   "fonte": "FourWeekMBA"
   },
   {
    "titolo": "Google lancia Gemini 4 Argon: può recuperare il ritardo su OpenAI e Anthropic? - Dove Investire",
@@ -260,22 +266,16 @@
    "fonte": "Borsa&Finanza"
   },
   {
-   "titolo": "Conviene Comjprare Azioni Alphabet Google Novembre 2026 ? Target Price - Finanza Italiacom",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhWWd3SzZJREFmVWcyd0FxYWlEdGpObUljbGZQMjlyeE1wUFBrOWwzQmlINTkzbEdzT0xodGFhWmhJQkZJU0N4ODFCMFUyRE1RNUhrWFJDTUhsMG9Dc01XUTF4Wnd4a1hnMW5wUlZ4aw?oc=5",
-   "data": "Thu, 29 Oct 2026 07:00:00 GMT",
-   "fonte": "Finanza Italiacom"
+   "titolo": "Ricavi di Apple contro Google: chi guadagna di più? (2026) - FourWeekMBA",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOYVZHY3FqNTVLUFhWSzg2dThYQVNhNVBYMU9ZRUM4bmNrRnlYUUpsT3JwR2syVWRncGM2bHlhRWdiM0d0ckpHNS1XM3ZGZjI3bkVFbEFlOVUtWDNlN3h6RGJKRllDZVZUYy1QSDN5X2p5V0VwcXc?oc=5",
+   "data": "Tue, 13 Oct 2026 07:00:00 GMT",
+   "fonte": "FourWeekMBA"
   },
   {
    "titolo": "Google sfida l'UE: non vuole dare agli assistenti AI rivali gli stessi accessi di Gemini - IlSoftware.it",
    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOczhpWU9KOHRKR0VfQTgzWmk0Wl9aV0JFaGN1VDNxWEFhblZHb3EyejJjRUtrRGU1Q2lXWng4cXBoUjZWTEYyc2Y2TE9heUsxTHN1REVFS2lPdkhWelB5bFBBZ295ZWhNY0loV0JQM3p3S3dJVTBkZGZfTHpWSjlUQ1FrVm9saXFUR2I1Z1JsamNlQTVD?oc=5",
    "data": "Tue, 29 Sep 2026 07:00:00 GMT",
    "fonte": "IlSoftware.it"
-  },
-  {
-   "titolo": "Alphabet, cloud computing e IA risollevano i conti ma il titolo crolla in Borsa. Microsoft, incremento di utili e ricavi - Affaritaliani",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcGNGRDFuUzlTbkpCUDdrYkZLNkhVekMwV0xJZ2tpNDl2UDJBSUN2M1BwZXgzbEp3b010VnozUmpaSGxUNWdGRk9WcEpTTGFwX2Zfb3k2ODRJeUpDTGpxTUp3cDdhVFNmamh1TDNZV1J5ZWticzFkQUNsb3NMdHc5aWFuYTBaTnZacmdMZndfUl90cGxkVEhGcjRpcDNUS19CcEcwQ3NCbG9JY2Z2dTRnUFZIblAyVzJnUVdmZ1hrWTBBT2JJT19NempDVlhfMzdvVklTcXNaS3JrQzZ1VEkyRGRRdUZMQzdTU2paWGRmdEFFQQ?oc=5",
-   "data": "Thu, 29 Oct 2026 07:00:00 GMT",
-   "fonte": "Affaritaliani"
   }
  ],
  "news_brevetti": []

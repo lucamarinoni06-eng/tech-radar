@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-19T14:10:51+00:00",
+ "aggiornato": "2026-11-20T13:52:54+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -99,6 +99,24 @@
  },
  "norme_usa": [
   {
+   "titolo": "Self-Regulatory Organizations; MEMX LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
+   "data": "2026-11-20",
+   "tipo": "Notice",
+   "agenzie": [
+    "Securities and Exchange Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/20/2026-23650/self-regulatory-organizations-memx-llc-notice-of-filing-and-immediate-effectiveness-of-a-proposed"
+  },
+  {
+   "titolo": "Self-Regulatory Organizations; Miami International Securities Exchange, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Permit the Listing of Binary Options Overlying Key Performance Indicators Reported by Certain Issuers of Stock",
+   "data": "2026-11-20",
+   "tipo": "Notice",
+   "agenzie": [
+    "Securities and Exchange Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/20/2026-23649/self-regulatory-organizations-miami-international-securities-exchange-llc-notice-of-filing-and"
+  },
+  {
    "titolo": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Its Rules its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
    "data": "2026-11-18",
    "tipo": "Notice",
@@ -134,25 +152,6 @@
     "International Trade Commission"
    ],
    "link": "https://www.federalregister.gov/documents/2026/11/13/2026-23178/notice-of-receipt-of-complaint-solicitation-of-comments-relating-to-the-public-interest"
-  },
-  {
-   "titolo": "National Television Multiple Ownership Rule",
-   "data": "2026-11-12",
-   "tipo": "Rule",
-   "agenzie": [
-    "Federal Communications Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/12/2026-23040/national-television-multiple-ownership-rule"
-  },
-  {
-   "titolo": "United States of America, et al. v. RealPage, Inc., et al.; Response of the United States to Public Comments",
-   "data": "2026-11-09",
-   "tipo": "Notice",
-   "agenzie": [
-    "Justice Department",
-    "Antitrust Division"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/09/2026-22832/united-states-of-america-et-al-v-realpage-inc-et-al-response-of-the-united-states-to-public-comments"
   }
  ],
  "news": [
@@ -175,10 +174,10 @@
    "fonte": "Borsa Italiana"
   },
   {
-   "titolo": "I problemi di Apple sono stati risolti dopo diverse ore di disservizi - Il Post",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15aC1SaWtyeHBSd2k1NkV4Unc4M1JxalRnQnhfSHJBY1pxa0N5d1Ytb29TbzNweEd4OHREQUk1UFRnck83Z09WdVJfQUdQNU1RLVY0R05oNHcxVkRnV09mQTk0bnhYWWc?oc=5",
-   "data": "Wed, 18 Nov 2026 07:16:05 GMT",
-   "fonte": "Il Post"
+   "titolo": "Apple lancerà cinque nuovi prodotti questo venerdì - Everyeye Tech",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORGdUZ0JCYmFsN3RGWWJkY0tDNHRoa2NCal8tTkYtSjVnVi16amRrczNzTXhZYkE4X0R1VHRaajdCSk0ySmhFWVg0N3g1cFlKN2RZZWRlcFFTWGdLaXgxRmFoMzhSdTRDMHVFaXE3YXR3OWpPWGJwY3YxQ29BYzNhXzVQSDBLU1BZb3c?oc=5",
+   "data": "Tue, 03 Nov 2026 08:00:00 GMT",
+   "fonte": "Everyeye Tech"
   },
   {
    "titolo": "Apple down, segnalati problemi a iCloud e agli account. Cos’è successo - Fastweb",
@@ -187,16 +186,10 @@
    "fonte": "Fastweb"
   },
   {
-   "titolo": "Apple down, problemi ai servizi della multinazionale tech: segnalazioni per iCloud e App Store - Il Fatto Quotidiano",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeG1jMG41Q29vaDBsaDgybXBwTk5WNjA4X2NjZjN2YWNxMy1zRW5aY3hGR0pSMzViUldPcDF1YU9Ma1djbkJxTWxwWG9jVlBCemVCc3pfcmlQOElFN3lKQmRyaHpQM1BYaHhhZVB6b2J2RDZETHlBd3RvSE9UR0RLNnJNWGw2R1RIYlpheTlBclY5dw?oc=5",
-   "data": "Tue, 17 Nov 2026 19:28:12 GMT",
-   "fonte": "Il Fatto Quotidiano"
-  },
-  {
-   "titolo": "Apple Black Friday 2026, le migliori offerte su iPhone, iPad e MacBook. FOTO - Sky TG24",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0eEw5dG1mMzZ3cWJtVVJLNmV5OS1KZVBKbEhGemI2MmlDU2tiVHZvOUw3U1pMN3dDZEpxTzZKS1NJS3ladVdmUENtUVE3T0lpRldOeERJeDlsdnAxMEl5MV96MkRzdkxyNWZFNmkzN1JrdXIyQk1vckVINnVvdw?oc=5",
-   "data": "Wed, 18 Nov 2026 05:06:06 GMT",
-   "fonte": "Sky TG24"
+   "titolo": "I problemi di Apple sono stati risolti dopo diverse ore di disservizi - Il Post",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15aC1SaWtyeHBSd2k1NkV4Unc4M1JxalRnQnhfSHJBY1pxa0N5d1Ytb29TbzNweEd4OHREQUk1UFRnck83Z09WdVJfQUdQNU1RLVY0R05oNHcxVkRnV09mQTk0bnhYWWc?oc=5",
+   "data": "Wed, 18 Nov 2026 07:16:05 GMT",
+   "fonte": "Il Post"
   },
   {
    "titolo": "Apple, malfunzionamenti oggi hanno interessato numerosi servizi - RaiNews",
@@ -205,25 +198,25 @@
    "fonte": "RaiNews"
   },
   {
+   "titolo": "Apple Black Friday 2026, le migliori offerte su iPhone, iPad e MacBook. FOTO - Sky TG24",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0eEw5dG1mMzZ3cWJtVVJLNmV5OS1KZVBKbEhGemI2MmlDU2tiVHZvOUw3U1pMN3dDZEpxTzZKS1NJS3ladVdmUENtUVE3T0lpRldOeERJeDlsdnAxMEl5MV96MkRzdkxyNWZFNmkzN1JrdXIyQk1vckVINnVvdw?oc=5",
+   "data": "Wed, 18 Nov 2026 05:06:06 GMT",
+   "fonte": "Sky TG24"
+  },
+  {
+   "titolo": "Apple down, problemi ai servizi della multinazionale tech: segnalazioni per iCloud e App Store - Il Fatto Quotidiano",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeG1jMG41Q29vaDBsaDgybXBwTk5WNjA4X2NjZjN2YWNxMy1zRW5aY3hGR0pSMzViUldPcDF1YU9Ma1djbkJxTWxwWG9jVlBCemVCc3pfcmlQOElFN3lKQmRyaHpQM1BYaHhhZVB6b2J2RDZETHlBd3RvSE9UR0RLNnJNWGw2R1RIYlpheTlBclY5dw?oc=5",
+   "data": "Tue, 17 Nov 2026 19:28:12 GMT",
+   "fonte": "Il Fatto Quotidiano"
+  },
+  {
    "titolo": "Apple down, problemi per iCloud, App Store e Music: «Nessun attacco hacker» - Il Sole 24 ORE",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYWgwTlJ6dEtIc0NGYzVhWDBZM05BNWc2aHRmbHRKQ2s4Q0I3bTYzdUlLYnUxS3IzeUJOb2JEd0xRVmNheGM5eWxyWVpiRmJ6Q1g1OHlVd1JzSFY3NkUwRTZnVFBLYTRYczFoZjdlalBMVTJEWGtHUzRCM0hNdl9rcXczNnl2UjZIR2dz?oc=5",
    "data": "Tue, 17 Nov 2026 19:17:10 GMT",
    "fonte": "Il Sole 24 ORE"
-  },
-  {
-   "titolo": "Apple, Gmail e Nsa down, escluso un cyberattacco ma Fbi lanciò alert - ANSA",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWWdzS0NjbXB4UGRzN2ZzTTFtcnV0OGVqa0ZobmEyRzlVYXdCYzRoZnBQVWt1Y2dvcUt5R25SZmNSYzYtOXRpU1pxZElMUXNVbVg3aWw1WEhMakw4d2pDMWRmSDQ4M3FCTlZoUHJjTkZOclJSbjhsb25XUFhESTVaMzNkMGpMV19RdThKSFF0aG9fYXRqd3JoajZJR1phOHpXbzBmdEhsVXJndWc4VWF0OVV2NjhSNmhvU3FiZUpSTVV6MEpQa1c4cGVmTC1NaXZ5d09oWnowNmFOS0U4MHpNT3JGTW0zSW8tcHfSAe8BQVVfeXFMTlB5YWNSN3JMLUstcUI3TlRlbWx2MjY1T0hYSWhNTXQ2cWFESmV6YjlFU2N5bS03SHUyWTkyRHRUVXpEcUI4UWNCaUdsSVlJbTIyTmVZbHRzbFNjYkNfLXROSGswX3AydGctX2ZSYXp3LWRIalBLWGQwa09mVHFjTVVyS04wTVFraG50RHU2eDA0Mnd3S29mZ0tKUHFrQWU0a2UyUndOc2pmSnMtbjlTSW5acV9pQ1VrZHM2UFMxVkRMSl9NSmlNV2FvSEJkaldBY1lNUzRlZy1feTBMUU5pTTdkMU5vakpPUkdCYUZsN2c?oc=5",
-   "data": "Tue, 17 Nov 2026 19:14:00 GMT",
-   "fonte": "ANSA"
   }
  ],
  "news_legali": [
-  {
-   "titolo": "La fine di un’era, Apple chiude il suo forum di supporto - iPhone Italia",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbHBvUUYycU03ZXJQSU1yRWFvdWEwR0FpZDlsVURVZmRtZ2pXNDE4dGFGN3B4UUdBNTAtNGt3WFJNclJIaW82MGtqNkc5ZTRsMGhJamYwMHZvd2ltd0ZOcS1VdEd3QUNubk0zN2doVGhzQUNDYWlVTVNuMVJ6MTdDTDJ2V1Mtd2NHNWlMV20tYnhDRWsy?oc=5",
-   "data": "Wed, 11 Nov 2026 12:30:20 GMT",
-   "fonte": "iPhone Italia"
-  },
   {
    "titolo": "Apple, doppia dose di annunci a ottobre. Prima nuovi prodotti per la smart home, poi i Mac a fine mese - DDay.it",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORUZKTFN0dFNjcTdjVFR1QjBYejVGNGVxWVIxVUFGMGxwZDZtS3pTR1JncDRPQm15R0F1NmZ1ejMwRVpRa0xZalJhR2xJTndvY2RuNU5uaEhLd1AxREtxUFhuZ3J6bjFUdzRybHJVbFAtTzRuaG1XaXl1SlFVa3JfeDJHdjBxS0ZReFJTZnRWUjcwcGlZT1BVVF9BZ2MzclFzZTJsWkpqLVo2WE8xNEQ4d3AxMXJlLVlvM3FvelNPT01aSjJBS0pyeDdEZTN2UFFT?oc=5",
@@ -243,10 +236,10 @@
    "fonte": "Everyeye Tech"
   },
   {
-   "titolo": "Apple e il caso antitrust, gli sviluppatori lanciano l'allarme sul potenziale accordo - Tom's Hardware",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb2hIanRveUJfTHFUSmx2U0ppdVRzZnJ0dGNZajZpNVZXTm5NcVhidUNoWVR4QXk3SzBGZ0xCcWN2RFZFQWtESFprTi0yOW5XdDQyTmhWRmxpSlNVMXdYbzREbFdSQWI4ZVFlTTRvcXNYQVEySl9wa2xDOEdrMEU4ODBScV9YYkE5bWMwUGZoNm1tQVlSLVdEOWVmbDFMemo5U2FBZHh6VUliVHowalRlaFJTTVpvbzg?oc=5",
-   "data": "Fri, 16 Oct 2026 07:00:00 GMT",
-   "fonte": "Tom's Hardware"
+   "titolo": "Episodi e immagini - Apple",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04TndWX0JuNmhPM2dOZkJkOHpVclJPOTAtQXRzOFN6TTdaNW1DSmtNZjFRWi1xWFpkSDQ2RWhIQ3NEdWIyZ05NcFdpNGFEUU5OZlpEOTlaRVVuT1BicFowa2VwU3NGY2hjR3NibHZGSVZTUWdFcXc?oc=5",
+   "data": "Sun, 15 Nov 2026 03:38:21 GMT",
+   "fonte": "Apple"
   },
   {
    "titolo": "Apple, ottobre in tre atti: casa il 13, iPhone Duo il 23 e poi i nuovi Mac - macitynet.it",
@@ -277,6 +270,12 @@
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPelRLS0RMdlJjc1pTSDFING1xb1AzaGRISkVrd3FPRkx4TFNwTEZFUUlqZ1JNcWFMS2dnTlpacTcxMzhkV0dUanRfM0h4WFViaHVlV3lhRFFzU3NLOEQwUDZIUkpadzFnSmJwOU9oX2xYeDR6TjRfY1o5YkNaLWJ6TTczRDVPREloSFNNTGVOX2l2TENhRUppZXkyZzg5TXFQTFlxQTlfUUJPVHV3S2NZRFNLU1hPM2NKUnRXTmxLTjRvMmhfREZLYVM0NGZZZTBlTEFkQjBVbi1PNms?oc=5",
    "data": "Sat, 17 Oct 2026 07:00:00 GMT",
    "fonte": "Techpost"
+  },
+  {
+   "titolo": "3 mesi gratis di Apple TV: ecco chi può richiedere la promo a fine ottobre - Punto Informatico",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVHhtQUFVUDQxNEhZcGlyWFVybDZGX0Q1bTdNRWRZaDFmNVRKM0NaOGd0ZUxNb1dCc1hlYWVoUFdrMjZYbTJ6ZWpiWTFXUzNkTXNmUXJNb2FPclhzOGh5TGRLZm9jV3ZRZ1NCWmF4MnNxX0h2Q0dQZjlHTkNXeFBUTURrUWlTX0VrRVJ5QWlSOHdsOGxNcF9icXp6NUlCREtWbjdxM0tOVWtjaU9f?oc=5",
+   "data": "Tue, 27 Oct 2026 07:00:00 GMT",
+   "fonte": "Punto Informatico"
   }
  ],
  "news_brevetti": [
@@ -287,16 +286,16 @@
    "fonte": "WeAr news"
   },
   {
-   "titolo": "Il CARTONE della PIZZA INTELLIGENTE fatto da APPLE! - Andrea Galeazzi",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nTzBoNjVzckp2VlBSLW0xdWNVNzhHYUJoVHNMaDdiTVFMSDZsNVd6cExZVHFxUW5fX2pjdktHaG9GZ0xqa0MwbzVSNTBFSXVSVUktbFJHcU5QcXQ2Q1BaOExva2lQZ0lPUEYyN1V5VGNkcUp0?oc=5",
-   "data": "Thu, 27 Aug 2026 07:00:00 GMT",
-   "fonte": "Andrea Galeazzi"
-  },
-  {
    "titolo": "Duo, l’iPhone pieghevole la scommessa Apple al costo di 2000 dollari - la Repubblica",
    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMGZ1cjV5OEw1cXU4Ml93MTVULVpBZUIyZUtlNmg4bU5jaFFlTW1SM2NWYVNKREcyeHNyWVR6bFJ6QnMyZEswcU1fMTdaNzEwdzhoamtwbEdwSms2MExNMnh2QUNKRE1wMVJWMUx3QmI0c3FIa2NGSHl0MnZnQnQ3cm91Z3diWWN6THhqSUs5RmRqcTQxaThWQUFIc0RMMUJ6SW9Wa015S0dfenZ0V2x1T2g2N0ZtcDZaM2NjSVJfM2YxUQ?oc=5",
    "data": "Thu, 10 Sep 2026 07:00:00 GMT",
    "fonte": "la Repubblica"
+  },
+  {
+   "titolo": "Il CARTONE della PIZZA INTELLIGENTE fatto da APPLE! - Andrea Galeazzi",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nTzBoNjVzckp2VlBSLW0xdWNVNzhHYUJoVHNMaDdiTVFMSDZsNVd6cExZVHFxUW5fX2pjdktHaG9GZ0xqa0MwbzVSNTBFSXVSVUktbFJHcU5QcXQ2Q1BaOExva2lQZ0lPUEYyN1V5VGNkcUp0?oc=5",
+   "data": "Thu, 27 Aug 2026 07:00:00 GMT",
+   "fonte": "Andrea Galeazzi"
   },
   {
    "titolo": "La strategia di Apple non insegue il mercato maturo - Melamorsicata",
@@ -305,16 +304,16 @@
    "fonte": "Melamorsicata"
   },
   {
+   "titolo": "Apple deve pagare 5,7 miliardi a Taction Technology per violazione dei brevetti - blue News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNUVGSkVMY2hLdVZUcURfVzF1SmVQNWp0Sk1weWl6c0NTV0FWSmF0Z3lTMXE2Y2xqM0pRcEU4azNsUExjSV9uZk9TNFA0OHlMbGNPSzJySUFxZDhuUHhaVmxIaU80Z244UVFFRlFfWkRyTWFFZHZzZlRIMmFibGdBa0wya3AzcjQzOVphblFQS1AxM25wSm5KS3AwTkpBVWFvTkZaei1PcnQ1Ql9HZ19n?oc=5",
+   "data": "Sun, 27 Sep 2026 07:00:00 GMT",
+   "fonte": "blue News"
+  },
+  {
    "titolo": "Federal Jury Orders Apple to Pay $5.7 Billion Over Haptics Patent Infringement Case - TIKR.com",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZUp6ckVkaE5JMVZNMmJ3MHNNSDFjNThMSFZzQXpBMzd3T1JiTVJWM0pwbTUtQUwzV09BQXl5eG8yRWp2cW5OSW5NazZiTWdNaHVkemNpckVnMmZabTVINHAtVzZlcW9lci1McXItUFlXZEtKQlNOSkMyOGJNWjcwVFo4VFdLdzFjM3Zj?oc=5",
    "data": "Mon, 28 Sep 2026 07:00:00 GMT",
    "fonte": "TIKR.com"
-  },
-  {
-   "titolo": "Apple ha in testa la correzione ideale per gli smartglasses - WeAr news",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQlFGMnZxU3l5SnN1VUdPY1VRakV3SjBtY2c3R2dzdHQ0anNabEJERm1HU2ppVHNiSHduOVFPd2lWdFJMR0Y3clVkbW5MMUI3QUNXVF9yaU53YmZmaWNneUlaWGlkS1M1YWFGakwzMS1UQkdndm5tNXEtU3FUZjNZMEZaQ1hiOHc?oc=5",
-   "data": "Mon, 26 Oct 2026 08:15:05 GMT",
-   "fonte": "WeAr news"
   }
  ]
 }

@@ -1,35 +1,11 @@
 {
- "aggiornato": "2026-11-19T14:11:09+00:00",
+ "aggiornato": "2026-11-20T13:53:11+00:00",
  "news": [
-  {
-   "titolo": "Data center in Italia, 37 mld d'investimenti potenziali: cosa sappiamo - Sky TG24",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiQ1lmdGI4TTRTdGxrcUNCYkFnNVkwanZvZjlUcm5uMFlfaFVHc2NySzI2a25UWG1iT3RCU1NCNEhUNWI0eHlTYW9uUkU4Zlc4WTNJTmFvXzFvR25oT0VqTmFGWlBad24tQi1sTlRDcm93dmdYXzdEY1FLZw?oc=5",
-   "data": "Fri, 06 Nov 2026 08:00:00 GMT",
-   "fonte": "Sky TG24"
-  },
   {
    "titolo": "Ad Amsterdam un gruppo di attivisti ha invaso il cantiere di un data center di Microsoft - Il Post",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSUdIanRuendWTEZTWTdaMU53NFcyUUxBWGtmNzV3dGh1bjNtV1EtVzk2MDR0cll4cW9JY2ZFY1Z6c2gzOWtVXzkzQmtDT0hrX3lReDZIU0RrT19WMzVycDJoQWpWdm5CTGhtUDNDaEdvMkNQYlVBNVRkM1hrcHJNUTdMV1VabWoxeWJwbG5PYw?oc=5",
    "data": "Sat, 07 Nov 2026 08:00:00 GMT",
    "fonte": "Il Post"
-  },
-  {
-   "titolo": "Una distesa di server tra i campi: il data center Microsoft che alimenta la protesta nei Paesi Bassi - La Stampa",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcHF1d2xOejg4X2xvYV9XaE1UWjRUTlNTZXEwVmJsZmIwb2VQU0h4U2tEY3FxMUk2MUVzbWxxd19ZakhTREJGLVZjZWlQdW1DSHVJaDA0RHdZTWo5Nlo2TjdvdkpBMS1nMFNDSmQwS2EwX1ZzQXNNR0ZnUTNianNZQVFpYmJEVmFyTng4UVRCNlJsZ29heHBSSldadXE5S09JME0xWWkwZGZoUlNFb2VkY0xxN2w4UQ?oc=5",
-   "data": "Fri, 06 Nov 2026 08:00:00 GMT",
-   "fonte": "La Stampa"
-  },
-  {
-   "titolo": "Video. Amsterdam, manifestanti assaltano il cantiere del maxi data center Microsoft - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb1dPWUY0azdGOUxWQTA4My1uXy1yTjlidm1xc2F3a2ZEMnFxZzdGcXJMQjR5dVNibEtkcUNvT3BSVnN3ZlJ5WnF1S3BRcVJiWHFPajdDR1F2eDRjRks5Q0tfSGNlNjRnMXRvNDFsU0d6cy1ibVoxYVUzUUttNXpwQXlwbG15bkpwM1RqSHJHNlpNbDJuQy1XQ1I4OE9ERkxQaGQ2aC1hZ0lidFJXQmNncS1ZSmNDT00?oc=5",
-   "data": "Fri, 06 Nov 2026 08:00:00 GMT",
-   "fonte": "Euronews.com"
-  },
-  {
-   "titolo": "Manifestanti irrompono nel cantiere di un data center Microsoft ad Amsterdam: rapporto - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wY3NSVVdBV0FkNmtaWGN6T0phNTJzTUJnbXBYZkxmRVZ3V0lpYkJLWGdlQk82Z1lpdWFaTTBnTVh3anV4c1RpRnBFeUJQS2dVRlNDOGtUSW04NWlrd3Z6UWgzdTJZRzlVSXZmaTk4RQ?oc=5",
-   "data": "Sun, 08 Nov 2026 09:48:48 GMT",
-   "fonte": "TradingView"
   },
   {
    "titolo": "Olanda, gli attivisti fanno irruzione nel cantiere di un data center Microsoft ad Amsterdam - Video - Il Fatto Quotidiano",
@@ -38,16 +14,22 @@
    "fonte": "Il Fatto Quotidiano"
   },
   {
+   "titolo": "Manifestanti irrompono nel cantiere di un data center Microsoft ad Amsterdam: rapporto - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wY3NSVVdBV0FkNmtaWGN6T0phNTJzTUJnbXBYZkxmRVZ3V0lpYkJLWGdlQk82Z1lpdWFaTTBnTVh3anV4c1RpRnBFeUJQS2dVRlNDOGtUSW04NWlrd3Z6UWgzdTJZRzlVSXZmaTk4RQ?oc=5",
+   "data": "Sun, 08 Nov 2026 09:48:48 GMT",
+   "fonte": "TradingView"
+  },
+  {
    "titolo": "Verso la trimestrale di Nvidia: focus sulla leadership, la Cina e i timori sui data center - Morningstar",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNelAxOXBHbjB4MnJqYlpZNmNQNWhvb2Y1Tkx2Vlc5MWg4a1lHRUdQRWpoUE5CYmgyS0o0bW5TU3MwZl92M2tHNk1TSnE4N0JhNFJRVlFXMUlrWEsxUHFUWmxjaV9DTXAzZ3dNQm16bWg1cmFQZ01WbzJ4a0VuY0NHSGtlNzNrcWpvTVRpTjczY2VlRE8wcmpva0huWjhDVlNFNEpCa1d5WTJjUFNyd2NVc281VWdfb21oa21KOHkzTkxCbXNXOThHbA?oc=5",
-   "data": "Fri, 13 Nov 2026 10:55:03 GMT",
+   "data": "Sat, 14 Nov 2026 11:33:06 GMT",
    "fonte": "Morningstar"
   },
   {
-   "titolo": "Il crollo di Nvidia e la proposta di Jim Cramer: tra cali storici e nuove tensioni geopolitiche sui data center - Yahoo Finanza",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xVWs2WlZmSzJXcHFFc0xvbjZEeEdfV3NVOWZjYTFwZDhuTDlBNC1jaUR0bk03d29DMFpsdWcwVUUzX28zcVlneDU1aWlvMnotVUUxQXZ2bld6cUY3dHRQbzJjdG9TRHowejlaV2kycXg5MW5IZ2NRaDljZzJ2Zw?oc=5",
-   "data": "Fri, 06 Nov 2026 08:00:00 GMT",
-   "fonte": "Yahoo Finanza"
+   "titolo": "Blog | La mappa dei super-data center dal 2026 al 2028 - Info Data - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWjZCS1BMbzFRQ21QRHMzNTl3U2g1OXJZck9Sa3hDWmJqYmh0S1JQRk41TDNUYTFBRHlfbnVQQURDNFhtdUdITDI4enZpWWkzUmhiQzcxN2VWUHRwLXNRR2dJTjZNZVFtM3hnTTlwQmwwek1aZlNrTGdyNlloSjR4TjZnaHBmNTBLSUsweEw2MmkxSk9wc1g1UW9LZHQ?oc=5",
+   "data": "Sat, 14 Nov 2026 11:55:48 GMT",
+   "fonte": "Il Sole 24 ORE"
   },
   {
    "titolo": "Nvidia smetterà di vendere chip ai data center che affittano oltre metà delle GPU alla Cina - Investing.com",
@@ -68,13 +50,49 @@
    "fonte": "la Repubblica"
   },
   {
-   "titolo": "Attivisti occupano il cantiere del futuro data center di Microsoft - TVS tvsvizzera.it",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT1FJZ1RXRS0zOV9NV1lUel9WLWxhNFNRTko3Z3JDRUoybTllV1J5WEtOV3BzM3BsTGZkSzhoVDNtYnowUFpnd1pESXdqaWdFTFpqemJCdlhXLXJXdEpyYl9KVkhTMXZ0aTNSZ3M5U1dmZ0NBYTBMWC02UjQ3M05ySUNzb1hkQ3RwQ3JHY3Z4Wm1ZVWFfT2g0MWpZcW9LRXY3MjUzVUNVUUo?oc=5",
-   "data": "Fri, 06 Nov 2026 08:00:00 GMT",
-   "fonte": "TVS tvsvizzera.it"
+   "titolo": "L’AI accende la protesta: ad Amsterdam assalto al cantiere del data center Microsoft - La Discussione",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IVkpvQjgzRlhGWl8xT1daRTY1cFR6a2NHS2J6N2Y2dHh1THNmdDhQTTlobnN4dUd5TGRTczhXN3BZZ2w3ZjNKRzFZWVZSRTlyR2Y0a2luTjUybXJ3OXM1aEJlenRnQUV2N1o5UlhjUVdwb25QaDNPVW9Mbw?oc=5",
+   "data": "Sat, 07 Nov 2026 09:09:02 GMT",
+   "fonte": "La Discussione"
+  },
+  {
+   "titolo": "Amazon investe 6,3 miliardi in energia rinnovabile in India - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY1dZRmdrRmltMHE5LVhMb053ampFbWRFTy1qOGowekZSS0I1QjlrYUxVc2IzZElZSmJrY0RMM1U1Z2pYTmFKVTI3TG05YTA5QThfb1ZqemJ3TGQySnRlNk1BNnZYUWJiakx2cGhJMWFEMm5peDc5NDhEVzg3TGw1WkRNc1FxdzFpUzRyM19SQk1ZbFM3T1BuSA?oc=5",
+   "data": "Wed, 18 Nov 2026 15:48:57 GMT",
+   "fonte": "Euronews.com"
+  },
+  {
+   "titolo": "Ricavi dei data center di Nvidia nel terzo trimestre pari a 107,6 Mrd USD rispetto al consenso degli analisti di FactSet, pari a 101,9 Mrd USD; ricavi dell'edge computing pari a 8,2 Mrd USD rispetto al consenso di 7,46 Mrd USD - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVGhSbXc2UldRMjRabElWM05PeDJwSXVFSkxmZER2QlptVUNLeUV4Y1JELUhjN1RBd1l4RkRZWTBJWTA3TnJRYzNvU2h4OUdNSWh0Zlo4NEMyWGQ3dFk4WDRsLWxMQ0JQTjB4Z1AteGRsd3ZFRmZvTVpKVG5ydmg1eUprNWxOSExMNmxxS2FUUjlWV05Nbmxwc3BSZ1dvSEVteHhfVk10aTVOVGlFbDFWYzE4cmRWMGFQQTVWYWVQMnNJSUw0aUJ4eTlLaHdyOHlGbEhsVjhvRDdTcUN0RGF3Y09yS19WaWtCREpN?oc=5",
+   "data": "Tue, 17 Nov 2026 21:23:47 GMT",
+   "fonte": "MarketScreener Italia"
+  },
+  {
+   "titolo": "Microsoft si oppone al ban di Trump sui trasmettitori cinesi per i data center - Startmag",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS0ZSajRzMGpYLVM2bS02U2Y3akZXMld3b3YwQUV2N1pyNGJPaFR0YVRRZ25lQlhZTC1SS1pub1RqX2ZXX2pEY1kxWUtyeVhBRHgwNmxtZU14a0MtU2ZkM0c3eEc5WnViWk1CYkpfaXg1RGxtM0VUbVQyVXRlQzFzMVBn?oc=5",
+   "data": "Tue, 10 Nov 2026 08:00:00 GMT",
+   "fonte": "Startmag"
   }
  ],
  "norme_usa": [
+  {
+   "titolo": "Self-Regulatory Organizations; MEMX LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
+   "data": "2026-11-20",
+   "tipo": "Notice",
+   "agenzie": [
+    "Securities and Exchange Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/20/2026-23650/self-regulatory-organizations-memx-llc-notice-of-filing-and-immediate-effectiveness-of-a-proposed"
+  },
+  {
+   "titolo": "Self-Regulatory Organizations; Miami International Securities Exchange, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Permit the Listing of Binary Options Overlying Key Performance Indicators Reported by Certain Issuers of Stock",
+   "data": "2026-11-20",
+   "tipo": "Notice",
+   "agenzie": [
+    "Securities and Exchange Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/20/2026-23649/self-regulatory-organizations-miami-international-securities-exchange-llc-notice-of-filing-and"
+  },
   {
    "titolo": "Executive Compensation Disclosure Reform",
    "data": "2026-11-19",
@@ -114,22 +132,14 @@
    "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23506/agency-information-collection-activities-submission-for-omb-review-american-time-use-survey-atus"
   },
   {
-   "titolo": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Its Rules its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
-   "data": "2026-11-18",
+   "titolo": "Arms Sales Notification",
+   "data": "2026-11-20",
    "tipo": "Notice",
    "agenzie": [
-    "Securities and Exchange Commission"
+    "Defense Department",
+    null
    ],
-   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23427/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed"
-  },
-  {
-   "titolo": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing and Immediate Effectiveness of Proposed Change To Amend Its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
-   "data": "2026-11-18",
-   "tipo": "Notice",
-   "agenzie": [
-    "Securities and Exchange Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23425/self-regulatory-organizations-nyse-american-llc-notice-of-filing-and-immediate-effectiveness-of"
+   "link": "https://www.federalregister.gov/documents/2026/11/20/2026-23638/arms-sales-notification"
   },
   {
    "titolo": "Addressing Remote Access to Advanced Semiconductors",
@@ -180,16 +190,6 @@
     null
    ],
    "link": "https://www.federalregister.gov/documents/2026/10/28/2026-21943/health-data-technology-and-interoperability-onc-deregulatory-actions-to-unleash-prosperity"
-  },
-  {
-   "titolo": "Outbound Investment Security Program Regulations",
-   "data": "2026-10-26",
-   "tipo": "Proposed Rule",
-   "agenzie": [
-    "Treasury Department",
-    "Investment Security Office"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/10/26/2026-21786/outbound-investment-security-program-regulations"
   }
  ]
 }

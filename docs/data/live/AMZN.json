@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-19T14:10:59+00:00",
+ "aggiornato": "2026-11-20T13:53:02+00:00",
  "filing": [
   {
    "tipo": "10-Q",
@@ -93,6 +93,15 @@
  },
  "norme_usa": [
   {
+   "titolo": "Privacy Act of 1974; Systems of Records",
+   "data": "2026-11-20",
+   "tipo": "Notice",
+   "agenzie": [
+    "Justice Department"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/20/2026-23721/privacy-act-of-1974-systems-of-records"
+  },
+  {
    "titolo": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to Military Readiness Activities in the Mariana Islands Training and Testing Study Area",
    "data": "2026-11-18",
    "tipo": "Proposed Rule",
@@ -139,16 +148,6 @@
     "Veterans Affairs Department"
    ],
    "link": "https://www.federalregister.gov/documents/2026/10/23/2026-21697/privacy-act-of-1974-system-of-records"
-  },
-  {
-   "titolo": "Parts and Accessories Necessary for Safe Operation; Application for Exemption From Aurora Operations, Inc (USDOT #341156)",
-   "data": "2026-10-09",
-   "tipo": "Notice",
-   "agenzie": [
-    "Transportation Department",
-    "Federal Motor Carrier Safety Administration"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/10/09/2026-20734/parts-and-accessories-necessary-for-safe-operation-application-for-exemption-from-aurora-operations"
   }
  ],
  "news": [
@@ -195,22 +194,22 @@
    "fonte": "Libero"
   },
   {
+   "titolo": "Il 19 novembre inizia il black friday Amazon 2026 con oltre 1 milione di offerte: come seguirlo - Corriere della Sera",
+   "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQbUVKWFY3SkVSLVA4S1B6b29jd2pLTWhVMkx6ZmFrTzN3QUNKUWZQcUJCb3NIeTlNM2h3ejJIUkxwdElfaF9LeVo2WDIwRnpPaEZjMW5LZWZDVHAwTHZhbFc5a0daQ0hCODlvbHBZanNCWWpEdjVKaER2OWdkM3hVaXpQcTROZU9kbkZEdERpZl9aMkhHeUxMLVY2MVRhTXU0TjMxaU1aa19CMXBONjQ0TlpuWWVIaDZDb2h5RlV6ZmpZR1BfY05ROXh3TFRUMl8wa0pCYmRHQUh0Wk9vWS1zSEt5c3hKWjd0VXFCdHhXdTNIQ2xQZXlFX2gtT2ZLOXA1OE1LLXFwM1pkTDhJV0E4Uk55aDFxMmQ2MTBvdnZXWnJoQUpmWU9CRUhTWU1xS1FRc1FFX09Mb2dCd9IBvwJBVV95cUxOWWp3VDFjOWhBZjV5cThUM3lfalNjREVkWE1oeGpFQWRUV05KR2Ntc0dRTnN0UGZ5NXBFbzJ2QVBxbWY3Z0I0Rlp2UjhsVndRbUdxREpkNFlORk1SOXB0ZzAtMWdkczhMbUZTZ1JuOWxMVDRPc0R1WnQ5VzFUa3JxTmZEYmFVaGJxeGFKU29RNGVWSWJMODhwTHFLeHNJQmZaalcwVUdYNEN0OGtDUDdGVkxZVU5TcW1IWmUwUFpVc0dGZE9RN04tcEJjazlRczlQc3J5Vl9TeS1GWmUzR0J4ZlNyQ3pzRzNVVlRad2JPTkJHbk9vMWJTZmIxRndEWVJtT2poSF9xUWpEYUFPTVFUWnJYX1NnUXFEbFNIbF9DaGlJS0ZyYUh1NFlvQjBvNDdWOXNXT3hDcllEWkdwM1VV?oc=5",
+   "data": "Tue, 10 Nov 2026 08:00:00 GMT",
+   "fonte": "Corriere della Sera"
+  },
+  {
+   "titolo": "Comincia il Black Friday Amazon: tutte le migliori offerte tech, in continuo aggiornamento - DDay.it",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMTRZWFFqcnh3cTFfOGIyLTBCZjkyazhwS1FJUVpOYU1QcEpnVTN5WXc2emdfVWhVOG5wYS05b3l5ZTQtZjVBVHlXSm52V0Rzc21qbm9naW1rT0FKUjRwcjRGLTk5ZS1iNFA2RHlFVHFvVGVSMk5RNGFidVBSWUlLbm84Z1VBRmViSUtacllIUk9MN3lGaFhYcVhpR2taN29EbExVZkU3VnNwNXFTOTFGX0poZ0xrS19Gcjlva20tWEhYZw?oc=5",
+   "data": "Thu, 19 Nov 2026 15:48:34 GMT",
+   "fonte": "DDay.it"
+  },
+  {
    "titolo": "Un razzo che doveva portare in orbita 40 satelliti di Amazon ha avuto un'avaria poco dopo il lancio - Il Post",
    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FQjRKdUs3anVKa3l4RTRLemRFcFg5RDhLOUd2VnA2MVhOWVZrNG9FbnNwVE1SNFNnVTFMRktPYjFEUTBNR2NyNkpRNzZDbmVTalM0c2JyTkJtQ3FHcFVjbHcxdnpoLU1JbFBYazFfTGM?oc=5",
    "data": "Mon, 16 Nov 2026 05:30:38 GMT",
    "fonte": "Il Post"
-  },
-  {
-   "titolo": "Black Friday Amazon 2026: tutte le offerte e sconti in tempo reale | Live - HDblog.it",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaVRkV0V6dmQ1eGpVUnZnWDJETmtJbjZVWVpJTmVJc3EzQXdBdmwxWWxfWnpDYjM2MnFCRnozenZYTW1PSnNnNXpEMDlwdEpuRUxxTjgyTU1YVVRoVGtSVVlQVkxwdEg3VmIxM2RZUlc1eHJXX2tIRnVGVnNlZWNpd3ZyMnBNeEU1d0oxUnBzYk1xTjkw?oc=5",
-   "data": "Thu, 19 Nov 2026 11:17:29 GMT",
-   "fonte": "HDblog.it"
-  },
-  {
-   "titolo": "Le foto dei volti gestite da Amazon: Israele profila i palestinesi - il manifesto",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUlIzTmZJVGZMc3VaNlV0REhHUk5pM0VtVi1NRFE5eUFGZzFpX2JvLW5majRoYm5jOVN1MFNFMWprcFQyQ1UtVElpZmt5am8zMzNLZFZPQjBjcTduM2JQZVhPa0pTYTE0R0VoclNXWUZCamlGdE02OTlvekM1aHZWcFpUbUZUV1NBNGM2REhlSHBqQQ?oc=5",
-   "data": "Wed, 18 Nov 2026 22:17:04 GMT",
-   "fonte": "il manifesto"
   }
  ],
  "news_legali": [
@@ -239,16 +238,16 @@
    "fonte": "Amazon Game Studios"
   },
   {
+   "titolo": "Google e Amazon arriveranno a detenere una quota di Anthropic superiore a quella di tutti i co-fondatori messi insieme - Forbes Italia",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcVo2T1hCY29naFRyMjlhOGJzd3Fpcy1oQ0lKMF9SQmNtN0FrT1VYcjJMRy1DRGVuU1oxRldqODNUS0x3Y3dwV0lEdzc3X0xYS19iUldYTnpteGdBNzI5U1V3Zkh3LTFfREdtNTVOMGJhbUpPY1dWSTJ0ODk3UHRUVkhR?oc=5",
+   "data": "Thu, 19 Nov 2026 13:00:37 GMT",
+   "fonte": "Forbes Italia"
+  },
+  {
    "titolo": "Amazon LEO, più di mille satelliti costruiti e 100 pronti per il lancio - Key4biz",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR2p6c0dxeHBFcUNmdjBJT1p6LWNxVDBreFpEUExiMlRLeHByQXZmYTFVOWVSekZOaHBhQzZmeHFiWTg0QzJUbEdPMHJBTlBLZG9SMWVXOTlucExTNTY0ZTdyaVN6aFVta21JOFBnQl9ER1ZDa3ZEdFNZTmMtTENXUHFaaVhRNk9XN3VTU2tENktBcWlnMXVpc2Y4QnQxbnU0b2tz?oc=5",
    "data": "Mon, 12 Oct 2026 07:00:00 GMT",
    "fonte": "Key4biz"
-  },
-  {
-   "titolo": "Google e Amazon arriveranno a detenere una quota di Anthropic superiore a quella di tutti i co-fondatori messi insieme - Forbes Italia",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdVc3eXJPaWZzU0h5NXIxRDVUWU1ERzFHWWN0X3pxcnI0MC1JT1pZOVFCaWdsT1JLLVpDSVg3YTY1OGI3c2hvWVBkZVFmQlFnaXdmUDQ3aUJTR21uUVp3Y1F4bTBKT0xPbEU1ZTZ0NzFPYUNpeXVRS3VMLVEzLXFPXw?oc=5",
-   "data": "Thu, 19 Nov 2026 13:00:37 GMT",
-   "fonte": "Forbes Italia"
   },
   {
    "titolo": "Amplify: 30 anni di bellezza, speranza e solidarietà per l'Amazzonia - amazonwatch.org",
@@ -289,28 +288,28 @@
    "fonte": "Pasquale Pillitteri"
   },
   {
+   "titolo": "La voglia di privacy Apple guarda alla conduzione ossea - WeAr news",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5fYm1kSkpuS0luU0h3amF1MTdHN2tVbXZfcFphVThkeDF1dllPcXVGSWFOTDNIay1pY09iZTJjUUpQX0VZWEloZ2liZGxSclNOQUdvM3hUS1BBWllTbWhwZW1WSklvcDB3T2Q2MlZnNFM5TTlmZlE?oc=5",
+   "data": "Thu, 05 Nov 2026 15:47:59 GMT",
+   "fonte": "WeAr news"
+  },
+  {
+   "titolo": "Pubblicità nei giochi Xbox? Microsoft brevetta un sistema molto discusso - SpazioGames",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQekdDbnpwU3B4U29saVBTZ2ZoWm9OWVM2d3dJd0tDYlU2M3FCeXZ1ODl1cWd3ZERDT2J2QUdoREhJNnVZcmo4ZHBNSXd2OW8tdHNxc2RmcHNvcXFMZkt4czcxVEktVjIzNkRkckpWR3hwOU5EYWdaNVZVU2h5UjRnUV9PTFVTRTE4amNLSzdvMF8tQQ?oc=5",
+   "data": "Wed, 23 Sep 2026 07:00:00 GMT",
+   "fonte": "SpazioGames"
+  },
+  {
+   "titolo": "Sony brevetta un sistema per ridurre i dati nel cloud gaming - HDblog.it",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ21tbTZtRWEwVm45MGJSSmlqa3VJUU9BaHZuUER5TDd4cG9mTy12VXNoV1F2bHpWSUJGQS05UWQtY0FCaDRxZkx4ajNoU2RMcDJPV3F6ZjJTSjBkTE9TT3lZakhTSmEwZTBQQVVWTnFSVVNBWUlJMmw2XzgzeWdzQ1IzNFk1clVkeldDd0FodzJYQQ?oc=5",
+   "data": "Wed, 04 Nov 2026 08:00:00 GMT",
+   "fonte": "HDblog.it"
+  },
+  {
    "titolo": "PlayStation 6: il nuovo controller avrà un feedback aptico rivoluzionario? - Everyeye.it",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZnY4aXhqSHdIeDBGUE0zTUNuQlFLNUw1eGhEbXhNeTMwZFJRbDBuc3FqdHNmZ0VzZ1h0V1ZSMFR5ZFdxdGtPMWhQaWFIMDVReWdSOHVXRGFDRWJBajluVXZNWVRIWXJqd0NyV3lRbUFOU1NVNHBhdUVvZGVGdVRTemY3NlNSQlFlMW44ZkxGdVN4M3l0U3BtVzhjLUhIRTlEbTJDdExn?oc=5",
    "data": "Tue, 17 Nov 2026 05:02:00 GMT",
    "fonte": "Everyeye.it"
-  },
-  {
-   "titolo": "Un brevetto Sony svela il controller PlayStation che paga col telefono - Pasquale Pillitteri",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZmJxazVnQkhrajU1bzhPTC1QYmg2WGo4cnBwLTVkbHNmSGd6eWNfRlZDQzhpS0EzaFdWdGI5SGd4UVFVTWU1QzBfMU1EREFPcm8tbE84SDh5VWltT0xMaEdWdXZCamJnR3piY3NkZ2R1dFVPYzZETmJteXd0N0JOZ1o3bWV3QUtQQ250TFM2dWEyVUh2SHoxaEMzVC11RXc?oc=5",
-   "data": "Mon, 16 Nov 2026 08:43:03 GMT",
-   "fonte": "Pasquale Pillitteri"
-  },
-  {
-   "titolo": "Qualcomm Secures Major Multiyear AI and 5G Patent License Agreement With Huawei - TIKR.com",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb3RuYjBOaURlcTFPNVNsV3U0Rlk0UHlVLS0yWlA0RDd5b0V1TkFlVHNqXy1ST0NORlJhaThoaW9MV3hHb0R2TGlPSDNDZm1qMmtBR2lMQ1AtbzZEZXpfNUlaVEt4VHdCSVpCeHdyRXhvS2dfbDFObmVvR3REZlFZOA?oc=5",
-   "data": "Mon, 05 Oct 2026 07:00:00 GMT",
-   "fonte": "TIKR.com"
-  },
-  {
-   "titolo": "BYD non si ferma più, ora vuole fare concorrenza anche alla Smart #2: ecco il brevetto - Everyeye Auto",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUDlnS2dzdElvTERveUVKS2Q4bUpqY2lzQVcyX2ZrclNfMkNKRi1HXzEyVV9nUVdtVGpFVl9VMnNNa041ZkZ0Y0dLQ3RZYW5mYWoyRnQ0QXlhaVpLMGhMUzdGVTA2b3NZN3F6Y0R3WUpXXy1jNHJPTndmNGp5YUZmRjM2ZmpuXzA2NzN4WHhXRzI3RkRXQjM2V3FaNmJWUQ?oc=5",
-   "data": "Wed, 11 Nov 2026 12:19:00 GMT",
-   "fonte": "Everyeye Auto"
   }
  ]
 }

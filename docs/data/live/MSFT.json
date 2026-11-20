@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-19T14:10:53+00:00",
+ "aggiornato": "2026-11-20T13:52:57+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -99,6 +99,44 @@
  },
  "norme_usa": [
   {
+   "titolo": "Magnuson-Stevens Act Provisions; Fisheries Off West Coast States; Pacific Coast Groundfish Fishery; 2026 Tribal Fishery Allocations for Pacific Whiting; Reapportionment Between Tribal and Non-Tribal Sectors",
+   "data": "2026-11-20",
+   "tipo": "Rule",
+   "agenzie": [
+    "Commerce Department",
+    "National Oceanic and Atmospheric Administration"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/20/2026-23709/magnuson-stevens-act-provisions-fisheries-off-west-coast-states-pacific-coast-groundfish-fishery"
+  },
+  {
+   "titolo": "Self-Regulatory Organizations; MEMX LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
+   "data": "2026-11-20",
+   "tipo": "Notice",
+   "agenzie": [
+    "Securities and Exchange Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/20/2026-23650/self-regulatory-organizations-memx-llc-notice-of-filing-and-immediate-effectiveness-of-a-proposed"
+  },
+  {
+   "titolo": "Self-Regulatory Organizations; Miami International Securities Exchange, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Permit the Listing of Binary Options Overlying Key Performance Indicators Reported by Certain Issuers of Stock",
+   "data": "2026-11-20",
+   "tipo": "Notice",
+   "agenzie": [
+    "Securities and Exchange Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/20/2026-23649/self-regulatory-organizations-miami-international-securities-exchange-llc-notice-of-filing-and"
+  },
+  {
+   "titolo": "Take of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to Seabird Research Activities in the Farallon Islands, California",
+   "data": "2026-11-20",
+   "tipo": "Notice",
+   "agenzie": [
+    "Commerce Department",
+    "National Oceanic and Atmospheric Administration"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/20/2026-23631/take-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to"
+  },
+  {
    "titolo": "Agency Information Collection Activities: Requests for Comments; Clearance of Renewed Approval of Information Collection: Monitoring, Reporting, and Verification (MRV) Program for Annex 16, Volume IV of the Convention on Civil Aviation",
    "data": "2026-11-19",
    "tipo": "Notice",
@@ -117,45 +155,6 @@
     "Federal Energy Regulatory Commission"
    ],
    "link": "https://www.federalregister.gov/documents/2026/11/19/2026-23609/freeport-lng-development-lp-flng-liquefaction-llc-flng-liquefaction-2-llc-flng-liquefaction-3-llc"
-  },
-  {
-   "titolo": "Agency Information Collection Activities; Submission to the Office of Management and Budget (OMB) for Review and Approval; Comment Request; National Survey of Children's Health",
-   "data": "2026-11-19",
-   "tipo": "Notice",
-   "agenzie": [
-    "Commerce Department",
-    "Census Bureau"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/19/2026-23557/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-omb-for"
-  },
-  {
-   "titolo": "Takes of Marine Mammals Incidental to Specified Activities; Taking Marine Mammals Incidental to Military Readiness Activities in the Mariana Islands Training and Testing Study Area",
-   "data": "2026-11-18",
-   "tipo": "Proposed Rule",
-   "agenzie": [
-    "Commerce Department",
-    "National Oceanic and Atmospheric Administration"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23450/takes-of-marine-mammals-incidental-to-specified-activities-taking-marine-mammals-incidental-to"
-  },
-  {
-   "titolo": "Algonquin Gas Transmission, LLC; Notice of Application and Establishing Intervention Deadline",
-   "data": "2026-11-18",
-   "tipo": "Notice",
-   "agenzie": [
-    "Energy Department",
-    "Federal Energy Regulatory Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23446/algonquin-gas-transmission-llc-notice-of-application-and-establishing-intervention-deadline"
-  },
-  {
-   "titolo": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Its Rules its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
-   "data": "2026-11-18",
-   "tipo": "Notice",
-   "agenzie": [
-    "Securities and Exchange Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23427/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed"
   }
  ],
  "news": [
@@ -164,12 +163,6 @@
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWDNmaTRPTEdIZEhoaEp1VzlZQnBNeDRGTjREeFVaVlZ2QjVJUjdySWwzTjVYeUoxMF9fY3FZV0FJQ3puc3pxS01mb1F5eU02VlRINjYyT2NZQWFDRm9Ua1hMbEQwdE5HOFhrb3E0bVl4eC01c1l0RExIel85VVBueUVIMjFWU1Z2eFhRZWdqeHljM19oeTJTMXktWXBhX28yT01hbG40Sk1wXzJaUUZLZ2ZiYmdJWmY5RGVyUWVNRdIBxAFBVV95cUxPQldQeFE5eEotSVZsOFRRQWdxdDJXNWZNczdtYlFRRXVoMUNUME83U2J5UkVLTklLMHdVbGxjLXRwYnZrUXB2bldYTk9PYUpZbWE0bVkzOEhNM01lUHZHbkZraXN1SGN4WFhwcnYyY0NkS05iX1VSSVRaQ0t0Z3dLUXpWR0pMVHJjWW5TWVhrV0VlaHN0Qnc5QlU5SVlBVmtCbzZ0cFo4bGVUcVZXaUk1ZHBBZ1RKRTg2QUdXcTJIZWFUTDJ6?oc=5",
    "data": "Sat, 14 Nov 2026 13:03:00 GMT",
    "fonte": "RaiNews"
-  },
-  {
-   "titolo": "Avviso su disservizi temporanei Microsoft 365 - Federazione Italiana Pallavolo",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IdW1LYXY2emFyb0NaNHQwelN1WnR4azdBM1M1Z0ZoS0xSdkZVYXFIdTlLenYzMUtHMklJSUZWTmVSRnhJTjhZQzgxVWJoanppMVk4R0hCVi1ZdkxPZFE2ZllGRk9yay1leXl2Rlpyc05ZZ3dTZl9INGVlcDQ?oc=5",
-   "data": "Fri, 13 Nov 2026 08:59:41 GMT",
-   "fonte": "Federazione Italiana Pallavolo"
   },
   {
    "titolo": "Down mondiale di Microsoft, servizi regolari in Europa. L’azienda assicura: “Nessun attacco hacker” - la Repubblica",
@@ -184,16 +177,16 @@
    "fonte": "Corriere della Sera"
   },
   {
-   "titolo": "Microsoft, blackout non ancora risolto ma esclusa matrice dolosa - Borsa Italiana",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSkpkMDdYTlA5ZEtRTXBDb3lRaVFROUNPQkpFaWNYWi1sMjJPa2d0MWtKUTRheWxPNzdpeHR6SE9TMFhBVVV0QWhIMmVLNDJNRXFrbEloWUdzRkx6djNBQlFYRk9SeXFFbjlEcGNRSmhkZUhjTlpuZW1nTU9xNXY0NlJkUUREWTNYVTQtdUhyRkJodTNJYVkyQ1Q0MDNIWlhyck44bTNOQWxJZjVhTDlRb1RDY0ZHUVJrbkZxRFRwOVJxWV81SEF4MDVwV1Q5cEZaS0ZTZEdmSFQzVjFLeVVhZg?oc=5",
-   "data": "Fri, 13 Nov 2026 10:10:00 GMT",
-   "fonte": "Borsa Italiana"
-  },
-  {
    "titolo": "I servizi di Microsoft stanno tornando a funzionare gradualmente - Il Post",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11MlFrNHdLUFlKdjlwcGF4bl85Q3NGeThNRlJkdkozbnpMZmpiX1ZMeWNLaGhVeDBOMWhXOHg3d1ZVNjU3VUNhZnNCOENkODhPWFRBZHBEN1dHTXhOYTM1NGsyeWxtY3FZWDF5UVZkWWxuYW45WGRF?oc=5",
    "data": "Fri, 13 Nov 2026 05:29:38 GMT",
    "fonte": "Il Post"
+  },
+  {
+   "titolo": "Outlook down in tutto il mondo, Microsoft: \"Escluso attacco hacker. Ripristino parziale\" - Sky TG24",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY1ZTaTFOdEU0QUxDSWNmMmVPcnRsWGkxUVNrM3liQk1ZZENlOW04aDEwV3FiVlhsS0dRNlFYU3lYcUxzaGU2SGZXTE5xZnJxX2JjLURZSlJHVVF4ZnAtc3pZQ1ZoN1dTdG9HbmRQbzNiTnFFQTFTenIxSktwckxZSzlHbmJmT3dLUEdVdU93?oc=5",
+   "data": "Fri, 13 Nov 2026 06:38:29 GMT",
+   "fonte": "Sky TG24"
   },
   {
    "titolo": "Microsoft down: il blackout che ha mandato in tilt il Pianeta - Avvenire",
@@ -208,15 +201,21 @@
    "fonte": "Il Sole 24 ORE"
   },
   {
-   "titolo": "Outlook down in tutto il mondo, Microsoft: \"Escluso attacco hacker. Ripristino parziale\" - Sky TG24",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY1ZTaTFOdEU0QUxDSWNmMmVPcnRsWGkxUVNrM3liQk1ZZENlOW04aDEwV3FiVlhsS0dRNlFYU3lYcUxzaGU2SGZXTE5xZnJxX2JjLURZSlJHVVF4ZnAtc3pZQ1ZoN1dTdG9HbmRQbzNiTnFFQTFTenIxSktwckxZSzlHbmJmT3dLUEdVdU93?oc=5",
-   "data": "Fri, 13 Nov 2026 06:38:29 GMT",
-   "fonte": "Sky TG24"
+   "titolo": "Outlook in down, problemi per i servizi Microsoft (compresa la mail) in tutto il mondo - Il Fatto Quotidiano",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR05mVTZzMGtNTnQtTHZfVFl6VjR5UmNGcEpSaWpKd0g3cFVmNjhHU1MyR0hTaGhIcVE4V1EwZkhiTVhJV2F0WVRyZ2k1ZDZwNEpaMGUxaFl5Uk1mcVRWT2VHV0c2cFUzM0stWU93TGFaYUNpd0MtdUJjdVlqN1JaTlRsY2ZLWG5GdnVZd2FhSm8zS01fUkNoRDB2VQ?oc=5",
+   "data": "Thu, 12 Nov 2026 19:45:57 GMT",
+   "fonte": "Il Fatto Quotidiano"
   },
   {
-   "titolo": "Outlook in tilt, disagi anche per Teams e Copilot: Microsoft indaga - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTEdueWY0dWRaSFJ0cS1aVVBRNmlwcVdsc0lHczBFUVNRNDhiSWtjWU9PRmMtSEpQVFV6dGxJNU5rNmNNYUtxcF9QTVhBVVNiV2dDSWpSUzZ5eTBuZFJUQ2puSzFsOFRJS1YxQXgwSjMtbEg0cVRzQ3BUM1M1X2FtNzhkWGFjazRjY0xDTGdPLXBaYW42RmRMQm1HNHJIUEFIcDJFWWdjZHNfZFVHMnI2OFRUSTdsZGdvcG5tUzBfVnZFcGM?oc=5",
-   "data": "Thu, 12 Nov 2026 19:37:38 GMT",
+   "titolo": "Outlook down, il caso Microsoft 365 riapre il nodo della resilienza - ZeroUno",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYkFCSG4waHpJa0NfRjIzYURpZzkzVnNKWWpxVU1BRDU3QVpwT25rZ2hOSE1vZ1d4M1NZRnBhZG9SeExGck9rWWlhcmdrdTc3RGRyVFlVUWtwSDA4M2F2dFJHRk5kQ2p0RnZKdG1oM20yaHNWck1xTVp3M0V1cUlpLVpOQjMxUGhZdEdpLWxRMGRKanBTZm5QT19TdGJITDBGckxB?oc=5",
+   "data": "Fri, 13 Nov 2026 10:06:04 GMT",
+   "fonte": "ZeroUno"
+  },
+  {
+   "titolo": "Microsoft, risolto il maxi blackout: Outlook e Teams tornano operativi dopo 18 ore - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdXFKcU51X05NRGRwTnpuMWota1FnTTlYbXNFaERsLXBtR2VBX3hWanR5YU5hWlhJcndDcjg0bmc2cEFxc1JsRzdsN2JTVjhqTVJ0SlUzcHNtQkdMQkhlYktnYUV4WHg4ZEpLQ25mQlc0N1A3RURpQjdoTlJiTjlQamNacGl2cmpFYy1oNXp5WXZHWjZiMVJma2puTWt6TG1oNkVOS19FNk9aTlZmdVhfalQxQ3k3VFU?oc=5",
+   "data": "Sat, 14 Nov 2026 07:34:59 GMT",
    "fonte": "Euronews.com"
   }
  ],
@@ -234,12 +233,6 @@
    "fonte": "Startmag"
   },
   {
-   "titolo": "Microsoft, Maia 200 entra in produzione: i nuovi chip Maia 300 arriveranno nel 2027 - Il Sole 24 ORE",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZy0wdVFoZ3ZtWk1GYTRxZU1zcDdkOG1aX1U1MFp3bzNKNWFjRUdJYWRmdHZwZkxTRFJKNFc0b3F6Y1h3eDE1eGNkbjE4aW1QWVhUbC1mdmVpQlI1M2J4QV84SDhsMENJR2JXMVBFX3pNYVNHeHlRdUNuV0pydGtobF9tWUxJNlFhWW5ta3pIbUVSLTJuSHZPWm1wd19sd3lwa3lFb2FaZW44TTRMaER4aWJrLS1abGhwN05JbFFn?oc=5",
-   "data": "Mon, 12 Oct 2026 07:00:00 GMT",
-   "fonte": "Il Sole 24 ORE"
-  },
-  {
    "titolo": "Microsoft 365, l'Antitrust respinge le proposte di Microsoft: troppo poco per compensare gli utenti - Hardware Upgrade",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQXNWdjV2NnRKZkRjanR4RHBOMFB6aWFMUVZVZnh4UWhPZlVlem9FS0Zkc2l3Z0JRU2phcDhJVkhDcE9rVUd2MjFFXzVkWmZmaTVJemhodmpYX3dYakl5eTBTRURXQ250a2U5MGY0M3Nfd2RwNHRydHdTR19oajhUNVFUU0cyRXctcTlTQnJzY2hkelFMR3JiRjY3aWZQaGNnN3FMZFViZHRHaU16RGpLR2MxOFJOTWRXZzJUQURpRFQ5VjMyVEhNUV9XZTl0T0JvLXhjRmtoTmdDS28?oc=5",
    "data": "Thu, 24 Sep 2026 07:00:00 GMT",
@@ -250,6 +243,12 @@
    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaEZqZmR2Y1JlMXNBeEk5dDFoSWYtaUo5M1VucTN5WGsxX1BKMVVmT2hxd0paby1jbzBZcFVQSFp3MExlWEdOX0pES0xoV2tIOGY3SHdpeDA5WFRobUw5anhMcFNkaU9pRzk5VVh2X00wY2JKRkNWWHRzZGIySTl5WXVyYjBYMmtDNHJOQkdGeFY5OURYSzBrbDlNLVZ5cVVvVFFEbzdXLVphWlVoQ0g3TWZpdFlEM2pFYkRnd0ZUZEdTXzJ3YjIxNnpMZHg?oc=5",
    "data": "Thu, 08 Oct 2026 07:00:00 GMT",
    "fonte": "iGizmo.it"
+  },
+  {
+   "titolo": "Da Diablo a Call of Duty, Antitrust e Ue verificano le spese nascoste nei videogiochi - RaiNews",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYXV2bkhyWmo5STUxMk1BVmhySElhd2RIMFRsRVZUbzZWQW9GNzVKZ3FiOHVZcVZoeG05MTB6WjN5dE9Pa0toVlJMWV96ZWRpbGJHSGR5cDNEdTRldkd6QV9xWlVfRDBtcXFHdlFvSkZUbjAwVkY4WndIRWJkXzl4Q2tYRHlZdmFXTkx0UUtKZ1JjWWRKdUJMYWtXekNwODR1VlZrQzlWcFJCOGJrNmE1S0d0U3RYN1h2N3VWYkItU19Xd3k5NlFKVm1nVDBqc3ljMW0zbU9aR0V4QUliSkJVcVVGVThkZ1FqeklKZnZvcmVWTjV5SmI2Q2xn0gH_AUFVX3lxTE9IVDJjYno4OGNEbDVpTDFheHZuWkVOWWxINlpKNXl5NllKa3dlcklHY3JSa0pvUEJBQ2d0eDlvRkM1OE1sUnVOWDdyWkYzLU04M00tbC1xclRhbEcwajJnUWRiWElaY1kwUXJjc01uOC1uUlY0emE1WGZVeUlsNm1hVkZyZVp5dW5zWlk4Y21jekxDLS01RFQyaURpbXJuelBOWUY4bHJnaEt1MTZ0OHVNTHhtY3JDTjV1VGhQVWtKTWtZNWVvTm5xMFZjS1lJVUR1UFlFUGkyQzcxTEYtTk5xbjZ5WENodHpkTmhSM3Z0VXNDSGV1X1RNN1pldnRlZw?oc=5",
+   "data": "Wed, 07 Oct 2026 07:00:00 GMT",
+   "fonte": "RaiNews"
   },
   {
    "titolo": "Microsoft ripensa Copilot: meno chatbot, più agente AI - La Stampa",
@@ -302,10 +301,10 @@
    "fonte": "Key4biz"
   },
   {
-   "titolo": "Spunta un brevetto Microsoft per pagare chi presta la GPU all'IA - Pasquale Pillitteri",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWFN6TmZxbnNSOHBsVjlOVnF2NHlERjNCaTEtWUI1SEIxYVlkNnJ2ZF9EZEFuaV84NHlaVU1YdFM5LW9TMnprNHBwS0MySVBJa3dCVmNGeWtUN1pkSmsxMEYtY1VHczRpQXkyU2g3VUtvMERwWm9YZFdEcVVZQkZPV2IyakY1dHBTVDE1YXFJYw?oc=5",
-   "data": "Wed, 11 Nov 2026 08:00:00 GMT",
-   "fonte": "Pasquale Pillitteri"
+   "titolo": "Microsoft e pubblicità nei videogiochi, nuovo brevetto depositato - HDblog.it",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYzRxX3JQRUZ1NzdzOVJRWHVvUk9PdEVNXy1rRWRaSVprYk04QnoxSm5Xam05XzF1TmJuQ1F0cjZjS2NsVlEtRmVzMVlhc3lDVEpzR19keGo2RUJ2VXV0dngwdl82X2pjY0dld1VJRm85NjE5TFFuMENEaTJBUDFaV0JuSkh2ZU83VmpwMVpKR1ItZnJCQ1E?oc=5",
+   "data": "Mon, 21 Sep 2026 07:00:00 GMT",
+   "fonte": "HDblog.it"
   },
   {
    "titolo": "Pubblicità nel mezzo del gameplay per poter continuare a giocare: è il brevetto di Microsoft - Multiplayer",
@@ -314,10 +313,10 @@
    "fonte": "Multiplayer"
   },
   {
-   "titolo": "Microsoft e pubblicità nei videogiochi, nuovo brevetto depositato - HDblog.it",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYzRxX3JQRUZ1NzdzOVJRWHVvUk9PdEVNXy1rRWRaSVprYk04QnoxSm5Xam05XzF1TmJuQ1F0cjZjS2NsVlEtRmVzMVlhc3lDVEpzR19keGo2RUJ2VXV0dngwdl82X2pjY0dld1VJRm85NjE5TFFuMENEaTJBUDFaV0JuSkh2ZU83VmpwMVpKR1ItZnJCQ1E?oc=5",
-   "data": "Mon, 21 Sep 2026 07:00:00 GMT",
-   "fonte": "HDblog.it"
+   "titolo": "Spunta un brevetto Microsoft per pagare chi presta la GPU all'IA - Pasquale Pillitteri",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWFN6TmZxbnNSOHBsVjlOVnF2NHlERjNCaTEtWUI1SEIxYVlkNnJ2ZF9EZEFuaV84NHlaVU1YdFM5LW9TMnprNHBwS0MySVBJa3dCVmNGeWtUN1pkSmsxMEYtY1VHczRpQXkyU2g3VUtvMERwWm9YZFdEcVVZQkZPV2IyakY1dHBTVDE1YXFJYw?oc=5",
+   "data": "Wed, 11 Nov 2026 08:00:00 GMT",
+   "fonte": "Pasquale Pillitteri"
   }
  ]
 }
