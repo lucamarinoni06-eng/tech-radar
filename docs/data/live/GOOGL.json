@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-20T13:52:59+00:00",
+ "aggiornato": "2026-11-21T13:16:11+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -99,6 +99,24 @@
  },
  "norme_usa": [
   {
+   "titolo": "EPA Response to State Initial Designations for the 2024 Revised Secondary Annual Sulfur Dioxide National Ambient Air Quality Standard: Notice of Availability and Public Comment Period",
+   "data": "2026-11-23",
+   "tipo": "Notice",
+   "agenzie": [
+    "Environmental Protection Agency"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/23/2026-23791/epa-response-to-state-initial-designations-for-the-2024-revised-secondary-annual-sulfur-dioxide"
+  },
+  {
+   "titolo": "Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing of a Proposed Rule Change To Adopt Rules To Govern the Trading of Options on the Exchange",
+   "data": "2026-11-23",
+   "tipo": "Notice",
+   "agenzie": [
+    "Securities and Exchange Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/23/2026-23748/self-regulatory-organizations-24x-national-exchange-llc-notice-of-filing-of-a-proposed-rule-change"
+  },
+  {
    "titolo": "Self-Regulatory Organizations; MEMX LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
    "data": "2026-11-20",
    "tipo": "Notice",
@@ -134,24 +152,6 @@
     null
    ],
    "link": "https://www.federalregister.gov/documents/2026/11/19/2026-23429/hipaa-privacy-rule-changes-to-support-coordinated-care-and-individual-engagement-and-reduce"
-  },
-  {
-   "titolo": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Its Rules its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
-   "data": "2026-11-18",
-   "tipo": "Notice",
-   "agenzie": [
-    "Securities and Exchange Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23427/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed"
-  },
-  {
-   "titolo": "Self-Regulatory Organizations; NYSE American LLC; Notice of Filing and Immediate Effectiveness of Proposed Change To Amend Its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
-   "data": "2026-11-18",
-   "tipo": "Notice",
-   "agenzie": [
-    "Securities and Exchange Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23425/self-regulatory-organizations-nyse-american-llc-notice-of-filing-and-immediate-effectiveness-of"
   }
  ],
  "news": [
@@ -166,12 +166,6 @@
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMHR0QW10Q3h3WnFwelJqYWpNQjhtZ0dkdzlIb1pkblMyUm1tSVh5cHNDcW9jZE00aWZWV3Awb1pJU2dld25BNTE3aUxmZm5IZmhrLU5VNDNlbGdIQ1FqNTFKMTg2MnVpZEJxbjJjQzFuejN3ejdFdFJRdG9icGFwRnZTUUpFQ25PN3VQXw?oc=5",
    "data": "Thu, 29 Oct 2026 07:00:00 GMT",
    "fonte": "Forbes Italia"
-  },
-  {
-   "titolo": "Agcom, Alphabet/Google supera per la prima volta la Rai nel Sistema Integrato delle Comunicazioni - Brand News",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb1BzTVpKNURhb3k1a3JDcnRab2F5WU1vNHl2M2Q2LXgydEhvS2ZWeXZWVW1XT0tybEd6dHBnZFRXSzh0SEpsRDJncHlSWlZNQzJKenR5Z1M4aXRzWU5ELUcxelRtRHRNckMycmVlLWNLRlBfNzRRYkRKZU9xSFZMMjJUZmdmbjJmLW9GdEdWcGNrS3NtemZXaDBrdXpndWJBQ19DSHdJY3h0dTVIbEt1RC1TbVJ2Y19UUTdzTXJxOEVHczg?oc=5",
-   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
-   "fonte": "Brand News"
   },
   {
    "titolo": "Il valore in borsa di Alphabet, la società che possiede Google, è diminuito di circa 500 miliardi di dollari in un solo giorno - Il Post",
@@ -214,6 +208,12 @@
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRmt4NlZrMU5qTmRVNG5ibTJ3ZXJUQi1zamlxanZzQWFydnE4Y0hUUjdHd05Vd2VHMGJsUllNZ19JVnFIb2N1NGl5aVppWTZQR1JZal9IT3RjZnJ6dXc0Rnc0ekNZeHVNQ05UWmFlTS01NGl0THJpNW5BM1BBTXExTHlCcTBlNFdJbWJZ?oc=5",
    "data": "Fri, 30 Oct 2026 07:00:00 GMT",
    "fonte": "Startmag"
+  },
+  {
+   "titolo": "Alphabet: ricavi su del 25%, e Google Cloud raddoppia nel 2026 - HDblog.it",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUDljamx6NWctR1hveVg1ZUQ3TzlXTUJfUlY5Um5QSUszUk05QmtjTDFkUEk5RlBUWW1CaFhUYzh1dE9QRDlXb1lkYmxZX1pfVm9ncFFhUGc2NG9ydE15bUh2OXgwNkdzU3hMY0Rzem1kelZ1dTFmd3dzQkk0X1NkTDBGQUdjaUtzT0M4OUlIN3dIdThTdzQxcQ?oc=5",
+   "data": "Thu, 29 Oct 2026 07:00:00 GMT",
+   "fonte": "HDblog.it"
   }
  ],
  "news_legali": [
@@ -264,12 +264,6 @@
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ1dfcDc2aDNYMEMwc1NhOUJRVHhRMlhQdUJoTUx3ck1BeXk2Wnp5Ukt4REp2dE9ETVdtSTlaVG1pWXFpbkxkZWliaHhCT3VWLXBndmt3Z0VVbGVLYjJxRC1XNTM4VUFRdUU1UUJMY21nNVY5UENwY0cwcXc5cENUc1RheW1aaFpoeXNlREE1endzblhPRC1LNDFRQWd4NlQyLVZWYTBn?oc=5",
    "data": "Mon, 02 Nov 2026 08:00:00 GMT",
    "fonte": "Borsa&Finanza"
-  },
-  {
-   "titolo": "Ricavi di Apple contro Google: chi guadagna di più? (2026) - FourWeekMBA",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOYVZHY3FqNTVLUFhWSzg2dThYQVNhNVBYMU9ZRUM4bmNrRnlYUUpsT3JwR2syVWRncGM2bHlhRWdiM0d0ckpHNS1XM3ZGZjI3bkVFbEFlOVUtWDNlN3h6RGJKRllDZVZUYy1QSDN5X2p5V0VwcXc?oc=5",
-   "data": "Tue, 13 Oct 2026 07:00:00 GMT",
-   "fonte": "FourWeekMBA"
   },
   {
    "titolo": "Google sfida l'UE: non vuole dare agli assistenti AI rivali gli stessi accessi di Gemini - IlSoftware.it",

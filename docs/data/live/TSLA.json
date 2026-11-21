@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-20T13:53:09+00:00",
+ "aggiornato": "2026-11-21T13:16:22+00:00",
  "filing": [
   {
    "tipo": "10-Q",
@@ -99,6 +99,15 @@
  },
  "norme_usa": [
   {
+   "titolo": "Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing of a Proposed Rule Change To Adopt Rules To Govern the Trading of Options on the Exchange",
+   "data": "2026-11-23",
+   "tipo": "Notice",
+   "agenzie": [
+    "Securities and Exchange Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/23/2026-23748/self-regulatory-organizations-24x-national-exchange-llc-notice-of-filing-of-a-proposed-rule-change"
+  },
+  {
    "titolo": "Self-Regulatory Organizations; MEMX LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
    "data": "2026-11-20",
    "tipo": "Notice",
@@ -143,16 +152,6 @@
     "Employment and Training Administration"
    ],
    "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23370/modernizing-the-labor-market-test-and-improving-protections-for-us-workers-in-the-perm-immigrant"
-  },
-  {
-   "titolo": "Foreign-Trade Zone (FTZ) 84; Authorization of Production Activity; Tesla, Inc.; (Battery Storage Products and Components); Brookshire, Texas",
-   "data": "2026-11-02",
-   "tipo": "Notice",
-   "agenzie": [
-    "Commerce Department",
-    "Foreign-Trade Zones Board"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/02/2026-22301/foreign-trade-zone-ftz-84-authorization-of-production-activity-tesla-inc-battery-storage-products"
   }
  ],
  "news": [
@@ -163,16 +162,40 @@
    "fonte": "Fleet Magazine"
   },
   {
-   "titolo": "Tesla, via libera alla guida assistita avanzata in Italia. Cosa può fare e quanto costa - Il Fatto Quotidiano",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZEREbTV1MGRpdVEwcmh2UjdYMjFJNldwdGZJYnNqLXBVdHM2OUtzbGhRTDRaSDBRNFoyeldyNl9lQmRweWJoRFFmVUVkb3ZwTmJNVF9pekpWaVpNVVBVOUM2WExJaEtLR0t4S0Zkd3Q4UFNXb2I2N0RXYTJuX19iWmtYMUxOMkh1MUdLa2pwSTNvRHlRNmYtUl9qUFdlbEpwUXRBY0RkVzdpWTFuT1c2OUhvUXpVcF9EYjJkell5YTl2YWJPM3RoMXdsMXVHUQ?oc=5",
-   "data": "Fri, 20 Nov 2026 11:00:50 GMT",
-   "fonte": "Il Fatto Quotidiano"
+   "titolo": "Guida Assistita, via libera del MIT al Sistema Tesla - Ministero delle infrastrutture e dei trasporti",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdlZjY0lLUUdYR3lReDB4NmxRYTFiRjRxYWFzTVU0bE1Cbkg4X2YySmtGWGFRUXBlVHdlTzF0OVBUazdhS2pZLUdyY3l2Wm5vMk9IbTktdzVBQXY0TjREeDJFdXdOZldfTXpQM00wS1JJb2FmeHY3WTBxQjJabGphTTFGUnk5QUVYMTljVmFBME0xTG8?oc=5",
+   "data": "Fri, 20 Nov 2026 16:10:33 GMT",
+   "fonte": "Ministero delle infrastrutture e dei trasporti"
+  },
+  {
+   "titolo": "Tesla, da Mit ok a omologazione provvisoria sistema guida assistita - Sky TG24",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BZTdpRmpndUtjYXF6ZGZRR3pQeHh6d2gyQmk3ZXRrWllpWVhoYlUwUGU4T3IzWmpNdXVLb2VKcDlXb2YzcHc0RU8yOXZoMWF1QjFBYzJ5WDl4eVVJcWlOYlhINzRGMDdHTUxNX01SWURUbTA?oc=5",
+   "data": "Fri, 20 Nov 2026 16:15:14 GMT",
+   "fonte": "Sky TG24"
+  },
+  {
+   "titolo": "Guida autonoma, il Mit autorizza il sistema di Tesla. Musk: «Apprezzo molto» - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0pyU3pYeXZMSjlxdHpNclBxaDVMMEY3RXdtaG1ha0lwWHhqdzJXWGxEeEFnSlZqY1c2eFNuVk02MEFpUFhnaGFmMDFUSWtXT3lJX29nLVNpeTNfSTZrZExHSUE0bHNHRF9LU2pSSFZSR1Y3ZFpRUGpYSjhkNEZJSEtOMDN0VkNYaFlz?oc=5",
+   "data": "Sat, 21 Nov 2026 02:45:45 GMT",
+   "fonte": "Il Sole 24 ORE"
   },
   {
    "titolo": "Tesla FSD in Europa: approvazione UE, funzionamento e sicurezza | Quattroruote.it - Quattroruote",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mc2hUNWRleXpwUl9MYS1FOXQ5UU5jcngtRDZNY1U5TUx0Q1ZLSEpTREUtdEtrbXE5X1BJQ2I2cllSa3ZSQjI1dEhocVk2WHphY21CbzBycXNGOFlWMkZwbm9iWnZLSjNabkdGMVA0RjZRX2VJZ015akYtN1TSAYIBQVVfeXFMUFFHVTItV1lMd00yR0pVT2xnQzE2bkdMZmpPeUJpaWk1TVBQREdUV20zWXdyYS0xcGVid29NOUNrb0NETzFMRnpIbGY4YzZTNDBYWkRPM3EzaktvemxTdHBUX0tRXzVIOXRjMzJNNmlJeW1xVkpIbTlKS2pPMC1OenU4QQ?oc=5",
    "data": "Thu, 29 Oct 2026 07:00:00 GMT",
    "fonte": "Quattroruote"
+  },
+  {
+   "titolo": "Tesla, via libera alla guida assistita avanzata in Italia. Cosa può fare e quanto costa - Il Fatto Quotidiano",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZEREbTV1MGRpdVEwcmh2UjdYMjFJNldwdGZJYnNqLXBVdHM2OUtzbGhRTDRaSDBRNFoyeldyNl9lQmRweWJoRFFmVUVkb3ZwTmJNVF9pekpWaVpNVVBVOUM2WExJaEtLR0t4S0Zkd3Q4UFNXb2I2N0RXYTJuX19iWmtYMUxOMkh1MUdLa2pwSTNvRHlRNmYtUl9qUFdlbEpwUXRBY0RkVzdpWTFuT1c2OUhvUXpVcF9EYjJkell5YTl2YWJPM3RoMXdsMXVHUQ?oc=5",
+   "data": "Fri, 20 Nov 2026 11:00:50 GMT",
+   "fonte": "Il Fatto Quotidiano"
+  },
+  {
+   "titolo": "Il Tesla Assisted Driving debutta in Italia, ecco quanto costa - InsideEVs Italia",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wMXVsS1dmY2JiNkkzY1RITVowdFZZc3pQMlViNFJZQ3pMYmx1WnBSYTFWU0lsaVJVVU92ZUdtcWpOcnlFMWlOVVhORlpiTjFTTTltekNTYjk2UnoxT19oNV9CcUh0MHZHUXZ6Qm5pWkpjcy1hN0xnRVB3?oc=5",
+   "data": "Fri, 20 Nov 2026 14:14:51 GMT",
+   "fonte": "InsideEVs Italia"
   },
   {
    "titolo": "Tesla Model 3 da quasi 500.000 km, freni e batteria sorprendono: i risultati dopo anni di utilizzo - HDmotori",
@@ -191,30 +214,6 @@
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdmpCb0F6U2RLNEdFQzZDN05OWFljNzZHNGMwdjRnaUlIcjlacllESHV5cTBxZE1yN1ROeUFXNGQ3RzlsVmJKSzlrN1Z2YmJvanVrbnpuckhTY2lHUmtOZFdtVDRSRjQ1S1JLMFRYZFZhUEw5Z0tjVlVDYUtoMzUxbHNtMzNkN295TWcyNXNTdEpod3EyeW1TUUNB?oc=5",
    "data": "Mon, 16 Nov 2026 10:58:17 GMT",
    "fonte": "alVolante"
-  },
-  {
-   "titolo": "Tesla, titolo chiude in calo nell'after-hours su taglio previsioni capex per il 2026 - Borsa Italiana",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOR1hEYU9VTGRidVdFb3NZN2dKSDFoUHZ0bjk2V3BWN1p5Rm00WEdKNGpZMjBTTGZPUXgyck5KVTVBb3l2N3d5SjY0OU4xYXVsejMtTVlsLTZoVGVHU2JuZTBaUmFGcG9HUmwwR0V3M2Q1U21RSzB1Y0VmWk5uNmV2TFJOTUpuaGd4cGd6Q0JzZFVGVFR3TVlYTERUZVlXeksxR0Zwa3BIX1B3UkRKb2xTTTRiREQtOWxxT2dQalpYRmpINjZNM09RS0JXLUx6eHV6ZWF0X1JGTHpPWFZXY1Vub1RXQXd6WlF4aW1HS1ZsalF1bnRHTldpUlhR?oc=5",
-   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
-   "fonte": "Borsa Italiana"
-  },
-  {
-   "titolo": "Tesla Assisted Driving può superare i limiti di poco in Europa - InsideEVs Italia",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yT0VJeHFIRGpIaE9QNXp2ekJGeEFUcU5BMkdrNGM5czVvUFduUmxyT1lFaVB0MmVxdTZLNWNMdkgwdVlMQnMyQ3hUZzN1UnNaUndURjhtYU9Fa3JLYVdEelhsV1FxZG9LRGFObVJTbG5ZQ1RjampBSzVZdmNTdw?oc=5",
-   "data": "Tue, 03 Nov 2026 08:00:00 GMT",
-   "fonte": "InsideEVs Italia"
-  },
-  {
-   "titolo": "Tesla prepara una Model Y senza volante né pedali, pensata per trasportare fino a sette persone - TuttoTech.net",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV3k2Mk81X3NFMkhieHFOYTZtU3R0alY3VmZqeGFJMFlNSmVxRmU5dS1zS3VaWGpjR1JaQVJubVEwXzBQS1V2b2hZR3lUSWxSYXd0N21HcWVvOFFkeW5wZml6Rkxod3RkWGRrWVFHcnV6MTJOTnllV2lsVWFtWndMYjhVR29EcXloYmpIWjNuZFE4dDd6OVRZME51QQ?oc=5",
-   "data": "Thu, 19 Nov 2026 13:35:40 GMT",
-   "fonte": "TuttoTech.net"
-  },
-  {
-   "titolo": "Tesla: autorizzati in Italia alla guida assistita avanzata. “Mamma, butta la pasta” - la Repubblica",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQXFtTWVFajZacW1OTDYxdG1VQlVSZ0o0dVJlYjBsdDMtUmNTdnhLUS1LSkhxSTM1NGFVNS1BSV9ma1JTZHNKY1EzWWZYVFBDS0xSaDJwaGplaUxQeWdLOHpWZWVtSTNUYUdIQzVJOTUteVZGMkp5bWh1ZjVjdnlVQ012bmhqRGNwUFgxN3VHb1BhSWRPZFlpMFc3dHl1dWFCaHU3MjZVLUloREpjTlZBOGxub3A?oc=5",
-   "data": "Fri, 20 Nov 2026 13:40:25 GMT",
-   "fonte": "la Repubblica"
   }
  ],
  "news_legali": [
@@ -243,16 +242,16 @@
    "fonte": "Virgilio"
   },
   {
-   "titolo": "Tesla è pronta a vendere il Cybercab, ma c'è un problema - InsideEVs Italia",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WaHgxM2dfOERDSjdUSXVxV0VMVjBIdHRCRmtHZUFjQmR1aVhpNm9BUnVjR2twSF9XODFLZ0lVV05FMjlnQ2VzYmhILUZyZmdCNEZSOWxhQkhQbzNFdGlkaXRLazAyTjN3cllxMlMtUjJlVldhSDdfOE1kbw?oc=5",
-   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
-   "fonte": "InsideEVs Italia"
-  },
-  {
    "titolo": "Tesla Cybertruck, fine della produzione entro il 2027 - La Gazzetta dello Sport",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSFZteUhNR0ZJV0JReE9xTlM2bWFodk50T1FuTEZBUTFUcER4MThidWFKTjdaVHk4akhkejN4OFE3Y3RmdHlnNTF3Z3pfaXhEMEhBd1RkVDQ0c01xalBRanNWUWFUNlB3SmtiZVkzMkxwZ1haNVE0S1E5aUNoNWI4OXNYdl9GU1NPRkFYV0hvOW10OXVSTkZFbk96bEZOZW45bG5ObTZZZG14MEMwTzA3Yk14aDBzemlkTW1YWnRn?oc=5",
    "data": "Sat, 07 Nov 2026 08:00:00 GMT",
    "fonte": "La Gazzetta dello Sport"
+  },
+  {
+   "titolo": "Tesla è pronta a vendere il Cybercab, ma c'è un problema - InsideEVs Italia",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WaHgxM2dfOERDSjdUSXVxV0VMVjBIdHRCRmtHZUFjQmR1aVhpNm9BUnVjR2twSF9XODFLZ0lVV05FMjlnQ2VzYmhILUZyZmdCNEZSOWxhQkhQbzNFdGlkaXRLazAyTjN3cllxMlMtUjJlVldhSDdfOE1kbw?oc=5",
+   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "fonte": "InsideEVs Italia"
   },
   {
    "titolo": "Elon Musk conferma la fine del Cybertruck: Tesla restituirà gli anticipi ad alcuni clienti - Hardware Upgrade",
@@ -263,7 +262,7 @@
   {
    "titolo": "Tesla, è arrivata la fine del Cybertruck? - Ticinonline",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmhJbFN5UjB6Z3lWcU5KN0ZJZzlONEZob2U1bUpDcTNQX09QOW9nZV8yOGMxOFZDTmlTaU1FUkJkN2U0WE1MajRLZmExRFd4VUpxLTNadTNHNmtucFJMLXB4cUZIa2lKVEk2T2FqNlRmR2owZmNhaHRxbk1Ob0M4SDFmTVR3dEl6Tzdn?oc=5",
-   "data": "Mon, 09 Nov 2026 17:04:00 GMT",
+   "data": "Mon, 09 Nov 2026 08:00:00 GMT",
    "fonte": "Ticinonline"
   },
   {
@@ -273,10 +272,10 @@
    "fonte": "Everyeye Auto"
   },
   {
-   "titolo": "Tesla Cybercab, vendite ai privati entro fine 2026: arriva la conferma. - MotorBox",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWjJKNHVjVmtmUF9SN0hwTHY3Wm9yZ0VFM3VMeUYyekZrQ0VRcDFWYXJKRWZza3NDemJMM3JQV2ItLVNDcldRUEFOaTNFYUpQNDB0ekN6NkZnMmxqZHZIcjI4eWQ1cDFGMU82WEJVeUVfUUIxY0d5NnpvajEyMzF4THZMTDRSdG42U0UweEhaM2w0bU9XeUwtSk9R?oc=5",
-   "data": "Fri, 23 Oct 2026 22:14:39 GMT",
-   "fonte": "MotorBox"
+   "titolo": "Tesla, consegne del camion elettrico Semi in Europa entro fine 2027 - Shipmag",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN2Q3bWlpYjNNY2Q2QzZDNnBoN3Z5eWRxTzBwUEdIN2E1aG1MeWh2VUZlZTNrNjg3d2JPZDZkWUFxZ2tTaXFaSXVOLVBON0lmeXN0UnhiRWJhcUxSclhEYUVpa3l6TGxad1Zfb1daOFp4LXRhWURMQlVld0huWHFVOFZXZmxKd1p4XzhmZ3RwNjhQb25Q?oc=5",
+   "data": "Sat, 03 Oct 2026 07:00:00 GMT",
+   "fonte": "Shipmag"
   }
  ],
  "news_brevetti": [
@@ -301,7 +300,7 @@
   {
    "titolo": "Tesla prova i laser per pulire il parabrezza, per il Cybercab - InsideEVs Italia",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WTnNhXzR6MDlCbUhoQnlFYzY1akRfOXNWbmE2RG5SVEdEd2NUZXNIWEctbWtIQ1FuZDJjSWZ3QVBHUlRKWF9YQ3Jldk83UWhKdmF2YUZQT3pRM0ZzR1lvQk5wNzROM0dMTHAyWGJ3ak8zWkU?oc=5",
-   "data": "Thu, 12 Nov 2026 06:01:19 GMT",
+   "data": "Thu, 12 Nov 2026 08:00:00 GMT",
    "fonte": "InsideEVs Italia"
   },
   {
