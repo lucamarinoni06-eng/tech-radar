@@ -1,17 +1,11 @@
 {
- "aggiornato": "2026-11-21T13:16:24+00:00",
+ "aggiornato": "2026-11-22T13:08:10+00:00",
  "news": [
   {
    "titolo": "Microsoft, rumours: pressioni su Trump per bloccare il divieto di importazione di tecnologia cinese per data center - Borsa Italiana",
    "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQNEY2MjlIVE5HbFFWQU90MnduSHEzaU1Ja2xwNFJUNmlodElTakpVZVBWU1k3MjYtRUQxRWhZOFR3MzBYRzJ5Q2NieGNuYXlORGM0R2NpenN1dU1xZ3NobUNrSFB2UWR3SHpaLTVudmJYZHgwV3BnZjVIM0JOcktlaWsxcVVQYkk0WjFicjBHSm9oaUVXZVhtaVdveFhGRC0wZ2pUZmpYSUotWndnUXZSbExzZklNU0NxZTBzTUlfaEV5U2NaNjlJYmJFc09QR0RoNDlPOElZblM5YmtvT18xeUl5aUZFd0p6ekN5bTl3dlpCM0JacTBNT0lGUmNlWU1oSHFnQktrWkM5R09TM0d0R0VHZXowcTZEbnc0Yl83dmd5cnR4?oc=5",
    "data": "Tue, 10 Nov 2026 12:48:00 GMT",
    "fonte": "Borsa Italiana"
-  },
-  {
-   "titolo": "Manifestanti irrompono nel cantiere di un data center Microsoft ad Amsterdam: rapporto - TradingView",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wY3NSVVdBV0FkNmtaWGN6T0phNTJzTUJnbXBYZkxmRVZ3V0lpYkJLWGdlQk82Z1lpdWFaTTBnTVh3anV4c1RpRnBFeUJQS2dVRlNDOGtUSW04NWlrd3Z6UWgzdTJZRzlVSXZmaTk4RQ?oc=5",
-   "data": "Sun, 08 Nov 2026 09:48:48 GMT",
-   "fonte": "TradingView"
   },
   {
    "titolo": "Verso la trimestrale di Nvidia: focus sulla leadership, la Cina e i timori sui data center - Morningstar",
@@ -32,16 +26,22 @@
    "fonte": "Milano Finanza"
   },
   {
-   "titolo": "Amazon investe 6,3 miliardi in energia rinnovabile in India - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY1dZRmdrRmltMHE5LVhMb053ampFbWRFTy1qOGowekZSS0I1QjlrYUxVc2IzZElZSmJrY0RMM1U1Z2pYTmFKVTI3TG05YTA5QThfb1ZqemJ3TGQySnRlNk1BNnZYUWJiakx2cGhJMWFEMm5peDc5NDhEVzg3TGw1WkRNc1FxdzFpUzRyM19SQk1ZbFM3T1BuSA?oc=5",
-   "data": "Wed, 18 Nov 2026 15:48:57 GMT",
-   "fonte": "Euronews.com"
-  },
-  {
    "titolo": "Data center, mai nel mio giardino - la Repubblica",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVWVMWC1uekRjOE1vY0l0ZnVoZUc0UlNtOUVaTzBtTnBGV3d4NFE5NjMyYi11RV90bVFxU0UwTFZOUjRjYUZUNGNSM3ZWSFQxU05ISG5YM0FMY3l0THo5N0ZydmNlUGZ5UDg2S0Fpbkkxd2dydktOTkl1eXdpaEJERGkyTUZOUW5GNUVyMFpBQk1YenNKd3hUQ1U5NFh5a1FXZXdSWF9yWQ?oc=5",
    "data": "Thu, 19 Nov 2026 09:37:03 GMT",
    "fonte": "la Repubblica"
+  },
+  {
+   "titolo": "Amazon riprende la collaborazione con una società di data center in difficoltà sostenuta da Rick Perry - FT - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPcDVrS0w1MWhpOVdyZFdFcmdwal84TkMtUzh2MGF2dklSWXYwRm0wWUFXUmV3ZDgxN05zTmx1a055OU5keEplRXhjdUNvLXFKeXBxR1Ewb0ZLSUtpbzZ6cEdLOWJ5TUM0VG92Z29UOHpuMktvQmMw?oc=5",
+   "data": "Fri, 13 Nov 2026 20:47:27 GMT",
+   "fonte": "TradingView"
+  },
+  {
+   "titolo": "Amazon investe 6,3 miliardi in energia rinnovabile in India - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY1dZRmdrRmltMHE5LVhMb053ampFbWRFTy1qOGowekZSS0I1QjlrYUxVc2IzZElZSmJrY0RMM1U1Z2pYTmFKVTI3TG05YTA5QThfb1ZqemJ3TGQySnRlNk1BNnZYUWJiakx2cGhJMWFEMm5peDc5NDhEVzg3TGw1WkRNc1FxdzFpUzRyM19SQk1ZbFM3T1BuSA?oc=5",
+   "data": "Wed, 18 Nov 2026 15:48:57 GMT",
+   "fonte": "Euronews.com"
   },
   {
    "titolo": "Ricavi dei data center di Nvidia nel terzo trimestre pari a 107,6 Mrd USD rispetto al consenso degli analisti di FactSet, pari a 101,9 Mrd USD; ricavi dell'edge computing pari a 8,2 Mrd USD rispetto al consenso di 7,46 Mrd USD - MarketScreener Italia",

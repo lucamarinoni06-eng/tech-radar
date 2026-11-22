@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-21T13:16:19+00:00",
+ "aggiornato": "2026-11-22T13:08:06+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -186,16 +186,22 @@
    "fonte": "Teleborsa"
   },
   {
-   "titolo": "Meta vende le sue azioni: punta a raccogliere fino 95 miliardi per l’AI - Borsa&Finanza",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZUFMcnVLNUlZWEIxWG1EaktxcWFBc2VxM0FzY0ZSYkhaREtNSXBDczRQQ25hWnZFTTdzRUVrUmkwZGdtSTBJZFZ5eXBuem9XSWUzUkNTV0lPek1Ob2pENGhHakJlQjJ5V21GSVJTX0pyZE5JQUxTam4zZXR1Vl9WRGtoUjQ0bU92RDAwWGRxOFo?oc=5",
-   "data": "Mon, 26 Oct 2026 07:00:00 GMT",
-   "fonte": "Borsa&Finanza"
-  },
-  {
    "titolo": "Perché il titolo Meta Platforms sta salendo oggi? - Investing.com",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUI2Vy1yUU96d3pHd2ZkUGdMQWxnc0N0UGNyMEE5dWE5VUk2YlpsZy1Zc193bjl4R0RsRmtjYTRmb0JJaVdyclJ4bE5TZ0poME5ESWV3MTA3akwzLXBEZEQ2dC1NeEJ3YkJYS2xFRjR5QkpGdTkzWnB3SGRHODBBbk9TeVpkZDRIV0F5azRYamlpWXpYTXlEdzNuMHRQSGsxYnZpYW14eEg5SUNQUXc?oc=5",
    "data": "Thu, 29 Oct 2026 07:00:00 GMT",
    "fonte": "Investing.com"
+  },
+  {
+   "titolo": "Previsioni sulle azioni Meta Platforms: la pressione dei venditori mantiene il prezzo sotto la resistenza a $628,64 - Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSnE3TFZYRE4xRTZETDNEZlo3WGdnaExBUk9lTmEtaWpUWmxPNWVXa0pMQjJFWjhod3phOXR4Z0hKellFVUdoT0doTW9XTVdheHZGcThTWTItYzZTMy1PU1lHd2tsa2c1Ukh2V1NwMHJ6U19DSUg4NzBjWUptRDBvOWZINEo0MG9ST29COU1KSzVzYk0?oc=5",
+   "data": "Wed, 18 Nov 2026 16:52:44 GMT",
+   "fonte": "Traders Union"
+  },
+  {
+   "titolo": "Meta vende le sue azioni: punta a raccogliere fino 95 miliardi per l’AI - Borsa&Finanza",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZUFMcnVLNUlZWEIxWG1EaktxcWFBc2VxM0FzY0ZSYkhaREtNSXBDczRQQ25hWnZFTTdzRUVrUmkwZGdtSTBJZFZ5eXBuem9XSWUzUkNTV0lPek1Ob2pENGhHakJlQjJ5V21GSVJTX0pyZE5JQUxTam4zZXR1Vl9WRGtoUjQ0bU92RDAwWGRxOFo?oc=5",
+   "data": "Mon, 26 Oct 2026 07:00:00 GMT",
+   "fonte": "Borsa&Finanza"
   },
   {
    "titolo": "Meta, boom di richieste per le nuove azioni: raccolta da 25 miliardi e domanda cinque volte superiore all'offerta - Borsa Italiana",
@@ -208,12 +214,6 @@
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGhMT01fLURSNlRkMlFsdzRDcjJ1YVdmOUVsT2FYSjltN3J2UEk3SEdzLWc4eWZYQnBOdGxrdkFuamk5NmVEb3prVHZ6cDdBdmtNc0pMaFpQQTFYeGtBcnZZMmNZbVdGUkI5dkR1RHlGMjY2bXpqVW1iZUZEYndDUkRZQWNiQnRHSXVwWV82TEVGRU5iU1JRMVYza1VVTGdyd05qTkxTcnk4RFU?oc=5",
    "data": "Fri, 06 Nov 2026 08:00:00 GMT",
    "fonte": "MarketScreener Italia"
-  },
-  {
-   "titolo": "Azioni Meta: multa da 805 milioni dal Garante per la privacy, cosa fare? - Borsa&Finanza",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX0xTWGdCaWdSQ0M0R1h6cU1mQTRCMi00NXp3UFJ4aW80VEM5SWJnMDhXdDdDcktUM2NPcllzbU02TnJSTW9yVTEyZ0hocmN5YmlVZGN6bzRLV2xra2dPdUJkdHFrQzRiR09neGJEYm5wcjRsQWJCR0wxZldTQ21yLUhMWWR3ZHNsV1BUclJNcHdkcDJCYy1qZWtSMA?oc=5",
-   "data": "Wed, 18 Nov 2026 07:05:14 GMT",
-   "fonte": "Borsa&Finanza"
   }
  ],
  "news_legali": [
@@ -230,22 +230,28 @@
    "fonte": "Yahoo Finanza"
   },
   {
+   "titolo": "Facebook: sanzione a Meta per 805 milioni di euro - QuotidianoPiù",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObmhRdVVRMWVkYkN3dVpoZDZxWnJkcEM5elNub3FObko5NXlfX1pmTDQ3WDM2TmYzSzRhTlJzYm9welpXWkZ4LUFTWmdzYXU0OWc3VXRsbkh6SVVxNHhYeUY4WUd4VmxvczM0THp2bWY3MnF6dXZiMkZOVXR0UllTblRoQ0xGSGQ3MkhhSmR5Nk1JdkhWSXcxZ1g1Y3c?oc=5",
+   "data": "Mon, 16 Nov 2026 09:29:00 GMT",
+   "fonte": "QuotidianoPiù"
+  },
+  {
    "titolo": "Meta Platforms raccoglie 9 miliardi attraverso la sua prima emissione obbligazionaria in euro - Teleborsa",
    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUEFESWJweFVkd3Q0QTJPRHpDaldZQS1wRnptRk04dVdDcUtueC1OUTZUYnotQXVsRkVyaHhVOENubDlKTUJ0SjRrLUlCNGZQNWNBSmVXUlRuNUtNakwzcm5TRVA2czQtZXM5RE5PbmRRTXFnQUJzRm42alpBWVVhXzJ5ZlFrdEFOYkw3cWdfX2k0bkRZQUdHNWtNNnZpbzVVNnd0WjN4M0RkTGc2ZGlQQlpoV0t5ZnQ2ZnJ6SDhvMW9RX3lJQlZvdnQzM1VBVzBxU3AtZmY0dmtZekk?oc=5",
    "data": "Wed, 04 Nov 2026 08:00:00 GMT",
    "fonte": "Teleborsa"
   },
   {
-   "titolo": "US: Meta ordered to pay $25 billion for misleading users about privacy - Il Sole 24 ORE",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQzAwWHBhNllpR2FUdWszYUR1bHJsRUdBVFVNWjdqdGRMc2tYbVJnZjRZZlFLOXhBT3d5SDhxYm1NNHg3NlRjSjhZTWN0dUZsUkVvWm03LXdkWGNCWG9HckkwR3E2d0h0WDBITzY4MHYycTJ0Q3dJR3FZeE1YY3ZLRkF3UW1ET25CUFhzU2x2V2puZVB4S3JyYzVtWmNVNVJpUmdFVTFHNFViTFV0OC14NHQ1YTQ0UFh2VlhIWm5uOThHZmNJdHc?oc=5",
-   "data": "Wed, 21 Oct 2026 07:00:00 GMT",
-   "fonte": "Il Sole 24 ORE"
-  },
-  {
    "titolo": "Meta vende le sue azioni: punta a raccogliere fino 95 miliardi per l’AI - Borsa&Finanza",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZUFMcnVLNUlZWEIxWG1EaktxcWFBc2VxM0FzY0ZSYkhaREtNSXBDczRQQ25hWnZFTTdzRUVrUmkwZGdtSTBJZFZ5eXBuem9XSWUzUkNTV0lPek1Ob2pENGhHakJlQjJ5V21GSVJTX0pyZE5JQUxTam4zZXR1Vl9WRGtoUjQ0bU92RDAwWGRxOFo?oc=5",
    "data": "Mon, 26 Oct 2026 07:00:00 GMT",
    "fonte": "Borsa&Finanza"
+  },
+  {
+   "titolo": "US: Meta ordered to pay $25 billion for misleading users about privacy - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQzAwWHBhNllpR2FUdWszYUR1bHJsRUdBVFVNWjdqdGRMc2tYbVJnZjRZZlFLOXhBT3d5SDhxYm1NNHg3NlRjSjhZTWN0dUZsUkVvWm03LXdkWGNCWG9HckkwR3E2d0h0WDBITzY4MHYycTJ0Q3dJR3FZeE1YY3ZLRkF3UW1ET25CUFhzU2x2V2puZVB4S3JyYzVtWmNVNVJpUmdFVTFHNFViTFV0OC14NHQ1YTQ0UFh2VlhIWm5uOThHZmNJdHc?oc=5",
+   "data": "Wed, 21 Oct 2026 07:00:00 GMT",
+   "fonte": "Il Sole 24 ORE"
   },
   {
    "titolo": "Meta Platforms, Inc.: President Capital Management Neutral sul caso - MarketScreener Italia",
@@ -266,16 +272,10 @@
    "fonte": "Unite.AI"
   },
   {
-   "titolo": "Ora Meta controllerà tutti gli iscritti con l’AI (per scovare i minori furbetti) - Startmag",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUm1LRENiRXNwdS15OE01WTE2eVJSb0FsTndQM1F3eTJUR091TFR6Vi1QcGJlcGVJUkRhazExUmNGR0JIMkgzQzFVS29DeUI2Q1pBbWx3SWg4bEI3Q0drRDREX0FpQk51RkhIaVQzM2ZVUlh1QzRSdzdPYmt4TEFkMXhRRDZtT3ltRmxUTmxoNXRpRzREMG1scEs0NDE3NEZZZEl0aExNcC1SZmJMNFZzM05Nc3Q?oc=5",
-   "data": "Wed, 11 Nov 2026 08:00:00 GMT",
-   "fonte": "Startmag"
-  },
-  {
-   "titolo": "Brad Gerstner Is Betting Big on Meta - TIKR.com",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTNFBTZEMzVWhQcV9ocTRrNVoxaXBhQWI1c2V2RG5XM2lxNWFVZFk5clF0cGhCV3lETlhWVnVZTEZFcGN3SEw4b1k0dUZWSjY0WFJWa1RtZFBXRUpqY1NUSG4xbm81SmpjOGVwM2REdXBpUUU?oc=5",
-   "data": "Thu, 19 Nov 2026 08:26:15 GMT",
-   "fonte": "TIKR.com"
+   "titolo": "Privacy, la sanzione da 805 milioni a Meta nata da una segnalazione partita da Bolzano - Il Secolo XIX",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQLU45Qm9ZcDFLNll1RzZ3SFVwRlpJR0VwS3N1QmZrR1lneG9aLUIyS0F6NUlKT25qUVp0RGRDNklwNTlaaWsweE55a2l6QnZsYW4zeEJMMzNLZThMLTNwUE5EMV9ab25haWxpbU9xTVZKQWV0RXJwU1BDbUIzd054U2VVRVJvNVJOb3BULS1yTDU2azRRcDczTVlSNk9UN3RuYXAtXzlRYWVZN1QzZUV2X1g1eGhTd19VeDJMWHlzNkhqUHRranpyN1hhbGw?oc=5",
+   "data": "Mon, 16 Nov 2026 11:31:00 GMT",
+   "fonte": "Il Secolo XIX"
   }
  ],
  "news_brevetti": [

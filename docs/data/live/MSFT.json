@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-21T13:16:09+00:00",
+ "aggiornato": "2026-11-22T13:07:57+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -157,9 +157,21 @@
  ],
  "news": [
   {
+   "titolo": "Microsoft down in tutto il mondo: Outlook, Teams e Copilot in tilt per 20 ore: «Parziale miglioramento». Cosa sta succedendo - Corriere della Sera",
+   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPTE1HMkkxN05tRFdUc2hHMVdpa1R3MHZKWkYxR2E5bXhyb1NDTkUyV0Rscy1MMFRtQ2FjTC1YV1BfT3o0MWRtYXRIZktjUG9Va0EwTU9zSFRQd2l2S3ZKTWZxZGxqczFmV1liaDdGVnY1LUM5S3NOR3A0czZmYkZhUHpQZWY5NzBOa0wtOHhjT3N4TWdWOVdYWXV1REE5QTVPb0drTWwwdHJjQTlSTVJnZmxXc1hTMUkxZC11TXB5bTJBTnJCZFFHNVRfQ3o3OURTZmRKWWs2alJSUDZkX2dYTWJTWjVGTmQwWkpoZF9fS293UDV1V19SRWFnM3dQZnFDZ3ZrUTFFX2hBVHRWSG5CaWwzaVp6QWF3R1JLQkJR0gGjAkFVX3lxTE4xU1FZRGJiUTY5dkptanJTMDdkUXE1NnEwWkQwdDM5UEt4bzYzcmtIanpRcDVGRU1QM21qLXg1TWFjdjZDYlhMYVJRWmNNWHRZbVB5bFpYb0RHWlFBa2lpUkloNHViZjVfQjNmcnRvR2tDbFFhZFpjZEZnZWtPMnJtRkxXVGhpRGlQV2hlRGlvUXhVM050b3FMbWRuUFJ6UGNvY1N1ZHVyR1pBa1pXbGgtUFlZQVcxbGM5NzdBd2RYTlBLNERwd1o1RVdKcXdra2FySVRydW9fdEdkemVzMVN6MTZHLTNHLXV5X244d1Zmb1NkSHdqNUNBcVZkeXNta2JYVXBmNG1BNjNEMUhhR2Z4S2puZllaMUZlaTlWV29ua0I1aw?oc=5",
+   "data": "Fri, 13 Nov 2026 08:00:00 GMT",
+   "fonte": "Corriere della Sera"
+  },
+  {
+   "titolo": "Inaugurato oggi il Microsoft Pavilion: la nuova sede di Microsoft a Roma per accelerare la Frontier Transformation in Italia - Microsoft Source",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTjdROEM4U1p0OTlMM0pLMGFJOEg4ZXVLYkhZeVpVX2ktLUVGVWE2bW9EZFo4NldKSVNhNkZkMjcwRld3ajBDQU1XNFZ5S29mcnlaNFRkVnhTemN3VWxYNEdiVGljVE5HYzBrZzFOWkdiaFlKWU5EZTNCZGFWZnExeGxaNzZycFI3Q0w4N2V2TFh5U3ByQjI2UDBULWNSb0UyX2RNNll2SnRoSnVwcUc0UFdLNHgta2JVYVlZS0hSNm1vOV8yb29PbGZmWHdZM3ByWU5MQkJuOVFDemFjQ3hEak42LXVScWk0VFdTTmRRZ1QyN1JyQmNuVXJVSm53a0dZT29YLVBidVYxVVU?oc=5",
+   "data": "Wed, 11 Nov 2026 08:00:00 GMT",
+   "fonte": "Microsoft Source"
+  },
+  {
    "titolo": "Microsoft: \"Ripristinati tutti i servizi dopo il blackout globale\". Le scuse del colosso - RaiNews",
    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWDNmaTRPTEdIZEhoaEp1VzlZQnBNeDRGTjREeFVaVlZ2QjVJUjdySWwzTjVYeUoxMF9fY3FZV0FJQ3puc3pxS01mb1F5eU02VlRINjYyT2NZQWFDRm9Ua1hMbEQwdE5HOFhrb3E0bVl4eC01c1l0RExIel85VVBueUVIMjFWU1Z2eFhRZWdqeHljM19oeTJTMXktWXBhX28yT01hbG40Sk1wXzJaUUZLZ2ZiYmdJWmY5RGVyUWVNRdIBxAFBVV95cUxPQldQeFE5eEotSVZsOFRRQWdxdDJXNWZNczdtYlFRRXVoMUNUME83U2J5UkVLTklLMHdVbGxjLXRwYnZrUXB2bldYTk9PYUpZbWE0bVkzOEhNM01lUHZHbkZraXN1SGN4WFhwcnYyY0NkS05iX1VSSVRaQ0t0Z3dLUXpWR0pMVHJjWW5TWVhrV0VlaHN0Qnc5QlU5SVlBVmtCbzZ0cFo4bGVUcVZXaUk1ZHBBZ1RKRTg2QUdXcTJIZWFUTDJ6?oc=5",
-   "data": "Sat, 14 Nov 2026 13:03:00 GMT",
+   "data": "Sat, 14 Nov 2026 08:00:00 GMT",
    "fonte": "RaiNews"
   },
   {
@@ -169,22 +181,16 @@
    "fonte": "la Repubblica"
   },
   {
+   "titolo": "Avviso su disservizi temporanei Microsoft 365 - Federazione Italiana Pallavolo",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IdW1LYXY2emFyb0NaNHQwelN1WnR4azdBM1M1Z0ZoS0xSdkZVYXFIdTlLenYzMUtHMklJSUZWTmVSRnhJTjhZQzgxVWJoanppMVk4R0hCVi1ZdkxPZFE2ZllGRk9yay1leXl2Rlpyc05ZZ3dTZl9INGVlcDQ?oc=5",
+   "data": "Fri, 13 Nov 2026 08:59:41 GMT",
+   "fonte": "Federazione Italiana Pallavolo"
+  },
+  {
    "titolo": "I servizi di Microsoft stanno tornando a funzionare gradualmente - Il Post",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11MlFrNHdLUFlKdjlwcGF4bl85Q3NGeThNRlJkdkozbnpMZmpiX1ZMeWNLaGhVeDBOMWhXOHg3d1ZVNjU3VUNhZnNCOENkODhPWFRBZHBEN1dHTXhOYTM1NGsyeWxtY3FZWDF5UVZkWWxuYW45WGRF?oc=5",
    "data": "Thu, 12 Nov 2026 08:00:00 GMT",
    "fonte": "Il Post"
-  },
-  {
-   "titolo": "Microsoft down in tutto il mondo: Outlook, Teams e Copilot in tilt per 20 ore: «Parziale miglioramento». Cosa sta succedendo - Corriere della Sera",
-   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPTE1HMkkxN05tRFdUc2hHMVdpa1R3MHZKWkYxR2E5bXhyb1NDTkUyV0Rscy1MMFRtQ2FjTC1YV1BfT3o0MWRtYXRIZktjUG9Va0EwTU9zSFRQd2l2S3ZKTWZxZGxqczFmV1liaDdGVnY1LUM5S3NOR3A0czZmYkZhUHpQZWY5NzBOa0wtOHhjT3N4TWdWOVdYWXV1REE5QTVPb0drTWwwdHJjQTlSTVJnZmxXc1hTMUkxZC11TXB5bTJBTnJCZFFHNVRfQ3o3OURTZmRKWWs2alJSUDZkX2dYTWJTWjVGTmQwWkpoZF9fS293UDV1V19SRWFnM3dQZnFDZ3ZrUTFFX2hBVHRWSG5CaWwzaVp6QWF3R1JLQkJR0gGjAkFVX3lxTE4xU1FZRGJiUTY5dkptanJTMDdkUXE1NnEwWkQwdDM5UEt4bzYzcmtIanpRcDVGRU1QM21qLXg1TWFjdjZDYlhMYVJRWmNNWHRZbVB5bFpYb0RHWlFBa2lpUkloNHViZjVfQjNmcnRvR2tDbFFhZFpjZEZnZWtPMnJtRkxXVGhpRGlQV2hlRGlvUXhVM050b3FMbWRuUFJ6UGNvY1N1ZHVyR1pBa1pXbGgtUFlZQVcxbGM5NzdBd2RYTlBLNERwd1o1RVdKcXdra2FySVRydW9fdEdkemVzMVN6MTZHLTNHLXV5X244d1Zmb1NkSHdqNUNBcVZkeXNta2JYVXBmNG1BNjNEMUhhR2Z4S2puZllaMUZlaTlWV29ua0I1aw?oc=5",
-   "data": "Fri, 13 Nov 2026 08:00:00 GMT",
-   "fonte": "Corriere della Sera"
-  },
-  {
-   "titolo": "Microsoft down: il blackout che ha mandato in tilt il Pianeta - Avvenire",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTDVycEd6T1RUakJGN2Y1R1lieUNfTEFvSkozaVpFeU5YX1VYSmN5b3hyWFRXZkQ1YUxWR2xnWUNHOTVweXBzU3luX1pYaEJRV29WREhpQ0tCcUNHU1Y2TUZGYmY5SGxtVm03cUFIbkVZd1BfdVhoZWVNM0pKV0QxalVEdC1uM3hkQWN0VnpWYVNEQ1E?oc=5",
-   "data": "Fri, 13 Nov 2026 11:48:46 GMT",
-   "fonte": "Avvenire"
   },
   {
    "titolo": "Outlook down in tutto il mondo, Microsoft: \"Escluso attacco hacker. Ripristino parziale\" - Sky TG24",
@@ -193,28 +199,22 @@
    "fonte": "Sky TG24"
   },
   {
-   "titolo": "Microsoft, problemi a Outlook, Teams e Copilot. L’azienda: «Ci avviciniamo alla normalità» - Il Sole 24 ORE",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaTJSSnhYZ0V2QVRVejZfYm1oMmdmV2RFNUlUMzNCNzlsdUhUTkU0eDdHdGN4ZFFkX2NxaFZxam52YUxWbHZLeWdRVl95eGp1bEpqN2hnZHpIZVNjNVRTM0xES0poeDkxT0NSTU1nQVRCRnRUcTdHZVl2R2VRUmFmZFc1UHl3ZEtJR09LMTFLZFVzZHF5UmlaanRXV2w4M0dYb1huV0k0SWhrUkE1RVNsdEJOcw?oc=5",
-   "data": "Thu, 12 Nov 2026 08:00:00 GMT",
-   "fonte": "Il Sole 24 ORE"
+   "titolo": "Microsoft down: il blackout che ha mandato in tilt il Pianeta - Avvenire",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTDVycEd6T1RUakJGN2Y1R1lieUNfTEFvSkozaVpFeU5YX1VYSmN5b3hyWFRXZkQ1YUxWR2xnWUNHOTVweXBzU3luX1pYaEJRV29WREhpQ0tCcUNHU1Y2TUZGYmY5SGxtVm03cUFIbkVZd1BfdVhoZWVNM0pKV0QxalVEdC1uM3hkQWN0VnpWYVNEQ1E?oc=5",
+   "data": "Fri, 13 Nov 2026 08:00:00 GMT",
+   "fonte": "Avvenire"
+  },
+  {
+   "titolo": "Outlook down, il caso Microsoft 365 riapre il nodo della resilienza - ZeroUno",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYkFCSG4waHpJa0NfRjIzYURpZzkzVnNKWWpxVU1BRDU3QVpwT25rZ2hOSE1vZ1d4M1NZRnBhZG9SeExGck9rWWlhcmdrdTc3RGRyVFlVUWtwSDA4M2F2dFJHRk5kQ2p0RnZKdG1oM20yaHNWck1xTVp3M0V1cUlpLVpOQjMxUGhZdEdpLWxRMGRKanBTZm5QT19TdGJITDBGckxB?oc=5",
+   "data": "Fri, 13 Nov 2026 08:00:00 GMT",
+   "fonte": "ZeroUno"
   },
   {
    "titolo": "Microsoft 365 bloccato nel mondo: il rischio di dipendere da un solo fornitore - Agenda Digitale",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNVdMZVMwVkpNZUZhTDRadHdHY0Q0RGMyWGEtcG1Yck05dzFzTTlLcmN0SldUYjh0MHRsQ2cyV19HSllTUXpqc3ExdE43T0xONElSMEE1QjJqWHh6RlkxNUNyYkFfNjlMM3ltS2RzUzJOWHB4UU9XSzdmNUx2WThRRmZXMzFPX204YWtpLWU0SHlIWlFycHRmNnZRMVRFZXRrSjZnUjNyZ1BaOVFycmRmU3dXLUhpLTBkdVE?oc=5",
    "data": "Fri, 13 Nov 2026 08:00:00 GMT",
    "fonte": "Agenda Digitale"
-  },
-  {
-   "titolo": "Outlook down, il caso Microsoft 365 riapre il nodo della resilienza - ZeroUno",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYkFCSG4waHpJa0NfRjIzYURpZzkzVnNKWWpxVU1BRDU3QVpwT25rZ2hOSE1vZ1d4M1NZRnBhZG9SeExGck9rWWlhcmdrdTc3RGRyVFlVUWtwSDA4M2F2dFJHRk5kQ2p0RnZKdG1oM20yaHNWck1xTVp3M0V1cUlpLVpOQjMxUGhZdEdpLWxRMGRKanBTZm5QT19TdGJITDBGckxB?oc=5",
-   "data": "Fri, 13 Nov 2026 10:06:04 GMT",
-   "fonte": "ZeroUno"
-  },
-  {
-   "titolo": "Microsoft, risolto il maxi blackout: Outlook e Teams tornano operativi dopo 18 ore - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdXFKcU51X05NRGRwTnpuMWota1FnTTlYbXNFaERsLXBtR2VBX3hWanR5YU5hWlhJcndDcjg0bmc2cEFxc1JsRzdsN2JTVjhqTVJ0SlUzcHNtQkdMQkhlYktnYUV4WHg4ZEpLQ25mQlc0N1A3RURpQjdoTlJiTjlQamNacGl2cmpFYy1oNXp5WXZHWjZiMVJma2puTWt6TG1oNkVOS19FNk9aTlZmdVhfalQxQ3k3VFU?oc=5",
-   "data": "Sat, 14 Nov 2026 07:34:59 GMT",
-   "fonte": "Euronews.com"
   }
  ],
  "news_legali": [

@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-21T13:16:06+00:00",
+ "aggiornato": "2026-11-22T13:07:54+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -156,6 +156,30 @@
  ],
  "news": [
   {
+   "titolo": "Chi sta spiando gli iPhone? Apple lancia un’allerta in 99 Paesi - macitynet.it",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNR2NWRnY3WkhBZmlBRC04OHNQOThjVURSVEZXQUxsb0VpcjU3aEZBQ0RLSl9iZE15ZFVNcTJjSjBwSjhBOGVaVjR3WkJZVk1NUlJOd0YzcUp2bTVhSGt3M1ZxZnhUQ25FdUhodUtzekhqXzdkb1ByTC1oY0NjT3ljYU5xSXNLQWU3NENsNmxFVQ?oc=5",
+   "data": "Tue, 03 Nov 2026 08:00:00 GMT",
+   "fonte": "macitynet.it"
+  },
+  {
+   "titolo": "La lezione Apple, la falsa corsa della Cina e i ritornelli poco utili sulla nostra industria - Corriere della Sera",
+   "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPVXV4ZHdaSGtORTl6MVJ3R0UxekxweC1Edm5SUkdZR1RoYmIydTVteTdlTWNYTU9vaEt4SC1Tak1mSTB0NUhhZmpONjlwT2JxYzJybVY0ZmdKMmQ5Tmh2djhCcDBvN2VhUW1maTlnM2RISk94ajRJWkxSeDR4ZXkzT2VsNXBpMW5NV2dnMTU1SjFtbDlvTHIyRVVZZEh3ZlFnNFJzYnY3V3FDbUtEVzZVeWRpX2MyRVJNNjJCZVJGVFptVTBrbDVGd2ZQeGVXU1VXM3M5RmRMelBJdmRMdXlJTGNaS3kwVnVJWXBfR2h1bHZPSGZzQU1IbDlSMm1uMW1lbUxKcDdmcXN4WnFKLWZVWkVVNFZwY3Biem5n0gGgAkFVX3lxTE9Cb01GcEtnLW5Lc3Z0b0l2RUhtUWxzTE9EOFNqeEVDLWd4QndFckdNZ0xvZ2VzVWQ4eUc2ZkdGdmtaNE5DR2kzam5kM3pudlZ1OVNrU3BZYkpFc3JIZXpvUHZkb0xkWXBhZ1R4eFl2VUdpdDQyVk82dC1Fck9kNWdTUFJ4SXE4NGFMMlZZbXpWMDhPUFdvM19XZVF6Qms5M2gyZm16SUw1S3R5MFQ5NFg2YmJTaHdyOXZhcVAyd0Vzd3JKN3NTeXYyLUVQQlBLMjRwX01zZEJwSVVDQWQyNzA0eHNFcTlJRVJfZUtaUGZLZjdaOVBzRWJINEYzeG11a3RLQWg2aGJ5RXFYTE5Db3pzRmtqVVotb3RVclVyTl9mNw?oc=5",
+   "data": "Mon, 09 Nov 2026 08:00:00 GMT",
+   "fonte": "Corriere della Sera"
+  },
+  {
+   "titolo": "Apple: ricavi trimestrali a 114,5 miliardi (+12%), ma guidance sui margini delude - Borsa Italiana",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSUM4RkJDZGFydFdweDZ4dHNIQTA3aUk4SVFGUmU3LWJwclFISTVfaXVKRWgtVHRZZENaSjdqYmlGRTU0bERoU1UzS0hyNERyZjZpa0xzSExkYUlzS2FUSTVmaVJzUjVjTnI5ekVxQ0tUT3VyclpSTVVaOFJyc0xmUnVVVTJOTnlrSUdEMWozbG9iZGpPNVg0eHRUbmEtVUVGTGVqZmNCMm9KWENsaXNjUFpqVTJlTnd5TmZXT21mRkY4aFctV0VybUxleEdtMUpUaEU2YnRGR0dZaTZNRG9majBvV3BkUmlhU0Vtelln?oc=5",
+   "data": "Tue, 03 Nov 2026 08:00:00 GMT",
+   "fonte": "Borsa Italiana"
+  },
+  {
+   "titolo": "Apple lancerà cinque nuovi prodotti questo venerdì - Everyeye Tech",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORGdUZ0JCYmFsN3RGWWJkY0tDNHRoa2NCal8tTkYtSjVnVi16amRrczNzTXhZYkE4X0R1VHRaajdCSk0ySmhFWVg0N3g1cFlKN2RZZWRlcFFTWGdLaXgxRmFoMzhSdTRDMHVFaXE3YXR3OWpPWGJwY3YxQ29BYzNhXzVQSDBLU1BZb3c?oc=5",
+   "data": "Tue, 03 Nov 2026 08:00:00 GMT",
+   "fonte": "Everyeye Tech"
+  },
+  {
    "titolo": "Apple down, segnalati problemi a iCloud e agli account. Cos’è successo - Fastweb",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNGUxUW0wVUQwV055LUFVbVQ0ZkoyUXpGQmk4aUduekNoWlJJOTU3NTEtZnVhUGNfSTJvSzY4UGQ1ZEhDeTlkVGNid2xITXpzOWkzQ2p6aUhRaXRFa3Z5a21iaklzNE50SmpLUXVyMFoyekR2MDR2THcwTDZMSXQ4NmhSa1lEQXVCTmdhMXE5T1FyVzhGdmZscGZQS0tuZUFSXy1KZm93d3VZQ3dYVllpWnAwVWdoRmVBVk5QMXkxb05XcjQ?oc=5",
    "data": "Wed, 18 Nov 2026 09:29:38 GMT",
@@ -168,46 +192,22 @@
    "fonte": "Il Post"
   },
   {
-   "titolo": "Apple, malfunzionamenti oggi hanno interessato numerosi servizi - RaiNews",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMGhubUhZSXY5Rk14NFg3ZHoxU2tvZWc4Ny0xMHppMnhQT29pT0p2Ti1OakEyazRqVXRFdC1rMzBHZjdacjE3SHYyTXRUODA5YUFrQy1qUDdWSEsyYUtxQWx6N3QwNEhmTElZWTZGOHowaGVPakEzZjdxR2dTWU1DMG1WdUtOd0kybHlibUFzTFNIXzRyVDhFcUJTOEZrdzd3b192VTlBaUJYbkxTQkVMS2x4eWhib0RHNW4td1pkQUZUZlZua1o5bkYyZ0I1V0ZBOGNEQWo3SFFuSUdCSVZYWWdYYUTSAeoBQVVfeXFMTmUtTHJjRW0zYVlCd29VUmxBbjFqRnlNRm5jc0ZXMVBSZ00zQW5Ed0Z6Y1gzSGRnTTFhcHZZR1NfdFYzZVVxRmQzRlQwY05TbVF3b3JxRldRTGJkY0hYdmpVS0ZEQU94ZDlkMHkyMUdza0t6eU0wTWRzOXNLV0R3WEZyT1FmUW5KOWU5Zmw5ZUFnMkNjQW4tVDZtMXZKTUJBbnMzb3VsLVZlSlB3a09iRzJVTlVZTE02T0gzVkU2cnBlc1A1aldWSHpLV0c0eEdaalBXWS1ma3ZzX2xic1ZfSkNQNElUVDk1OXFB?oc=5",
-   "data": "Tue, 17 Nov 2026 20:13:00 GMT",
-   "fonte": "RaiNews"
-  },
-  {
-   "titolo": "Apple down, problemi per iCloud, App Store e Music: «Nessun attacco hacker» - Il Sole 24 ORE",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYWgwTlJ6dEtIc0NGYzVhWDBZM05BNWc2aHRmbHRKQ2s4Q0I3bTYzdUlLYnUxS3IzeUJOb2JEd0xRVmNheGM5eWxyWVpiRmJ6Q1g1OHlVd1JzSFY3NkUwRTZnVFBLYTRYczFoZjdlalBMVTJEWGtHUzRCM0hNdl9rcXczNnl2UjZIR2dz?oc=5",
-   "data": "Tue, 17 Nov 2026 19:17:10 GMT",
-   "fonte": "Il Sole 24 ORE"
-  },
-  {
    "titolo": "Apple Black Friday 2026, le migliori offerte su iPhone, iPad e MacBook. FOTO - Sky TG24",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0eEw5dG1mMzZ3cWJtVVJLNmV5OS1KZVBKbEhGemI2MmlDU2tiVHZvOUw3U1pMN3dDZEpxTzZKS1NJS3ladVdmUENtUVE3T0lpRldOeERJeDlsdnAxMEl5MV96MkRzdkxyNWZFNmkzN1JrdXIyQk1vckVINnVvdw?oc=5",
    "data": "Wed, 18 Nov 2026 05:06:06 GMT",
    "fonte": "Sky TG24"
   },
   {
+   "titolo": "Apple, malfunzionamenti oggi hanno interessato numerosi servizi - RaiNews",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMGhubUhZSXY5Rk14NFg3ZHoxU2tvZWc4Ny0xMHppMnhQT29pT0p2Ti1OakEyazRqVXRFdC1rMzBHZjdacjE3SHYyTXRUODA5YUFrQy1qUDdWSEsyYUtxQWx6N3QwNEhmTElZWTZGOHowaGVPakEzZjdxR2dTWU1DMG1WdUtOd0kybHlibUFzTFNIXzRyVDhFcUJTOEZrdzd3b192VTlBaUJYbkxTQkVMS2x4eWhib0RHNW4td1pkQUZUZlZua1o5bkYyZ0I1V0ZBOGNEQWo3SFFuSUdCSVZYWWdYYUTSAeoBQVVfeXFMTmUtTHJjRW0zYVlCd29VUmxBbjFqRnlNRm5jc0ZXMVBSZ00zQW5Ed0Z6Y1gzSGRnTTFhcHZZR1NfdFYzZVVxRmQzRlQwY05TbVF3b3JxRldRTGJkY0hYdmpVS0ZEQU94ZDlkMHkyMUdza0t6eU0wTWRzOXNLV0R3WEZyT1FmUW5KOWU5Zmw5ZUFnMkNjQW4tVDZtMXZKTUJBbnMzb3VsLVZlSlB3a09iRzJVTlVZTE02T0gzVkU2cnBlc1A1aldWSHpLV0c0eEdaalBXWS1ma3ZzX2xic1ZfSkNQNElUVDk1OXFB?oc=5",
+   "data": "Tue, 17 Nov 2026 20:13:00 GMT",
+   "fonte": "RaiNews"
+  },
+  {
    "titolo": "Apple down, problemi ai servizi della multinazionale tech: segnalazioni per iCloud e App Store - Il Fatto Quotidiano",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeG1jMG41Q29vaDBsaDgybXBwTk5WNjA4X2NjZjN2YWNxMy1zRW5aY3hGR0pSMzViUldPcDF1YU9Ma1djbkJxTWxwWG9jVlBCemVCc3pfcmlQOElFN3lKQmRyaHpQM1BYaHhhZVB6b2J2RDZETHlBd3RvSE9UR0RLNnJNWGw2R1RIYlpheTlBclY5dw?oc=5",
    "data": "Tue, 17 Nov 2026 19:28:12 GMT",
    "fonte": "Il Fatto Quotidiano"
-  },
-  {
-   "titolo": "Interruzione dei servizi Apple: la causa sarebbe stata un aggiornamento interno, non un attacco informatico - Libero",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ2duamF1Ui1TMmlGUGVuTF9lSmFWWGZmQkgwbzRRQl9FbjdFUnlvUnBFMDVaajdWdkNSd3JxRDRIZmVWMmV5T0JrY3h0U3lQUnRZck85VmZJSkpNNngwcmphR2pzTHl2MVY5allESUp3eURKSWpUb2pmZnJlSzZGS0RDRHlfVHI4c2xKTjFaN2hmQdIBlwFBVV95cUxNRmkxWlhYdHE5Z1p6a2JwZ0hWTEhobkgyVTJiTl9IcEc5N0pueGNxUU1NbDhkSDZHc0M0VjBFZUpsU3pCN0pxZVJqUVlDekpzaXNJNjNwNUZCS2E4YkhWYVFqRmVQMXZUUkkza2FETGVQeGxvVW9mRHJabWw0eXpKakJfNl92a0pwcGk5Y3YyZnVvOVJpdGhr?oc=5",
-   "data": "Wed, 18 Nov 2026 07:19:00 GMT",
-   "fonte": "Libero"
-  },
-  {
-   "titolo": "[offerta aggiornata] iPhone 18 Pro Max è in offerta: prezzo scontato per il top di gamma Apple - HDblog.it",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd0x2M0VhWXJyT09fclBwOURPaUtWUHBwTVlkc25GVWpheTlnQTFKOXI4Z1ZSMWEySEwyeElPVlpPc1BRaHphT19hYWdnUWNJM0E2VFVnWE5SMWs2OXV5Q3pvNUhvUzlyNU9tS2NERElHRjdwNUhjZEtELVgtYUxCQUxDc2d1TnM3eHlxbktzMG9tUQ?oc=5",
-   "data": "Mon, 16 Nov 2026 11:18:03 GMT",
-   "fonte": "HDblog.it"
-  },
-  {
-   "titolo": "Apple down, la società esclude l’attacco informatico: interruzioni causate da un aggiornamento - Milano Finanza",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeUExSXR6NFNJNDMxYTBmVHZNNmhLWHdTVmgwQ2pJQ0JRakpGcEtMaW9TU0pBQVJkT0VKSjZYWlRERURtdlJBdjUtSU5fNG5yTEY0M3FmSEUtRTQtVnM0alA3RmM1ejB0NzlUVzQtLVlyVGlkSTU4OHpXTWljemdQVDBHenJUTl8yeVp5U0J0VXh3dUhRMWYyRzA5WFE0a1VaYjEtQVR1Zmx6bVQyWVVZMWFCWEZnTjY0aER4M2xiY3B0eUpLMU1WNXR2UFBKcHpBYTRmM192UGxqNjZfcUE?oc=5",
-   "data": "Wed, 18 Nov 2026 11:50:00 GMT",
-   "fonte": "Milano Finanza"
   },
   {
    "titolo": "Apple, Gmail e Nsa down, escluso un cyberattacco ma Fbi lanciò alert - ANSA",
@@ -272,10 +272,10 @@
    "fonte": "آي-فون إسلام"
   },
   {
-   "titolo": "iPhone Duo, Apple accusata di aver fatto pressioni su un fornitore per nascondere i problemi al display - iPhone Italia",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRTZtRnowTzB1Y25YT0didXdFdDZVcFNEd2E1WFVFLV8yV3EwYUxhbkNQVVV5NzQ1LUtWWmc4bloxZnpuVUFsaUVkZ1VWTVZIQURwUlBmSUJkNmFXQ0dWTU85Qmk5QmxSV0xTVUlBcF9pTUFDbXR2SXZzVTNFS3R5SDJTOW1zMFZOMFA3MXlaVUdCVjUxV0JNNTI4anpqQzFNbkZkU3FvYWNyNmEyNVpvM0NpSC1Nb2FBMGhZWXpJamRoMFVXc1R5NDBEWU5MeWJQMlRBSQ?oc=5",
-   "data": "Wed, 18 Nov 2026 08:01:28 GMT",
-   "fonte": "iPhone Italia"
+   "titolo": "Il centro vendite di Apple chiuso da fine estate: «Rischio fallimento» - il Centro",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTmwzQk1MNjc5RWdkamZYQWRUVjRlemhMTlVpRTd1R0VqSmpseVpacHJYZ1V4bGk3SDJONlprQnh0NXZqTzRBWUZweTkzaUVGTFlQVDF2bmlmN2hjS1BIMnFocnM1aWxuQ0xsV1g3anZYN2lPaGFZdG1yU2FzSnZxSGhuWEZEY0dkdlZEWGN3bXRDdmNMd1JiTEo0a0w4RHZMMGlNMjBVSWlqajRz?oc=5",
+   "data": "Mon, 19 Oct 2026 07:00:00 GMT",
+   "fonte": "il Centro"
   }
  ],
  "news_brevetti": [
