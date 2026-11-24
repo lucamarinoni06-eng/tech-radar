@@ -1,6 +1,11 @@
 {
- "aggiornato": "2026-11-23T15:45:16+00:00",
+ "aggiornato": "2026-11-24T15:44:00+00:00",
  "filing": [
+  {
+   "tipo": "8-K",
+   "data": "2026-11-23",
+   "link": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026075541/meta-20261118.htm"
+  },
   {
    "tipo": "8-K",
    "data": "2026-11-12",
@@ -55,11 +60,6 @@
    "tipo": "8-K",
    "data": "2026-04-29",
    "link": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026028364/meta-20260429.htm"
-  },
-  {
-   "tipo": "DEF 14A",
-   "data": "2026-04-16",
-   "link": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026025532/meta-20260416.htm"
   }
  ],
  "bilancio": {
@@ -95,9 +95,22 @@
   }
  },
  "errori": {
-  "brevetti": "EPO_KEY/EPO_SECRET non impostati"
+  "brevetti": "EPO_KEY/EPO_SECRET non impostati",
+  "news": "HTTPError: HTTP Error 503: Service Unavailable",
+  "news_legali": "HTTPError: HTTP Error 503: Service Unavailable",
+  "news_brevetti": "HTTPError: HTTP Error 503: Service Unavailable"
  },
  "norme_usa": [
+  {
+   "titolo": "Loyalty and the Exclusive Purpose Rule in Selecting Plan Investments and Exercising Shareholder Rights",
+   "data": "2026-11-24",
+   "tipo": "Proposed Rule",
+   "agenzie": [
+    "Labor Department",
+    "Employee Benefits Security Administration"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/24/2026-23936/loyalty-and-the-exclusive-purpose-rule-in-selecting-plan-investments-and-exercising-shareholder"
+  },
   {
    "titolo": "Self-Regulatory Organizations; 24X National Exchange LLC; Notice of Filing of a Proposed Rule Change To Adopt Rules To Govern the Trading of Options on the Exchange",
    "data": "2026-11-23",
@@ -142,148 +155,6 @@
     "Securities and Exchange Commission"
    ],
    "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23425/self-regulatory-organizations-nyse-american-llc-notice-of-filing-and-immediate-effectiveness-of"
-  },
-  {
-   "titolo": "Notice Pursuant to the National Cooperative Research and Production Act of 1993-Silicon Integration Initiative, Inc.",
-   "data": "2026-11-10",
-   "tipo": "Notice",
-   "agenzie": [
-    "Justice Department",
-    "Antitrust Division"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/10/2026-22914/notice-pursuant-to-the-national-cooperative-research-and-production-act-of-1993-silicon-integration"
-  }
- ],
- "news": [
-  {
-   "titolo": "New York: risultato positivo per Meta Platforms - Borsa Italiana",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTi1wTmZQb21iTWhpTnRsSUY0c0VhOEdOaFI5YWJDZ1I1UExwZ3Y0ODJIYWltMFRkQlFPM25BdlhFa0lfVmlNakM3dVpzUnBaTEdxdUNSSjVaZXN5U3A4Q09SVF9IOXNPZkRzYkpjRGRadW1oOW41QTQ0OXo0Q0Y0OWZqbkloMi1VY3MxWDd6b1lzVU1vczlvb3pCYWlsei10Z0Y5MmpqcWpLWDhUZzFvWVFocnNPeU9uVVZ3VG9yWkhxWjQ2LTJiZVZ5cS1TQmx5UWJaMllBVVBHbzgwMjFn?oc=5",
-   "data": "Fri, 13 Nov 2026 19:00:00 GMT",
-   "fonte": "Borsa Italiana"
-  },
-  {
-   "titolo": "Meta in calo dopo la trimestrale. Il titolo è sottovalutato dal mercato? - Morningstar",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNkM5UUE3XzBxNDQ3RWtBNjROaDVya0VGZDNtR19ZMkNFS0ZZNmRucFpCRW5yQW44b2VkRXdyRWpCNW1UQklMT2ZhNjcxNXpTeFpkelFUNWt6WW9RM2k1U0RRRC1jblZSZzkya0ZhdHlsUVNRM2h3Vm9MdkRuUUxkSnBmc1F6TFRVdURWMHE4bzN0NmZWM1ZZYkZkdlVwdWIyOGxQb2hULXdnZw?oc=5",
-   "data": "Mon, 02 Nov 2026 08:00:00 GMT",
-   "fonte": "Morningstar"
-  },
-  {
-   "titolo": "Meta Platforms colloca obbligazioni denominate in euro - MarketScreener Italia",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX25mc0J2cG1KdE4tdUpIaVEwWUlwX2JOTWhGQkZ4ZmxJY0VkZDJWSFJHejFUQ0VQcDl5Qm1ZXzdvbnRGS0EwWHFuSjY0QnlRRVI3Q3hwN08xTFNZYUdZX0NLb2swUi1MSmR2Nmdza0pkb28zVTB0cmU3UkQ4Q2tzSWd0MC1JVEthUXctdGt5Q21sMVJDTGVfZUJ0V1JfSU1nQUhqd3pMTVNLQlJuX3c?oc=5",
-   "data": "Wed, 04 Nov 2026 08:00:00 GMT",
-   "fonte": "MarketScreener Italia"
-  },
-  {
-   "titolo": "Meta Platforms raccoglie 9 miliardi attraverso la sua prima emissione obbligazionaria in euro - Teleborsa",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUEFESWJweFVkd3Q0QTJPRHpDaldZQS1wRnptRk04dVdDcUtueC1OUTZUYnotQXVsRkVyaHhVOENubDlKTUJ0SjRrLUlCNGZQNWNBSmVXUlRuNUtNakwzcm5TRVA2czQtZXM5RE5PbmRRTXFnQUJzRm42alpBWVVhXzJ5ZlFrdEFOYkw3cWdfX2k0bkRZQUdHNWtNNnZpbzVVNnd0WjN4M0RkTGc2ZGlQQlpoV0t5ZnQ2ZnJ6SDhvMW9RX3lJQlZvdnQzM1VBVzBxU3AtZmY0dmtZekk?oc=5",
-   "data": "Wed, 04 Nov 2026 08:00:00 GMT",
-   "fonte": "Teleborsa"
-  },
-  {
-   "titolo": "Perché il titolo Meta Platforms sta salendo oggi? - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUI2Vy1yUU96d3pHd2ZkUGdMQWxnc0N0UGNyMEE5dWE5VUk2YlpsZy1Zc193bjl4R0RsRmtjYTRmb0JJaVdyclJ4bE5TZ0poME5ESWV3MTA3akwzLXBEZEQ2dC1NeEJ3YkJYS2xFRjR5QkpGdTkzWnB3SGRHODBBbk9TeVpkZDRIV0F5azRYamlpWXpYTXlEdzNuMHRQSGsxYnZpYW14eEg5SUNQUXc?oc=5",
-   "data": "Thu, 29 Oct 2026 07:00:00 GMT",
-   "fonte": "Investing.com"
-  },
-  {
-   "titolo": "Previsioni sulle azioni Meta Platforms: la pressione dei venditori mantiene il prezzo sotto la resistenza a $628,64 - Traders Union",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSnE3TFZYRE4xRTZETDNEZlo3WGdnaExBUk9lTmEtaWpUWmxPNWVXa0pMQjJFWjhod3phOXR4Z0hKellFVUdoT0doTW9XTVdheHZGcThTWTItYzZTMy1PU1lHd2tsa2c1Ukh2V1NwMHJ6U19DSUg4NzBjWUptRDBvOWZINEo0MG9ST29COU1KSzVzYk0?oc=5",
-   "data": "Wed, 18 Nov 2026 16:52:44 GMT",
-   "fonte": "Traders Union"
-  },
-  {
-   "titolo": "Meta, boom di richieste per le nuove azioni: raccolta da 25 miliardi e domanda cinque volte superiore all'offerta - Borsa Italiana",
-   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOV1lHUlpUc1ktMDhXZ2FvbzVZRThzd3F1TTJQVHRyZW5VQ3JVbEZNYnA5dXpidElwLUVYRURVZWl3eGJLWWw4UVpPdlhSTXNQaktfR1NSZjlRYU1wd2cyZ29Sb2VweVpiYUdLaHRYdVZYaDZzWnRXTGdUTWNVSTZqdmFJdWdUMm1ocmZjSHNSbFJ3ZC1zXzhaRmVwZUxmWkZJZ2Y4X19sSnpNRVQzQWtXbEZxbGFySGdzM3ppV1FCOHR0dEV2OGFNVl9KRWpncWJWQ1puWDdTdDU2aXY2VlQxaEdlcVJwMFVteGpsck5iR3d4aGJwWG1YLXpXMDBQUlphZkNrU3hUekZFTV9wcGhaZlJkQllLUHFaNV9SSVJyWU0tQQ?oc=5",
-   "data": "Tue, 27 Oct 2026 07:00:00 GMT",
-   "fonte": "Borsa Italiana"
-  },
-  {
-   "titolo": "Meta Platforms sotto esame nel Regno Unito per le condizioni commerciali applicate agli editori - MarketScreener Italia",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZURGVXdTMFh1MEJKUEp4NUNRQm1pUDRGNktzVm9BSlFhT1VtZ1Z2U1NlZXdTbHVIV1NYUHZDRWszeGZoQ19FSmNsYm9ycHBTRGltTy1zQTl4Z0tOamluX0xjX1N5aUp5N184R21Hb0dsMl9vOEtBQU1Ua282Rm5aaWtDMll6YkRzdGdpWDZNaDBxd19yc0RxYkNGZlRrQWs3dTFDb0hjQlc4Wl9oXzJ3dkdEdUxvNE91Y3dRYlg2VDkxLU9Da1VHV1lycjE3UDZ0WEhJWGRrSXh0N1ZiRzVvQ1dwa3k?oc=5",
-   "data": "Fri, 30 Oct 2026 12:59:39 GMT",
-   "fonte": "MarketScreener Italia"
-  },
-  {
-   "titolo": "Meta Platforms lancia la sua prima emissione obbligazionaria in euro - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVFJHWjlRZDAzVE9TM3NhT1lBOElGOGN0cWJTRnJ4VmM5TEx1VzEyR1VZenRQTEhGZEoyck0yc2RKdFZtcU1yRWNKaG0xbDVNeGZ4TlE4VzBVS3BGb2oxMnN6Um5BSTdLeHRFdDNIZEtrQnhCdE1FY1ZYQXRFZmNyWTMwUThqMjEyRWRjNmhPczdjS3dEeW5IS1ZBZnB0ZEh1ZEdrcjc2QlU4VXo2YVVWc1QwZjVKNGs4eEtUYU1WMVBMZkJtMVJfaA?oc=5",
-   "data": "Wed, 04 Nov 2026 08:00:00 GMT",
-   "fonte": "Investing.com"
-  },
-  {
-   "titolo": "La CFO di Meta Platforms Inc Susan Li vende azioni per $5,72 milioni - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRnVneW5LWndnSFJJRHhDU25DN3M3V3VPM1JJOGpCUGhFRmxsYldBV1l1MFhrMnFtOFdBaWRJXzd6RlVJb2ZtSG9qWkxrYVdhbGFBTjRtUVhJb2NwTW1sMS1SOUpkUUFqcTNxdVROUXVoVW1Ga3FpUTVUYVZ3MWlsQVdTdW90MVJqNHFvLVYxaU5iQUE3MGZ3OGRoOWVWcEFxYURTRXY0emd0T01hOXZVMUd1OHJqaDMtRkdhUXJZbkJnRDhSZThSVmlR?oc=5",
-   "data": "Fri, 20 Nov 2026 01:06:00 GMT",
-   "fonte": "Investing.com"
-  }
- ],
- "news_legali": [
-  {
-   "titolo": "Meta perde 400 miliardi di dollari, mette all’asta altre azioni ma gli analisti vedono ancora un potenziale rialzo di 1,4 volte - Yahoo Finanza",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTk1BVDN3RHByMGdrWlBzWXBWU0N6SFFZUGxPMW1GbHR6azktX3M0d0RZMVRxNDFZRnhWbTlrTXZveG1WNlcwUTM4VXk3SkM2ZWtWaFhIdmQyeElIUE96ajQ1M1RNTFc0R0M5MVVuWndEQ3pZcWtvVTZyUTQteVBYRG5RMzQ?oc=5",
-   "data": "Tue, 27 Oct 2026 07:00:00 GMT",
-   "fonte": "Yahoo Finanza"
-  },
-  {
-   "titolo": "Facebook: sanzione a Meta per 805 milioni di euro - QuotidianoPiù",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObmhRdVVRMWVkYkN3dVpoZDZxWnJkcEM5elNub3FObko5NXlfX1pmTDQ3WDM2TmYzSzRhTlJzYm9welpXWkZ4LUFTWmdzYXU0OWc3VXRsbkh6SVVxNHhYeUY4WUd4VmxvczM0THp2bWY3MnF6dXZiMkZOVXR0UllTblRoQ0xGSGQ3MkhhSmR5Nk1JdkhWSXcxZ1g1Y3c?oc=5",
-   "data": "Mon, 16 Nov 2026 09:29:00 GMT",
-   "fonte": "QuotidianoPiù"
-  },
-  {
-   "titolo": "Meta vuole raccogliere 95 miliardi di dollari in azioni per finanziare la corsa l’intelligenza artificiale - Forbes Italia",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNzJkNUdjdEJDcm80WDNaQXowQXBxM0NWSGhCOXM4cVY4T1hoWjNGZVRtTElsVUh3VzB6Qy12dFJyZENtVVVRejlGWHhMb193MWRTU2pJSzVXS1RTdTBwcHVEU2s3cjRrbnB4WGtJMkw5SURqUlZkaFktTGFCUHIxclExZDk?oc=5",
-   "data": "Mon, 26 Oct 2026 07:00:00 GMT",
-   "fonte": "Forbes Italia"
-  },
-  {
-   "titolo": "Meta Platforms raccoglie 9 miliardi attraverso la sua prima emissione obbligazionaria in euro - Teleborsa",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUEFESWJweFVkd3Q0QTJPRHpDaldZQS1wRnptRk04dVdDcUtueC1OUTZUYnotQXVsRkVyaHhVOENubDlKTUJ0SjRrLUlCNGZQNWNBSmVXUlRuNUtNakwzcm5TRVA2czQtZXM5RE5PbmRRTXFnQUJzRm42alpBWVVhXzJ5ZlFrdEFOYkw3cWdfX2k0bkRZQUdHNWtNNnZpbzVVNnd0WjN4M0RkTGc2ZGlQQlpoV0t5ZnQ2ZnJ6SDhvMW9RX3lJQlZvdnQzM1VBVzBxU3AtZmY0dmtZekk?oc=5",
-   "data": "Wed, 04 Nov 2026 08:00:00 GMT",
-   "fonte": "Teleborsa"
-  },
-  {
-   "titolo": "US: Meta ordered to pay $25 billion for misleading users about privacy - Il Sole 24 ORE",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQzAwWHBhNllpR2FUdWszYUR1bHJsRUdBVFVNWjdqdGRMc2tYbVJnZjRZZlFLOXhBT3d5SDhxYm1NNHg3NlRjSjhZTWN0dUZsUkVvWm03LXdkWGNCWG9HckkwR3E2d0h0WDBITzY4MHYycTJ0Q3dJR3FZeE1YY3ZLRkF3UW1ET25CUFhzU2x2V2puZVB4S3JyYzVtWmNVNVJpUmdFVTFHNFViTFV0OC14NHQ1YTQ0UFh2VlhIWm5uOThHZmNJdHc?oc=5",
-   "data": "Wed, 21 Oct 2026 07:00:00 GMT",
-   "fonte": "Il Sole 24 ORE"
-  },
-  {
-   "titolo": "Meta vende le sue azioni: punta a raccogliere fino 95 miliardi per l’AI - Borsa&Finanza",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZUFMcnVLNUlZWEIxWG1EaktxcWFBc2VxM0FzY0ZSYkhaREtNSXBDczRQQ25hWnZFTTdzRUVrUmkwZGdtSTBJZFZ5eXBuem9XSWUzUkNTV0lPek1Ob2pENGhHakJlQjJ5V21GSVJTX0pyZE5JQUxTam4zZXR1Vl9WRGtoUjQ0bU92RDAwWGRxOFo?oc=5",
-   "data": "Mon, 26 Oct 2026 07:00:00 GMT",
-   "fonte": "Borsa&Finanza"
-  },
-  {
-   "titolo": "Brillante il listino americano sulle speranze di una soluzione diplomatica tra USA e Iran - Borsa Italiana",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOVzc3RE5lVHZoeXprNmFla1Zac2ltMXNmQl9XVzVhNjdlcWRyUU1QOElDRy01T0ZjaDg3UmxNQnJXbzR1V0pSdldPNXRMZFBwOUhpM3RkU2I5RlVlQkVuT0FvZTRGVkdrVDAtMEtRc0RNUTEtSkpuREpYZkVrZzB1SUhUS1lOXzRUUEdSajFZekxtNEVXWHlkQnhvSmN6ZUhfRDMzc0d4bHozUlpzYjFxc1FmeHhWWmtTX0JZWXI0eXlDd01CTTQ5VG42RlBKT0pVMDJvWDJ4ZGlDeWw0UDU3SnR4N3R1akFCMWdmVnI4RXV1aldrVVBPN3p6UTRTWGI2MGFqQThVMkZEVzlsOWtpSg?oc=5",
-   "data": "Tue, 20 Oct 2026 07:00:00 GMT",
-   "fonte": "Borsa Italiana"
-  },
-  {
-   "titolo": "Meta Platforms, Inc.: President Capital Management Neutral sul caso - MarketScreener Italia",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY3l2dWVhb2RJMTdXTVJUR3NtQ1B4NE4zTF9CaTI0MElzZlNVQmd3SE1YSk1MeU5xcjZQWEdMYmVfNjMzcmQzTldBbkkwT3FtQXpEdEtBeFMzVWlSZWEwc0RjMEVxU0dqSGNhOHRQX0tnMXg5V2xKaXVqNC1BYXo2d2xqSFdiNGZjajd5OVpXS3BsRHJNOVVLOG93aDRoUk5LMHlqY0FkZ01mc2ZkRkdUbkRlY3FlQ2JjQTNn?oc=5",
-   "data": "Wed, 28 Oct 2026 07:00:00 GMT",
-   "fonte": "MarketScreener Italia"
-  },
-  {
-   "titolo": "BPA CW CALL META PLATFORMS 680 E 251126 - Milano Finanza",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS1g4MV9uVDJFZ2JoWmppSUVlYzR4VjZHSEYyZWxLRllYd0FNNC0zYTdOODJlVzBSc0J3V0FjdUo2a0FheVl3eXY3MFdkc2JYek5UejJrX1ZRcmVTR2FOZnZjZFdqVGo0Qk1mRHpYaC1KbEVrQXg4blZsSEFnVzRZcWQxOEFLQXM5WENHUGpWMHNfMkNWQVJDZVdPSFdEdw?oc=5",
-   "data": "Sun, 08 Nov 2026 09:46:48 GMT",
-   "fonte": "Milano Finanza"
-  },
-  {
-   "titolo": "Meta crea una nuova classe di azioni per mantenere Zuckerberg al comando dalla California - Yellow.com",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb0JTTk8zZ2txTTk0ZkVEQV9mYmg4OFRTb1hmeWxnVnY4Q0RvM1VtTTByRC0xeUU5U2FKbi1sWEgybEhUbC00NUdVemtCVFVnbXQzZ0diMW1KOUgyOUtXLVI2WUdvWXcxU3hhN2dFT3F0UWdsWld0aWRRbHgzVkY0SkNDSURITE8tMXlXMWI0Sm9mdzIzci1jZm9zZ2hucGJyT0kzbFl3ZjZ0ck8weEhkaENRRWFQdHc?oc=5",
-   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
-   "fonte": "Yellow.com"
-  }
- ],
- "news_brevetti": [
-  {
-   "titolo": "BYD, un brevetto mostra il progetto di una microcar a due porte - ChinaSmartBuy",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2Znk1aVpDUUFlck1pdEdsR200SmE0Ums1RzVTLTlCVkhSc1YydENnWmMzWUYyTUwxek9xNGpkNGdsc0pWZm56OVFFRjBmY01xMGl0NFpGYTZwbXZDZW9jUGQtU2EzRjB4YzFZYjFXWTFzeDE4TDVLSGtaY0pDSWM?oc=5",
-   "data": "Tue, 10 Nov 2026 08:00:00 GMT",
-   "fonte": "ChinaSmartBuy"
   }
  ]
 }
