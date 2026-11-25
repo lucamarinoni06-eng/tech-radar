@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-24T15:41:05+00:00",
+ "aggiornato": "2026-11-25T15:21:31+00:00",
  "filing": [
   {
    "tipo": "10-Q",
@@ -89,10 +89,7 @@
   }
  },
  "errori": {
-  "brevetti": "EPO_KEY/EPO_SECRET non impostati",
-  "news": "HTTPError: HTTP Error 503: Service Unavailable",
-  "news_legali": "HTTPError: HTTP Error 503: Service Unavailable",
-  "news_brevetti": "HTTPError: HTTP Error 503: Service Unavailable"
+  "brevetti": "EPO_KEY/EPO_SECRET non impostati"
  },
  "norme_usa": [
   {
@@ -151,6 +148,168 @@
     "Veterans Affairs Department"
    ],
    "link": "https://www.federalregister.gov/documents/2026/10/23/2026-21697/privacy-act-of-1974-system-of-records"
+  }
+ ],
+ "news": [
+  {
+   "titolo": "È iniziato il Black Friday Amazon 2026, quando finisce e cosa conviene comprare - Idealista",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeHo2M1NCVE0tTDBaTDNaRUlERnotX1gxLUNVWHBTY3o1Skg4R2tVNWpqUTk0ME9HeE16Z01UaDhra0M2R2ZzejFIaUI0LU1mSkFCUm5lYWxxV1BJeENva0M0NG41RXJBb1FNRVVLTWI1R1lsTFBLNGZNclMwTEFtZUxNa1dWWVg3WEtJNkNIZ2NPV1l0d2hFNkJpeUtDMk1RZ3N2WWcwbnlobWtMTXV0ZDBQYUdFYVpCV05aZExYNXVIVkx4djQyMjFLX0ZZVzBrODhqWDZR0gHbAUFVX3lxTFBObEtWcU94dU9SV2JFSDJHakItVnVNdVNwZHZ1R085R2dMVGJDTV9qYVdjSGU0VFR2a1k0ZmRqZTFjb05hTnhQYXlPOTV6Vkx1Ujc3MWdQNExxdnVWVnpHalBzakFYU3BKeE1sR2Nta2poVmJwcDgwRUlrS05FQWM4LXRWVWljSTVIRnlySWpsc2NTMWMyUnlkbW5PNUJuOWMzV0ZxN1AwU1U2aUxyWENlUHZzX2RrbGpvNUVRTndEZ0VkajVvLXExaS1LajZBcWRqUWxmVGlFNmdNNA?oc=5",
+   "data": "Fri, 20 Nov 2026 13:00:01 GMT",
+   "fonte": "Idealista"
+  },
+  {
+   "titolo": "Amazon, spendi 200€ ora e a gennaio ricevi un codice fino a 30€ - TuttoTech.net",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaUpFNi13MF9WQmpKZ2w4N0F5aGdEbnRrZERfYlBBUFlNNkk0WlJaRFFvbndiYS1pZkozN2x6cm8zOXZ0aGhBWXk2c05pR2xnLUppbWhYaGFPRjMzNmFoRm5aYktTYTdqSGt5OU9VbXR2V0xzT253ZGhManozWkg1bA?oc=5",
+   "data": "Thu, 19 Nov 2026 08:15:20 GMT",
+   "fonte": "TuttoTech.net"
+  },
+  {
+   "titolo": "Quando inizia il Black Friday 2026 su Amazon: il calendario e le date - Sky TG24",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOXV3WUdJb1VwQUhvcy1NbGV4VVdNaVlleTIyV3Nmenp4QVNUNUVrVEpoVVIxRHdBNHpSNUM0WFI0bWxQUG4xWTJJSXU4cl9uSmRaRmR0Y2Y1TWF6Wkw1a3F6SWdtaENSa0xwblVZZ2hTUnJRV2x0ay1lSW5pY0FkZGtiMnZUTkk?oc=5",
+   "data": "Tue, 17 Nov 2026 05:44:55 GMT",
+   "fonte": "Sky TG24"
+  },
+  {
+   "titolo": "Offerte di Amazon che non lo erano - Il Post",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYZDYwaDBfMllTWFRXYWh5eGd3WXd0NnFUcWhlS3BpVFBOTkZPUmt2b3ltYlRCMU5TajdpcFVDVXN6NVlTUEx6NGR2MjFlbTU1MXljWll4YnZvT19vLWlIMjdsalVER2lrNGZ6dXVBaEtFNFpX?oc=5",
+   "data": "Wed, 18 Nov 2026 10:47:32 GMT",
+   "fonte": "Il Post"
+  },
+  {
+   "titolo": "Amazon apre il Black Friday 2026 con uno sconto generale inaspettato per il 2027 - Everyeye.it",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTjBHTWFkYV9tdXE5eHpxZWVRUWlWbjM5QmJGRHczLVZRN2dtVVlobW5WbWstMklPWkF5am1udW5sYjlmSFZnWlN5WjFFTEMtemVHMEtxUW1HSkpHQVBfTy0zeUIwaVNpdmZLUm5HenB0V3oxMW5IUWlUQWNaLW5ianFieXl1d3otdTZ1aXYxbFFLMnk1Mk4wekJITWlYQQ?oc=5",
+   "data": "Thu, 19 Nov 2026 00:43:00 GMT",
+   "fonte": "Everyeye.it"
+  },
+  {
+   "titolo": "Black Friday Amazon, le migliori offerte di oggi con sconti incredibili - Libero",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcEl4dHdYTHN5S3h1WVliZFpUYUQtNDVqTWYxenl0Zm9Ud3o5SmY2SmdMLXdDY004WjR0d1F6ay1KS3oxTmt3RTdBYUpVdFFtVHVleWtIQkF4YUJZdGFKajFkeUNNci1CVGNkT2s5dHE1SGoySjdvRVhKbzgyaXRJbnl5aVNPaXdpaXF1YWF3RHlrNWllWkJRT3dzSnVzVFXSAaQBQVVfeXFMTXludjYyNEpHTGNjR0lDUFBjdllYcHlmU2NDY19ZWEhyVENQN1h2R2tBRlpBejlLMEpqelIxM2c4dmc5QlRnS3ltTjV3ODg3VHNFQkVrMGY0S0tUVWlRUHZMeWNCckkybGtDMllCUkNyQXRlMEZiMmk2NzhRUG9vb0hMXzFjZEZoWWlsS1FoMmhLS1l5TEE5YU43dGFocFAxMGdfS3I?oc=5",
+   "data": "Wed, 18 Nov 2026 23:01:00 GMT",
+   "fonte": "Libero"
+  },
+  {
+   "titolo": "Il razzo Vulcan è esploso 10 minuti dopo il lancio, trasportava a bordo 40 satelliti di Amazon - La Stampa",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQTVyTHRtUEN0UHZIQU1NNlF3clhkZnRNUjV3X284RUVqOEY5Y2dLWmw2b3RLTWh3QUVKam1fTGxUYzkxSDJXVGljS1lMLTJBT01rcWtFQVRZdkFFajFMel9rNW1LSEVMNFEyVGRvVVNoOEgxUVZONTNlTUU3N2RHU3ZMRENSNUhHbDdqNEdhRTVvUVFLVHZGYkFCSEVjaG1NRTZkWnU4TVZLS2I1Vkdj?oc=5",
+   "data": "Mon, 16 Nov 2026 08:00:00 GMT",
+   "fonte": "La Stampa"
+  },
+  {
+   "titolo": "Israele ha identificato 3,5 milioni di palestinesi con le tecnologie Amazon - Il Fatto Quotidiano",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeV9WNUx2V3lMeTRNWmFaREZESlRaM3RtazVOQXdCekZRTDZiZkh1WVNjcE9fWmNldEhTVkJzU2lTaW9JeEJfRjQ3b1JSSmstV2xVclZraXpUendDYmxpem42YTZyV3d0MWsyZDJiM2loSm1pOS13eGpOWHZlbWNTdHJuZUU3dXdYU3BtY3p3TVFweUwzcXFfcDJvYmxYVC1aNXNwMV9uUGxjUTJIR1BzNQ?oc=5",
+   "data": "Tue, 17 Nov 2026 12:02:56 GMT",
+   "fonte": "Il Fatto Quotidiano"
+  },
+  {
+   "titolo": "Amazon apre il Wonder Space a Milano, il pop up a ingresso gratuito: orari, ospiti e come entrare - MilanoToday",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV2syOVptRzJrTUdPRWZTUUJ3Qm1OaDhPS2lyYWwzU1lfakFrTXRyYl9tSm1kUmpqRzFua2V6eVhvSUdwSWVfcUxQcjBGMjA0NHJTWG9zX1lJdzBBTzUxSm42Z0JyMXdWX2loSFloNGYzRGFuX3JzYmdYNXZURUtYWE5pYk9lUDdQeGFrZnZlVlZDUQ?oc=5",
+   "data": "Tue, 24 Nov 2026 12:45:33 GMT",
+   "fonte": "MilanoToday"
+  },
+  {
+   "titolo": "Amazon Echo 2026: le differenze che cambiano l’acquisto - macitynet.it",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YcjBRM3l0MjRGQnJ3NmJPNl9uQjdHa1BJUzdjbF9XU0dibVlHZDNGS2ZfOWwyY0Fhb2Q5eVZmaTFyQ0t2VDlRMmdRR01fRGlVYnhJa0oySmtJaXAzUHlFR2NBZ2FmNFEyOFUyZlotSkplOTd1RXc?oc=5",
+   "data": "Fri, 20 Nov 2026 10:29:06 GMT",
+   "fonte": "macitynet.it"
+  }
+ ],
+ "news_legali": [
+  {
+   "titolo": "Amazon esagera per la fine del Prime Day: set LEGO nerd a meno di 7 euro - Everyeye.it",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLWNfQTI3ak84UXRFVmlOVnliTmNPZlk0RXp6UmdIM2ZNUzIxMmQ1U2c2bDgwaGtlaFNoMmpSM0FwOE14OTFIc1pTTVY2YXhGVEw4WEozdkxpMWRUbUtFekdUMEhEcnV6X1VSZ1piZlQzTkUzaFUyQjJRaUVUSGZRaWZmVFBnb1FYc2RGcFB3ZnQ5Y3c?oc=5",
+   "data": "Wed, 07 Oct 2026 07:00:00 GMT",
+   "fonte": "Everyeye.it"
+  },
+  {
+   "titolo": "Amplify: 30 anni di bellezza, speranza e solidarietà per l'Amazzonia - amazonwatch.org",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOXy1GajFGUER5bTFhc3VlRC0yOVNYNTlpUEFaTnNjS0VwVEZjWk9rX1B6cnl0Mk0yOGF0cFpJTWtuUG8yeU9ta1FQMnNkVElvcUhWazZzeUtiUk8wZmNOYWZnczFTUENnN21zcElzQWsyR3lyYTVLclZDZldIbHhUZXg0WWRseFFlcjJZcUx5YVp0bGV0a0xaUUwxNGN4cFFHWkN4Znhn?oc=5",
+   "data": "Fri, 30 Oct 2026 07:00:00 GMT",
+   "fonte": "amazonwatch.org"
+  },
+  {
+   "titolo": "Google e Amazon arriveranno a detenere una quota di Anthropic superiore a quella di tutti i co-fondatori messi insieme - Forbes Italia",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcVo2T1hCY29naFRyMjlhOGJzd3Fpcy1oQ0lKMF9SQmNtN0FrT1VYcjJMRy1DRGVuU1oxRldqODNUS0x3Y3dwV0lEdzc3X0xYS19iUldYTnpteGdBNzI5U1V3Zkh3LTFfREdtNTVOMGJhbUpPY1dWSTJ0ODk3UHRUVkhR?oc=5",
+   "data": "Thu, 19 Nov 2026 13:00:37 GMT",
+   "fonte": "Forbes Italia"
+  },
+  {
+   "titolo": "Amazon LEO, più di mille satelliti costruiti e 100 pronti per il lancio - Key4biz",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR2p6c0dxeHBFcUNmdjBJT1p6LWNxVDBreFpEUExiMlRLeHByQXZmYTFVOWVSekZOaHBhQzZmeHFiWTg0QzJUbEdPMHJBTlBLZG9SMWVXOTlucExTNTY0ZTdyaVN6aFVta21JOFBnQl9ER1ZDa3ZEdFNZTmMtTENXUHFaaVhRNk9XN3VTU2tENktBcWlnMXVpc2Y4QnQxbnU0b2tz?oc=5",
+   "data": "Mon, 12 Oct 2026 07:00:00 GMT",
+   "fonte": "Key4biz"
+  },
+  {
+   "titolo": "Amazon ferma gli aggiornamenti su due Kindle recenti, che succede adesso - Fastweb",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbDNRN0tzcVRrb1pqcC0xZVJHQXJKcUdPU052a095cjBsZmt2eklOZDVoaEdoazE0aWJSYzJrVWtoVEd4SVVSaDdyazRNSnVQZTFYZTV3SWpBUlVBS0ZocXI3TXJQaWNzRVFoWkR4bTZ5NS11NFFVR2QwN19mT1Zsdk1Yb1V0aG1pV1JLckF2REJRWWxRZkxKUDE5cEg5U2Q5dW53U0hySTBQbE02cWEzb2dzOGFCWWRLNFlaZy1KR2wtUHdKZ3hRRA?oc=5",
+   "data": "Wed, 25 Nov 2026 11:10:25 GMT",
+   "fonte": "Fastweb"
+  },
+  {
+   "titolo": "Quanto dura il Black Friday 2026? Da un solo giorno a settimane di sconti - Idealista",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZTRQOUtTNnFrTzlaMkNHNnM1M3d2S2dadzgwZ05YZlp0SUNUbjNuR1Brc3lBNFhhb052WXZnTUZrREgxeEVJcFEyR1pLc05fdDBCUmhHc0loMTE0akJjZTlpM3VwRjRyQlpBZ2FiaEFMQm5kSFc1ODJwRF9EdXlzMDhQNlUyc185S3hPZVVHQ0dBM0pMWmwtelQ5WU81c3hyd0VfS3diOHVUWW0tT0lKU3VwY3hJcmdldzZFWEZuWVl1c0hPb1lkUUxadUJvd9IB0wFBVV95cUxPcDZFRHg0Vjdzd3VOb0lDUTY3em5xTGpOQldnSC1Hd0VQQW1ZbFJUSjBBV3lBdG1RcVFMZGhKOUpCd2RkR1NCcXJsYm1IeWdfV3dKWXRoZW4yZEZNeG45MEpZZ25oMV81a2dnTm5fVktCVzFTZUNreEJ2Q1J0Y2RKbWZHZ2NiRDB5NFRuZGgwOVBhN3VtWnVRcmlJV0hWZVd5UTNqUHl5aTJLRVdJVV85N0VKZVlZNmd3QmdTcmRQTTFkOXVRb0trS3FuTUJIT1pXTDFj?oc=5",
+   "data": "Thu, 05 Nov 2026 08:00:00 GMT",
+   "fonte": "Idealista"
+  },
+  {
+   "titolo": "I migliori libri per prepararsi alla fine del mondo - macitynet.it",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPbGVpdGN3dmgybTd0X0VrQ1owS3NpS01IdkJISmU2NUtiOGFJbGlCRmYxVGlwY0NVdk1KclRfUHk5bVB4b2Zwc0NOMFp0QUZoc2llWA?oc=5",
+   "data": "Sun, 01 Nov 2026 07:00:00 GMT",
+   "fonte": "macitynet.it"
+  },
+  {
+   "titolo": "Amazon Leo, internet dai satelliti entro fine anno: l'antenna costerà meno di 500 dollari, ma Starlink è già avanti - SmartWorld",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWnBxXzAybHhJY1ZUNVVhWmJUQWxCc1J6Tjc5RERrT3RLR28teTlqeUxUZlhXNHhsdE43T3Y2bW1FcjVIRzI0RWJkRmZ3RlZZejdtMVpBN25jR3VBWkZFNmowNnlVTnNpU2ZjU2kzZUdJZXVMeV9sUFpVM3JCZm1sVjB4dGE0YnNuZjdiRA?oc=5",
+   "data": "Fri, 13 Nov 2026 08:00:00 GMT",
+   "fonte": "SmartWorld"
+  },
+  {
+   "titolo": "Black Friday e Black Week: come capire se lo sconto è vero - il Salvagente",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeF9mdk5vb29kYlpSV1FaeXNWTjEyYUJVWU9KRFB4ZmdyTkxwNXJvZHJNQXZFNUJpOXV5a3JyNFVMQkxKUmxkNWdVa19aUm9pVzF4dzZNZlRISEg4OXBjSldpRUl6LVhtbkczT3hVRkRncHAzdXJsMXZBVEpqeEhOcF92czBkUUNpMjJpV0x4eHY5U1hIUlFxUQ?oc=5",
+   "data": "Sun, 15 Nov 2026 08:00:00 GMT",
+   "fonte": "il Salvagente"
+  },
+  {
+   "titolo": "Amazon: le lampade di Harry Potter per un fine anno magico (c'è una luce proiettore!) - Everyeye.it",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZDRZM1Q1dk1ndDFFTXJhdE1LVllINXpHUDFXdVczdjc5U2RUaUpBRlZIZHdIb0JxbUQwRzdzM1Y4aWkyVlloTUxWcEhVd29rWi1wWXhNaHFkWnc0VFlRdFNvRTBPVFQ2ZFJ2UTg1NENnSnVWZTNGbUhYMDZjWHhoWWZodHhMQ3Vsb3VoZjZKbTVYT1dheFZUbDNqU21GbHJSTjVZ?oc=5",
+   "data": "Sat, 14 Nov 2026 08:00:00 GMT",
+   "fonte": "Everyeye.it"
+  }
+ ],
+ "news_brevetti": [
+  {
+   "titolo": "Garmin brevetta uno smartwatch AMOLED con celle solari sullo schermo, il possibile erede dei modelli MiP - TuttoTech.net",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdXQzUmM0MjhwMndfdW9xbUttejBYTWk4OVBmV25TX0JpaXotUnF1eEFQeWdYZ2FFTF9HZHVKXzNaU29vZmsyeHgyN0I1cHdyWE1DcENBZDFXc3FqVVV5SmV1ZWJPYU5UbWFrVnd4R1ZtWG9FTXduMS1IZEdEQVBlUXc2V2Y0dHJXNlVIdk12b1hmdGZEWThPaUsyOUQ0VVBqMzZ5UDh3bFRsb1g5?oc=5",
+   "data": "Tue, 17 Nov 2026 12:32:57 GMT",
+   "fonte": "TuttoTech.net"
+  },
+  {
+   "titolo": "Su PlayStation 6 ci saranno giochi VR più immersivi? Spunta il brevetto di un collare che soffia aria - Everyeye.it",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMHJoNGxKaFpJejI0ME84WTNqaEk2RjFTc1VsVGxWVGE0T2R3cG1sWk95dHlEcUJ4MkhZOFNZa05jTjZvakxuamFKVFNsdThnQ3JoNHlWeU9uNXNGM0hzcUtxa0JiUFJnd2cybnJQMnJ5TElfUkRBQnZ2cHpBTmE1cVpoN3JKb0l3OXhZVkN1Y25CNHFmaDJPbER5M3l1aGFQODUwUFdmcDMwTElxUGNrYWFScw?oc=5",
+   "data": "Tue, 17 Nov 2026 09:53:00 GMT",
+   "fonte": "Everyeye.it"
+  },
+  {
+   "titolo": "Un brevetto Sony svela il controller PlayStation che paga col telefono - Pasquale Pillitteri",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZmJxazVnQkhrajU1bzhPTC1QYmg2WGo4cnBwLTVkbHNmSGd6eWNfRlZDQzhpS0EzaFdWdGI5SGd4UVFVTWU1QzBfMU1EREFPcm8tbE84SDh5VWltT0xMaEdWdXZCamJnR3piY3NkZ2R1dFVPYzZETmJteXd0N0JOZ1o3bWV3QUtQQ250TFM2dWEyVUh2SHoxaEMzVC11RXc?oc=5",
+   "data": "Mon, 16 Nov 2026 08:00:00 GMT",
+   "fonte": "Pasquale Pillitteri"
+  },
+  {
+   "titolo": "Activision brevetta un'IA che impara dalle tue chat per far parlare gli NPC - Everyeye.it",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMzl0RkJ2X3RkcC1HOG04ejZSd1NXcVRDLWVzSEJjWDczdzlER2lhUXpIcW5PMG40eDBGaGFMRWVEMU9JRk9ORTNIVXQ1ZW9LeDViOTlOc0VNcDh2ZVlVTGNIaWRjenJ0enJkQ0U0TXhVWlhOU0VMY1hPdXZaYzg1bmZHZVFpeFdiU01EbFZXWDBmSE0?oc=5",
+   "data": "Mon, 23 Nov 2026 21:27:00 GMT",
+   "fonte": "Everyeye.it"
+  },
+  {
+   "titolo": "Spunta una domanda di brevetto Microsoft per un'IA che riscrive le parole in diretta - Pasquale Pillitteri",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT0pOOHFyczRDb2VaZ2lOa2tQNUotN292Mnl6S0t6cTlxQ0tWMlhicG1qektJMXF1ZXg4dDUwb2VYN19CWnh0VmFIbnF4Sk5pOEtTWjZzUGo1alFWZTB3X3plX09qRk5IZWR3TkozTkdQaktZdzF5ZC14eG1ZNExwd20xSlR1MTJYcWxUNUJUemh3LTA?oc=5",
+   "data": "Fri, 06 Nov 2026 08:00:00 GMT",
+   "fonte": "Pasquale Pillitteri"
+  },
+  {
+   "titolo": "Tesla brevetta una \"Electric Fan Car\" con quattro ventole nel diffusore e gli indizi puntano alla Roadster - TuttoTech.net",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM3h2U3U3VG0tMEU4aHk4VXdyMDdWZGVBVVBQaXRUM29xVkIxVU1FRS1lcWo2WE5NYVZ2WUtBSEw1QThLV1ZaUGIxT2xaVkJ3dUptSmY1SDNaWi1HZVhqV3pQN0c1bk9GUy1aVGFpRC1lWmlKMXdHOTIydHZZbi1PZUl3Uk9GenFmZDMyT3dVblBhQQ?oc=5",
+   "data": "Thu, 01 Oct 2026 07:00:00 GMT",
+   "fonte": "TuttoTech.net"
   }
  ]
 }

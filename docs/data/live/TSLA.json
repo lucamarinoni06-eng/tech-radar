@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-24T15:45:16+00:00",
+ "aggiornato": "2026-11-25T15:21:41+00:00",
  "filing": [
   {
    "tipo": "10-Q",
@@ -95,10 +95,7 @@
   }
  },
  "errori": {
-  "brevetti": "EPO_KEY/EPO_SECRET non impostati",
-  "news": "HTTPError: HTTP Error 503: Service Unavailable",
-  "news_legali": "HTTPError: HTTP Error 503: Service Unavailable",
-  "news_brevetti": "HTTPError: HTTP Error 503: Service Unavailable"
+  "brevetti": "EPO_KEY/EPO_SECRET non impostati"
  },
  "norme_usa": [
   {
@@ -155,6 +152,168 @@
     "Employment and Training Administration"
    ],
    "link": "https://www.federalregister.gov/documents/2026/11/17/2026-23370/modernizing-the-labor-market-test-and-improving-protections-for-us-workers-in-the-perm-immigrant"
+  }
+ ],
+ "news": [
+  {
+   "titolo": "Guida Assistita, via libera del MIT al Sistema Tesla - Ministero delle infrastrutture e dei trasporti",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU1hTRzFXNC05OFlDR29COWFTUEw4N2VldGZXNnJpMWo2NnYyYnhNRlR5ZFNISW96SE40YmZiN3RFVjZCWjY1Q1lMZ0ZsVlRnSTE2OG1YWXEwdnJYWTlxcERSRmxqUm1TcUdHa0NGUXhabktnMXFnc18taVVkNERLRVpiQWY4Rlg2WWtQc0hvOTBFdw?oc=5",
+   "data": "Fri, 20 Nov 2026 16:10:33 GMT",
+   "fonte": "Ministero delle infrastrutture e dei trasporti"
+  },
+  {
+   "titolo": "Tesla, da Mit ok a omologazione provvisoria sistema guida assistita - Sky TG24",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BZTdpRmpndUtjYXF6ZGZRR3pQeHh6d2gyQmk3ZXRrWllpWVhoYlUwUGU4T3IzWmpNdXVLb2VKcDlXb2YzcHc0RU8yOXZoMWF1QjFBYzJ5WDl4eVVJcWlOYlhINzRGMDdHTUxNX01SWURUbTA?oc=5",
+   "data": "Fri, 20 Nov 2026 16:15:14 GMT",
+   "fonte": "Sky TG24"
+  },
+  {
+   "titolo": "Cosa accadrà se le nozze tra Tesla e SpaceX si faranno? - Morningstar",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMHhjNnlqLWVaOFQwMllHNVpsZGctVFAzN1E0RkJEZ0lHcDZQTlVycTFtYm5IT1c3Z01pS2ZUSE5TRUNDaTNJRTJQUzRIQzhSeGMzUl9qZGR2ZFBJZTRMbDR4a1BhblhUZVJOWU1FbVNxMjF6YzdWY1QxMGRxWC1pbjZCVjlXUWxvdVk2YzV6NTdUMmJQamRrTGZR?oc=5",
+   "data": "Tue, 24 Nov 2026 16:15:07 GMT",
+   "fonte": "Morningstar"
+  },
+  {
+   "titolo": "Il Tesla Assisted Driving debutta in Italia, ecco quanto costa - InsideEVs Italia",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wMXVsS1dmY2JiNkkzY1RITVowdFZZc3pQMlViNFJZQ3pMYmx1WnBSYTFWU0lsaVJVVU92ZUdtcWpOcnlFMWlOVVhORlpiTjFTTTltekNTYjk2UnoxT19oNV9CcUh0MHZHUXZ6Qm5pWkpjcy1hN0xnRVB3?oc=5",
+   "data": "Fri, 20 Nov 2026 14:14:51 GMT",
+   "fonte": "InsideEVs Italia"
+  },
+  {
+   "titolo": "\"Mamma butta la pasta\": Tesla sbarca in Italia con la guida assistita in città, ecco come funziona e quanto costa - Rinnovabili",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORm1fR0tIRW1iR1FxX3RHbU9NVi1yT29yci1TODQ2NTRGcXhyTU81TlFoMHc5RDJRVTVLSlA2OWhlOV8zdGs1c2tNQXNiWjVUcGFxaTVDZzdkeUFTOHJscFdsa1lpa1JnaWp3LXdJek5FQTVpRXpmbjNSWFhSaWlyeFZBTVM2ZTAxVXBjNExUbE5TdVAzclpzUi1HNE5HMWFfYjBNRDFaQWhGanc1eGxHZFI4UmlDZkJsbnc?oc=5",
+   "data": "Fri, 20 Nov 2026 16:23:05 GMT",
+   "fonte": "Rinnovabili"
+  },
+  {
+   "titolo": "Guida autonoma, il Mit autorizza il sistema di Tesla. Musk: «Apprezzo molto» - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0pyU3pYeXZMSjlxdHpNclBxaDVMMEY3RXdtaG1ha0lwWHhqdzJXWGxEeEFnSlZqY1c2eFNuVk02MEFpUFhnaGFmMDFUSWtXT3lJX29nLVNpeTNfSTZrZExHSUE0bHNHRF9LU2pSSFZSR1Y3ZFpRUGpYSjhkNEZJSEtOMDN0VkNYaFlz?oc=5",
+   "data": "Sat, 21 Nov 2026 02:45:45 GMT",
+   "fonte": "Il Sole 24 ORE"
+  },
+  {
+   "titolo": "In Italia è stata approvata la guida semiautonoma delle Tesla - Il Post",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sR2gxV2QwRk4ydnQ2aXNOUkdsN3E4TVI0TWRieWJmVGpLUjRCMW10NVIzVWIybndrVUVUZnU2dURaLWJCSzY2OWYtOTZQWG1oRFV4UkNXUm0zVUFWNEhpQlhVRGl3R013aHU5eHI2MF9SVGc?oc=5",
+   "data": "Fri, 20 Nov 2026 17:47:57 GMT",
+   "fonte": "Il Post"
+  },
+  {
+   "titolo": "Tesla, via libera alla guida assistita avanzata in Italia. Cosa può fare e quanto costa - Il Fatto Quotidiano",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZEREbTV1MGRpdVEwcmh2UjdYMjFJNldwdGZJYnNqLXBVdHM2OUtzbGhRTDRaSDBRNFoyeldyNl9lQmRweWJoRFFmVUVkb3ZwTmJNVF9pekpWaVpNVVBVOUM2WExJaEtLR0t4S0Zkd3Q4UFNXb2I2N0RXYTJuX19iWmtYMUxOMkh1MUdLa2pwSTNvRHlRNmYtUl9qUFdlbEpwUXRBY0RkVzdpWTFuT1c2OUhvUXpVcF9EYjJkell5YTl2YWJPM3RoMXdsMXVHUQ?oc=5",
+   "data": "Fri, 20 Nov 2026 11:00:50 GMT",
+   "fonte": "Il Fatto Quotidiano"
+  },
+  {
+   "titolo": "Tesla FSD v15, svelati i segreti della nuova grafica Reality View - HDmotori",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1Z0dfOG1hTzdsQUR2WmRwUG9JNVVKOHBhbU1ldTE0TGhtVW1CRlV5UnlPdElWdTF0V1haazRyRFFNTEdVOTBpMkViUl9IUHQ2ZmdNOUhYbmdEZ3ZfWG91TTJaLWoxX09XMmNDN0NmamUtZ0ZQSzc4SkZnc3dLLTA?oc=5",
+   "data": "Tue, 24 Nov 2026 13:10:53 GMT",
+   "fonte": "HDmotori"
+  },
+  {
+   "titolo": "La Tesla con guida assistita supervisionata arriva in Italia: cosa cambia per chi guida un Model 3 o Model Y - Geopop",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQby10cjVnTGtvWlJkQlhob0pLakFfWkNHWGE1ZkFLM2xUUzRIVWJJRGFpZnVRWkowQW9IbEN0ekVLaDlfa3ZsV2lOTnJJR1ljZW1xMEFaWWdVOEtsS3RlTzBhdmJraHo2SFdUTEw3RjFMcy0tUklYRDVpYWN2MTJ4NGx0Rll6T3c2X2R1cTZFQ1hlclV6Ri1Qb2tHdFRKdVFSQk9PQWRLbVVkNXFEb0s1bWdVaHFNVGExVEpROUkyZ2FUSjBOM3VWU09B?oc=5",
+   "data": "Mon, 23 Nov 2026 16:30:34 GMT",
+   "fonte": "Geopop"
+  }
+ ],
+ "news_legali": [
+  {
+   "titolo": "Tesla Cybertruck, fine della produzione entro il 2027 - La Gazzetta dello Sport",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSFZteUhNR0ZJV0JReE9xTlM2bWFodk50T1FuTEZBUTFUcER4MThidWFKTjdaVHk4akhkejN4OFE3Y3RmdHlnNTF3Z3pfaXhEMEhBd1RkVDQ0c01xalBRanNWUWFUNlB3SmtiZVkzMkxwZ1haNVE0S1E5aUNoNWI4OXNYdl9GU1NPRkFYV0hvOW10OXVSTkZFbk96bEZOZW45bG5ObTZZZG14MEMwTzA3Yk14aDBzemlkTW1YWnRn0gHDAUFVX3lxTE5JaGg3QkE5SWtoRlBlRG1sbmNIYUlGS3BROFF0Wjh1NV9ibWdwd0FONkpNa1ZBc2xYQTdfaUJROHI2cThMM0J3dF9wMGlxWVlGaEltSUZCbjlmNUtldWFZZGU4dEdkVHJnU1ZVS1B6UnIzZUVoNm01WmFGUHliTGdJMDZNQS0xb1BBRmE1VnM1cXBEaXRkcWhRQWFaTDJqRmxJeHNVMEhIWE96eUVTbnBvdXllQzZmVVVRYUlETnhzMy01VQ?oc=5",
+   "data": "Sat, 07 Nov 2026 08:00:00 GMT",
+   "fonte": "La Gazzetta dello Sport"
+  },
+  {
+   "titolo": "Tesla smetterà gradualmente di produrre il Cybertruck - Il Post",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUFJSWUxbDhQbnVIVTR4bDdRc2YtVTVQRkFOZl9Ma0dEUHdMM01GenlNTUd0Zk5wNGdvTlFHZTJENklTSnltR0puMmFqMllHZXZsLVRyLTZZdURrUFFlR2J5d2d5WTB3R3AxVE1Cd3h6Ty02bjU4cE9MZ21rN3R5U1ZESFBQM2c?oc=5",
+   "data": "Sat, 07 Nov 2026 08:00:00 GMT",
+   "fonte": "Il Post"
+  },
+  {
+   "titolo": "Alla fine in Svezia ha vinto Elon Musk - Internazionale",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHgxZ05kTG11SGpxc202TVdmNGVBVG54VmlRQU10Z0R3ZEswUWpINUVad1RmU08tRkd6YnB5UGIzYnI1ZTdhN3lYajNwWEhoQl91Y3lBSnhncHdvallnTlMxNTRTdDdqQjZoMzJaSmxxRTZaMUdlZ1R2azVBc05rNzFvbnhwVkIwTVRiNWI0R3hIUDNyU21rYzJKMUhhNTVYRUdVc2RB?oc=5",
+   "data": "Sat, 24 Oct 2026 07:00:00 GMT",
+   "fonte": "Internazionale"
+  },
+  {
+   "titolo": "Dan Ives spiega in dettaglio perché il 2027 potrebbe essere l'anno d'oro di Tesla grazie ai robotaxi e a Optimus - Yahoo Finanza",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORl9UeElyMnluY1VZeUpaMFZ3TWF1VVBCM1VXWUJXMzRwOHA5WHMtWmUwTXlndmo3dzF6NmdvVmg5N3pvUUxKRFRvWXhCX1VRNklGQ21hM1BYSmk2NTFNUWFwNXpUTmpScUIzWFRQcWVVZGVEbmJGUmFsaExjcVYtcmNoYUVSSnJlS1Q5R1JLcjRaelE?oc=5",
+   "data": "Sun, 04 Oct 2026 07:00:00 GMT",
+   "fonte": "Yahoo Finanza"
+  },
+  {
+   "titolo": "L'anno prossimo le Tesla potrebbero avere l'antenna Starlink integrata - InsideEVs Italia",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xMm1nVmFKanliV1p1VENQUnpwcVRLS3JpYUdEQmpCazl1TGVsZUtVNl95ZzV6cnNwcDFxNFZuby12dGkzZWNZbkR5eWJCaUtzTG96b3hRSWloZ1FnejVQdi1BU29zUm1jckpySG5mOA?oc=5",
+   "data": "Tue, 24 Nov 2026 08:05:44 GMT",
+   "fonte": "InsideEVs Italia"
+  },
+  {
+   "titolo": "La produzione continua, ma il futuro resta delineato - Virgilio",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTG9pOEFUbUIycHpZQTJVV1pDdmhiMXJ1R3d5TlpNa2h0V1pmOTVTcHBZWWVHN2ZKcC1zQW80bHFWZGdGS3JkbnJ5SUZjeXR1WHdKbFhhYmJNQUlHZkZlUnl2aFJGc3JPMm9yYW5wS000U3FBREVVbEJreHRPRzNUajJpU3F4M2dtbHVvcFBKU09XQQ?oc=5",
+   "data": "Sun, 15 Nov 2026 08:00:00 GMT",
+   "fonte": "Virgilio"
+  },
+  {
+   "titolo": "Elon Musk conferma la fine del Cybertruck: Tesla restituirà gli anticipi ad alcuni clienti - Hardware Upgrade",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNU0cxSDdOQTJTLWxjZHIwTUNjZGhHVmo3S2F6MW1FejFNRWhHVkJtNmFhRHA3TUhoLXNCaWVJTlVZYmNjWHJhZ3FmR0c2VFpnM01ZclRjclBzRGEtQWU0YzVMcmZQRjFBS3BIdWVSRFlsWXFsVHJyc0gtUVl3aTAyeUU0bTZZcU5QelFaVG5nX184cEVidnZZelB5NmNGRnNSV0F5RllnZnRLWEdrbk15MkhYTTFRTTd1LURSNnZ3aVhpZG5kZ2ZubWJDbU9neGxhd0xuODZaUmRKLWxJeE9sVXIwV0xoOGdB?oc=5",
+   "data": "Mon, 09 Nov 2026 08:00:00 GMT",
+   "fonte": "Hardware Upgrade"
+  },
+  {
+   "titolo": "Tesla, è arrivata la fine del Cybertruck? - Ticinonline",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmhJbFN5UjB6Z3lWcU5KN0ZJZzlONEZob2U1bUpDcTNQX09QOW9nZV8yOGMxOFZDTmlTaU1FUkJkN2U0WE1MajRLZmExRFd4VUpxLTNadTNHNmtucFJMLXB4cUZIa2lKVEk2T2FqNlRmR2owZmNhaHRxbk1Ob0M4SDFmTVR3dEl6Tzdn?oc=5",
+   "data": "Mon, 09 Nov 2026 08:00:00 GMT",
+   "fonte": "Ticinonline"
+  },
+  {
+   "titolo": "Tesla Cybertruck, è la fine: arrivano i rimborsi per i clienti in tutto il mondo - Everyeye Auto",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzV2OURKbU9WMzE3VmV5cFVQZnhhTzNZS2JPZ29uY0d5MGd1MkJoNHgtc2dNTVRucDE4ZDNQdzBrOEFheW1uMF9tRzZUbHBDVFQxd09fdkZYdWQ4VzFxbVYwVGVUZXVDcy1FM2FXSElzcy00ckdrbjRmdzh4emxqa1JYYXhNS3V3RmZKcmpJNGN2U0E5M012TjVrNlRDa1E?oc=5",
+   "data": "Tue, 10 Nov 2026 08:00:00 GMT",
+   "fonte": "Everyeye Auto"
+  },
+  {
+   "titolo": "Tesla, consegne del camion elettrico Semi in Europa entro fine 2027 - Shipmag",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN2Q3bWlpYjNNY2Q2QzZDNnBoN3Z5eWRxTzBwUEdIN2E1aG1MeWh2VUZlZTNrNjg3d2JPZDZkWUFxZ2tTaXFaSXVOLVBON0lmeXN0UnhiRWJhcUxSclhEYUVpa3l6TGxad1Zfb1daOFp4LXRhWURMQlVld0huWHFVOFZXZmxKd1p4XzhmZ3RwNjhQb25Q?oc=5",
+   "data": "Sat, 03 Oct 2026 07:00:00 GMT",
+   "fonte": "Shipmag"
+  }
+ ],
+ "news_brevetti": [
+  {
+   "titolo": "Tesla Roadster: il brevetto svela design e ala mobile della supercar elettrica | Quattroruote.it - Quattroruote",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdFJQVEVYb2hOWFJmX2tkTzV3Um4xQm93WnE3ZWl3Y2xSQ0ZFUzVlckRtQnRjQ1RIWUZQZXJVTGNfM1BsbE12UzZOZmxhWkh5VlE1YVhKdUY2U1dNOUZEM2t4aU1JeFB0UlY3MjBXWEczQlVGa1IzdGY2UzdFMTM2VWpPY9IBiAFBVV95cUxQMmxuVkF2RDBJZUVIOXNYQlpMNm4xVnNENUdKaFlIb29sMHFmUU5GNmtNOTZQLVZzMDRnQllBY0w5NnB5d0M2WGtUU2JrUzg3dVQzWWZSUW1RcGY5LTZfOEUzTHNOajlld0YyWFBiWVBzaHRpRVg3MWxFbVZLRElrbVlpUmI5Vzlh?oc=5",
+   "data": "Tue, 29 Sep 2026 07:00:00 GMT",
+   "fonte": "Quattroruote"
+  },
+  {
+   "titolo": "Tesla, brevetto per le ventole che aumentano la deportanza - Motorionline.com",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeWh5SDdpbzNIM1p5cy1wQnEtTVg1MWUtTW9GS2ZDWGpUN082OW5WZlFueHh5NHp1cVFEc2RqR0k1MHk5aTN6aTFpaTExRF9CNHZYUTB2OXU4V0RSTGNEVlBBb2dkblhpNGg2WTc0NVc1N1NuNmE1REZuQ2V6WmVuM3Bld0dIYmNvWGc0RFhyR1k?oc=5",
+   "data": "Wed, 30 Sep 2026 07:00:00 GMT",
+   "fonte": "Motorionline.com"
+  },
+  {
+   "titolo": "Tesla brevetta la ricarica wireless che “vede” il metallo - InsideEVs Italia",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5M3B4T2dHSlZwRWlVQXVPc0x5SUxnb29WX3RMd3VDMzhGbFpheUtUN3BuTUp6QVZuYS1vbGpvVjBHMDZzT3BIY29JNExrOUZPMWJTUENYazVDWDN2RlVjaDVBbkZmVXE4b3p5Z0lpbENqeWZUMGVKZFZncWg?oc=5",
+   "data": "Fri, 02 Oct 2026 07:00:00 GMT",
+   "fonte": "InsideEVs Italia"
+  },
+  {
+   "titolo": "Tesla brevetta una \"Electric Fan Car\" con quattro ventole nel diffusore e gli indizi puntano alla Roadster - TuttoTech.net",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM3h2U3U3VG0tMEU4aHk4VXdyMDdWZGVBVVBQaXRUM29xVkIxVU1FRS1lcWo2WE5NYVZ2WUtBSEw1QThLV1ZaUGIxT2xaVkJ3dUptSmY1SDNaWi1HZVhqV3pQN0c1bk9GUy1aVGFpRC1lWmlKMXdHOTIydHZZbi1PZUl3Uk9GenFmZDMyT3dVblBhQQ?oc=5",
+   "data": "Thu, 01 Oct 2026 07:00:00 GMT",
+   "fonte": "TuttoTech.net"
+  },
+  {
+   "titolo": "Tesla, le future sportive “aspireranno” la strada - FormulaPassion",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTHh5TmVXTDB4NUdfZ2VmSThnSTVjNUNMUmhYYXZiendUZnlBLWp1NkpWX2lpMVhJeHUxb0lOUDBQamZrUUhZOVdCLURZYm1yS1pnczJLTDBaNUZUczVGeW8yVnUxNzlmcFRtY2JrX2hPdVd1Y0FDdDRLc0xFZFE2MVhiSm1BN0xtNjlnNUxlcWJXQzZDaFRfbGt1TWMwQ21XQ2Y0?oc=5",
+   "data": "Sat, 10 Oct 2026 07:00:00 GMT",
+   "fonte": "FormulaPassion"
+  },
+  {
+   "titolo": "Tesla Roadster, il brevetto svela l’ala da 700 kg: ecco come sarà la nuova supercar elettrica - Automoto.it",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVnVFTGxkRG81NEQ2VkVQVjNMcjhKazdxeVlOTFlEUno4X1Fpc04xQW1wVzVMUW9TVy16b2xlaW9CNGRSdHhJZXlhbnppN2dhWUJfdGt3QjJwbEdLei1lYzd2bG91MWVRVXRKakMxRUdVQ3JqWTlJTEdaQXlxdTZLd19SWDg3S1EwRnZRcGFDTmt1ZTNyRWFKR2dxYjRTUW9lc1ZlU2w2WUQ3dFZWdjlIMEtySkxmM1dmYXl1NGtCM1JsY1U?oc=5",
+   "data": "Mon, 28 Sep 2026 07:00:00 GMT",
+   "fonte": "Automoto.it"
   }
  ]
 }

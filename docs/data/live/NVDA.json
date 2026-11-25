@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-24T15:42:30+00:00",
+ "aggiornato": "2026-11-25T15:21:34+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -88,10 +88,7 @@
   }
  },
  "errori": {
-  "brevetti": "EPO_KEY/EPO_SECRET non impostati",
-  "news": "HTTPError: HTTP Error 503: Service Unavailable",
-  "news_legali": "HTTPError: HTTP Error 503: Service Unavailable",
-  "news_brevetti": "HTTPError: HTTP Error 503: Service Unavailable"
+  "brevetti": "EPO_KEY/EPO_SECRET non impostati"
  },
  "norme_usa": [
   {
@@ -151,6 +148,168 @@
     "Industry and Security Bureau"
    ],
    "link": "https://www.federalregister.gov/documents/2026/07/14/2026-14132/enhanced-favorable-treatment-for-the-united-arab-emirates-under-the-export-administration"
+  }
+ ],
+ "news": [
+  {
+   "titolo": "Nvidia: chi potrebbe essere il successore di Huang e quale impatto sui clienti - Morningstar",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRXNodEJncU5iT05rTldhUDB5c1NKY3JNNUt5cmRBSXNXc0JNbjcyVDNjQlRsVndJNTRod0FEWmtVWFNXZlhDVklmYUdJdVZXVHJvZlhhLUlTcEI2ckNpQWpTLXdDTHFORUhSN3BxTVc0VWI1MXQ4TTBDN2Y1WFd2amxjWXd6emZpWHNUdDNvNnQwYTB2amp5WHdiU3JqZktWRWt1VVJjU1lxQjl1ZHJlMkNXQVFEZ2tEb2c?oc=5",
+   "data": "Thu, 12 Nov 2026 08:00:00 GMT",
+   "fonte": "Morningstar"
+  },
+  {
+   "titolo": "Nvidia, cda reintegra Jensen Huang come presidente e ceo. Trump: \"Decisione giusta\" - Sky TG24",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53V2s0c2hBRjJZRlNpdGVDWkpGbTl2SnpZN29KSGk0cHJwLW01Ym5WQllyT2VKaUMtSy16enhXaFM1UVJaRXFHOFpsTTFEaXF1U3pVbkJEV0t0RWxEQzFnVXpxZw?oc=5",
+   "data": "Mon, 23 Nov 2026 14:11:59 GMT",
+   "fonte": "Sky TG24"
+  },
+  {
+   "titolo": "Nvidia supera le stime e il cda esclude il ritorno di Huang come CEO - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZXlzd1NyQmFFZTdPcjdvaXhhd1prSzN1MVNwX2dsQ2cwWTFiWF9fUXZic0ZnU2t4ZWxlemRSRkFrU0Y0Y0NQVHRHbV9zM3hNbmFzeGpLRW9Xd1p0NllDUjJvempzQ2J1cUQ5Q00teU9mTElhRVFWbEdCTzEzQVFnVGNlbjZkaWRBUmQtS0I3NUpkUlVWOVQtdVhoNndobWl1MlRhSE1R?oc=5",
+   "data": "Wed, 18 Nov 2026 05:32:25 GMT",
+   "fonte": "Euronews.com"
+  },
+  {
+   "titolo": "I mercati hanno accolto con entusiasmo il ritorno di Huang a Nvidia - Il Post",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XOHN2VmxLNlAzOEUyZXdtYnMyQzRqRGdUdHhyV09BMnJSU21FWTQzemxqZWp4R0txa0UyR3RfM0lZSkxMY0xsc2dQVTZFbW5lOWNvSTV6RWVacWtFX0xSZlluQlE3SmFsdFhpWFlRUHNfUnN5VGNSVw?oc=5",
+   "data": "Tue, 24 Nov 2026 05:42:44 GMT",
+   "fonte": "Il Post"
+  },
+  {
+   "titolo": "Un veterano di Wall Street riduce quasi tutta la posizione su NVIDIA e mette in guardia sul rallentamento della spesa per l’AI - Yahoo Finanza",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMzBfelRnREkzZWdLeF9iT1NtN1dEM3lOcEVJZnZLcW93RkFvZl94N1JVLVFQT2djNVZFOVQ2a1dsSW1XeHB0Q1lVWVRtWDdZSk5uTXZRNGlEM0xkZ2QyZGZXRm1OT1hYanp0bHBjbkJpN19IY0tWUUdHWnVHekg3aTladUY?oc=5",
+   "data": "Mon, 02 Nov 2026 08:00:00 GMT",
+   "fonte": "Yahoo Finanza"
+  },
+  {
+   "titolo": "Jensen Huang torna a Nvidia dopo lo scandalo, il titolo vola del 25% - QuiFinanza",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zMXl5MWZTQlVLaE9PTFI5MlE2SXpLTXFlY0MwbVBXVWF0akZzU1NsTUw2NXhwRDZDLXQwSWlWMUFaZWVyWHB6andibkU4dnBiaC1KZjdBYzA1S1ZySTNqc0xkWmY5OXhQRnRxV2FXZU9QTzdfTjFNSmZn?oc=5",
+   "data": "Mon, 23 Nov 2026 14:29:27 GMT",
+   "fonte": "QuiFinanza"
+  },
+  {
+   "titolo": "Nvidia: la reintegrazione di Jensen Huang a CEO chiude (forse) la saga sulla leadership - Morningstar",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR3AtcE84ZlNlUGlkOXhORzljS2RKS3RVRUl1OE1FR1N3M1VSYUNPdVR0X2J6MW1GOVBFQlRqQ0RDWDNLYmJUTkFqWjZYUDRIbl90aTNqQXA5Z1FiODJQbmprQnBfdjV0OHhaOVM2X05zMFRIYWl2OUhLTVpuMFA2cGRqdURMbUpXLXEzQlNRSzN3OXVOX3o4QlYxeUhDZi1YTzE4VXdEb3BuTTYtaHh0cS1Cd2RoMjkycEZZ?oc=5",
+   "data": "Mon, 23 Nov 2026 16:55:00 GMT",
+   "fonte": "Morningstar"
+  },
+  {
+   "titolo": "Jensen Huang torna alla guida di Nvidia, perché l’azienda è cruciale per il boom dell’IA - Sky TG24",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONm5GQzctQXNLakp0Q2Q0cUE3M083SDR4aHZ1MGhscGViNEhKX1ZHOWpjRUlrVDhmRjdFTk51T2dEejUzSEQyYkpna2xQemtJazluWXpwNXIxdko5R21Cem9NdmdMeGVoSzFGeHpNdUk1YlNmZGhEVUZrb0ZRM0Z3eVUyejFfTEcz?oc=5",
+   "data": "Tue, 24 Nov 2026 07:38:43 GMT",
+   "fonte": "Sky TG24"
+  },
+  {
+   "titolo": "Nvidia apre indagine su Jensen Huang: sospetto bersaglio di servizi segreti stranieri dopo relazione - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdFVweXFnY2VtQnVLTUZpaTFCWEFUUU91RURFeE0wYVUtUWxQWXBZNm9EN3hBVWhUVnJ4NXJSdkYzWHg2MGRUcFplbldxUlg4M2VWbVV3cUZKd0R1Vnd6Qm0xLWViaVBTRmpYV05vckxqWnRfQ0twY2JJRTMxekhKRXNqNWxLMmlTbTRiQ1MzTFczdlhVczFlMU8zMXE0TnBpb09TVnduS3J6UDItalAxaHB2b2FfdUk5c1B1ems2V3NpWkU?oc=5",
+   "data": "Mon, 09 Nov 2026 08:00:00 GMT",
+   "fonte": "Euronews.com"
+  },
+  {
+   "titolo": "Il caso che ha portato alle dimissioni del capo di Nvidia, dall’inizio - Il Post",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fWXY4VUR0QUVoUU90eW9xYVE1ZDBZd3NYLVRuNHkwVEFLOFdOS0kwN05OTjZ1T1R4UVEydkJXdklnUXo5Zm16NnFOV21JWmtORWprazdLODBmamtUV0xKWmVHb2Nld0E?oc=5",
+   "data": "Thu, 12 Nov 2026 08:00:00 GMT",
+   "fonte": "Il Post"
+  }
+ ],
+ "news_legali": [
+  {
+   "titolo": "Jensen Huang potrebbe tornare a guidare Nvidia, secondo i bettor di Polymarket - Yahoo Finanza",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeUVtNUV4ZFQ4UHpEb291OHF5dnJhYmtzdFdxd0dpNkpnZ1pGVk9IWDNscndSTGZmUU9oQ24xUnEyQ0RDU0ZQYzRRbkZScU9YWFRQVVFEUGh5azFQbzBaLWN4cnFkWjlBckpuV1NCbzV5aDFteWFIQzh6T081Y3NOQmFBSktTbkxyUnBzSEJYZXNnSms?oc=5",
+   "data": "Wed, 18 Nov 2026 09:00:00 GMT",
+   "fonte": "Yahoo Finanza"
+  },
+  {
+   "titolo": "Jensen Huang, gli effetti del ritorno a Nvidia sul mercato obbligazionario - ING Think",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52YlhWcFZCb3MzSkt3OGh2LWpUeFhPUjl2RnJxaEgzWWdSSE8zSmw0UUdhSy1zc3NrX2dvNFVJbEJPSWZWNC1tTldBQXFma1F4dmFPeDdKZ2pURmZFck5odkZiQzhBVDRmV2hmWXFR?oc=5",
+   "data": "Tue, 24 Nov 2026 12:33:27 GMT",
+   "fonte": "ING Think"
+  },
+  {
+   "titolo": "Nvidia, Alice Huang Le è scomparsa: chi è la presunta spia della Cina - Sky TG24",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5oYjRxUGNzTS1lR21XN1pjYUVBdlFSU2NSemlqcU56Zl9zaFo3QlJGTTBGcDJ2ekM3blo4bFB0UVBtNXhWN3NzMDFLaDdCZlVpZzJFcGlGRDlCZkVfQzh0Q0dkWWR6ZkpLMTlxTW1Oc3cxXzFWY1E?oc=5",
+   "data": "Tue, 10 Nov 2026 08:00:00 GMT",
+   "fonte": "Sky TG24"
+  },
+  {
+   "titolo": "Che fine ha fatto Alice Huang Le? Affari e legami della spia cinese con il boss di Nvidia. Class action in California - Quotidiano Nazionale",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbDhpTXd3dFVKQ29rMEttOVVxUGVFVjNzQnlxZS1RaEhLMmNlc1ZLLUVEU1NXcFNWamVyU2ctRmpkT1U5VzVIMnZBQWtkWFRzY25VTTduUVN2Ykd4c1o5a3JJVWgtU0xhTUQ1WWg2YUhlMXBJX1lOMVphUElRMkdfT2VVWENkQkFLSGxyNUVQS0hoRngzMnc?oc=5",
+   "data": "Tue, 10 Nov 2026 08:00:00 GMT",
+   "fonte": "Quotidiano Nazionale"
+  },
+  {
+   "titolo": "NVIDIA smentisce la fine della RTX 5090, ma i partner raccontano un'altra storia - Hardware Upgrade",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT2hEVnBsWnpSYkRDOHBpUjU0WjhYV0l6TnZENGc2eW10dGh1TzBFYWxmUWM5UEJkNVp1WjZXcEd1TW05QjBBc0w5S0RYcHN4TzdFdGYxOUtuNHZBdkhfeXlpaXpiM1UxX3hMbjhQU2lTc1piZ3lWVWdvSVRLX2RKNW9RQlZyLVNCaXl1YlFncndvaWJmSDFleXJVRllhZUxlOEJJdVBneXlJeVRrMng2eC1nX2t1eE8yUnotN24xckRmWXlMT21ZSA?oc=5",
+   "data": "Tue, 27 Oct 2026 07:00:00 GMT",
+   "fonte": "Hardware Upgrade"
+  },
+  {
+   "titolo": "Crollano le azioni di Nvidia: il cda si prepara a rimuovere il ceo Jensen Huang - Forbes Italia",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMmpXZmQ4V3VRdXhKWjIwemdSN0Izb3pNRkxjN2l4eDJUa3piSk82d1hScUo2cTFETTNCZ09waks2MDlUZHZLNmMzbmhoaTdqT1ZQVkQ2eHpzWDJtUXBaRnFwb2x2bm1xY2FYM2x6RkJFYmRDa3Jnbk1hQ0wtN0xqanFTbVJCUGZ1SElHaFozNUNUT0dlejJTa1pfYXgwLUxXajRVODJtaVFtNG9y?oc=5",
+   "data": "Thu, 12 Nov 2026 08:00:00 GMT",
+   "fonte": "Forbes Italia"
+  },
+  {
+   "titolo": "La fine di un'era per NVIDIA? Il futuro di Jensen Huang è in bilico - Morethantech",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSk50bXJmREl4bFVRa0M1UTVUUC10aFAxYlhGblFLVmRFdHRWM1d0aWdhbEtEUkVGYVNXcS12Y2hSMndGOEgyMDM5MmxRSlY3NldLWm1wMk1KZGlWLXVfbHQ2VWRfT3NJR09pZmVENWtMeHhjTmo0ejRRYlF0Ty03OFNyVTREM3ZNYnA3UVhaTU50dWpoZEd3M05ncHljcl9lOFBPZ1Fid3FmcDRN?oc=5",
+   "data": "Wed, 11 Nov 2026 08:00:00 GMT",
+   "fonte": "Morethantech"
+  },
+  {
+   "titolo": "Wall Street torna in rosso con la fine dell’hype per Nvidia Da OraFinanza - Investing.com - Quotazioni, Borsa, Economia e Finanza",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeFpwNHQ5MkNMcFQyS3BUbFJJd2dLOEFsZ0FuV0FnUVNITUdHWmJ2VGljMXdaYkE2Z2otamxrN3EyNXk2U19hRk9YWjhfSjRObHBJRUlxMGliVEpiaHdqSjZKZENmeTdSWWUwREJxLUtKSEg2RDUzb280cXZGLUJmcE54NDVYUnpRUGJ0eUd2VHJsWWhtZXpPYU5oN1BYcUo1dkNuZl9XVFhUci1NbFh0Y256ek0?oc=5",
+   "data": "Tue, 24 Nov 2026 13:00:00 GMT",
+   "fonte": "Investing.com - Quotazioni, Borsa, Economia e Finanza"
+  },
+  {
+   "titolo": "Il mistero Alice Huang, dov’è finita la spia cinese che ha fatto crollare Nvidia - la Repubblica",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV1VRSWlQMzVRX19lU0ZHSG1TSW40bE82dzlpWDZTeVUwX25wNEN1WWVYUk9JNk5WdlV6eF85Z18welNwSU8yVXJkRUtQT3RqRUtJNnN3eEk5UjJtZFVOS1ZfaGdqWkJ3VE54b0FESHJfNnRBd3ZkQmx4MTZ0WHVIdnZ2MmhQc1V0UE5rRV83VThJQmxwTlYxTGpZU2NnU09SNFFoX1hqcVQ?oc=5",
+   "data": "Thu, 12 Nov 2026 08:00:00 GMT",
+   "fonte": "la Repubblica"
+  },
+  {
+   "titolo": "Exclusive-Nvidia’s accounting is a focus of US SEC investigation, sources say - Internazionale",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR0F3T19acXlYZjY5T3JxRUUwQ014N0JYSm9YQmltblJzdGxOdXVNTTF4Z0szRlh3cXJRZ1I4X1RBZl9XeU40QWFkbXlqWWlDWTJ6SGFUaEJaZ2taRnhLQlBuRVNDRG50X2lnSVlBcmZocHlxUVBJR3FRY2dDb1FCSGJWMkcyQ0pESU4ySmI3cjNNWnNqaHlrc21wRGtRYmQ0LURueUJmazVsdm13cFpfRkJqSzhDYWQyX0hhSGg3S25haEcyXzNtZUQ2akJtbHYwRURJOVBodw?oc=5",
+   "data": "Fri, 20 Nov 2026 20:36:46 GMT",
+   "fonte": "Internazionale"
+  }
+ ],
+ "news_brevetti": [
+  {
+   "titolo": "Sanita': Zagaria (Egualia), riformare il payback per i farmaci fuori brevetto - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPdmxZLXNCcWFkUzhjZmFBamdqLU1FS2dQUmxicUEzS2RtNHdldW5UT3VYUjdvRDlhcTdjV2ZtME5DRTNGQ095VnZ1YkxhcTVtcGkwYjkxTk5Ka2EyYktIUUhhT0xoQW1xR1RSSA?oc=5",
+   "data": "Wed, 25 Nov 2026 11:23:59 GMT",
+   "fonte": "Il Sole 24 ORE"
+  },
+  {
+   "titolo": "Google vuole renderti la star dei tuoi film-spazzatura generati dall’IA - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wcDBwNnVHbURMemduVjdIdFowWVcwbkNwU2ZRYk1CLThrVW5SVjhPa3AwZTl6QzF5Z2VVNExzRldyOFNiUkFlS2RDVEhUNVhKMTBoeUdQbzhOXzlzRE5QbkdfVWtYaEhSS1VNUEJaRQ?oc=5",
+   "data": "Tue, 24 Nov 2026 03:13:00 GMT",
+   "fonte": "TradingView"
+  },
+  {
+   "titolo": "Spunta un brevetto Microsoft per pagare chi presta la GPU all'IA - Pasquale Pillitteri",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWFN6TmZxbnNSOHBsVjlOVnF2NHlERjNCaTEtWUI1SEIxYVlkNnJ2ZF9EZEFuaV84NHlaVU1YdFM5LW9TMnprNHBwS0MySVBJa3dCVmNGeWtUN1pkSmsxMEYtY1VHczRpQXkyU2g3VUtvMERwWm9YZFdEcVVZQkZPV2IyakY1dHBTVDE1YXFJYw?oc=5",
+   "data": "Wed, 11 Nov 2026 08:00:00 GMT",
+   "fonte": "Pasquale Pillitteri"
+  },
+  {
+   "titolo": "Microsoft annuncia un nuovo evento su Windows, NVIDIA RTX Spark e Surface: ecco quando si terrà - Multiplayer",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbXozSVZpMVIxM096QWVMM3ZYTUZWNy1pemdIOVFSLTFwRmw2Y2U4d3c1OV9Qa1p2M1JXQi1nT2puMjB5eVlfYzVnS1ZMckw3NjQ1YUx3S0g3bXpEVWdfTlAzMDZkbnAzak5hQ1JoUGlnTUZwNmU0eTY3dFUzamtqWWQwMG1qR2hNU0tDa3ladGlOUVpWR3k1NHh4aW8xRXk0cTlCWVVJU3hXRmNfQ1BsTkZfQ0Y2WFBXQWU3RlZQeXhhUEVDLWFZbw?oc=5",
+   "data": "Wed, 16 Sep 2026 07:00:00 GMT",
+   "fonte": "Multiplayer"
+  },
+  {
+   "titolo": "BYD immerge le celle nel liquido: il brevetto che vuole cambiare le batterie (ma non nelle auto) - Hardware Upgrade",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNcktpdVJrNGxBbGozWlphSG1FekFHSGE2TWMwYWVSYzdITGlaMHllMmZ0T3ZiWDBZNzgzMXVqdjNSMFNxeTNwTnlvVEZmZHY1OVNBVFRxYmV5Vll1Q3plaElGQy16TUFwMUppdUxQNUIxZFhJMkE3SF8tN3otY2EwTi10TmkwdnROODVpcXNXeVd4WTBkbUhXMW1mMmRQQ2dyZ3dpWHlGSnNTUlZIMnppdy16NHRkTjhCTmRWOW1qNW9sblpTNkZHZGRoRUV2M3B0ZDl6RWJCRG9UbjlHSTU0alJCOVUtYl9iaXZrcDJnYUlHcjA?oc=5",
+   "data": "Tue, 06 Oct 2026 07:00:00 GMT",
+   "fonte": "Hardware Upgrade"
+  },
+  {
+   "titolo": "Ecco dove sono finite tutte le GeForce RTX 5090: datacenter AI cinesi - HDblog.it",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMm1wZ3hrWUJuYjhZb1BTMnV2SDBXSXN0NW5UenpNSDZEdXhVbzJNMnBXNlozSmlYeGRBdE0tS1hfb3N5ZEhxeUdhU3BFbE1xYlpGWGlQbXFyY0xWOW4tM0NZTjJZdnFFcGUzd0RyR2dNVWhoUGpDazBDdmYtcTA0MjJ1bjFMYi1Da3lHZDZObUNSdDVCUXpLVmhyNkpSQQ?oc=5",
+   "data": "Wed, 16 Sep 2026 07:00:00 GMT",
+   "fonte": "HDblog.it"
   }
  ]
 }

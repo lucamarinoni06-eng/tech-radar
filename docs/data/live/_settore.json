@@ -1,9 +1,90 @@
 {
- "aggiornato": "2026-11-24T15:46:48+00:00",
- "errori": {
-  "news": "HTTPError: HTTP Error 503: Service Unavailable"
- },
+ "aggiornato": "2026-11-25T15:21:44+00:00",
+ "news": [
+  {
+   "titolo": "Verso la trimestrale di Nvidia: focus sulla leadership, la Cina e i timori sui data center - Morningstar",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNelAxOXBHbjB4MnJqYlpZNmNQNWhvb2Y1Tkx2Vlc5MWg4a1lHRUdQRWpoUE5CYmgyS0o0bW5TU3MwZl92M2tHNk1TSnE4N0JhNFJRVlFXMUlrWEsxUHFUWmxjaV9DTXAzZ3dNQm16bWg1cmFQZ01WbzJ4a0VuY0NHSGtlNzNrcWpvTVRpTjczY2VlRE8wcmpva0huWjhDVlNFNEpCa1d5WTJjUFNyd2NVc281VWdfb21oa21KOHkzTkxCbXNXOThHbA?oc=5",
+   "data": "Fri, 13 Nov 2026 08:00:00 GMT",
+   "fonte": "Morningstar"
+  },
+  {
+   "titolo": "Blackstone rileva il 75,1% di 13 data center di Amazon con un’operazione da 5 mld $ - BeBeez",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHYzQ2pfVlM1dGpnYXhWMWFUbUV4bXMycEMtTzlEYXJZMWtEendrTlNydVlyd2VEMjBTSzBMT09QVW92bGNHTjN3bmkyaS0yN1RDcWNmNmZxaTNkYmU4WGZRVWp0eW9RR3JVWlVIazRQaV8wcDdZZmxWMFljSW9pbjBFMjVkblZZbDBCSjNGVVgtQUFBVGJPZmFzX19MdjZ5XzNPeVowYmJzVFJHYTNrN2l4QjF0M2RrVXNITUktYw?oc=5",
+   "data": "Wed, 18 Nov 2026 06:40:07 GMT",
+   "fonte": "BeBeez"
+  },
+  {
+   "titolo": "Data center, Blackstone compra il 75% di due portafogli di Amazon per 5 miliardi di dollari - Milano Finanza",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQUhoV1BxbGw4X2tJMS1hdGhveXFtaWZrYXFOSVFMTmJvbFNocHZNcjFzMUZzaHdZNFlSa0VIM2FRZkx3UkRxc0tSci1nZU84Mk5tQU4yR2tkNU9peHpLSk5LeFBGbUJHN19pMDJ4RDFCSlYwOC1WRHIxc3luZDZrZ2ZwWmRQeVdSQ2xQOHNXa2NHLWtBV2d5eDVndEgyNVp3NGxva2xYVWVKSnpNY05mblFHMzJNdGkwSXEwLXhRaHNLN0RkbW1PQ3FULW5jbFhQNjZYOThCb3pmZw?oc=5",
+   "data": "Mon, 16 Nov 2026 08:00:00 GMT",
+   "fonte": "Milano Finanza"
+  },
+  {
+   "titolo": "IEA: energia dei data center può raddoppiare entro il 2030, mettendo sotto pressione le reti - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLUY3em5wakdmc1BqNi1ELVp4OFNUNVAyb2s5a1U4OHMtZnEzR0M4b1lWSlFBajlpaXRZWHFnWF9OUEpiRDdQU0xQdUFNY2JfUzA5UTVqSTNBR3hYWHVxSkxTbEdWdUxzcTRHbXoxLTk0LWpQb25QYXk3bW9XV3FsOWR4NEhHN0hoUExGdWdrb3ZZOHd6ZWxpQjU2ZFVHMXBBdExzUXZjSXZRY25vd1I4Tk4zR3ZFZFpPRGVSZklpbGdUZkk?oc=5",
+   "data": "Thu, 19 Nov 2026 13:39:20 GMT",
+   "fonte": "Euronews.com"
+  },
+  {
+   "titolo": "Ricavi dei data center di Nvidia nel terzo trimestre pari a 107,6 Mrd USD rispetto al consenso degli analisti di FactSet, pari a 101,9 Mrd USD; ricavi dell'edge computing pari a 8,2 Mrd USD rispetto al consenso di 7,46 Mrd USD - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVGhSbXc2UldRMjRabElWM05PeDJwSXVFSkxmZER2QlptVUNLeUV4Y1JELUhjN1RBd1l4RkRZWTBJWTA3TnJRYzNvU2h4OUdNSWh0Zlo4NEMyWGQ3dFk4WDRsLWxMQ0JQTjB4Z1AteGRsd3ZFRmZvTVpKVG5ydmg1eUprNWxOSExMNmxxS2FUUjlWV05Nbmxwc3BSZ1dvSEVteHhfVk10aTVOVGlFbDFWYzE4cmRWMGFQQTVWYWVQMnNJSUw0aUJ4eTlLaHdyOHlGbEhsVjhvRDdTcUN0RGF3Y09yS19WaWtCREpN?oc=5",
+   "data": "Tue, 17 Nov 2026 21:23:47 GMT",
+   "fonte": "MarketScreener Italia"
+  },
+  {
+   "titolo": "Nvidia: ricavi record a 115,8 miliardi nel terzo trimestre - AI4Business",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRlBQSTVkb1dFZUlxUUlESE5RWHFxeTlOd3pMLVp2dGozWF84QzRTdVZjbi00YzNXekRpSmJaMGZxVEVYaVdITlB3ZzVVMWx5NTJpSUtQQXFOOEJDNDQ4R3U3bHBjZW93Yml3MTBBSjFtYUI0OTdLY08wUFpDNEUyV0NJZlBWby1OUmZYdzAxMWxoVE5OLXhSS0Z4cHk5dU9fbjBWVzN2Yw?oc=5",
+   "data": "Wed, 18 Nov 2026 11:28:17 GMT",
+   "fonte": "AI4Business"
+  },
+  {
+   "titolo": "Milano, Busnelli (Amazon): «Apriamo un negozio fisico. Data center? La domanda non è se siano utili, ma come vengono gestiti: noi restituiamo il 75% dell'acqua» - Corriere Milano",
+   "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPb1ZaT0xtTFdTaW1Da2xYb2x6Q190M2pDWFRHOFJESk5USTJBU2NoUTZDZW1fbk9FQ3QtcEhyTDdTLVJXOG5OaXFGa29RcnIxYlZ1ZDN5dkNxa0ZvZmFBZFd4TGZXcTBqMnVvbk0yTzlXMXNmN3BRckNLZlRwdnYyem5xMl81QnpDaVBWR2FxajNkbDVQaUdsOUsyWVdmRjlUeGMyNThrNm5XbHhLQm5najM3XzNfdGc4ak9COTVPVFBtT0FKdEItYU55TUpiTHhuZG83LXA4S29lQ1JGUTBGY0thTFpXZ1hqb0hWcEwyajdSWTFFY0lleUtPWV9idkRQLXhYeVBRbi1aOFFTTTJFekJfV2RUOVFxb2RyV0VFTXFFcEI3cmpMNEowVlEwaDFMQnZNd2pSSUY1dkx3V05BQTFFNNIByAJBVV95cUxPOUJ3TEZoNG50Rm43UVlYOVRONjdHcFc0T1hCRXdPcXZ0OUgxLWhrWUJKMGZOS29LbmFKSTJFVmRTcE5SekNtTzVqYUk1X01EZ3dKbFM4blFjblNuZGVlMmlkZ3l6cXpGTWdEWVZPNVlEZTFsNkpMeC0zYXIzTHc0SmFPNUlGa25NZkZyUXlNZ20xZlpud3E3UVpxeVpRYVNKYmxkdi1jQTV6c2x2bk1Xenh4em9uRDN5Q0V2X0hUbjZUcU0tZUNLUzJtVEs1U2hTVkZMY0xIQXJ5SDFNWWQ0LXV1bFpDTHlzUm8tUElhb1I3NXJRajdJZldtelk1ZEZiSkppSjhLQnZvZUNFV0pfZ19fYllmaW5ZWVB4M0R3TElLUXRadkJOUXBwNFc3aERoSkJxZFpyTU0xWnZKUlVHSFVHN1VlbHdh?oc=5",
+   "data": "Tue, 24 Nov 2026 06:00:01 GMT",
+   "fonte": "Corriere Milano"
+  },
+  {
+   "titolo": "Nvidia smetterà di vendere chip ai data center che affittano oltre metà delle GPU alla Cina - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWG5KVDFsZzlqWWZZWjlHQVNZbi0xU3JieG9mZzRGTmVjS1RoQkY0QnA0UTdMeFNwNnRNNTBzek1KNk9mRHZQZHdTMkhuX0cxYWJnRjBIeG94TmRFWVV0c2NTZFlVZFdfLXdhdjBrWFVKT2RDeEJNZUR2QS1LdmNpZE55bUp6Qi0zdXNFVHgxTHhocnppWnZ5OGQtcnBNdmc1cHliaVY5VXVIaXUwbjlQbXZ0YXRLQ2gzb1VKVlRMYWIwLU96X0pVZlYzM216VDZsQ1VYVjU5Rm9VaF9wemRGTQ?oc=5",
+   "data": "Tue, 17 Nov 2026 07:47:00 GMT",
+   "fonte": "Investing.com"
+  },
+  {
+   "titolo": "800V DC nei data center AI: perché i 54 V non bastano più - Farelettronica",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92ajEzMmk4QUdhYW45eDRFUXNsYnh0dXJ2M2hHcXltV1dPYVpvckRRR0lwV3ZuenBXUi1CRUFMVVVWU0R3UGdUeG95QzFYTFdCQmR2ZHRYbGk?oc=5",
+   "data": "Mon, 16 Nov 2026 01:00:21 GMT",
+   "fonte": "Farelettronica"
+  },
+  {
+   "titolo": "NVIDIA raddoppia i ricavi nel Q3: i data center valgono il 93% del totale - HDblog.it",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTlFfMXdEQUJ0Ri0xRVBrZmFod0RvdkctQVFJYmhEcTdNMnJHMDQyY19uUmpsVEdqS1R4UFFJWmN6WUdvRDhzRzV1Y0hIeU9YbmZ6LW5TcXdlaE4tZmUwZ250ZDJ0UFhDWGstaUdNbXUtazBpdEtoUTRhVE9sd3hFcmFCbzZtX2M?oc=5",
+   "data": "Wed, 18 Nov 2026 06:35:00 GMT",
+   "fonte": "HDblog.it"
+  },
+  {
+   "titolo": "Non solo Nvidia, cosa succede ai titoli tech? - Startmag",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWjI0RWY4bWF0bW1GbjhhRTVURFpPT0ZFcmlKd2RrNVVXczExWWtFOG43QnY1TWR6bjl1UWVFSEE5RVU1Nkx0XzNiUEtHNEJ2b3VsVndaN1JtMndXRWk0Uk85RTFIY1gzVDB6aDh1YTFhZkxEbV94WUU1cHA4RG8xTUpPYw?oc=5",
+   "data": "Wed, 25 Nov 2026 10:25:00 GMT",
+   "fonte": "Startmag"
+  },
+  {
+   "titolo": "Nvidia e i fondi, 500 miliardi per i data center IA - Meteora Web",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRjl1dHhuMFJXejVxaERQSE83MndkVHJYSDZxdXVSX18yLS13Si0wM3BDSWVTaXJIQ0V1ZnN2b25iZkR3NXV3NVFGTlUzaFczdC1uUWVHT2ZxZWFvYUhINmFpWTYtSTNlZDU1WUZQM0RBbC10bmNqYjR0WktXbWJ4UXlGd2N1RkdBTlI3MzVUaVJNc2pKYUNocUtIYjY?oc=5",
+   "data": "Sun, 15 Nov 2026 08:00:00 GMT",
+   "fonte": "Meteora Web"
+  }
+ ],
  "norme_usa": [
+  {
+   "titolo": "Medicare Program; Contract Year 2028 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, and Programs of All-Inclusive Care for the Elderly",
+   "data": "2026-11-25",
+   "tipo": "Proposed Rule",
+   "agenzie": [
+    "Health and Human Services Department",
+    "Centers for Medicare & Medicaid Services"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/25/2026-23960/medicare-program-contract-year-2028-policy-and-technical-changes-to-the-medicare-advantage-program"
+  },
   {
    "titolo": "Employee or Independent Contractor Status Under the Fair Labor Standards Act, Family and Medical Leave Act, and Migrant and Seasonal Agricultural Worker Protection Act",
    "data": "2026-11-23",
@@ -51,13 +132,14 @@
    "link": "https://www.federalregister.gov/documents/2026/11/19/2026-23555/executive-compensation-disclosure-reform"
   },
   {
-   "titolo": "Policies on the Use of Generative Super Intelligence in Agency Adjudication; Request for Comments",
-   "data": "2026-11-19",
-   "tipo": "Notice",
+   "titolo": "Additions to the Entity List",
+   "data": "2026-11-25",
+   "tipo": "Rule",
    "agenzie": [
-    "Administrative Conference of the United States"
+    "Commerce Department",
+    "Industry and Security Bureau"
    ],
-   "link": "https://www.federalregister.gov/documents/2026/11/19/2026-23539/policies-on-the-use-of-generative-super-intelligence-in-agency-adjudication-request-for-comments"
+   "link": "https://www.federalregister.gov/documents/2026/11/25/2026-23999/additions-to-the-entity-list"
   },
   {
    "titolo": "Arms Sales Notification",
@@ -108,16 +190,6 @@
     "Nuclear Regulatory Commission"
    ],
    "link": "https://www.federalregister.gov/documents/2026/11/03/2026-22443/streamlining-contested-adjudications-in-licensing-proceedings"
-  },
-  {
-   "titolo": "Health Data, Technology, and Interoperability: ONC Deregulatory Actions To Unleash Prosperity",
-   "data": "2026-10-28",
-   "tipo": "Rule",
-   "agenzie": [
-    "Health and Human Services Department",
-    null
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/10/28/2026-21943/health-data-technology-and-interoperability-onc-deregulatory-actions-to-unleash-prosperity"
   }
  ]
 }

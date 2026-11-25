@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-24T15:36:40+00:00",
+ "aggiornato": "2026-11-25T15:21:17+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -95,10 +95,7 @@
   }
  },
  "errori": {
-  "brevetti": "EPO_KEY/EPO_SECRET non impostati",
-  "news": "HTTPError: HTTP Error 503: Service Unavailable",
-  "news_legali": "HTTPError: HTTP Error 503: Service Unavailable",
-  "news_brevetti": "HTTPError: HTTP Error 503: Service Unavailable"
+  "brevetti": "EPO_KEY/EPO_SECRET non impostati"
  },
  "norme_usa": [
   {
@@ -155,6 +152,168 @@
     "Securities and Exchange Commission"
    ],
    "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23425/self-regulatory-organizations-nyse-american-llc-notice-of-filing-and-immediate-effectiveness-of"
+  }
+ ],
+ "news": [
+  {
+   "titolo": "Anche i servizi di Apple stanno avendo alcuni problemi tecnici - Il Post",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9reVZHeHNmMHV2ZTlvdFU2Q1RaNHpaY09aZm5SZWl5QWZ1bWpsazR3LTNHN1dyazVidHE4ODRsd29uOFZsc0pkd1hkQU9YNWxrN24wN3o1aWxoeTNZNU93YXZHbWNQOGQ0TmtsaVdhNzB5UQ?oc=5",
+   "data": "Tue, 17 Nov 2026 19:50:28 GMT",
+   "fonte": "Il Post"
+  },
+  {
+   "titolo": "Apple down, segnalati problemi a iCloud e agli account. Cos’è successo - Fastweb",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNGUxUW0wVUQwV055LUFVbVQ0ZkoyUXpGQmk4aUduekNoWlJJOTU3NTEtZnVhUGNfSTJvSzY4UGQ1ZEhDeTlkVGNid2xITXpzOWkzQ2p6aUhRaXRFa3Z5a21iaklzNE50SmpLUXVyMFoyekR2MDR2THcwTDZMSXQ4NmhSa1lEQXVCTmdhMXE5T1FyVzhGdmZscGZQS0tuZUFSXy1KZm93d3VZQ3dYVllpWnAwVWdoRmVBVk5QMXkxb05XcjQ?oc=5",
+   "data": "Wed, 18 Nov 2026 09:29:38 GMT",
+   "fonte": "Fastweb"
+  },
+  {
+   "titolo": "Apple Black Friday 2026, le migliori offerte su iPhone, iPad e MacBook. FOTO - Sky TG24",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0eEw5dG1mMzZ3cWJtVVJLNmV5OS1KZVBKbEhGemI2MmlDU2tiVHZvOUw3U1pMN3dDZEpxTzZKS1NJS3ladVdmUENtUVE3T0lpRldOeERJeDlsdnAxMEl5MV96MkRzdkxyNWZFNmkzN1JrdXIyQk1vckVINnVvdw?oc=5",
+   "data": "Wed, 18 Nov 2026 05:06:06 GMT",
+   "fonte": "Sky TG24"
+  },
+  {
+   "titolo": "Apple down, problemi per iCloud, App Store e Music: «Nessun attacco hacker» - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYWgwTlJ6dEtIc0NGYzVhWDBZM05BNWc2aHRmbHRKQ2s4Q0I3bTYzdUlLYnUxS3IzeUJOb2JEd0xRVmNheGM5eWxyWVpiRmJ6Q1g1OHlVd1JzSFY3NkUwRTZnVFBLYTRYczFoZjdlalBMVTJEWGtHUzRCM0hNdl9rcXczNnl2UjZIR2dz?oc=5",
+   "data": "Tue, 17 Nov 2026 08:00:00 GMT",
+   "fonte": "Il Sole 24 ORE"
+  },
+  {
+   "titolo": "Apple down, problemi ai servizi della multinazionale tech: segnalazioni per iCloud e App Store - Il Fatto Quotidiano",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeG1jMG41Q29vaDBsaDgybXBwTk5WNjA4X2NjZjN2YWNxMy1zRW5aY3hGR0pSMzViUldPcDF1YU9Ma1djbkJxTWxwWG9jVlBCemVCc3pfcmlQOElFN3lKQmRyaHpQM1BYaHhhZVB6b2J2RDZETHlBd3RvSE9UR0RLNnJNWGw2R1RIYlpheTlBclY5dw?oc=5",
+   "data": "Tue, 17 Nov 2026 08:00:00 GMT",
+   "fonte": "Il Fatto Quotidiano"
+  },
+  {
+   "titolo": "Interruzione dei servizi Apple: la causa sarebbe stata un aggiornamento interno, non un attacco informatico - Libero",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ2duamF1Ui1TMmlGUGVuTF9lSmFWWGZmQkgwbzRRQl9FbjdFUnlvUnBFMDVaajdWdkNSd3JxRDRIZmVWMmV5T0JrY3h0U3lQUnRZck85VmZJSkpNNngwcmphR2pzTHl2MVY5allESUp3eURKSWpUb2pmZnJlSzZGS0RDRHlfVHI4c2xKTjFaN2hmQdIBlwFBVV95cUxNRmkxWlhYdHE5Z1p6a2JwZ0hWTEhobkgyVTJiTl9IcEc5N0pueGNxUU1NbDhkSDZHc0M0VjBFZUpsU3pCN0pxZVJqUVlDekpzaXNJNjNwNUZCS2E4YkhWYVFqRmVQMXZUUkkza2FETGVQeGxvVW9mRHJabWw0eXpKakJfNl92a0pwcGk5Y3YyZnVvOVJpdGhr?oc=5",
+   "data": "Wed, 18 Nov 2026 07:19:00 GMT",
+   "fonte": "Libero"
+  },
+  {
+   "titolo": "Apple, malfunzionamenti oggi hanno interessato numerosi servizi - RaiNews",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMGhubUhZSXY5Rk14NFg3ZHoxU2tvZWc4Ny0xMHppMnhQT29pT0p2Ti1OakEyazRqVXRFdC1rMzBHZjdacjE3SHYyTXRUODA5YUFrQy1qUDdWSEsyYUtxQWx6N3QwNEhmTElZWTZGOHowaGVPakEzZjdxR2dTWU1DMG1WdUtOd0kybHlibUFzTFNIXzRyVDhFcUJTOEZrdzd3b192VTlBaUJYbkxTQkVMS2x4eWhib0RHNW4td1pkQUZUZlZua1o5bkYyZ0I1V0ZBOGNEQWo3SFFuSUdCSVZYWWdYYUTSAeoBQVVfeXFMTmUtTHJjRW0zYVlCd29VUmxBbjFqRnlNRm5jc0ZXMVBSZ00zQW5Ed0Z6Y1gzSGRnTTFhcHZZR1NfdFYzZVVxRmQzRlQwY05TbVF3b3JxRldRTGJkY0hYdmpVS0ZEQU94ZDlkMHkyMUdza0t6eU0wTWRzOXNLV0R3WEZyT1FmUW5KOWU5Zmw5ZUFnMkNjQW4tVDZtMXZKTUJBbnMzb3VsLVZlSlB3a09iRzJVTlVZTE02T0gzVkU2cnBlc1A1aldWSHpLV0c0eEdaalBXWS1ma3ZzX2xic1ZfSkNQNElUVDk1OXFB?oc=5",
+   "data": "Tue, 17 Nov 2026 08:00:00 GMT",
+   "fonte": "RaiNews"
+  },
+  {
+   "titolo": "Unieuro Apple Black Friday: 6 offerte al top fino al 18 novembre - HDblog.it",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS3RXY2xLZ1VLTnk3aUh0UkE3UXg1NDZfbk1LdHBSQVpLRVh5SFcySk5UZkk0RllPMGtla2hIZnhJWG96N2ppdVVWa0dVekFSVDBmSVhLLWdRSEUxeFFMa3hKRlJ3cVVEbXdqeDZoLXBjSWFFNmkzbjE5ZVFBT0p1QU82RnhxMU8zRXdCZi1vMlBneEFqQjNlaVdVSVI?oc=5",
+   "data": "Tue, 17 Nov 2026 08:00:00 GMT",
+   "fonte": "HDblog.it"
+  },
+  {
+   "titolo": "iPhone Duo 2, Apple lavora a quattro grandi novità e il Face ID è la priorità - iPhone Italia",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTWRVcXMtUzNVbXFvWmRkM01pOG9PcGtIX2t6MHpId1E5VTJ0ckRvUkJjT24yanM0YW5MOF9aSU1Vb3VhWEhiUXdKaGwtcU9xQVZiRFgzVUFXT2duY2VOZkhNQTBQd0lKN1NWampLMzBycXZDTlhsc08tLUM1M3lSTE5sQlBleUllZ2FQMUN1THk0QjlHZVQ3VDlEQ1VxNGRRbHFaeG1vTDRRZEhSUW4wTEJn?oc=5",
+   "data": "Mon, 16 Nov 2026 08:00:00 GMT",
+   "fonte": "iPhone Italia"
+  },
+  {
+   "titolo": "Apple down, la società esclude l’attacco informatico: interruzioni causate da un aggiornamento - Milano Finanza",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeUExSXR6NFNJNDMxYTBmVHZNNmhLWHdTVmgwQ2pJQ0JRakpGcEtMaW9TU0pBQVJkT0VKSjZYWlRERURtdlJBdjUtSU5fNG5yTEY0M3FmSEUtRTQtVnM0alA3RmM1ejB0NzlUVzQtLVlyVGlkSTU4OHpXTWljemdQVDBHenJUTl8yeVp5U0J0VXh3dUhRMWYyRzA5WFE0a1VaYjEtQVR1Zmx6bVQyWVVZMWFCWEZnTjY0aER4M2xiY3B0eUpLMU1WNXR2UFBKcHpBYTRmM192UGxqNjZfcUE?oc=5",
+   "data": "Wed, 18 Nov 2026 11:50:00 GMT",
+   "fonte": "Milano Finanza"
+  }
+ ],
+ "news_legali": [
+  {
+   "titolo": "Apple prepara il Mac con il touchscreen: l'evento è vicino? - SmartWorld",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPelI3Q0o3R2ZBZ2Y5WVJlVm1sS0lKVUJNSTl0ekpRaTdwOGRCc0hrdnRXTGdBN0UzZE9hOVNvVTF3SXlZckFjUlBFeXRtRWI2YnRwTG9wRU45Wmg1NWQxZjk0cVJBSDRsYzVXYmpWc0EwbnlnVlRCeW1wWGl3MGpTVnhvZHVOeENKN25hNGstOA?oc=5",
+   "data": "Fri, 09 Oct 2026 07:00:00 GMT",
+   "fonte": "SmartWorld"
+  },
+  {
+   "titolo": "Apple prepara un secondo evento per ottobre per MacBook Pro, iPad mini e altro - TuttoTech.net",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkhJdmVSQlRia0laY2dnS0Z1TEl4X0ZlRU1WNmg1Smp0MjUyNEN3Q1gyaE5fc0c4aGIwakRWdXd0QXZVUDlMNFJaaHkyejh4cU9WTnFSdUlXTkdRNy1OeWVrbmNKdXJOS25kbkx5T3QwSW1Sd1ZRU2hfWm9TR3NqeA?oc=5",
+   "data": "Fri, 09 Oct 2026 07:00:00 GMT",
+   "fonte": "TuttoTech.net"
+  },
+  {
+   "titolo": "Apple, doppia dose di annunci a ottobre. Prima nuovi prodotti per la smart home, poi i Mac a fine mese - DDay.it",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORUZKTFN0dFNjcTdjVFR1QjBYejVGNGVxWVIxVUFGMGxwZDZtS3pTR1JncDRPQm15R0F1NmZ1ejMwRVpRa0xZalJhR2xJTndvY2RuNU5uaEhLd1AxREtxUFhuZ3J6bjFUdzRybHJVbFAtTzRuaG1XaXl1SlFVa3JfeDJHdjBxS0ZReFJTZnRWUjcwcGlZT1BVVF9BZ2MzclFzZTJsWkpqLVo2WE8xNEQ4d3AxMXJlLVlvM3FvelNPT01aSjJBS0pyeDdEZTN2UFFT?oc=5",
+   "data": "Tue, 06 Oct 2026 07:00:00 GMT",
+   "fonte": "DDay.it"
+  },
+  {
+   "titolo": "Fine di un'era per Apple: chiude lo storico forum di supporto utenti - Everyeye Tech",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUkI4UERXNy1pZEoxUmRhMUFaZXM1SXJaT3BKTnhRTUlmWUE3SGlwYVJIeFZXLTk3dFJIdXBFN0Y4OHdZdXZGVWN6cEZITHNNX2szdGM2QkdNMWRjTWtEeVRXRk80N084QUhBdzA5MHk0M1k5SEY3WG9oMS1LVU1XRk1EQ0NaVjd6NTVBLTJQTS1qU2VDZWc?oc=5",
+   "data": "Wed, 11 Nov 2026 08:00:00 GMT",
+   "fonte": "Everyeye Tech"
+  },
+  {
+   "titolo": "Apple, ottobre in tre atti: casa il 13, iPhone Duo il 23 e poi i nuovi Mac - macitynet.it",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZzU0Szg0cXdXU2hWT0hCYUtTTnNkbDR0Q3VqbEExcVI1V29teFZITUhHTTUwTFBHbTJiWHdFTmRBcDlOWjNZMmVXdUVJVVYzb1g3NEo4U2dPdnFiY1ZxRzBJa2tiV0tFdi1UWThQQ2hIYzZUWmlaMTBMVW1KSUM2NVJJLXlyaWJqdmYycDBiWEpIOV9XXzBLRndKYVlodw?oc=5",
+   "data": "Wed, 07 Oct 2026 07:00:00 GMT",
+   "fonte": "macitynet.it"
+  },
+  {
+   "titolo": "Episodi e immagini - Apple",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04TndWX0JuNmhPM2dOZkJkOHpVclJPOTAtQXRzOFN6TTdaNW1DSmtNZjFRWi1xWFpkSDQ2RWhIQ3NEdWIyZ05NcFdpNGFEUU5OZlpEOTlaRVVuT1BicFowa2VwU3NGY2hjR3NibHZGSVZTUWdFcXc?oc=5",
+   "data": "Sun, 15 Nov 2026 03:38:21 GMT",
+   "fonte": "Apple"
+  },
+  {
+   "titolo": "Apple e il caso antitrust, gli sviluppatori lanciano l'allarme sul potenziale accordo - Tom's Hardware",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb2hIanRveUJfTHFUSmx2U0ppdVRzZnJ0dGNZajZpNVZXTm5NcVhidUNoWVR4QXk3SzBGZ0xCcWN2RFZFQWtESFprTi0yOW5XdDQyTmhWRmxpSlNVMXdYbzREbFdSQWI4ZVFlTTRvcXNYQVEySl9wa2xDOEdrMEU4ODBScV9YYkE5bWMwUGZoNm1tQVlSLVdEOWVmbDFMemo5U2FBZHh6VUliVHowalRlaFJTTVpvbzg?oc=5",
+   "data": "Fri, 16 Oct 2026 07:00:00 GMT",
+   "fonte": "Tom's Hardware"
+  },
+  {
+   "titolo": "Apple invita i media a un nuovo evento a fine ottobre: attesi MacBook Pro touch - HDblog.it",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSGhobFBIa1JOUHlKWWVsSVdicXN1OTN4VDFsYmZXMjRKbFRHdmhocVJqRWZqMExQeUV1S3hIbmlhUTl5NDdvazJ5WE5tVGxHODNLWFhuYzlubEtSeFZSQXVqVTNjY3Y0LTl4T0h0MW5VM1JlTEcxSENCdFN2T0lqbVUyNnE2RnVNdFFCT1hRRQ?oc=5",
+   "data": "Thu, 15 Oct 2026 07:00:00 GMT",
+   "fonte": "HDblog.it"
+  },
+  {
+   "titolo": "iPhone Duo, oggi partono le vendite ma le consegne slittano a fine gennaio - Corriere della Sera",
+   "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQVG5uQjR2dHhnV1FKU2RabzM0SWVxU2Q2SHh2M2FCN251dmtlMnMydXRtQVRzb2FYaU9Xa0xwcm1vdUdmcjJkWml0LVhzdzdPcWxsUF9GUERudkNsdW9WNjd5MVo5ekN4M3IzV0c1anlaVWRyelVfUzh5OFV4THhmTEU0VUx1Ql9hQkp5ZWdUVVRiMGZxeUhmNHhUQ2FZc3NTTk1hdVhLMVVkWHBJcWpOMmZEbmZydDJtUXl5SXBYSlBEVVRvY0M4R25nbHByNl9qT05UYy0telNDUXB5bHh6alM3UUpDQ3dmckp3NERwOVA0emM0YVpsaTNsc2k1M09naDdwOVVCSnJkUVdVd1FFTkNzaXdOX2RMTG0zOUhFOTRicXBfMmR2SE9jUFNnZWdsdEdDaVZ1MjF4UHEtUV9RWjRuTEVQUlJNSnZBN1djOXlpRE1lZ0dwd9IB3gJBVV95cUxOWnVhT19fRlV5MTJqWWNFdjVwZFhfSGp1a2llNl9yRFpXN2g4UU9PYk5HUktuZ1dfVFZlcnpwMGNPRGxhMGtkX1FfRHJlM0dTTFQtS0RNc1ZVTXFxQXJXODZucXVLc2JBWWhCR1JqX3J5dlQ1a0VscjdfUkJiYV9na1JhTDlwLUhWSnZuY1N2RUE2bkx1MTJYeFVYdFVZaFEzU1FmeFNEM2RhcXh3WUxCem9XT3E3eUNKamY0aWh6bmx3alZTcHRrZnVndGp6amdEaHlEX2ZQQWp4OTdBMk04QWhBVWVHdG4yRHJUcXBKMG1TR0VOcVdUOEM0Sm1qejUzM1ItZzVlRnZtZHpJb2hLSV9FSmUwc3NNVTM1TXI3Q0JucWRPcmRSbHRTOWNwb0p1ZVRlWDlTbXBHUkF2Nld0NG85ZThvNENnTlVYYlZxNlpqSmpEbHEzNXQ0RWR4Zw?oc=5",
+   "data": "Fri, 23 Oct 2026 07:00:00 GMT",
+   "fonte": "Corriere della Sera"
+  },
+  {
+   "titolo": "La fine di un'era durata 28 anni: Apple chiude i suoi forum di supporto tecnico. - آي-فون إسلام",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV2VWb1htT2pKdUxRQWhqT1BiNnZ3eUR1SGV6RGE3UFZVYVVqU3hzMkstcGlfX1lHNXBDMjJzSmVURTdkbU93N0h6cjJIR3dKVklrb21Fbmcwc0JTcTR6V25GZTl2QWNmNmNUYzlyQXVtMnFERU5hamxPYW4wRmhrTndtLUpZWEdObW5vZzRsR2FWX1hMSlQxcVZQamxxa2x4RG5paVB6OFc?oc=5",
+   "data": "Sat, 21 Nov 2026 07:44:20 GMT",
+   "fonte": "آي-فون إسلام"
+  }
+ ],
+ "news_brevetti": [
+  {
+   "titolo": "Duo, l’iPhone pieghevole la scommessa Apple al costo di 2000 dollari - la Repubblica",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMGZ1cjV5OEw1cXU4Ml93MTVULVpBZUIyZUtlNmg4bU5jaFFlTW1SM2NWYVNKREcyeHNyWVR6bFJ6QnMyZEswcU1fMTdaNzEwdzhoamtwbEdwSms2MExNMnh2QUNKRE1wMVJWMUx3QmI0c3FIa2NGSHl0MnZnQnQ3cm91Z3diWWN6THhqSUs5RmRqcTQxaThWQUFIc0RMMUJ6SW9Wa015S0dfenZ0V2x1T2g2N0ZtcDZaM2NjSVJfM2YxUQ?oc=5",
+   "data": "Thu, 10 Sep 2026 07:00:00 GMT",
+   "fonte": "la Repubblica"
+  },
+  {
+   "titolo": "La strategia di Apple non insegue il mercato maturo - Melamorsicata",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVjFLbmdGbTRsSWdGQ0pvNUxKRlpZbWo4S3dRNXNWamZ6MHBOMExBMlFuQjBwR0dxNFVHVDNsbDVySGZVdWtTLU8tcFo2SDRxUDdnZFN3ZU5IQjU1VnU0d1l1dEJiU3pFVmdXRlh6Zzg5bU52d09wWkd4N0V5V0tMS3ROeTdlR1ZfUzYw?oc=5",
+   "data": "Tue, 15 Sep 2026 07:00:00 GMT",
+   "fonte": "Melamorsicata"
+  },
+  {
+   "titolo": "Un tribunale statunitense ha stabilito che Apple paghi 5,7 miliardi di dollari a un'azienda per aver usato senza permesso una sua tecnologia brevettata - Il Post",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcGItOEt1U2h4ZUQ0NU9kUkZEcEJqak91WEdLLXFTMVZOV3ZlZ1RxQW92Q2xWMHU0aGdtLTR5Zl9mUm4wcFUtcm5adjhHcG9jOG5OMnlhRERBeU52c2JhdXFCSGo4eWJFcEUtQ09lS3FWcDRmMGxxZ0FJY2NxcGp2M3BnOEpQMmcyVWJ2aXJVa2E?oc=5",
+   "data": "Mon, 28 Sep 2026 07:00:00 GMT",
+   "fonte": "Il Post"
+  },
+  {
+   "titolo": "Causa milionaria contro Apple: nel mirino NameDrop - Tom's Hardware",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX2EwTFlZVnNQREF0UlNVaHBnWkxrdU1fQUFyZDB0dWhUeTFvTFlWODJoMUQ5ajIyZ0pzTEZUSTcyaFFBLVdiWVE5TUt2Qnk2Qm05UmM1MURrcmFKMTVkaUtoRTRFbmlvNjVUdWZVQjJtdGxuZ0ZEQWxaZFlaQXdJZkkzN1pVWXVpcG5OT2Z2UTV2ckdwb296Z0t0OHQ?oc=5",
+   "data": "Mon, 23 Nov 2026 14:08:24 GMT",
+   "fonte": "Tom's Hardware"
+  },
+  {
+   "titolo": "San Diego vince 5,7 miliardi da Apple sui brevetti aptici - Futuro Prossimo",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeXkzbzlHOU5HRExaam1ocGtrVkdYVHIxMXR4YWZuN3luZ1RzRW5QZ0NDOWlZN2F4WEY1VXNpR1pWUjdfMWdpRUU3ZEJYbmladGRQY2l5Y1prb1ExemxHVU15dVFDMUNJSUlXZjNZVjB4U2hzaW9kR21nX3lrQmpodWZaUUdiMDBPdnBJN09TbFpwRjYwR2FKWXVDaw?oc=5",
+   "data": "Sun, 27 Sep 2026 07:00:00 GMT",
+   "fonte": "Futuro Prossimo"
+  },
+  {
+   "titolo": "Lamarr, la borsa che custodisce un brevetto - Forbes Italia",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92TjRoSnNFRElaWERJaC1PVVNuUXhmS0pyaHlEME9FZ2FvTHd0Z0NmajhveENBeHVoZ1Yzc2YtdExjQ3c5ZzFhVEFheGZGUzdVb1BtU3V2bXhiUVRBVk1xUlAxZzY0ZWt4ZG83SGpGcE5mZE9KMUVYUGhONnY?oc=5",
+   "data": "Thu, 15 Oct 2026 07:00:00 GMT",
+   "fonte": "Forbes Italia"
   }
  ]
 }
