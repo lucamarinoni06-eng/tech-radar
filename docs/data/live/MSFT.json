@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-25T15:21:23+00:00",
+ "aggiornato": "2026-11-26T14:47:44+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -99,6 +99,34 @@
  },
  "norme_usa": [
   {
+   "titolo": "Leopold, Diane G.; Notice of Filing",
+   "data": "2026-11-27",
+   "tipo": "Notice",
+   "agenzie": [
+    "Energy Department",
+    "Federal Energy Regulatory Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/27/2026-24102/leopold-diane-g-notice-of-filing"
+  },
+  {
+   "titolo": "Accrediting Agency Currently Undergoing Review for the Purpose of Recognition by the U.S. Secretary of Education",
+   "data": "2026-11-27",
+   "tipo": "Notice",
+   "agenzie": [
+    "Education Department"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/27/2026-24093/accrediting-agency-currently-undergoing-review-for-the-purpose-of-recognition-by-the-us-secretary-of"
+  },
+  {
+   "titolo": "Self-Regulatory Organizations; MEMX LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the Short Term Option Series Program With Respect to Qualifying Securities",
+   "data": "2026-11-27",
+   "tipo": "Notice",
+   "agenzie": [
+    "Securities and Exchange Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/27/2026-24058/self-regulatory-organizations-memx-llc-notice-of-filing-and-immediate-effectiveness-of-a-proposed"
+  },
+  {
    "titolo": "Informal Working Group 1 (IWG-1), Informal Working Group 2 (IWG-2), Informal Working Group 3 (IWG-3), and Informal Working Group 4 (IWG-4) of the 2027 World Radiocommunication Conference Advisory Committee (WRC-27 Advisory Committee) Schedule Their Meetings",
    "data": "2026-11-25",
    "tipo": "Notice",
@@ -125,50 +153,14 @@
     "Air Force Department"
    ],
    "link": "https://www.federalregister.gov/documents/2026/11/25/2026-24008/notice-of-federal-advisory-committee-meeting"
-  },
-  {
-   "titolo": "ANR Pipeline Company; Notice of Request Under Blanket Authorization and Establishing Intervention and Protest Deadline",
-   "data": "2026-11-25",
-   "tipo": "Notice",
-   "agenzie": [
-    "Energy Department",
-    "Federal Energy Regulatory Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/25/2026-24007/anr-pipeline-company-notice-of-request-under-blanket-authorization-and-establishing-intervention-and"
-  },
-  {
-   "titolo": "First Responder Network Authority; Combined Board and Board Committees Meeting",
-   "data": "2026-11-25",
-   "tipo": "Notice",
-   "agenzie": [
-    "Commerce Department",
-    "National Telecommunications and Information Administration"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/25/2026-23974/first-responder-network-authority-combined-board-and-board-committees-meeting"
-  },
-  {
-   "titolo": "Eastern Gas Transmission and Storage, Inc.; Notice of Application and Establishing Intervention Deadline",
-   "data": "2026-11-24",
-   "tipo": "Notice",
-   "agenzie": [
-    "Energy Department",
-    "Federal Energy Regulatory Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/24/2026-23893/eastern-gas-transmission-and-storage-inc-notice-of-application-and-establishing-intervention"
   }
  ],
  "news": [
   {
-   "titolo": "Inaugurato oggi il Microsoft Pavilion: la nuova sede di Microsoft a Roma per accelerare la Frontier Transformation in Italia - Microsoft Source",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTjdROEM4U1p0OTlMM0pLMGFJOEg4ZXVLYkhZeVpVX2ktLUVGVWE2bW9EZFo4NldKSVNhNkZkMjcwRld3ajBDQU1XNFZ5S29mcnlaNFRkVnhTemN3VWxYNEdiVGljVE5HYzBrZzFOWkdiaFlKWU5EZTNCZGFWZnExeGxaNzZycFI3Q0w4N2V2TFh5U3ByQjI2UDBULWNSb0UyX2RNNll2SnRoSnVwcUc0UFdLNHgta2JVYVlZS0hSNm1vOV8yb29PbGZmWHdZM3ByWU5MQkJuOVFDemFjQ3hEak42LXVScWk0VFdTTmRRZ1QyN1JyQmNuVXJVSm53a0dZT29YLVBidVYxVVU?oc=5",
-   "data": "Wed, 11 Nov 2026 08:00:00 GMT",
-   "fonte": "Microsoft Source"
-  },
-  {
-   "titolo": "Microsoft down in tutto il mondo: Outlook, Teams e Copilot in tilt per 20 ore: «Parziale miglioramento». Cosa sta succedendo - Corriere della Sera",
-   "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPTE1HMkkxN05tRFdUc2hHMVdpa1R3MHZKWkYxR2E5bXhyb1NDTkUyV0Rscy1MMFRtQ2FjTC1YV1BfT3o0MWRtYXRIZktjUG9Va0EwTU9zSFRQd2l2S3ZKTWZxZGxqczFmV1liaDdGVnY1LUM5S3NOR3A0czZmYkZhUHpQZWY5NzBOa0wtOHhjT3N4TWdWOVdYWXV1REE5QTVPb0drTWwwdHJjQTlSTVJnZmxXc1hTMUkxZC11TXB5bTJBTnJCZFFHNVRfQ3o3OURTZmRKWWs2alJSUDZkX2dYTWJTWjVGTmQwWkpoZF9fS293UDV1V19SRWFnM3dQZnFDZ3ZrUTFFX2hBVHRWSG5CaWwzaVp6QWF3R1JLQkJR0gGjAkFVX3lxTE4xU1FZRGJiUTY5dkptanJTMDdkUXE1NnEwWkQwdDM5UEt4bzYzcmtIanpRcDVGRU1QM21qLXg1TWFjdjZDYlhMYVJRWmNNWHRZbVB5bFpYb0RHWlFBa2lpUkloNHViZjVfQjNmcnRvR2tDbFFhZFpjZEZnZWtPMnJtRkxXVGhpRGlQV2hlRGlvUXhVM050b3FMbWRuUFJ6UGNvY1N1ZHVyR1pBa1pXbGgtUFlZQVcxbGM5NzdBd2RYTlBLNERwd1o1RVdKcXdra2FySVRydW9fdEdkemVzMVN6MTZHLTNHLXV5X244d1Zmb1NkSHdqNUNBcVZkeXNta2JYVXBmNG1BNjNEMUhhR2Z4S2puZllaMUZlaTlWV29ua0I1aw?oc=5",
-   "data": "Fri, 13 Nov 2026 08:00:00 GMT",
-   "fonte": "Corriere della Sera"
+   "titolo": "Microsoft down, quanto è costato e come chiedere un indennizzo per i disservizi - Sky TG24",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObjZpNDJJSFg3OUx0NHhiWDFLR1QxQ2xXRUg4SjFGMmlvbkxHR2FwRjlqTC1LOXNjVGYtR1doWGRTYm1SZ1ZLUDhTYV9JN0dKd3MxQVpHeDVOOEMtWXlZVkJWVzA5amE3dmhJZDdaVHdLb0FjX2IxNzJvMFBHdVptRXFTLTY2UQ?oc=5",
+   "data": "Tue, 17 Nov 2026 08:00:00 GMT",
+   "fonte": "Sky TG24"
   },
   {
    "titolo": "Microsoft: \"Ripristinati tutti i servizi dopo il blackout globale\". Le scuse del colosso - RaiNews",
@@ -177,46 +169,52 @@
    "fonte": "RaiNews"
   },
   {
-   "titolo": "Avviso su disservizi temporanei Microsoft 365 - Federazione Italiana Pallavolo",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IdW1LYXY2emFyb0NaNHQwelN1WnR4azdBM1M1Z0ZoS0xSdkZVYXFIdTlLenYzMUtHMklJSUZWTmVSRnhJTjhZQzgxVWJoanppMVk4R0hCVi1ZdkxPZFE2ZllGRk9yay1leXl2Rlpyc05ZZ3dTZl9INGVlcDQ?oc=5",
+   "titolo": "Microsoft, risolto il maxi blackout: Outlook e Teams tornano operativi dopo 18 ore - Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdXFKcU51X05NRGRwTnpuMWota1FnTTlYbXNFaERsLXBtR2VBX3hWanR5YU5hWlhJcndDcjg0bmc2cEFxc1JsRzdsN2JTVjhqTVJ0SlUzcHNtQkdMQkhlYktnYUV4WHg4ZEpLQ25mQlc0N1A3RURpQjdoTlJiTjlQamNacGl2cmpFYy1oNXp5WXZHWjZiMVJma2puTWt6TG1oNkVOS19FNk9aTlZmdVhfalQxQ3k3VFU?oc=5",
+   "data": "Sat, 14 Nov 2026 08:00:00 GMT",
+   "fonte": "Euronews.com"
+  },
+  {
+   "titolo": "Il giorno in cui gli uffici tornarono a carta e penna: il grande «down» di Microsoft. La conta dei danni e i motivi - Corriere della Sera",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2lHRlZ1aEFUNnVZeU5YZThTOUFaX241d21IUlRPa0pKdXRQNGM2azNKcG9HcmtvbnNzM0lTVkIyUjI3TlN3WUVibHVuOE90RkZUemwxZDhabng2bnZobTVKbHJ4Rjh3OExLSlVlVnpzLVJnVDV1NUhkbE5HUzlHUF9IbWk4MmxlS0xoYVVoN3g3bkRYMVlvOWZjemxfV3dnaEFaejFpQjlBNnMxMVhYa1Mwc0Fla3RpdnZPYmszRDhlYkZoamhjc1g5LVBuUEhp0gHWAUFVX3lxTE5kZzEzQ3hEcWNxZFZfUnRfUGtPX2VOSklwd1Zuek9GX3pMSnlrSzV4NjBEZHZOOHp1OHoxekVYTENFTzdBOE16YXdIN0ZveUI1MmtIWFZicG5UbE00M0YwU3A0TGJlOEx2eHp4dzNodFEtT3VfWjQ0cFBSNVd6b0RBVWs0cnhaTDRHUEpLd0Z0ZVQwV2IwajA0YUdpaG52MlFETGhFZmdkUlpVQk1UQzVwdlM3bzMwblBHa3pfQk9jZUp0ckdCZ01La2ZlTUd2ZDV2UkV1Ync?oc=5",
+   "data": "Sat, 14 Nov 2026 08:00:00 GMT",
+   "fonte": "Corriere della Sera"
+  },
+  {
+   "titolo": "Microsoft, megacrash per mezzo miliardo di utenti: «Ci dispiace» - il manifesto",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMG1NdjZteFlUQ2pCWFBuSXViVnZ4cHZHQk8xLUtocExBQmxYckhWVjRqRVhHVmFrWDFKZldxUm96OU1DVDdoY0psUUVUVklyUDNHSTI2ZkNRU1NvTVRZM2Y2UGtEbE5qbDJWcHpSZTAtMzh2QVIwMTJtYjlzdW5GWkN4eFdoZDQ2WW1j?oc=5",
+   "data": "Fri, 13 Nov 2026 23:08:03 GMT",
+   "fonte": "il manifesto"
+  },
+  {
+   "titolo": "Microsoft, down mondiale di Outlook e Microsoft 365. Disagi per aziende e governi, cosa è successo - la Repubblica",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQX1E3ZGpPU3VyRnZUUVYyUGQtcXBTYWgySnhvMWFkSGNpSng4bFV4MXUySTZ0andySEFJakFqSHdRTFVxUWJFWHRVRGQ1MElMYXZ0N3RSU2MzUFFwZWJVZWxKc2xuTUxqd21zVnBINEkyVUlyQVQzRFEzODFtN2M4RTNsLWgzcXNLS0V5RFBWTnVzdlBuWnliQlZaaFU0QU1aaUE?oc=5",
    "data": "Fri, 13 Nov 2026 08:00:00 GMT",
-   "fonte": "Federazione Italiana Pallavolo"
-  },
-  {
-   "titolo": "I servizi di Microsoft stanno tornando a funzionare gradualmente - Il Post",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11MlFrNHdLUFlKdjlwcGF4bl85Q3NGeThNRlJkdkozbnpMZmpiX1ZMeWNLaGhVeDBOMWhXOHg3d1ZVNjU3VUNhZnNCOENkODhPWFRBZHBEN1dHTXhOYTM1NGsyeWxtY3FZWDF5UVZkWWxuYW45WGRF?oc=5",
-   "data": "Thu, 12 Nov 2026 08:00:00 GMT",
-   "fonte": "Il Post"
-  },
-  {
-   "titolo": "Microsoft down, quanto è costato e come chiedere un indennizzo per i disservizi - Sky TG24",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObjZpNDJJSFg3OUx0NHhiWDFLR1QxQ2xXRUg4SjFGMmlvbkxHR2FwRjlqTC1LOXNjVGYtR1doWGRTYm1SZ1ZLUDhTYV9JN0dKd3MxQVpHeDVOOEMtWXlZVkJWVzA5amE3dmhJZDdaVHdLb0FjX2IxNzJvMFBHdVptRXFTLTY2UQ?oc=5",
-   "data": "Tue, 17 Nov 2026 08:00:00 GMT",
-   "fonte": "Sky TG24"
-  },
-  {
-   "titolo": "Down mondiale di Microsoft, servizi regolari in Europa. L’azienda assicura: “Nessun attacco hacker” - la Repubblica",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcmxuZGFjUTFkSDBjaVYtelM1N2Y5OUlKV2NXUFJZZkR0VlpFbUZmSnZoLXNtV05EQ1dHWnJ2bG54NXp1Z0JBQXVYcEVYUUhYLXFuMXp5RjNaeFVDckMwS1RrclJWUlYzcTdZSTQ5QjJYMURYLThFMVZrbV9scmFXYURyVms3elZoM3dpa0RyV1dOczRubEl4b0QtcTJGT1U2ZVBvd2ZPZjBQekxCNXM5eVlxVExNeEV2QXZQcjFPajJEaFdkbFJnaWN1eUFNdTFESHJJdkw3ZkVMVmZ5NlViTA?oc=5",
-   "data": "Thu, 12 Nov 2026 08:00:00 GMT",
    "fonte": "la Repubblica"
   },
   {
-   "titolo": "Microsoft down: il blackout che ha mandato in tilt il Pianeta - Avvenire",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTDVycEd6T1RUakJGN2Y1R1lieUNfTEFvSkozaVpFeU5YX1VYSmN5b3hyWFRXZkQ1YUxWR2xnWUNHOTVweXBzU3luX1pYaEJRV29WREhpQ0tCcUNHU1Y2TUZGYmY5SGxtVm03cUFIbkVZd1BfdVhoZWVNM0pKV0QxalVEdC1uM3hkQWN0VnpWYVNEQ1E?oc=5",
+   "titolo": "Outlook down, il caso Microsoft 365 riapre il nodo della resilienza - ZeroUno",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYkFCSG4waHpJa0NfRjIzYURpZzkzVnNKWWpxVU1BRDU3QVpwT25rZ2hOSE1vZ1d4M1NZRnBhZG9SeExGck9rWWlhcmdrdTc3RGRyVFlVUWtwSDA4M2F2dFJHRk5kQ2p0RnZKdG1oM20yaHNWck1xTVp3M0V1cUlpLVpOQjMxUGhZdEdpLWxRMGRKanBTZm5QT19TdGJITDBGckxB?oc=5",
    "data": "Fri, 13 Nov 2026 08:00:00 GMT",
-   "fonte": "Avvenire"
+   "fonte": "ZeroUno"
   },
   {
-   "titolo": "Microsoft 365 bloccato nel mondo: il rischio di dipendere da un solo fornitore - Agenda Digitale",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNVdMZVMwVkpNZUZhTDRadHdHY0Q0RGMyWGEtcG1Yck05dzFzTTlLcmN0SldUYjh0MHRsQ2cyV19HSllTUXpqc3ExdE43T0xONElSMEE1QjJqWHh6RlkxNUNyYkFfNjlMM3ltS2RzUzJOWHB4UU9XSzdmNUx2WThRRmZXMzFPX204YWtpLWU0SHlIWlFycHRmNnZRMVRFZXRrSjZnUjNyZ1BaOVFycmRmU3dXLUhpLTBkdVE?oc=5",
+   "titolo": "Microsoft dice che i suoi servizi ora funzionano - Il Post",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vU2QxVjFKQmR6WngwajZBZEp0UDdRM1hKdU5MNmJNT2pnMTcwcmNwOHpOdkFqYVhENHRlLXpQa2N1MGJERTdKS1p4Yk9fcTFkdG14OWc4WGlCU0FXeF92eVlJZ1RxQ0x4MnoxVTl3aw?oc=5",
    "data": "Fri, 13 Nov 2026 08:00:00 GMT",
-   "fonte": "Agenda Digitale"
+   "fonte": "Il Post"
   },
   {
-   "titolo": "Outlook in tilt, disagi anche per Teams e Copilot: Microsoft indaga - Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTEdueWY0dWRaSFJ0cS1aVVBRNmlwcVdsc0lHczBFUVNRNDhiSWtjWU9PRmMtSEpQVFV6dGxJNU5rNmNNYUtxcF9QTVhBVVNiV2dDSWpSUzZ5eTBuZFJUQ2puSzFsOFRJS1YxQXgwSjMtbEg0cVRzQ3BUM1M1X2FtNzhkWGFjazRjY0xDTGdPLXBaYW42RmRMQm1HNHJIUEFIcDJFWWdjZHNfZFVHMnI2OFRUSTdsZGdvcG5tUzBfVnZFcGM?oc=5",
-   "data": "Thu, 12 Nov 2026 08:00:00 GMT",
-   "fonte": "Euronews.com"
+   "titolo": "Anthropic sfida Google Workplace e Microsoft Office - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaTlnY1RhUUVQTUhPT2JJVExLcm50NlFkQTB1M2lKSjRaM1pVczZrZVFfZjkxbk96UWh3WXRBOG1XTkRRd0Q0QXVKa2FuQzhHT3lNVExVLUI5Z2E5R1NTcWxfVlZUVmpVUk1XNlBud3pLYjRGZEdtWGYzZ1c1MDRPNnVBVDRJSVg2V0xyWXZzc3Q5dTVINTRB?oc=5",
+   "data": "Wed, 11 Nov 2026 08:00:00 GMT",
+   "fonte": "Il Sole 24 ORE"
+  },
+  {
+   "titolo": "Disservizi Microsoft e NIS2: obblighi di notifica e indicazioni ACN - Cyber Security 360",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcGNVeWNyODdxdTdsOE1naDU5RUc2SWRDbF9Gank5SEtteGtrZ25KdDhPdGJmTGNzaWxVUmRGVHMwSFVPQ3BXX2xwUEZkQmV3LUFJRFRQQ0VfekRfcVA3WDQzOTlOQ1lTbnZTcHRBVWpvTHFKbFZxbnZwY2hvMGx3STB4V3EybEpTQWdpRDlYbWl5ZEdDOUNIaGJtOEhMUThvU2l5cmxGNE9Ia3JGWGhYblVPY3BvcXdzanFvNA?oc=5",
+   "data": "Sat, 14 Nov 2026 08:00:00 GMT",
+   "fonte": "Cyber Security 360"
   }
  ],
  "news_legali": [
@@ -233,22 +231,16 @@
    "fonte": "RaiNews"
   },
   {
+   "titolo": "Videogiochi: azione UE per promuovere trasparenza ed equità a tutela dei diritti dei consumatori - Ipsoa",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNakdXVmw0bXRHRUozTW0tOHBzSEVSSk5zbW9adHBIRjNmeTlzM1E3T2RhZWFjUG1CT2Z3bXRwUXVtaVFsZS1TSDNIeThJUWhEdWZxeUxrSWxvM0NLZ3JUdlN1ZG5HYmIxS04xMC1XSE5kbW1jMXNycS1KaWtMUzgwZ2dUYlJaY3d4QXUwRzkzak16bXVXUmtXR1p6T1FjXy1XYTJZdWgwaHJwcEVQOFRTWjM4ZEE1aVBvRUJKMm5PaGgtTVF6My0yblZIUQ?oc=5",
+   "data": "Thu, 08 Oct 2026 07:00:00 GMT",
+   "fonte": "Ipsoa"
+  },
+  {
    "titolo": "Microsoft offre l’uscita volontaria a 60mila dipendenti mentre investe nell’AI - Fortune Italia",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPakNkTW1GMHI0Rjg3bUlZTk9OdEVhY0REN055YWw0djZaMENNR0MwVVVRaEFhR3RoeFZ1TGRjemFhYjNEX1FVQ2hKZ1ZrS3FIUjlZQ1pSVzYyT29LSXlwTHpOZzhxS09pcVVsZWViTzE5MF81cEx1S3dZNTU3aEd6MXpSa2d1c0J6QzdzTGxhLTRCSWVyMHJ6SUdQaXRkc2xtbFlYcldmclBuM1ZDZnZMVkhXaTRkUQ?oc=5",
    "data": "Tue, 27 Oct 2026 07:00:00 GMT",
    "fonte": "Fortune Italia"
-  },
-  {
-   "titolo": "Gaming, azioni coordinate nell’Ue. L’Antitrust italiana guida l’attività su videogiochi che fanno capo a Microsoft - iGizmo.it",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaEZqZmR2Y1JlMXNBeEk5dDFoSWYtaUo5M1VucTN5WGsxX1BKMVVmT2hxd0paby1jbzBZcFVQSFp3MExlWEdOX0pES0xoV2tIOGY3SHdpeDA5WFRobUw5anhMcFNkaU9pRzk5VVh2X00wY2JKRkNWWHRzZGIySTl5WXVyYjBYMmtDNHJOQkdGeFY5OURYSzBrbDlNLVZ5cVVvVFFEbzdXLVphWlVoQ0g3TWZpdFlEM2pFYkRnd0ZUZEdTXzJ3YjIxNnpMZHg?oc=5",
-   "data": "Thu, 08 Oct 2026 07:00:00 GMT",
-   "fonte": "iGizmo.it"
-  },
-  {
-   "titolo": "Microsoft, Maia 200 entra in produzione: i nuovi chip Maia 300 arriveranno nel 2027 - Il Sole 24 ORE",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZy0wdVFoZ3ZtWk1GYTRxZU1zcDdkOG1aX1U1MFp3bzNKNWFjRUdJYWRmdHZwZkxTRFJKNFc0b3F6Y1h3eDE1eGNkbjE4aW1QWVhUbC1mdmVpQlI1M2J4QV84SDhsMENJR2JXMVBFX3pNYVNHeHlRdUNuV0pydGtobF9tWUxJNlFhWW5ta3pIbUVSLTJuSHZPWm1wd19sd3lwa3lFb2FaZW44TTRMaER4aWJrLS1abGhwN05JbFFn?oc=5",
-   "data": "Mon, 12 Oct 2026 07:00:00 GMT",
-   "fonte": "Il Sole 24 ORE"
   },
   {
    "titolo": "Microsoft ha ripristinato tutti i servizi dopo il blackout globale di ieri - Avvenire",
@@ -257,10 +249,10 @@
    "fonte": "Avvenire"
   },
   {
-   "titolo": "Microsoft ripensa Copilot: meno chatbot, più agente AI - La Stampa",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbE80a3VPckVkTE9zRXpQQ0FDa3RrMHVXZ0ljNTBieXQ3OWJvakp3TkdocExBWFpud3JRX0c3OTk0UEhOcHBWRXNzTURBQ21tQ09ZYklhVms5bzZ2OGppVWlmOHc0RWY0MXJoR0tXcGhNVjYtdm9TOUg5Y0ZZRVZGRktiRERTd0dWc0tmdmsxT3BjOUVmb2F3UmFNVUhicDBWWlZtd05yWG4xRFE?oc=5",
-   "data": "Sun, 27 Sep 2026 07:00:00 GMT",
-   "fonte": "La Stampa"
+   "titolo": "***Antitrust: autorita' Ue coordinate su gaming, quella italiana guida su Microsoft - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0dlJZMkJEbkFVWEQ5TjFjc0NrNnRaVkhRVkpWQ0hYaW42dmFhYW1MSDVUUUhwZHBmcjNHTUhRdFA0WlE3SHFWVUxJRm96SUtlZWJXLWpJV3IzdW5xVWh4Tk5BNV94cG5iLUJOT3NBVndzLVlU?oc=5",
+   "data": "Wed, 07 Oct 2026 07:00:00 GMT",
+   "fonte": "Il Sole 24 ORE"
   },
   {
    "titolo": "Microsoft chiude l’app To Do dopo dieci anni di carriera. Per gli account personali non c’è un sostituto - DDay.it",
@@ -275,10 +267,16 @@
    "fonte": "ImpresaCity"
   },
   {
-   "titolo": "Residenza dati Copilot UE: il piano per Claude - NeoTeo",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUmFJSzR0MU83YkU3RFJ5YWVvbmRITXU4bGlMUE4zdXg3YUpkbnhaRjNkOXFkODYxX3pqMlpxckJRZS11cHhhQTFUdXF2akoxNEtDNlRnZG5EZkZBc2RlVTRmaENpcVJrYjRYQjdiRmtQRlZBY3pvbXo4cVBnVFk5Y1EwZGUwMzZMRXhxdzR6dDF0RlRrNlFkTnFtNjA1bVJqcURMRk9pZGxLeEZZaldfQg?oc=5",
-   "data": "Tue, 17 Nov 2026 06:09:51 GMT",
-   "fonte": "NeoTeo"
+   "titolo": "Gaming e videogiochi, indagine Antitrust su spese nascoste e acquisti online - Sky TG24",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Zc0NBM1hYUGJPS3NUM0xNUmh4RktxTXNBRDU5cHlDNVByR0gzTDNtWEU0MXY1ZnFrY0I1Z0Z0MmFpZ3IydGpPaTdxMUkwd3p6cW9sdnBvdFVzbVlSYVpqbjcweEE1U1YxY0hnSHFNNHRTLTI1b0hPdXd3?oc=5",
+   "data": "Thu, 08 Oct 2026 07:00:00 GMT",
+   "fonte": "Sky TG24"
+  },
+  {
+   "titolo": "Problemi di sicurezza, rischi per i dati, backup problematici: un rapporto evidenzia le zone d’ombra di Microsoft 365 - Le Temps",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ1AyY0d6d2t6SmtrUDJyX0paT2dRNGlINDVwVDBpeUt4WFkzdjRvSERIczNFZ1ZNZmVaZUVELVZyUVdvYnV6UnNnTFJHNGJRRTBvQ0owTU4wSjhyZTc3YzI0REc4dV9jVkZCUUZ0dEpQd1RMVE1VN2plNlJLY1FqbmtlUVVhWkJxc2UwTGR1Sm1MOGFidmFxVWVJUWZyOWV1cHZxMHZtWlJmeXdTbXVjeERPZDdtTkVkSVU4VnhuX0RMc0ZWeFA5QnM0d1RLTmhUV09MT0g5cW1kdU5nS1JR?oc=5",
+   "data": "Tue, 03 Nov 2026 08:00:00 GMT",
+   "fonte": "Le Temps"
   }
  ],
  "news_brevetti": [

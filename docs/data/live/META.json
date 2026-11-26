@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-25T15:21:38+00:00",
+ "aggiornato": "2026-11-26T14:47:55+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -99,6 +99,15 @@
  },
  "norme_usa": [
   {
+   "titolo": "Self-Regulatory Organizations; MEMX LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the Short Term Option Series Program With Respect to Qualifying Securities",
+   "data": "2026-11-27",
+   "tipo": "Notice",
+   "agenzie": [
+    "Securities and Exchange Commission"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/27/2026-24058/self-regulatory-organizations-memx-llc-notice-of-filing-and-immediate-effectiveness-of-a-proposed"
+  },
+  {
    "titolo": "Medicare Program; Contract Year 2028 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, and Programs of All-Inclusive Care for the Elderly",
    "data": "2026-11-25",
    "tipo": "Proposed Rule",
@@ -144,15 +153,6 @@
     "Securities and Exchange Commission"
    ],
    "link": "https://www.federalregister.gov/documents/2026/11/20/2026-23649/self-regulatory-organizations-miami-international-securities-exchange-llc-notice-of-filing-and"
-  },
-  {
-   "titolo": "Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Its Rules its Rules To Permit the Listing of Binary Options Overlying Key Performance Indicators",
-   "data": "2026-11-18",
-   "tipo": "Notice",
-   "agenzie": [
-    "Securities and Exchange Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/18/2026-23427/self-regulatory-organizations-nyse-arca-inc-notice-of-filing-and-immediate-effectiveness-of-proposed"
   }
  ],
  "news": [
@@ -163,27 +163,9 @@
    "fonte": "Borsa Italiana"
   },
   {
-   "titolo": "Perché il titolo di Meta Platforms sta scendendo oggi? - Investing.com - Quotazioni, Borsa, Economia e Finanza",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR1lhR0hTVDg4Q1lPR1l4OEJiVTNIeU54cWVpeTl5OWlUNmo0TnFBYUxJNkpCWllxalduZFgxdTdnWmMzRFBpa2tHZFdUU3R1cERvR0VDRXRUdTlxWmEtUk1Xc2FNMGJVZkx6bjZGaUQzSV9YZGdUeHlxcExXNUJBUE5ILVRPM2lpQkg4N3NVeU1GY1p5ZWdPVzNsWkU3RjNvUGRVZ3lkMzdYWjluLWNGNGpMYU4?oc=5",
-   "data": "Tue, 27 Oct 2026 07:00:00 GMT",
-   "fonte": "Investing.com - Quotazioni, Borsa, Economia e Finanza"
-  },
-  {
-   "titolo": "Meta in calo dopo la trimestrale. Il titolo è sottovalutato dal mercato? - Morningstar",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNkM5UUE3XzBxNDQ3RWtBNjROaDVya0VGZDNtR19ZMkNFS0ZZNmRucFpCRW5yQW44b2VkRXdyRWpCNW1UQklMT2ZhNjcxNXpTeFpkelFUNWt6WW9RM2k1U0RRRC1jblZSZzkya0ZhdHlsUVNRM2h3Vm9MdkRuUUxkSnBmc1F6TFRVdURWMHE4bzN0NmZWM1ZZYkZkdlVwdWIyOGxQb2hULXdnZw?oc=5",
-   "data": "Mon, 02 Nov 2026 08:00:00 GMT",
-   "fonte": "Morningstar"
-  },
-  {
-   "titolo": "BPA CW CALL META PLATFORMS 680 E 251126 - Milano Finanza",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS1g4MV9uVDJFZ2JoWmppSUVlYzR4VjZHSEYyZWxLRllYd0FNNC0zYTdOODJlVzBSc0J3V0FjdUo2a0FheVl3eXY3MFdkc2JYek5UejJrX1ZRcmVTR2FOZnZjZFdqVGo0Qk1mRHpYaC1KbEVrQXg4blZsSEFnVzRZcWQxOEFLQXM5WENHUGpWMHNfMkNWQVJDZVdPSFdEdw?oc=5",
-   "data": "Sun, 08 Nov 2026 09:46:48 GMT",
-   "fonte": "Milano Finanza"
-  },
-  {
-   "titolo": "Meta Platforms sotto esame nel Regno Unito per le condizioni commerciali applicate agli editori - MarketScreener Italia",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZURGVXdTMFh1MEJKUEp4NUNRQm1pUDRGNktzVm9BSlFhT1VtZ1Z2U1NlZXdTbHVIV1NYUHZDRWszeGZoQ19FSmNsYm9ycHBTRGltTy1zQTl4Z0tOamluX0xjX1N5aUp5N184R21Hb0dsMl9vOEtBQU1Ua282Rm5aaWtDMll6YkRzdGdpWDZNaDBxd19yc0RxYkNGZlRrQWs3dTFDb0hjQlc4Wl9oXzJ3dkdEdUxvNE91Y3dRYlg2VDkxLU9Da1VHV1lycjE3UDZ0WEhJWGRrSXh0N1ZiRzVvQ1dwa3k?oc=5",
-   "data": "Fri, 30 Oct 2026 12:59:39 GMT",
+   "titolo": "Meta Platforms, Inc.: Loop Capital rimane Neutral - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWEVaWG9ManhoSTF1OHlOTmNlWW9yLUVpa3ltRUVUcUhFUEl4SlI1azNnd0RnZnRxTWw0V1N3cGlVU096MjNsLW9RN3V3U19iSVhVRHY2NlN2eUtreUdqbTlJX09BcEJtdEZ2Ym5Pem0tbThEMVRtcTVKbGk1cC05aVI3SjJxSXdjeDYwbzJIbzdiWXdvcmNJWlZmUkNyOXJXLWpr?oc=5",
+   "data": "Mon, 23 Nov 2026 11:07:29 GMT",
    "fonte": "MarketScreener Italia"
   },
   {
@@ -193,28 +175,46 @@
    "fonte": "Teleborsa"
   },
   {
+   "titolo": "Perché il titolo Meta Platforms sta salendo oggi? - Investing.com - Quotazioni, Borsa, Economia e Finanza",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUI2Vy1yUU96d3pHd2ZkUGdMQWxnc0N0UGNyMEE5dWE5VUk2YlpsZy1Zc193bjl4R0RsRmtjYTRmb0JJaVdyclJ4bE5TZ0poME5ESWV3MTA3akwzLXBEZEQ2dC1NeEJ3YkJYS2xFRjR5QkpGdTkzWnB3SGRHODBBbk9TeVpkZDRIV0F5azRYamlpWXpYTXlEdzNuMHRQSGsxYnZpYW14eEg5SUNQUXc?oc=5",
+   "data": "Thu, 29 Oct 2026 07:00:00 GMT",
+   "fonte": "Investing.com - Quotazioni, Borsa, Economia e Finanza"
+  },
+  {
    "titolo": "Meta Platforms è sotto pressione per l’aumento dei costi dell’IA e i dubbi sulla redditività: META riuscirà a evitare ulteriori perdite? - Traders Union",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaEJZMTBNMjhMdmNQN29PRVVjeFNrTW5pOUdNSWd4ZmVKM2xzRE5qem44bzh0OXlGMlN5Q21iTWdoY3dENGZTQzZOZC1PT2puc0dSc1RKV0ctZU9hY2NKQXk2WG9PWlJjZHdlQV9KbGpkQzVyYjd0NHZrZ0x3cWg1LUYwd29GTEEzMlNWblVuRjI1TFU?oc=5",
    "data": "Mon, 23 Nov 2026 14:35:42 GMT",
    "fonte": "Traders Union"
   },
   {
-   "titolo": "Facebook, Garante privacy sanziona Meta per 805 milioni di euro. La società: faremo ricorso - Il Sole 24 ORE",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTGNvdXF1Mms5djNjOEx4SXdQU3FMWGVaYzBPdXZNOGpFcmFJUjRkUFBVdmUxTnJDVHdGdy1BX01JNDFrbWgtZ1BTNnBNMnVkRU55S1ltZHdVRUlPTmZnT08yejN2dzdZUGhnS3lQTWplZXROMDE0NVJKUFB5TGpqRDdTLWxIcm5XVmNBWlQ4R0EyYTJLTnZqZC15Snc?oc=5",
-   "data": "Sat, 14 Nov 2026 08:00:00 GMT",
-   "fonte": "Il Sole 24 ORE"
-  },
-  {
-   "titolo": "Meta, boom di richieste per le nuove azioni: raccolta da 25 miliardi e domanda cinque volte superiore all'offerta - Borsa Italiana",
-   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOV1lHUlpUc1ktMDhXZ2FvbzVZRThzd3F1TTJQVHRyZW5VQ3JVbEZNYnA5dXpidElwLUVYRURVZWl3eGJLWWw4UVpPdlhSTXNQaktfR1NSZjlRYU1wd2cyZ29Sb2VweVpiYUdLaHRYdVZYaDZzWnRXTGdUTWNVSTZqdmFJdWdUMm1ocmZjSHNSbFJ3ZC1zXzhaRmVwZUxmWkZJZ2Y4X19sSnpNRVQzQWtXbEZxbGFySGdzM3ppV1FCOHR0dEV2OGFNVl9KRWpncWJWQ1puWDdTdDU2aXY2VlQxaEdlcVJwMFVteGpsck5iR3d4aGJwWG1YLXpXMDBQUlphZkNrU3hUekZFTV9wcGhaZlJkQllLUHFaNV9SSVJyWU0tQQ?oc=5",
-   "data": "Tue, 27 Oct 2026 07:00:00 GMT",
-   "fonte": "Borsa Italiana"
-  },
-  {
-   "titolo": "Meta Platforms, Inc.: Loop Capital rimane Neutral - MarketScreener Italia",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWEVaWG9ManhoSTF1OHlOTmNlWW9yLUVpa3ltRUVUcUhFUEl4SlI1azNnd0RnZnRxTWw0V1N3cGlVU096MjNsLW9RN3V3U19iSVhVRHY2NlN2eUtreUdqbTlJX09BcEJtdEZ2Ym5Pem0tbThEMVRtcTVKbGk1cC05aVI3SjJxSXdjeDYwbzJIbzdiWXdvcmNJWlZmUkNyOXJXLWpr?oc=5",
-   "data": "Mon, 23 Nov 2026 11:07:29 GMT",
+   "titolo": "Meta Platforms sotto esame nel Regno Unito per le condizioni commerciali applicate agli editori - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZURGVXdTMFh1MEJKUEp4NUNRQm1pUDRGNktzVm9BSlFhT1VtZ1Z2U1NlZXdTbHVIV1NYUHZDRWszeGZoQ19FSmNsYm9ycHBTRGltTy1zQTl4Z0tOamluX0xjX1N5aUp5N184R21Hb0dsMl9vOEtBQU1Ua282Rm5aaWtDMll6YkRzdGdpWDZNaDBxd19yc0RxYkNGZlRrQWs3dTFDb0hjQlc4Wl9oXzJ3dkdEdUxvNE91Y3dRYlg2VDkxLU9Da1VHV1lycjE3UDZ0WEhJWGRrSXh0N1ZiRzVvQ1dwa3k?oc=5",
+   "data": "Fri, 30 Oct 2026 12:59:39 GMT",
    "fonte": "MarketScreener Italia"
+  },
+  {
+   "titolo": "Le azioni Meta Platforms scendono sotto pressione sui supporti e per la causa in corso sulla ricapitalizzazione - Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRVZROVJYQ2trYlc1cFJKOHFSNDE4NE9temVuYlZNU2JSUDJiVnFMVkdGc19tdE01Wi0zeWV0bjNGYVZZX2k2TUx5WS0wVlJuRnJ0RDRRNDVfSWFEcUhMZ0pHVnUydk5GcVU5eTFOcjRFODNxZW9DWEx0SGlHYXAwYkRTTS15TEFxb2FPVmxVenNPTE9OSjdIQQ?oc=5",
+   "data": "Wed, 25 Nov 2026 14:23:52 GMT",
+   "fonte": "Traders Union"
+  },
+  {
+   "titolo": "Perché il titolo di Meta Platforms Inc scende oggi? - Investing.com",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMnJPV3QyeWUwR2JIR1ZFMkxlU2E3dWM4WUJ3TW4yZG1QaFEwMmcxcnFDallZbHpWamI5ZVNqNVVfQU54SkV5dHZxenJBdWwxLVNsR0xZbnF5NVAyTHJTalc4Y0lpSmNfUDJxN2c3Zk51MnVKeTFPcm5jbmdhRmFIR3V2dVk4akFNWGV4NWhwQlJjVGl1aVRPY0QzV0lleHJwVkxPQWZ6ZWtaZF96YmZwVA?oc=5",
+   "data": "Wed, 25 Nov 2026 15:47:00 GMT",
+   "fonte": "Investing.com"
+  },
+  {
+   "titolo": "Meta Platforms alle prese con prospettive di credito negative da parte di S&P e una multa italiana: META riuscirà a evitare perdite più profonde? - Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcDB4enRwV2lmdlBvSG9jRTRlWXBvQnZyNmh6aWJqa3ZtZV9BVThScFhMek05TEUyc0VQVDJiTGliZDhfX1N6Y25FdUgwbmt6MTdCcXpSckpNZUl5OUh3akg5Q0Y1d3VfZWVzaWF2LTI4V1BrYWNSTi1VcUJ1VzdYNnNHZHlVMmhzZFNSQkp4M3Z6bnRx?oc=5",
+   "data": "Tue, 17 Nov 2026 14:26:28 GMT",
+   "fonte": "Traders Union"
+  },
+  {
+   "titolo": "Meta Platforms riuscirà a mantenere i guadagni mentre prosegue il dibattito sulla strategia di AI e sulla propensione al rischio? - Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcTc1SnozcEFvWUNGRV9JbzFCVnlqRExuX0VwdHViNE5xaTRQWkJWU2FNRWNvQkpiMzZtdERVR0lLOFU3ZGZBaFpvMW81MmZXQmE0YVc4WDh4ZnZYMGVoOUNlRThka2xwaF9aNU1VRWt2am1FdXdQVV8tUG5ESEFGaFlWRkd4SWxDa1E?oc=5",
+   "data": "Wed, 25 Nov 2026 20:25:44 GMT",
+   "fonte": "Traders Union"
   }
  ],
  "news_legali": [
@@ -249,10 +249,16 @@
    "fonte": "Borsa&Finanza"
   },
   {
-   "titolo": "Meta Platforms, Inc.: Arete conferma il rating Buy - MarketScreener Italia",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUEk2OEMzQXRYeVpPNGVpeHhUR3laellCbkxVVzJOb1JQaWk2dFdqTzBkMGNHUkFQOUdyMGRWY21OcDZHZ256M2lLQmtDYWMzeFE4cmtQODVFVVQ4VjhKdXNkU2Vsem1wQVozZlNZZzlud1ZGam5LNjdCTVRaUUd3TXJfMEN1UFhpTVpDZG5HX1pHVFFYSTF3YURPSFI5a0Y1MGFpVQ?oc=5",
-   "data": "Mon, 16 Nov 2026 15:18:38 GMT",
+   "titolo": "Meta Platforms, Inc.: Loop Capital rimane Neutral - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWEVaWG9ManhoSTF1OHlOTmNlWW9yLUVpa3ltRUVUcUhFUEl4SlI1azNnd0RnZnRxTWw0V1N3cGlVU096MjNsLW9RN3V3U19iSVhVRHY2NlN2eUtreUdqbTlJX09BcEJtdEZ2Ym5Pem0tbThEMVRtcTVKbGk1cC05aVI3SjJxSXdjeDYwbzJIbzdiWXdvcmNJWlZmUkNyOXJXLWpr?oc=5",
+   "data": "Mon, 23 Nov 2026 11:07:29 GMT",
    "fonte": "MarketScreener Italia"
+  },
+  {
+   "titolo": "Meta perde 400 miliardi di dollari, mette all’asta altre azioni ma gli analisti vedono ancora un potenziale rialzo di 1,4 volte - BeInCrypto",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pWV82TGFSSTQ2ZVFGVDRZQzFSbzNVVkdnN0wtQk5STXByTEwyNGhwYnh4WFh3U2N2ellkM0t6VWoxdFI0TnY3cGVTVXJLT0k2WTRSWnZ1OC1YUlN0SEc1U3ZiamV4WjgxeHNMcV9Wb3g1MW9IMEduOHRmNFBVQQ?oc=5",
+   "data": "Tue, 27 Oct 2026 07:00:00 GMT",
+   "fonte": "BeInCrypto"
   },
   {
    "titolo": "Meta crea una nuova classe di azioni per mantenere Zuckerberg al comando dalla California - Yellow.com",
@@ -271,12 +277,6 @@
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZGhKTkZaWDdIYXItVkxpX3hwandzOVI1VHdZcVRjQ3VxcjVpX0ZEbldBaDEtRnVEMzEzYnpFbUVzaUxxbm1xU28xcDFVYi1tZlRzcE5fNlBHX0NKbjZqLVdGNENiWDlKeFRfMmZhZWlhaTJ1eENKQnZQOGZXNXNfMHdrLXZfUVRocEVLXzJfZDFYWi02WTRXTGRmbU02eWJjVmpYWHAySi1JVDk4MklNUDZnamhZdw?oc=5",
    "data": "Thu, 08 Oct 2026 07:00:00 GMT",
    "fonte": "SpazioGames"
-  },
-  {
-   "titolo": "Could Meta Actually Climb 30%? Or Is J.P. Morgan Totally Wrong? - TIKR.com",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbldqczUxTHAyRTJFZjNVMlhzaXJ3QlZ0Qm9kMURtdzV6WFA0NDNkWTJqcE1OY0xGTHFiRUtUVnVPUW1jTDB4RjQwZnpQb0pCU2hEVncxaEg4Rjl2aGxKVTJzNUFCMWIydUFEeGRrdmFWc3duU3lyRU4zU3JVeVJIMGNzSGlHTTAyQnhpMHpiZ0dINmotcTNhalVWbUo3SldFZDF3?oc=5",
-   "data": "Tue, 24 Nov 2026 23:07:51 GMT",
-   "fonte": "TIKR.com"
   }
  ],
  "news_brevetti": [

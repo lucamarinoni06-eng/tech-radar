@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-25T15:21:34+00:00",
+ "aggiornato": "2026-11-26T14:47:51+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -166,7 +166,7 @@
   {
    "titolo": "Nvidia supera le stime e il cda esclude il ritorno di Huang come CEO - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZXlzd1NyQmFFZTdPcjdvaXhhd1prSzN1MVNwX2dsQ2cwWTFiWF9fUXZic0ZnU2t4ZWxlemRSRkFrU0Y0Y0NQVHRHbV9zM3hNbmFzeGpLRW9Xd1p0NllDUjJvempzQ2J1cUQ5Q00teU9mTElhRVFWbEdCTzEzQVFnVGNlbjZkaWRBUmQtS0I3NUpkUlVWOVQtdVhoNndobWl1MlRhSE1R?oc=5",
-   "data": "Wed, 18 Nov 2026 05:32:25 GMT",
+   "data": "Wed, 18 Nov 2026 08:00:00 GMT",
    "fonte": "Euronews.com"
   },
   {
@@ -174,6 +174,12 @@
    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9XOHN2VmxLNlAzOEUyZXdtYnMyQzRqRGdUdHhyV09BMnJSU21FWTQzemxqZWp4R0txa0UyR3RfM0lZSkxMY0xsc2dQVTZFbW5lOWNvSTV6RWVacWtFX0xSZlluQlE3SmFsdFhpWFlRUHNfUnN5VGNSVw?oc=5",
    "data": "Tue, 24 Nov 2026 05:42:44 GMT",
    "fonte": "Il Post"
+  },
+  {
+   "titolo": "Nvidia indaga sulla relazione del CEO Huang con una presunta spia cinese - Borsa Italiana",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTmp2R2NQNHdOMGc1a21nV0ZPX1ZZanc0SUxZMFNMck1sT0RXZU9qcnY1ZjV0eW1PczNORnBLdnRiTk1JQ0dFWkdpYTZtVWtsMS10d0xQQzBfd0RnS2k3ZFdpMFFjTXpiS2VDT0ZqcEdaQm5hT1pfb2J2b0FTbEJqWlQ2RkZtdnRtRVh5V0hlMVpHSnFLQlZZWEs2UGNDYUxxbzR4RHFyd2JFa0V0Q25YZnJCaUFnSTRCRVVnVnhhVnNUdXplaDk5bVlveUZ1X2k0NHJweTVDX2Rld2pQTU44MlpXWUhoRVpsXy1aVQ?oc=5",
+   "data": "Mon, 09 Nov 2026 08:39:00 GMT",
+   "fonte": "Borsa Italiana"
   },
   {
    "titolo": "Un veterano di Wall Street riduce quasi tutta la posizione su NVIDIA e mette in guardia sul rallentamento della spesa per l’AI - Yahoo Finanza",
@@ -188,28 +194,22 @@
    "fonte": "QuiFinanza"
   },
   {
+   "titolo": "Jensen Huang torna capo di Nvidia. Wall Street Journal, confessione al cda: \"Avevo almeno 4 amanti\" - RaiNews",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNck56cEhsRUdTZ1NtMG9fLXc1c19RcTRuRVR1b19KNjhscTBHTFVHUElsOFpuSkNJWkRPdlZDZk9LNTRKZkZfeWVMYkoyazV1TzM2Z1ItTW9xSHE1ZzBPUlNCSXp4OW9BOGxhbFhLcFQwb1NPSkkzc3NfVHdmUGItUHNxWmJ6eFEwckQ2bUJCX21FUkVDaTQwYkk0U3JlcFp1UDU1OUZRR2tCLXRySVdlclVtajNTVTduVXVhZlJuN0J4TmpnNmY3RlVkNVcwY182YlRKXzFoVVBQUFpnTnJmdDJGWUR1ZHlFQWNQSGJkZE14Vmt3V0HSAfsBQVVfeXFMTWQ5czhVYnVVVTNlXzFaQ3ZSUElpODJnSjVqRlhWOEZYSHFBMEd0WUdZcThFTEx2c0RHTUtFcFprVWo0VG9PdUN3UzJJNU9LR3pYeDd4anlUdFRpakJTc1RYSTVHZVpBc3R3aDRsMXZ1eGZVUVZneE5RS2RUd0xpd0VMNjh5amY5clJLWlFHdE9yUDZEZUlERnZFZVdySFpac3RjMlRXNE9zMWxlcm5maHFkcTNPY21oN0ZobjJYWmVBeXNOdGV0RTVwTmZkbTBrcjFHTXJYTS05cEhSYkNBajIzb2dEZE03Z3NJbV83b0VFcEFFeVdkX1F0RW8?oc=5",
+   "data": "Tue, 24 Nov 2026 11:41:00 GMT",
+   "fonte": "RaiNews"
+  },
+  {
    "titolo": "Nvidia: la reintegrazione di Jensen Huang a CEO chiude (forse) la saga sulla leadership - Morningstar",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR3AtcE84ZlNlUGlkOXhORzljS2RKS3RVRUl1OE1FR1N3M1VSYUNPdVR0X2J6MW1GOVBFQlRqQ0RDWDNLYmJUTkFqWjZYUDRIbl90aTNqQXA5Z1FiODJQbmprQnBfdjV0OHhaOVM2X05zMFRIYWl2OUhLTVpuMFA2cGRqdURMbUpXLXEzQlNRSzN3OXVOX3o4QlYxeUhDZi1YTzE4VXdEb3BuTTYtaHh0cS1Cd2RoMjkycEZZ?oc=5",
    "data": "Mon, 23 Nov 2026 16:55:00 GMT",
    "fonte": "Morningstar"
   },
   {
-   "titolo": "Jensen Huang torna alla guida di Nvidia, perché l’azienda è cruciale per il boom dell’IA - Sky TG24",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONm5GQzctQXNLakp0Q2Q0cUE3M083SDR4aHZ1MGhscGViNEhKX1ZHOWpjRUlrVDhmRjdFTk51T2dEejUzSEQyYkpna2xQemtJazluWXpwNXIxdko5R21Cem9NdmdMeGVoSzFGeHpNdUk1YlNmZGhEVUZrb0ZRM0Z3eVUyejFfTEcz?oc=5",
-   "data": "Tue, 24 Nov 2026 07:38:43 GMT",
-   "fonte": "Sky TG24"
-  },
-  {
    "titolo": "Nvidia apre indagine su Jensen Huang: sospetto bersaglio di servizi segreti stranieri dopo relazione - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdFVweXFnY2VtQnVLTUZpaTFCWEFUUU91RURFeE0wYVUtUWxQWXBZNm9EN3hBVWhUVnJ4NXJSdkYzWHg2MGRUcFplbldxUlg4M2VWbVV3cUZKd0R1Vnd6Qm0xLWViaVBTRmpYV05vckxqWnRfQ0twY2JJRTMxekhKRXNqNWxLMmlTbTRiQ1MzTFczdlhVczFlMU8zMXE0TnBpb09TVnduS3J6UDItalAxaHB2b2FfdUk5c1B1ems2V3NpWkU?oc=5",
    "data": "Mon, 09 Nov 2026 08:00:00 GMT",
    "fonte": "Euronews.com"
-  },
-  {
-   "titolo": "Il caso che ha portato alle dimissioni del capo di Nvidia, dall’inizio - Il Post",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fWXY4VUR0QUVoUU90eW9xYVE1ZDBZd3NYLVRuNHkwVEFLOFdOS0kwN05OTjZ1T1R4UVEydkJXdklnUXo5Zm16NnFOV21JWmtORWprazdLODBmamtUV0xKWmVHb2Nld0E?oc=5",
-   "data": "Thu, 12 Nov 2026 08:00:00 GMT",
-   "fonte": "Il Post"
   }
  ],
  "news_legali": [
@@ -220,10 +220,16 @@
    "fonte": "Yahoo Finanza"
   },
   {
-   "titolo": "Jensen Huang, gli effetti del ritorno a Nvidia sul mercato obbligazionario - ING Think",
+   "titolo": "Jensen Huang, gli effetti del ritorno a Nvidia sul mercato obbligazionario - ing think",
    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE52YlhWcFZCb3MzSkt3OGh2LWpUeFhPUjl2RnJxaEgzWWdSSE8zSmw0UUdhSy1zc3NrX2dvNFVJbEJPSWZWNC1tTldBQXFma1F4dmFPeDdKZ2pURmZFck5odkZiQzhBVDRmV2hmWXFR?oc=5",
    "data": "Tue, 24 Nov 2026 12:33:27 GMT",
-   "fonte": "ING Think"
+   "fonte": "ing think"
+  },
+  {
+   "titolo": "Nvidia deve rispondere alle domande del principale esponente democratico della commissione antitrust del Senato - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NMW9nYVIzOEJQZUNsSEtDeVdNQ0JmQU5ieFNEM0kwSzdwbkNwSFNqRXZtVUF3VG0yT2JIWTAzY09kWUo5RFlJZG44MVpnc2N6ZjhSbjZCY0J4TDR6U3FKVm5NZzJndWNROGgwbEFIWlJlOHNyWG5n?oc=5",
+   "data": "Wed, 25 Nov 2026 16:25:53 GMT",
+   "fonte": "TradingView"
   },
   {
    "titolo": "Nvidia, Alice Huang Le è scomparsa: chi è la presunta spia della Cina - Sky TG24",
@@ -238,10 +244,22 @@
    "fonte": "Quotidiano Nazionale"
   },
   {
-   "titolo": "NVIDIA smentisce la fine della RTX 5090, ma i partner raccontano un'altra storia - Hardware Upgrade",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT2hEVnBsWnpSYkRDOHBpUjU0WjhYV0l6TnZENGc2eW10dGh1TzBFYWxmUWM5UEJkNVp1WjZXcEd1TW05QjBBc0w5S0RYcHN4TzdFdGYxOUtuNHZBdkhfeXlpaXpiM1UxX3hMbjhQU2lTc1piZ3lWVWdvSVRLX2RKNW9RQlZyLVNCaXl1YlFncndvaWJmSDFleXJVRllhZUxlOEJJdVBneXlJeVRrMng2eC1nX2t1eE8yUnotN24xckRmWXlMT21ZSA?oc=5",
-   "data": "Tue, 27 Oct 2026 07:00:00 GMT",
-   "fonte": "Hardware Upgrade"
+   "titolo": "La fine di un'era per NVIDIA? Il futuro di Jensen Huang è in bilico - Morethantech",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSk50bXJmREl4bFVRa0M1UTVUUC10aFAxYlhGblFLVmRFdHRWM1d0aWdhbEtEUkVGYVNXcS12Y2hSMndGOEgyMDM5MmxRSlY3NldLWm1wMk1KZGlWLXVfbHQ2VWRfT3NJR09pZmVENWtMeHhjTmo0ejRRYlF0Ty03OFNyVTREM3ZNYnA3UVhaTU50dWpoZEd3M05ncHljcl9lOFBPZ1Fid3FmcDRN?oc=5",
+   "data": "Wed, 11 Nov 2026 08:00:00 GMT",
+   "fonte": "Morethantech"
+  },
+  {
+   "titolo": "La scheda grafica NVIDIA DGX Spark da 64 GB sarà disponibile dal 23 ottobre al prezzo di 4,999 dollari, e due unità possono essere collegate in cluster fino a 128 GB tramite ConnectX-7. - StorageReview.com",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVXpoMDFPR1NnUnc4UmdFWXV2ZWJacmtFQ1BidG44ZUdpbnV1bV9tQl85T3pPcEZVdER4cWpYSml1WTZYNFgxRnZ2NjF1dUdSWEM4Uy16M1JuX0JxQjRJWDBabHVSeW9kYlpTUXdVanRXUThCdXhpd2ZXaUVTTTZWTV9qemU3TGdjSlZuN1hrelVEbjJLTkxUbF9nMFVJdEVtWGNIaNIBqgFBVV95cUxQWHY2dXVRQ0RwWkdYWjg0TThCOGNHbGI2TUJ4bk5kRUJwZGtVRVg1UFdNSWNueHQybmRxb21DcFJTSzdOMUhuX2QzWVpzejliMVM0SG5NRVlYbThhaVVlQTNUVGpMVVVURWJ6WHZTNDJNRjR2NzVHRWJLWm5zdHpNWTl5c2g4SV9FX1MwTXRwRjE0WmU0VzdXdzVlblZlMkUzS1h5bkZuQlBTUQ?oc=5",
+   "data": "Fri, 02 Oct 2026 07:00:00 GMT",
+   "fonte": "StorageReview.com"
+  },
+  {
+   "titolo": "Wall Street torna in rosso con la fine dell’hype per Nvidia Da OraFinanza - Investing.com - Quotazioni, Borsa, Economia e Finanza",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeFpwNHQ5MkNMcFQyS3BUbFJJd2dLOEFsZ0FuV0FnUVNITUdHWmJ2VGljMXdaYkE2Z2otamxrN3EyNXk2U19hRk9YWjhfSjRObHBJRUlxMGliVEpiaHdqSjZKZENmeTdSWWUwREJxLUtKSEg2RDUzb280cXZGLUJmcE54NDVYUnpRUGJ0eUd2VHJsWWhtZXpPYU5oN1BYcUo1dkNuZl9XVFhUci1NbFh0Y256ek0?oc=5",
+   "data": "Tue, 24 Nov 2026 13:22:00 GMT",
+   "fonte": "Investing.com - Quotazioni, Borsa, Economia e Finanza"
   },
   {
    "titolo": "Crollano le azioni di Nvidia: il cda si prepara a rimuovere il ceo Jensen Huang - Forbes Italia",
@@ -250,28 +268,10 @@
    "fonte": "Forbes Italia"
   },
   {
-   "titolo": "La fine di un'era per NVIDIA? Il futuro di Jensen Huang è in bilico - Morethantech",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSk50bXJmREl4bFVRa0M1UTVUUC10aFAxYlhGblFLVmRFdHRWM1d0aWdhbEtEUkVGYVNXcS12Y2hSMndGOEgyMDM5MmxRSlY3NldLWm1wMk1KZGlWLXVfbHQ2VWRfT3NJR09pZmVENWtMeHhjTmo0ejRRYlF0Ty03OFNyVTREM3ZNYnA3UVhaTU50dWpoZEd3M05ncHljcl9lOFBPZ1Fid3FmcDRN?oc=5",
-   "data": "Wed, 11 Nov 2026 08:00:00 GMT",
-   "fonte": "Morethantech"
-  },
-  {
-   "titolo": "Wall Street torna in rosso con la fine dell’hype per Nvidia Da OraFinanza - Investing.com - Quotazioni, Borsa, Economia e Finanza",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeFpwNHQ5MkNMcFQyS3BUbFJJd2dLOEFsZ0FuV0FnUVNITUdHWmJ2VGljMXdaYkE2Z2otamxrN3EyNXk2U19hRk9YWjhfSjRObHBJRUlxMGliVEpiaHdqSjZKZENmeTdSWWUwREJxLUtKSEg2RDUzb280cXZGLUJmcE54NDVYUnpRUGJ0eUd2VHJsWWhtZXpPYU5oN1BYcUo1dkNuZl9XVFhUci1NbFh0Y256ek0?oc=5",
-   "data": "Tue, 24 Nov 2026 13:00:00 GMT",
-   "fonte": "Investing.com - Quotazioni, Borsa, Economia e Finanza"
-  },
-  {
    "titolo": "Il mistero Alice Huang, dov’è finita la spia cinese che ha fatto crollare Nvidia - la Repubblica",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV1VRSWlQMzVRX19lU0ZHSG1TSW40bE82dzlpWDZTeVUwX25wNEN1WWVYUk9JNk5WdlV6eF85Z18welNwSU8yVXJkRUtQT3RqRUtJNnN3eEk5UjJtZFVOS1ZfaGdqWkJ3VE54b0FESHJfNnRBd3ZkQmx4MTZ0WHVIdnZ2MmhQc1V0UE5rRV83VThJQmxwTlYxTGpZU2NnU09SNFFoX1hqcVQ?oc=5",
    "data": "Thu, 12 Nov 2026 08:00:00 GMT",
    "fonte": "la Repubblica"
-  },
-  {
-   "titolo": "Exclusive-Nvidia’s accounting is a focus of US SEC investigation, sources say - Internazionale",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR0F3T19acXlYZjY5T3JxRUUwQ014N0JYSm9YQmltblJzdGxOdXVNTTF4Z0szRlh3cXJRZ1I4X1RBZl9XeU40QWFkbXlqWWlDWTJ6SGFUaEJaZ2taRnhLQlBuRVNDRG50X2lnSVlBcmZocHlxUVBJR3FRY2dDb1FCSGJWMkcyQ0pESU4ySmI3cjNNWnNqaHlrc21wRGtRYmQ0LURueUJmazVsdm13cFpfRkJqSzhDYWQyX0hhSGg3S25haEcyXzNtZUQ2akJtbHYwRURJOVBodw?oc=5",
-   "data": "Fri, 20 Nov 2026 20:36:46 GMT",
-   "fonte": "Internazionale"
   }
  ],
  "news_brevetti": [
@@ -294,9 +294,9 @@
    "fonte": "Pasquale Pillitteri"
   },
   {
-   "titolo": "Microsoft annuncia un nuovo evento su Windows, NVIDIA RTX Spark e Surface: ecco quando si terrà - Multiplayer",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbXozSVZpMVIxM096QWVMM3ZYTUZWNy1pemdIOVFSLTFwRmw2Y2U4d3c1OV9Qa1p2M1JXQi1nT2puMjB5eVlfYzVnS1ZMckw3NjQ1YUx3S0g3bXpEVWdfTlAzMDZkbnAzak5hQ1JoUGlnTUZwNmU0eTY3dFUzamtqWWQwMG1qR2hNU0tDa3ladGlOUVpWR3k1NHh4aW8xRXk0cTlCWVVJU3hXRmNfQ1BsTkZfQ0Y2WFBXQWU3RlZQeXhhUEVDLWFZbw?oc=5",
-   "data": "Wed, 16 Sep 2026 07:00:00 GMT",
+   "titolo": "Microsoft espande l'Advanced Shader Delivery alle GPU NVIDIA a partire da Gears of War: E-Day - Multiplayer",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV29RNHB1cVlPNVdlUlEzbjFzQkd5QmgtZ3FFNUpJZE5CVENGSngwSHZ6Q25vN2NzVW1fcFhtdVFRNUtMOXFBWGZldlp4VkVlcXVyaThNRC10UnlIc0hwS3BLOEtZT0gxZFBtUlVXWXl2SjBleHp6eldoNDNuMWhNSDkwNGtMbzJYald5dnBCMEVGbzVNZzVlQUpBZWNwTU1sWm5vR0FMb0tSODl2WFlLYUs0UmhzZGJKcjZhUVVhM1lUN2Y0QWc?oc=5",
+   "data": "Mon, 05 Oct 2026 07:00:00 GMT",
    "fonte": "Multiplayer"
   },
   {
@@ -306,10 +306,10 @@
    "fonte": "Hardware Upgrade"
   },
   {
-   "titolo": "Ecco dove sono finite tutte le GeForce RTX 5090: datacenter AI cinesi - HDblog.it",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMm1wZ3hrWUJuYjhZb1BTMnV2SDBXSXN0NW5UenpNSDZEdXhVbzJNMnBXNlozSmlYeGRBdE0tS1hfb3N5ZEhxeUdhU3BFbE1xYlpGWGlQbXFyY0xWOW4tM0NZTjJZdnFFcGUzd0RyR2dNVWhoUGpDazBDdmYtcTA0MjJ1bjFMYi1Da3lHZDZObUNSdDVCUXpLVmhyNkpSQQ?oc=5",
-   "data": "Wed, 16 Sep 2026 07:00:00 GMT",
-   "fonte": "HDblog.it"
+   "titolo": "Ferrari, la barca ultraveloce e l’auto volante nei prossimi piani - Open",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvTk5KOXJoT1hhLWgzN3RQSXhERkh6UTJEYWJDU2ZFLVRBNHJoWTlTejRJV2RTc1pBOHd5UzhPa0dWZ3RhY2c4WlVlNUZaOGRkaWtKcWx6RlpmV2o2YzQwYlpqMXVMTnVWbFR0cUJHdDZkUThlYk8w?oc=5",
+   "data": "Tue, 17 Nov 2026 08:00:00 GMT",
+   "fonte": "Open"
   }
  ]
 }

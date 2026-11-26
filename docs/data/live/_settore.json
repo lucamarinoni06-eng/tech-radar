@@ -1,6 +1,18 @@
 {
- "aggiornato": "2026-11-25T15:21:44+00:00",
+ "aggiornato": "2026-11-26T14:47:59+00:00",
  "news": [
+  {
+   "titolo": "Data center, Microsoft valuta nuovi investimenti in Italia - MarketScreener Italia",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQS0UzSzZnaEdELWZCVV9meDFFMXUxdnhqMDE0ZkxBMGRtdmRndmkwcmdlY3B0YUFWQnRKbE84cHpRWERsOC1TY1B6Smh5R041VUN3RUViQXBiRjJDbWUyWXN0Ni1kVF9KbHpRdHlsZHBFNEhBYlNBU3dMQ3cxZzVtT1FSRTNXTVlBUEVwLWVzekVVMEtYbU5hZlZQclN1Wm5Pclc2czYwSUVyVlhWeUVDUHZ3?oc=5",
+   "data": "Thu, 26 Nov 2026 05:49:20 GMT",
+   "fonte": "MarketScreener Italia"
+  },
+  {
+   "titolo": "Data center, ecco dall’interno quello di Microsoft a Settala - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY2o3YThWZllRMVdkQVpwSWxhaDNwUldfNjAyWjRpWU5MM05RelJxNnZQaVVaYVFFMXJZektzWE1MUkVyNWxCN19vdmhwZk1IWE9LaF9XcS1mSVJMWFRJOXloZ0gwY1dDUHoxWEZCaUk3TVliaDVtUjdSMU1QUU5wMmtRUWFfUTJ6RHRxZDFlTmdseE5IY09Vdkpxaw?oc=5",
+   "data": "Thu, 26 Nov 2026 06:17:44 GMT",
+   "fonte": "Il Sole 24 ORE"
+  },
   {
    "titolo": "Verso la trimestrale di Nvidia: focus sulla leadership, la Cina e i timori sui data center - Morningstar",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNelAxOXBHbjB4MnJqYlpZNmNQNWhvb2Y1Tkx2Vlc5MWg4a1lHRUdQRWpoUE5CYmgyS0o0bW5TU3MwZl92M2tHNk1TSnE4N0JhNFJRVlFXMUlrWEsxUHFUWmxjaV9DTXAzZ3dNQm16bWg1cmFQZ01WbzJ4a0VuY0NHSGtlNzNrcWpvTVRpTjczY2VlRE8wcmpva0huWjhDVlNFNEpCa1d5WTJjUFNyd2NVc281VWdfb21oa21KOHkzTkxCbXNXOThHbA?oc=5",
@@ -8,10 +20,10 @@
    "fonte": "Morningstar"
   },
   {
-   "titolo": "Blackstone rileva il 75,1% di 13 data center di Amazon con un’operazione da 5 mld $ - BeBeez",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHYzQ2pfVlM1dGpnYXhWMWFUbUV4bXMycEMtTzlEYXJZMWtEendrTlNydVlyd2VEMjBTSzBMT09QVW92bGNHTjN3bmkyaS0yN1RDcWNmNmZxaTNkYmU4WGZRVWp0eW9RR3JVWlVIazRQaV8wcDdZZmxWMFljSW9pbjBFMjVkblZZbDBCSjNGVVgtQUFBVGJPZmFzX19MdjZ5XzNPeVowYmJzVFJHYTNrN2l4QjF0M2RrVXNITUktYw?oc=5",
-   "data": "Wed, 18 Nov 2026 06:40:07 GMT",
-   "fonte": "BeBeez"
+   "titolo": "Microsoft Stocks Fall 2.53% as Hyperscalers Join AI Selloff - TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMV9pQ29hUU5FSFpic2VwZkZVMVU2dlAwUEJvdnpLQ0ZpLTk1RXlMaDdMMXZFMDQ3SGI3S0VwQ1J0VWJTNmFIeDlMS1BwU2ZTMVA1alJrSng1dDUwNXVENHNoaWtwSXd2M3pmX3MyV3dxUXluVTA1LU9iYXduQm1ON2lKekVwRHQ1RXozakhCR2xMMFVCZTJYWXl6Ukw5OU5mUE1ldG02Q3RMUThnZVBmN3o5VmliSDVh?oc=5",
+   "data": "Wed, 25 Nov 2026 15:40:06 GMT",
+   "fonte": "TradingView"
   },
   {
    "titolo": "Data center, Blackstone compra il 75% di due portafogli di Amazon per 5 miliardi di dollari - Milano Finanza",
@@ -20,34 +32,22 @@
    "fonte": "Milano Finanza"
   },
   {
+   "titolo": "Nvidia smetterà di vendere chip ai data center che affittano oltre metà delle GPU alla Cina - Investing.com - Quotazioni, Borsa, Economia e Finanza",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWG5KVDFsZzlqWWZZWjlHQVNZbi0xU3JieG9mZzRGTmVjS1RoQkY0QnA0UTdMeFNwNnRNNTBzek1KNk9mRHZQZHdTMkhuX0cxYWJnRjBIeG94TmRFWVV0c2NTZFlVZFdfLXdhdjBrWFVKT2RDeEJNZUR2QS1LdmNpZE55bUp6Qi0zdXNFVHgxTHhocnppWnZ5OGQtcnBNdmc1cHliaVY5VXVIaXUwbjlQbXZ0YXRLQ2gzb1VKVlRMYWIwLU96X0pVZlYzM216VDZsQ1VYVjU5Rm9VaF9wemRGTQ?oc=5",
+   "data": "Tue, 17 Nov 2026 08:00:00 GMT",
+   "fonte": "Investing.com - Quotazioni, Borsa, Economia e Finanza"
+  },
+  {
    "titolo": "IEA: energia dei data center può raddoppiare entro il 2030, mettendo sotto pressione le reti - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLUY3em5wakdmc1BqNi1ELVp4OFNUNVAyb2s5a1U4OHMtZnEzR0M4b1lWSlFBajlpaXRZWHFnWF9OUEpiRDdQU0xQdUFNY2JfUzA5UTVqSTNBR3hYWHVxSkxTbEdWdUxzcTRHbXoxLTk0LWpQb25QYXk3bW9XV3FsOWR4NEhHN0hoUExGdWdrb3ZZOHd6ZWxpQjU2ZFVHMXBBdExzUXZjSXZRY25vd1I4Tk4zR3ZFZFpPRGVSZklpbGdUZkk?oc=5",
    "data": "Thu, 19 Nov 2026 13:39:20 GMT",
    "fonte": "Euronews.com"
   },
   {
-   "titolo": "Ricavi dei data center di Nvidia nel terzo trimestre pari a 107,6 Mrd USD rispetto al consenso degli analisti di FactSet, pari a 101,9 Mrd USD; ricavi dell'edge computing pari a 8,2 Mrd USD rispetto al consenso di 7,46 Mrd USD - MarketScreener Italia",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVGhSbXc2UldRMjRabElWM05PeDJwSXVFSkxmZER2QlptVUNLeUV4Y1JELUhjN1RBd1l4RkRZWTBJWTA3TnJRYzNvU2h4OUdNSWh0Zlo4NEMyWGQ3dFk4WDRsLWxMQ0JQTjB4Z1AteGRsd3ZFRmZvTVpKVG5ydmg1eUprNWxOSExMNmxxS2FUUjlWV05Nbmxwc3BSZ1dvSEVteHhfVk10aTVOVGlFbDFWYzE4cmRWMGFQQTVWYWVQMnNJSUw0aUJ4eTlLaHdyOHlGbEhsVjhvRDdTcUN0RGF3Y09yS19WaWtCREpN?oc=5",
-   "data": "Tue, 17 Nov 2026 21:23:47 GMT",
-   "fonte": "MarketScreener Italia"
-  },
-  {
-   "titolo": "Nvidia: ricavi record a 115,8 miliardi nel terzo trimestre - AI4Business",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRlBQSTVkb1dFZUlxUUlESE5RWHFxeTlOd3pMLVp2dGozWF84QzRTdVZjbi00YzNXekRpSmJaMGZxVEVYaVdITlB3ZzVVMWx5NTJpSUtQQXFOOEJDNDQ4R3U3bHBjZW93Yml3MTBBSjFtYUI0OTdLY08wUFpDNEUyV0NJZlBWby1OUmZYdzAxMWxoVE5OLXhSS0Z4cHk5dU9fbjBWVzN2Yw?oc=5",
-   "data": "Wed, 18 Nov 2026 11:28:17 GMT",
-   "fonte": "AI4Business"
-  },
-  {
    "titolo": "Milano, Busnelli (Amazon): «Apriamo un negozio fisico. Data center? La domanda non è se siano utili, ma come vengono gestiti: noi restituiamo il 75% dell'acqua» - Corriere Milano",
    "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPb1ZaT0xtTFdTaW1Da2xYb2x6Q190M2pDWFRHOFJESk5USTJBU2NoUTZDZW1fbk9FQ3QtcEhyTDdTLVJXOG5OaXFGa29RcnIxYlZ1ZDN5dkNxa0ZvZmFBZFd4TGZXcTBqMnVvbk0yTzlXMXNmN3BRckNLZlRwdnYyem5xMl81QnpDaVBWR2FxajNkbDVQaUdsOUsyWVdmRjlUeGMyNThrNm5XbHhLQm5najM3XzNfdGc4ak9COTVPVFBtT0FKdEItYU55TUpiTHhuZG83LXA4S29lQ1JGUTBGY0thTFpXZ1hqb0hWcEwyajdSWTFFY0lleUtPWV9idkRQLXhYeVBRbi1aOFFTTTJFekJfV2RUOVFxb2RyV0VFTXFFcEI3cmpMNEowVlEwaDFMQnZNd2pSSUY1dkx3V05BQTFFNNIByAJBVV95cUxPOUJ3TEZoNG50Rm43UVlYOVRONjdHcFc0T1hCRXdPcXZ0OUgxLWhrWUJKMGZOS29LbmFKSTJFVmRTcE5SekNtTzVqYUk1X01EZ3dKbFM4blFjblNuZGVlMmlkZ3l6cXpGTWdEWVZPNVlEZTFsNkpMeC0zYXIzTHc0SmFPNUlGa25NZkZyUXlNZ20xZlpud3E3UVpxeVpRYVNKYmxkdi1jQTV6c2x2bk1Xenh4em9uRDN5Q0V2X0hUbjZUcU0tZUNLUzJtVEs1U2hTVkZMY0xIQXJ5SDFNWWQ0LXV1bFpDTHlzUm8tUElhb1I3NXJRajdJZldtelk1ZEZiSkppSjhLQnZvZUNFV0pfZ19fYllmaW5ZWVB4M0R3TElLUXRadkJOUXBwNFc3aERoSkJxZFpyTU0xWnZKUlVHSFVHN1VlbHdh?oc=5",
    "data": "Tue, 24 Nov 2026 06:00:01 GMT",
    "fonte": "Corriere Milano"
-  },
-  {
-   "titolo": "Nvidia smetterà di vendere chip ai data center che affittano oltre metà delle GPU alla Cina - Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWG5KVDFsZzlqWWZZWjlHQVNZbi0xU3JieG9mZzRGTmVjS1RoQkY0QnA0UTdMeFNwNnRNNTBzek1KNk9mRHZQZHdTMkhuX0cxYWJnRjBIeG94TmRFWVV0c2NTZFlVZFdfLXdhdjBrWFVKT2RDeEJNZUR2QS1LdmNpZE55bUp6Qi0zdXNFVHgxTHhocnppWnZ5OGQtcnBNdmc1cHliaVY5VXVIaXUwbjlQbXZ0YXRLQ2gzb1VKVlRMYWIwLU96X0pVZlYzM216VDZsQ1VYVjU5Rm9VaF9wemRGTQ?oc=5",
-   "data": "Tue, 17 Nov 2026 07:47:00 GMT",
-   "fonte": "Investing.com"
   },
   {
    "titolo": "800V DC nei data center AI: perché i 54 V non bastano più - Farelettronica",
@@ -62,19 +62,29 @@
    "fonte": "HDblog.it"
   },
   {
-   "titolo": "Non solo Nvidia, cosa succede ai titoli tech? - Startmag",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWjI0RWY4bWF0bW1GbjhhRTVURFpPT0ZFcmlKd2RrNVVXczExWWtFOG43QnY1TWR6bjl1UWVFSEE5RVU1Nkx0XzNiUEtHNEJ2b3VsVndaN1JtMndXRWk0Uk85RTFIY1gzVDB6aDh1YTFhZkxEbV94WUU1cHA4RG8xTUpPYw?oc=5",
-   "data": "Wed, 25 Nov 2026 10:25:00 GMT",
-   "fonte": "Startmag"
-  },
-  {
    "titolo": "Nvidia e i fondi, 500 miliardi per i data center IA - Meteora Web",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRjl1dHhuMFJXejVxaERQSE83MndkVHJYSDZxdXVSX18yLS13Si0wM3BDSWVTaXJIQ0V1ZnN2b25iZkR3NXV3NVFGTlUzaFczdC1uUWVHT2ZxZWFvYUhINmFpWTYtSTNlZDU1WUZQM0RBbC10bmNqYjR0WktXbWJ4UXlGd2N1RkdBTlI3MzVUaVJNc2pKYUNocUtIYjY?oc=5",
    "data": "Sun, 15 Nov 2026 08:00:00 GMT",
    "fonte": "Meteora Web"
+  },
+  {
+   "titolo": "Non solo Nvidia, cosa succede ai titoli tech? - Startmag",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWjI0RWY4bWF0bW1GbjhhRTVURFpPT0ZFcmlKd2RrNVVXczExWWtFOG43QnY1TWR6bjl1UWVFSEE5RVU1Nkx0XzNiUEtHNEJ2b3VsVndaN1JtMndXRWk0Uk85RTFIY1gzVDB6aDh1YTFhZkxEbV94WUU1cHA4RG8xTUpPYw?oc=5",
+   "data": "Wed, 25 Nov 2026 10:25:00 GMT",
+   "fonte": "Startmag"
   }
  ],
  "norme_usa": [
+  {
+   "titolo": "American SI Exports Program; On-Demand Consortia for Specific Foreign Opportunities",
+   "data": "2026-11-27",
+   "tipo": "Notice",
+   "agenzie": [
+    "Commerce Department",
+    "International Trade Administration"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/27/2026-24107/american-si-exports-program-on-demand-consortia-for-specific-foreign-opportunities"
+  },
   {
    "titolo": "Medicare Program; Contract Year 2028 Policy and Technical Changes to the Medicare Advantage Program, Medicare Prescription Drug Benefit Program, and Programs of All-Inclusive Care for the Elderly",
    "data": "2026-11-25",
@@ -121,15 +131,6 @@
     "Securities and Exchange Commission"
    ],
    "link": "https://www.federalregister.gov/documents/2026/11/20/2026-23649/self-regulatory-organizations-miami-international-securities-exchange-llc-notice-of-filing-and"
-  },
-  {
-   "titolo": "Executive Compensation Disclosure Reform",
-   "data": "2026-11-19",
-   "tipo": "Proposed Rule",
-   "agenzie": [
-    "Securities and Exchange Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/19/2026-23555/executive-compensation-disclosure-reform"
   },
   {
    "titolo": "Additions to the Entity List",
