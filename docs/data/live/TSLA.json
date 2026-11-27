@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-26T14:47:57+00:00",
+ "aggiornato": "2026-11-27T14:46:55+00:00",
  "filing": [
   {
    "tipo": "10-Q",
@@ -155,6 +155,12 @@
  ],
  "news": [
   {
+   "titolo": "Gamma Tesla 2027: la Model 3 si allarga e arriva la più economica - Fleet Magazine",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZTy1NT01tcU4xcDVIcHlGUjBpby02TnB4RmEwQ1Q3V3Z0OUNyTkhIVm1iNERENEtITVRPZVFkZ2RnalpMNUJjYjgycGlWV2ZwTmtpdG5KdHh5eUctTnVlb1Nyb0R2Y0FIcTZZSzR5YjZSZw?oc=5",
+   "data": "Wed, 25 Nov 2026 16:32:30 GMT",
+   "fonte": "Fleet Magazine"
+  },
+  {
    "titolo": "Guida Assistita, via libera del MIT al Sistema Tesla - Ministero delle infrastrutture e dei trasporti",
    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU1hTRzFXNC05OFlDR29COWFTUEw4N2VldGZXNnJpMWo2NnYyYnhNRlR5ZFNISW96SE40YmZiN3RFVjZCWjY1Q1lMZ0ZsVlRnSTE2OG1YWXEwdnJYWTlxcERSRmxqUm1TcUdHa0NGUXhabktnMXFnc18taVVkNERLRVpiQWY4Rlg2WWtQc0hvOTBFdw?oc=5",
    "data": "Fri, 20 Nov 2026 16:10:33 GMT",
@@ -173,18 +179,6 @@
    "fonte": "Sky TG24"
   },
   {
-   "titolo": "Il Tesla Assisted Driving debutta in Italia, ecco quanto costa - InsideEVs Italia",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wMXVsS1dmY2JiNkkzY1RITVowdFZZc3pQMlViNFJZQ3pMYmx1WnBSYTFWU0lsaVJVVU92ZUdtcWpOcnlFMWlOVVhORlpiTjFTTTltekNTYjk2UnoxT19oNV9CcUh0MHZHUXZ6Qm5pWkpjcy1hN0xnRVB3?oc=5",
-   "data": "Fri, 20 Nov 2026 14:14:51 GMT",
-   "fonte": "InsideEVs Italia"
-  },
-  {
-   "titolo": "\"Mamma butta la pasta\": Tesla sbarca in Italia con la guida assistita in città, ecco come funziona e quanto costa - Rinnovabili",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORm1fR0tIRW1iR1FxX3RHbU9NVi1yT29yci1TODQ2NTRGcXhyTU81TlFoMHc5RDJRVTVLSlA2OWhlOV8zdGs1c2tNQXNiWjVUcGFxaTVDZzdkeUFTOHJscFdsa1lpa1JnaWp3LXdJek5FQTVpRXpmbjNSWFhSaWlyeFZBTVM2ZTAxVXBjNExUbE5TdVAzclpzUi1HNE5HMWFfYjBNRDFaQWhGanc1eGxHZFI4UmlDZkJsbnc?oc=5",
-   "data": "Fri, 20 Nov 2026 16:23:05 GMT",
-   "fonte": "Rinnovabili"
-  },
-  {
    "titolo": "Guida autonoma, il Mit autorizza il sistema di Tesla. Musk: «Apprezzo molto» - Il Sole 24 ORE",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0pyU3pYeXZMSjlxdHpNclBxaDVMMEY3RXdtaG1ha0lwWHhqdzJXWGxEeEFnSlZqY1c2eFNuVk02MEFpUFhnaGFmMDFUSWtXT3lJX29nLVNpeTNfSTZrZExHSUE0bHNHRF9LU2pSSFZSR1Y3ZFpRUGpYSjhkNEZJSEtOMDN0VkNYaFlz?oc=5",
    "data": "Sat, 21 Nov 2026 02:45:45 GMT",
@@ -197,22 +191,28 @@
    "fonte": "Il Post"
   },
   {
-   "titolo": "Tesla FSD in Europa: approvazione UE, funzionamento e sicurezza - Quattroruote",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mc2hUNWRleXpwUl9MYS1FOXQ5UU5jcngtRDZNY1U5TUx0Q1ZLSEpTREUtdEtrbXE5X1BJQ2I2cllSa3ZSQjI1dEhocVk2WHphY21CbzBycXNGOFlWMkZwbm9iWnZLSjNabkdGMVA0RjZRX2VJZ015akYtN1Q?oc=5",
-   "data": "Thu, 29 Oct 2026 07:00:00 GMT",
-   "fonte": "Quattroruote"
+   "titolo": "Il Tesla Assisted Driving debutta in Italia, ecco quanto costa - InsideEVs Italia",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wMXVsS1dmY2JiNkkzY1RITVowdFZZc3pQMlViNFJZQ3pMYmx1WnBSYTFWU0lsaVJVVU92ZUdtcWpOcnlFMWlOVVhORlpiTjFTTTltekNTYjk2UnoxT19oNV9CcUh0MHZHUXZ6Qm5pWkpjcy1hN0xnRVB3?oc=5",
+   "data": "Fri, 20 Nov 2026 14:14:51 GMT",
+   "fonte": "InsideEVs Italia"
   },
   {
-   "titolo": "Tesla lancia la guida assistita (e senza mani) in Italia: costa 99 euro al mese. Ecco come funziona - Corriere della Sera",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPNmVieTlpV1NLc0pLSzVPbEN2b0VaQ2JiNW9DQ2pteUhtSzZfYTlnWlJMbkdIZmRtSFc1MU5sZGNhNE9BbFhCOE1wWTVJNUYzZkZPcWY0SWJLRnhxTDJoRmh4LXVfUUFZbTFIRDhHUVBwbVlvYmx4TWVhUTZsTEt0b1kyNk13OVhHODdqUXU0TzdoYXItMmpPX3dlTmxtYmxGY2o1ckpKVldvYm5ZMl80aGUyekFTc09BeFduZ3V4RXVkNlduSE1Pd04zdEItUW9kNkpNWXp0SXFvd3FBbG9jdlZnblJSNng4aFBYOTluWEZ6cWRzeXZqbFVWM0lmYlFrM1hMWFhIQU1aY2o4dmlndjRR0gGXAkFVX3lxTE5kS1d2Skg1NVBLd082bk83REN3d1JZNGJyVkcteXpiSWl5NWhJNzdlZ194bkYzRjRXTkczcEctOTV4ajQ4eC04NjVqYXZnUGptUk5ENkk0SzVwR3hGN25ZR05zSWpZWXpWUGFuS183OW12YjF0RFRHakR0T3l6MWNlQjB0QWN2cmR1SkdZcnNyaEZ5aDVzWFFaX3dkcWtsZTZCWkJUN3pScGpNV3lDRXB2NDBpdF9MMkc3Q3JLcW5VaEZCRGFtVGRlOEJPU2dzRkpYdGlTWU5rbEZfSHZYQlVlRU5zRGFJa1YtdkRPQzVLMDRHekdwV2drZFI1WGZMNDNMUVdueFFkNUlhUFpKbTRMZUNLRTNjUQ?oc=5",
-   "data": "Fri, 20 Nov 2026 17:40:00 GMT",
-   "fonte": "Corriere della Sera"
+   "titolo": "\"Mamma butta la pasta\": Tesla sbarca in Italia con la guida assistita in città, ecco come funziona e quanto costa - Rinnovabili",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORm1fR0tIRW1iR1FxX3RHbU9NVi1yT29yci1TODQ2NTRGcXhyTU81TlFoMHc5RDJRVTVLSlA2OWhlOV8zdGs1c2tNQXNiWjVUcGFxaTVDZzdkeUFTOHJscFdsa1lpa1JnaWp3LXdJek5FQTVpRXpmbjNSWFhSaWlyeFZBTVM2ZTAxVXBjNExUbE5TdVAzclpzUi1HNE5HMWFfYjBNRDFaQWhGanc1eGxHZFI4UmlDZkJsbnc?oc=5",
+   "data": "Fri, 20 Nov 2026 16:23:05 GMT",
+   "fonte": "Rinnovabili"
   },
   {
-   "titolo": "Tesla FSD v15, svelati i segreti della nuova grafica Reality View - HDmotori",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1Z0dfOG1hTzdsQUR2WmRwUG9JNVVKOHBhbU1ldTE0TGhtVW1CRlV5UnlPdElWdTF0V1haazRyRFFNTEdVOTBpMkViUl9IUHQ2ZmdNOUhYbmdEZ3ZfWG91TTJaLWoxX09XMmNDN0NmamUtZ0ZQSzc4SkZnc3dLLTA?oc=5",
-   "data": "Tue, 24 Nov 2026 13:10:53 GMT",
-   "fonte": "HDmotori"
+   "titolo": "Tesla, via libera alla guida assistita avanzata in Italia. Cosa può fare e quanto costa - Il Fatto Quotidiano",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZEREbTV1MGRpdVEwcmh2UjdYMjFJNldwdGZJYnNqLXBVdHM2OUtzbGhRTDRaSDBRNFoyeldyNl9lQmRweWJoRFFmVUVkb3ZwTmJNVF9pekpWaVpNVVBVOUM2WExJaEtLR0t4S0Zkd3Q4UFNXb2I2N0RXYTJuX19iWmtYMUxOMkh1MUdLa2pwSTNvRHlRNmYtUl9qUFdlbEpwUXRBY0RkVzdpWTFuT1c2OUhvUXpVcF9EYjJkell5YTl2YWJPM3RoMXdsMXVHUQ?oc=5",
+   "data": "Fri, 20 Nov 2026 11:00:50 GMT",
+   "fonte": "Il Fatto Quotidiano"
+  },
+  {
+   "titolo": "La Tesla con guida assistita supervisionata arriva in Italia: cosa cambia per chi guida un Model 3 o Model Y - Geopop",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQby10cjVnTGtvWlJkQlhob0pLakFfWkNHWGE1ZkFLM2xUUzRIVWJJRGFpZnVRWkowQW9IbEN0ekVLaDlfa3ZsV2lOTnJJR1ljZW1xMEFaWWdVOEtsS3RlTzBhdmJraHo2SFdUTEw3RjFMcy0tUklYRDVpYWN2MTJ4NGx0Rll6T3c2X2R1cTZFQ1hlclV6Ri1Qb2tHdFRKdVFSQk9PQWRLbVVkNXFEb0s1bWdVaHFNVGExVEpROUkyZ2FUSjBOM3VWU09B?oc=5",
+   "data": "Mon, 23 Nov 2026 16:30:34 GMT",
+   "fonte": "Geopop"
   }
  ],
  "news_legali": [
@@ -227,12 +227,6 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUFJSWUxbDhQbnVIVTR4bDdRc2YtVTVQRkFOZl9Ma0dEUHdMM01GenlNTUd0Zk5wNGdvTlFHZTJENklTSnltR0puMmFqMllHZXZsLVRyLTZZdURrUFFlR2J5d2d5WTB3R3AxVE1Cd3h6Ty02bjU4cE9MZ21rN3R5U1ZESFBQM2c?oc=5",
    "data": "Sat, 07 Nov 2026 08:00:00 GMT",
    "fonte": "Il Post"
-  },
-  {
-   "titolo": "Dan Ives spiega in dettaglio perché il 2027 potrebbe essere l'anno d'oro di Tesla grazie ai robotaxi e a Optimus - Yahoo Finanza",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORl9UeElyMnluY1VZeUpaMFZ3TWF1VVBCM1VXWUJXMzRwOHA5WHMtWmUwTXlndmo3dzF6NmdvVmg5N3pvUUxKRFRvWXhCX1VRNklGQ21hM1BYSmk2NTFNUWFwNXpUTmpScUIzWFRQcWVVZGVEbmJGUmFsaExjcVYtcmNoYUVSSnJlS1Q5R1JLcjRaelE?oc=5",
-   "data": "Sun, 04 Oct 2026 07:00:00 GMT",
-   "fonte": "Yahoo Finanza"
   },
   {
    "titolo": "Tesla è pronta a vendere il Cybercab, ma c'è un problema - InsideEVs Italia",
@@ -253,10 +247,22 @@
    "fonte": "Virgilio"
   },
   {
-   "titolo": "Elon Musk conferma la fine del Cybertruck: Tesla restituirà gli anticipi ad alcuni clienti - Hardware Upgrade",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNU0cxSDdOQTJTLWxjZHIwTUNjZGhHVmo3S2F6MW1FejFNRWhHVkJtNmFhRHA3TUhoLXNCaWVJTlVZYmNjWHJhZ3FmR0c2VFpnM01ZclRjclBzRGEtQWU0YzVMcmZQRjFBS3BIdWVSRFlsWXFsVHJyc0gtUVl3aTAyeUU0bTZZcU5QelFaVG5nX184cEVidnZZelB5NmNGRnNSV0F5RllnZnRLWEdrbk15MkhYTTFRTTd1LURSNnZ3aVhpZG5kZ2ZubWJDbU9neGxhd0xuODZaUmRKLWxJeE9sVXIwV0xoOGdB?oc=5",
-   "data": "Mon, 09 Nov 2026 08:00:00 GMT",
+   "titolo": "Cybertruck non muore (quasi): Tesla posticipa la fine su pressione dei fan - Hardware Upgrade",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOTZLbGlmZkQ3eTI4U2k5NEpsdXZENDlIaVJvOHQ4VW9FdGYxd29jNWM3X2JxTk52Szc0bndBdkhFZ0N5VV9vN0dRSmh2NTZTblMwdjVoU1hSMGVIYkE1NUV4ZEk0OUk0U3dkLV9zaExHSW81OHJYSkR4WC1VOHZzdFIzQUdTakt5S3FWRmtZQ3Vaa21NUldmeFpOYVQxRUhyd2V1OUlQekZVZ0VHRUpoVUZPcmI0NHVKZUxpMGEtaWczTXcteUFpTzUtY0VLQ2wx?oc=5",
+   "data": "Fri, 13 Nov 2026 08:00:00 GMT",
    "fonte": "Hardware Upgrade"
+  },
+  {
+   "titolo": "Tesla vuole consegnare i primi Cybercab ai clienti entro fine anno, ma senza guida autonoma fino al 2027 - TuttoTech.net",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWXA0VkRaNGhnQU9oQlpHVEtEQklOT1R6b29RcFFwc0tGOVJRYjk0Uy1tR3JMNmtHdzdwV0gyekxzN2I0aHFsOTRaMGRyaGRuSmpVYS11MjkyOGRkZ0pZMTcwN2RNV2pHWTNjeGZpMmVabF9QZ01NV2RzUHdFcC03aTk0aU9lbUlwVkhNZG1VU3lxTDJQZ1p1am1UNk11TVlJTTVaNEFDOA?oc=5",
+   "data": "Thu, 22 Oct 2026 07:00:00 GMT",
+   "fonte": "TuttoTech.net"
+  },
+  {
+   "titolo": "Tesla Cybertruck, è la fine: arrivano i rimborsi per i clienti in tutto il mondo - Everyeye Auto",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTzV2OURKbU9WMzE3VmV5cFVQZnhhTzNZS2JPZ29uY0d5MGd1MkJoNHgtc2dNTVRucDE4ZDNQdzBrOEFheW1uMF9tRzZUbHBDVFQxd09fdkZYdWQ4VzFxbVYwVGVUZXVDcy1FM2FXSElzcy00ckdrbjRmdzh4emxqa1JYYXhNS3V3RmZKcmpJNGN2U0E5M012TjVrNlRDa1E?oc=5",
+   "data": "Tue, 10 Nov 2026 08:00:00 GMT",
+   "fonte": "Everyeye Auto"
   },
   {
    "titolo": "Tesla, è arrivata la fine del Cybertruck? - Ticinonline",
@@ -265,16 +271,10 @@
    "fonte": "Ticinonline"
   },
   {
-   "titolo": "Tesla, consegne del camion elettrico Semi in Europa entro fine 2027 - Shipmag",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN2Q3bWlpYjNNY2Q2QzZDNnBoN3Z5eWRxTzBwUEdIN2E1aG1MeWh2VUZlZTNrNjg3d2JPZDZkWUFxZ2tTaXFaSXVOLVBON0lmeXN0UnhiRWJhcUxSclhEYUVpa3l6TGxad1Zfb1daOFp4LXRhWURMQlVld0huWHFVOFZXZmxKd1p4XzhmZ3RwNjhQb25Q?oc=5",
-   "data": "Sat, 03 Oct 2026 07:00:00 GMT",
-   "fonte": "Shipmag"
-  },
-  {
-   "titolo": "Tesla Cybercab, vendite ai privati entro fine 2026: arriva la conferma. - MotorBox",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWjJKNHVjVmtmUF9SN0hwTHY3Wm9yZ0VFM3VMeUYyekZrQ0VRcDFWYXJKRWZza3NDemJMM3JQV2ItLVNDcldRUEFOaTNFYUpQNDB0ekN6NkZnMmxqZHZIcjI4eWQ1cDFGMU82WEJVeUVfUUIxY0d5NnpvajEyMzF4THZMTDRSdG42U0UweEhaM2w0bU9XeUwtSk9R?oc=5",
-   "data": "Thu, 22 Oct 2026 08:34:26 GMT",
-   "fonte": "MotorBox"
+   "titolo": "Tesla Cybercab, obiettivo prime vendite nel 2026 | FP - News - Auto - FormulaPassion",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTWMycFhPVmZQWE4yclJwX2pJMEdFdEw5S1lJVE1rM2FVcFdoVnM2bmhPN09QUEFCSjRIZ2FrS1pIZURHUWphOE9ZZkFIWkFkRmJMejI1Q19FRGc2SW1zUDlqWVVwWUFmbWJNZGdHVVlvYXpsdkZSM3VUdVFjY3otODNyd2toVzZ3QW1zSWN4WkVYWVVOS1lhRUZwZ1oxcW8?oc=5",
+   "data": "Fri, 23 Oct 2026 07:00:00 GMT",
+   "fonte": "FormulaPassion"
   }
  ],
  "news_brevetti": [
@@ -285,21 +285,21 @@
    "fonte": "Quattroruote"
   },
   {
+   "titolo": "Un brevetto svela l'ala posteriore della Tesla Roadster - InsideEVs Italia",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jbm8xYjBxdGg4WVJmSzZaV2J2Y2lkM1E1aUh5dVlrQ2s4cGRwTWhFQllkRnZQZkJESWdIazlpZUotd3pUMkFGRHJveFUwWmlMci1VRDJNZ1U4OUtkb0x4RVFhenlsajAtWDl2RFcyZEJVV2F1cnI4?oc=5",
+   "data": "Fri, 27 Nov 2026 04:29:15 GMT",
+   "fonte": "InsideEVs Italia"
+  },
+  {
    "titolo": "Tesla, brevetto per le ventole che aumentano la deportanza - Motorionline.com",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeWh5SDdpbzNIM1p5cy1wQnEtTVg1MWUtTW9GS2ZDWGpUN082OW5WZlFueHh5NHp1cVFEc2RqR0k1MHk5aTN6aTFpaTExRF9CNHZYUTB2OXU4V0RSTGNEVlBBb2dkblhpNGg2WTc0NVc1N1NuNmE1REZuQ2V6WmVuM3Bld0dIYmNvWGc0RFhyR1k?oc=5",
    "data": "Wed, 30 Sep 2026 07:00:00 GMT",
    "fonte": "Motorionline.com"
   },
   {
-   "titolo": "Tesla brevetta la ricarica wireless che “vede” il metallo - InsideEVs Italia",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5M3B4T2dHSlZwRWlVQXVPc0x5SUxnb29WX3RMd3VDMzhGbFpheUtUN3BuTUp6QVZuYS1vbGpvVjBHMDZzT3BIY29JNExrOUZPMWJTUENYazVDWDN2RlVjaDVBbkZmVXE4b3p5Z0lpbENqeWZUMGVKZFZncWg?oc=5",
-   "data": "Fri, 02 Oct 2026 07:00:00 GMT",
-   "fonte": "InsideEVs Italia"
-  },
-  {
-   "titolo": "Tesla brevetta una \"Electric Fan Car\" con quattro ventole nel diffusore e gli indizi puntano alla Roadster - TuttoTech.net",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM3h2U3U3VG0tMEU4aHk4VXdyMDdWZGVBVVBQaXRUM29xVkIxVU1FRS1lcWo2WE5NYVZ2WUtBSEw1QThLV1ZaUGIxT2xaVkJ3dUptSmY1SDNaWi1HZVhqV3pQN0c1bk9GUy1aVGFpRC1lWmlKMXdHOTIydHZZbi1PZUl3Uk9GenFmZDMyT3dVblBhQQ?oc=5",
-   "data": "Thu, 01 Oct 2026 07:00:00 GMT",
+   "titolo": "Un brevetto Tesla svela una possibile ala posteriore attiva per la nuova Roadster - TuttoTech.net",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQXA1c2lSdHNocnpjaVIxUmlRckcweExBOWVCZjdmc01IYkhyeHItSnBtM2lEVWRaMlhKQVJ6dUVhdFQtb1RMUF93RjR1VGotRjRNdjVNemFLZEdlM0JfY3d0STlyX2RoRUNSY2d3YWxqejYwUGhtTTRab1RHTUp5WThhS1BhNERiOW9iN2VjbWlncTk0My04?oc=5",
+   "data": "Wed, 30 Sep 2026 07:00:00 GMT",
    "fonte": "TuttoTech.net"
   },
   {
