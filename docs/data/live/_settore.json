@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-27T14:47:01+00:00",
+ "aggiornato": "2026-11-28T13:57:51+00:00",
  "news": [
   {
    "titolo": "Data center, ecco dall’interno quello di Microsoft a Settala - Il Sole 24 ORE",
@@ -14,16 +14,22 @@
    "fonte": "MarketScreener Italia"
   },
   {
+   "titolo": "Gli USA mettono “sotto licenza” i data center del Sudest asiatico - Il Bo Live",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdVFYLUU4b3hyLUtQd1ZaUHVXNUQzVmM1ZkFkc1ZVOWgwUFdVbFM0NVUwelcwUGxPWTc4TmJJTWNEVFotalJMbjBySmg5MkNHVTFicmxJMnhxa0g0czFGbVNpQzdxSGRQSG15cXZvYllQWEJycGlIRzBIVU9mSmEwQXItaGVYU1hfYjRMcDJYa2Njd1F4MkRKMkZR?oc=5",
+   "data": "Fri, 27 Nov 2026 12:00:00 GMT",
+   "fonte": "Il Bo Live"
+  },
+  {
    "titolo": "Microsoft Stocks Fall 2.53% as Hyperscalers Join AI Selloff - TradingView",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMV9pQ29hUU5FSFpic2VwZkZVMVU2dlAwUEJvdnpLQ0ZpLTk1RXlMaDdMMXZFMDQ3SGI3S0VwQ1J0VWJTNmFIeDlMS1BwU2ZTMVA1alJrSng1dDUwNXVENHNoaWtwSXd2M3pmX3MyV3dxUXluVTA1LU9iYXduQm1ON2lKekVwRHQ1RXozakhCR2xMMFVCZTJYWXl6Ukw5OU5mUE1ldG02Q3RMUThnZVBmN3o5VmliSDVh?oc=5",
    "data": "Wed, 25 Nov 2026 15:40:06 GMT",
    "fonte": "TradingView"
   },
   {
-   "titolo": "Data center, Blackstone compra il 75% di due portafogli di Amazon per 5 miliardi di dollari - Milano Finanza",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQUhoV1BxbGw4X2tJMS1hdGhveXFtaWZrYXFOSVFMTmJvbFNocHZNcjFzMUZzaHdZNFlSa0VIM2FRZkx3UkRxc0tSci1nZU84Mk5tQU4yR2tkNU9peHpLSk5LeFBGbUJHN19pMDJ4RDFCSlYwOC1WRHIxc3luZDZrZ2ZwWmRQeVdSQ2xQOHNXa2NHLWtBV2d5eDVndEgyNVp3NGxva2xYVWVKSnpNY05mblFHMzJNdGkwSXEwLXhRaHNLN0RkbW1PQ3FULW5jbFhQNjZYOThCb3pmZw?oc=5",
-   "data": "Mon, 16 Nov 2026 08:00:00 GMT",
-   "fonte": "Milano Finanza"
+   "titolo": "Data center: l’Italia può triplicare la capacità entro il 2030. Due anni per attrarre investimenti - AI4Business",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORGhkdjZ3VTFObFNjazJpUmx6c0VuOVdSWTVUT2t0MmNMQ2VsdEZkejlxRkcyX0pCc291Vy1vY2pFakFWdzNmQS1BSmxnQkt2TDltTXZjaXl1N2J6amxaRjg4WDBZVkUzYUFHVkZoQnM5bzl6NDJuc0hiOGtsMnJ3T1BRZE5EUUdDVFNkbmJhRFd6emh5ZHJxVG93SEhjaV9rN1AyakR3dU4xTi1OOFpWbnBwa0tYSGt4QXpRSWtoNkUxcjBsc2kxenQwXzBYRlZa?oc=5",
+   "data": "Sat, 28 Nov 2026 03:26:33 GMT",
+   "fonte": "AI4Business"
   },
   {
    "titolo": "Nvidia smetterà di vendere chip ai data center che affittano oltre metà delle GPU alla Cina - Investing.com - Quotazioni, Borsa, Economia e Finanza",
@@ -38,6 +44,12 @@
    "fonte": "HDblog.it"
   },
   {
+   "titolo": "I chip Nvidia vietati alla Cina spuntano a Shanghai: nel data center legato alla donna dello scandalo Huang - Notizie Geopolitiche",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa1dnbjhYX3NFTmNvcFVKQlE5WXpFc0F3RHJ3X0NkMG9UaXoxYVFsempDM1JaQ2huOXBKOXg2aUNZeExHd2Z2dUlrVElwNDU4ZmVsb3poZ0c4bG9fN0JDTW5XLWl5dXhEN0tRQ1hIOURjSWJyTlRzUlZfN2QyRUMwRlBPWkMtdVB6V0ZuclZmbDB0cl9xODJOTFR1c1FEX2dNSkR1aXhlZU81eURHbHNPYmRneFZJRzRTR2tGaHN1WVE0cmU5MnBpR3hidVhPYS1GVUVNZ1kwVFM3aE0?oc=5",
+   "data": "Fri, 27 Nov 2026 14:59:20 GMT",
+   "fonte": "Notizie Geopolitiche"
+  },
+  {
    "titolo": "Milano, Busnelli (Amazon): «Apriamo un negozio fisico. Data center? La domanda non è se siano utili, ma come vengono gestiti: noi restituiamo il 75% dell'acqua» - Corriere Milano",
    "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPb1ZaT0xtTFdTaW1Da2xYb2x6Q190M2pDWFRHOFJESk5USTJBU2NoUTZDZW1fbk9FQ3QtcEhyTDdTLVJXOG5OaXFGa29RcnIxYlZ1ZDN5dkNxa0ZvZmFBZFd4TGZXcTBqMnVvbk0yTzlXMXNmN3BRckNLZlRwdnYyem5xMl81QnpDaVBWR2FxajNkbDVQaUdsOUsyWVdmRjlUeGMyNThrNm5XbHhLQm5najM3XzNfdGc4ak9COTVPVFBtT0FKdEItYU55TUpiTHhuZG83LXA4S29lQ1JGUTBGY0thTFpXZ1hqb0hWcEwyajdSWTFFY0lleUtPWV9idkRQLXhYeVBRbi1aOFFTTTJFekJfV2RUOVFxb2RyV0VFTXFFcEI3cmpMNEowVlEwaDFMQnZNd2pSSUY1dkx3V05BQTFFNNIByAJBVV95cUxPOUJ3TEZoNG50Rm43UVlYOVRONjdHcFc0T1hCRXdPcXZ0OUgxLWhrWUJKMGZOS29LbmFKSTJFVmRTcE5SekNtTzVqYUk1X01EZ3dKbFM4blFjblNuZGVlMmlkZ3l6cXpGTWdEWVZPNVlEZTFsNkpMeC0zYXIzTHc0SmFPNUlGa25NZkZyUXlNZ20xZlpud3E3UVpxeVpRYVNKYmxkdi1jQTV6c2x2bk1Xenh4em9uRDN5Q0V2X0hUbjZUcU0tZUNLUzJtVEs1U2hTVkZMY0xIQXJ5SDFNWWQ0LXV1bFpDTHlzUm8tUElhb1I3NXJRajdJZldtelk1ZEZiSkppSjhLQnZvZUNFV0pfZ19fYllmaW5ZWVB4M0R3TElLUXRadkJOUXBwNFc3aERoSkJxZFpyTU0xWnZKUlVHSFVHN1VlbHdh?oc=5",
    "data": "Tue, 24 Nov 2026 06:00:01 GMT",
@@ -46,35 +58,32 @@
   {
    "titolo": "IEA: energia dei data center può raddoppiare entro il 2030, mettendo sotto pressione le reti - Euronews.com",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLUY3em5wakdmc1BqNi1ELVp4OFNUNVAyb2s5a1U4OHMtZnEzR0M4b1lWSlFBajlpaXRZWHFnWF9OUEpiRDdQU0xQdUFNY2JfUzA5UTVqSTNBR3hYWHVxSkxTbEdWdUxzcTRHbXoxLTk0LWpQb25QYXk3bW9XV3FsOWR4NEhHN0hoUExGdWdrb3ZZOHd6ZWxpQjU2ZFVHMXBBdExzUXZjSXZRY25vd1I4Tk4zR3ZFZFpPRGVSZklpbGdUZkk?oc=5",
-   "data": "Thu, 19 Nov 2026 13:39:20 GMT",
+   "data": "Thu, 19 Nov 2026 08:00:00 GMT",
    "fonte": "Euronews.com"
   },
   {
-   "titolo": "800V DC nei data center AI: perché i 54 V non bastano più - Farelettronica",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92ajEzMmk4QUdhYW45eDRFUXNsYnh0dXJ2M2hHcXltV1dPYVpvckRRR0lwV3ZuenBXUi1CRUFMVVVWU0R3UGdUeG95QzFYTFdCQmR2ZHRYbGk?oc=5",
-   "data": "Mon, 16 Nov 2026 01:00:21 GMT",
-   "fonte": "Farelettronica"
+   "titolo": "Data center, Blackstone compra il 75% di due portafogli di Amazon per 5 miliardi di dollari - Milano Finanza",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQUhoV1BxbGw4X2tJMS1hdGhveXFtaWZrYXFOSVFMTmJvbFNocHZNcjFzMUZzaHdZNFlSa0VIM2FRZkx3UkRxc0tSci1nZU84Mk5tQU4yR2tkNU9peHpLSk5LeFBGbUJHN19pMDJ4RDFCSlYwOC1WRHIxc3luZDZrZ2ZwWmRQeVdSQ2xQOHNXa2NHLWtBV2d5eDVndEgyNVp3NGxva2xYVWVKSnpNY05mblFHMzJNdGkwSXEwLXhRaHNLN0RkbW1PQ3FULW5jbFhQNjZYOThCb3pmZw?oc=5",
+   "data": "Mon, 16 Nov 2026 08:00:00 GMT",
+   "fonte": "Milano Finanza"
   },
   {
-   "titolo": "Nvidia e i fondi, 500 miliardi per i data center IA - Meteora Web",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRjl1dHhuMFJXejVxaERQSE83MndkVHJYSDZxdXVSX18yLS13Si0wM3BDSWVTaXJIQ0V1ZnN2b25iZkR3NXV3NVFGTlUzaFczdC1uUWVHT2ZxZWFvYUhINmFpWTYtSTNlZDU1WUZQM0RBbC10bmNqYjR0WktXbWJ4UXlGd2N1RkdBTlI3MzVUaVJNc2pKYUNocUtIYjY?oc=5",
-   "data": "Sun, 15 Nov 2026 08:00:00 GMT",
-   "fonte": "Meteora Web"
-  },
-  {
-   "titolo": "Nvidia: nel terzo trimestre fiscale il fatturato dei data center raggiunge 107,6 Mrd USD, in aumento del 110% su base annua - MarketScreener Italia",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWjd4LTk2SzU5VlNwTk80VXNGMTlzMmhfV3ZiQkZhQ2o2Q1V3RW15QmttMWpfczlrVXdMczRBQmYyZTZvcjc3aGJQQ0dsSVlSekx1MjJNNnpWQzcxYkJjalItQzV5OEtaMnNWQmVoZDlBWk95OUtoc3ZlTGxMdE1mT3VUNUdVNjFNSjNzc2pnbkdERGJnYlU5YVlfN20zT3BPVGR5V19MOWtJTGJ1c0hKZnhRUzB3WXBQbE5fLVlLYjYzaXJVR3BEUVRUREI4RWV2XzV3T3Vsd0xNaWVEYUt5elFvM054YkNp?oc=5",
-   "data": "Tue, 17 Nov 2026 21:27:38 GMT",
-   "fonte": "MarketScreener Italia"
-  },
-  {
-   "titolo": "Jera del Giappone in trattative con Anthropic, Meta e Amazon sui data center - Investing.com - Quotazioni, Borsa, Economia e Finanza",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ0paV0J6eWlKNHh1Z2RzSUwyR1p1NWc5QnJOMWFkcG1BdVJ1V3RvV0lKOVlOYnVaaHk5djB0QXFPNTlNZDdhR3p6Q1QyNHYtS1RtQ3VDdXNXRk1XVXg2ajNfdDF2VEE0ZWxzbnNjUmtIa3RNSmhzWGo5TmppUmJZaDU3WllmdjVjeUlNQVRxVmNNZ0JKY1IxaGNlcVJpOVpGT1lzN0hGdERtbW1KelYzamFtUURHd205U01YN2p3NzlmWUFDLWdCV0gtcGpJTlFubEE?oc=5",
-   "data": "Fri, 27 Nov 2026 04:25:00 GMT",
-   "fonte": "Investing.com - Quotazioni, Borsa, Economia e Finanza"
+   "titolo": "Il governo frena sui data center: dopo l’entusiasmo di Meloni, scatta l’allarme sui costi energetici - HuffPost Italia",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcVJaaGV5S3BQNnpzcFNqcGF2OTFidXRsZUduMy1veE5HVmZ6U0ZkTk82TW1SaEF6VkRsV3JuMkZZdE9JdFNQNTFLd3duc3p0cG4yN2prTlJPZ0RmMExnd0U0MEVhWWF4TTRyaFNUb2kzcy1zYXlZenBYVkZPU0xaeU1YWU52LXdSOFNzVG5aZmthOUY4WjcwdEVnd2RDRkpCSF9YWGVwa2h0cmQzS0VLeG9FT040UlgzSmdldEp3eS0xNmIzZEUxYlhn?oc=5",
+   "data": "Sat, 28 Nov 2026 08:54:00 GMT",
+   "fonte": "HuffPost Italia"
   }
  ],
  "norme_usa": [
+  {
+   "titolo": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Fraud.gov Tip Intake and Referral Form",
+   "data": "2026-11-30",
+   "tipo": "Notice",
+   "agenzie": [
+    "Treasury Department"
+   ],
+   "link": "https://www.federalregister.gov/documents/2026/11/30/2026-24266/agency-information-collection-activities-submission-for-omb-review-comment-request-fraudgov-tip"
+  },
   {
    "titolo": "American SI Exports Program; On-Demand Consortia for Specific Foreign Opportunities",
    "data": "2026-11-27",
@@ -122,15 +131,6 @@
     "Securities and Exchange Commission"
    ],
    "link": "https://www.federalregister.gov/documents/2026/11/20/2026-23650/self-regulatory-organizations-memx-llc-notice-of-filing-and-immediate-effectiveness-of-a-proposed"
-  },
-  {
-   "titolo": "Self-Regulatory Organizations; Miami International Securities Exchange, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Permit the Listing of Binary Options Overlying Key Performance Indicators Reported by Certain Issuers of Stock",
-   "data": "2026-11-20",
-   "tipo": "Notice",
-   "agenzie": [
-    "Securities and Exchange Commission"
-   ],
-   "link": "https://www.federalregister.gov/documents/2026/11/20/2026-23649/self-regulatory-organizations-miami-international-securities-exchange-llc-notice-of-filing-and"
   },
   {
    "titolo": "Additions to the Entity List",

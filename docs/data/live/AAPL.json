@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-27T14:46:36+00:00",
+ "aggiornato": "2026-11-28T13:57:32+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -156,16 +156,16 @@
  ],
  "news": [
   {
+   "titolo": "Apple: ricavi trimestrali a 114,5 miliardi (+12%), ma guidance sui margini delude - Borsa Italiana",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSUM4RkJDZGFydFdweDZ4dHNIQTA3aUk4SVFGUmU3LWJwclFISTVfaXVKRWgtVHRZZENaSjdqYmlGRTU0bERoU1UzS0hyNERyZjZpa0xzSExkYUlzS2FUSTVmaVJzUjVjTnI5ekVxQ0tUT3VyclpSTVVaOFJyc0xmUnVVVTJOTnlrSUdEMWozbG9iZGpPNVg0eHRUbmEtVUVGTGVqZmNCMm9KWENsaXNjUFpqVTJlTnd5TmZXT21mRkY4aFctV0VybUxleEdtMUpUaEU2YnRGR0dZaTZNRG9majBvV3BkUmlhU0Vtelln?oc=5",
+   "data": "Tue, 03 Nov 2026 08:00:00 GMT",
+   "fonte": "Borsa Italiana"
+  },
+  {
    "titolo": "Anche i servizi di Apple stanno avendo alcuni problemi tecnici - Il Post",
    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9reVZHeHNmMHV2ZTlvdFU2Q1RaNHpaY09aZm5SZWl5QWZ1bWpsazR3LTNHN1dyazVidHE4ODRsd29uOFZsc0pkd1hkQU9YNWxrN24wN3o1aWxoeTNZNU93YXZHbWNQOGQ0TmtsaVdhNzB5UQ?oc=5",
    "data": "Tue, 17 Nov 2026 08:00:00 GMT",
    "fonte": "Il Post"
-  },
-  {
-   "titolo": "Apple down, segnalati problemi a iCloud e agli account. Cos’è successo - Fastweb",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNGUxUW0wVUQwV055LUFVbVQ0ZkoyUXpGQmk4aUduekNoWlJJOTU3NTEtZnVhUGNfSTJvSzY4UGQ1ZEhDeTlkVGNid2xITXpzOWkzQ2p6aUhRaXRFa3Z5a21iaklzNE50SmpLUXVyMFoyekR2MDR2THcwTDZMSXQ4NmhSa1lEQXVCTmdhMXE5T1FyVzhGdmZscGZQS0tuZUFSXy1KZm93d3VZQ3dYVllpWnAwVWdoRmVBVk5QMXkxb05XcjQ?oc=5",
-   "data": "Tue, 17 Nov 2026 08:00:00 GMT",
-   "fonte": "Fastweb"
   },
   {
    "titolo": "Apple Black Friday 2026, le migliori offerte su iPhone, iPad e MacBook. FOTO - Sky TG24",
@@ -174,46 +174,46 @@
    "fonte": "Sky TG24"
   },
   {
-   "titolo": "Apple down, problemi per iCloud, App Store e Music: «Nessun attacco hacker» - Il Sole 24 ORE",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYWgwTlJ6dEtIc0NGYzVhWDBZM05BNWc2aHRmbHRKQ2s4Q0I3bTYzdUlLYnUxS3IzeUJOb2JEd0xRVmNheGM5eWxyWVpiRmJ6Q1g1OHlVd1JzSFY3NkUwRTZnVFBLYTRYczFoZjdlalBMVTJEWGtHUzRCM0hNdl9rcXczNnl2UjZIR2dz?oc=5",
-   "data": "Tue, 17 Nov 2026 08:00:00 GMT",
-   "fonte": "Il Sole 24 ORE"
-  },
-  {
-   "titolo": "Apple down, problemi ai servizi della multinazionale tech: segnalazioni per iCloud e App Store - Il Fatto Quotidiano",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeG1jMG41Q29vaDBsaDgybXBwTk5WNjA4X2NjZjN2YWNxMy1zRW5aY3hGR0pSMzViUldPcDF1YU9Ma1djbkJxTWxwWG9jVlBCemVCc3pfcmlQOElFN3lKQmRyaHpQM1BYaHhhZVB6b2J2RDZETHlBd3RvSE9UR0RLNnJNWGw2R1RIYlpheTlBclY5dw?oc=5",
-   "data": "Tue, 17 Nov 2026 08:00:00 GMT",
-   "fonte": "Il Fatto Quotidiano"
-  },
-  {
-   "titolo": "Interruzione dei servizi Apple: la causa sarebbe stata un aggiornamento interno, non un attacco informatico - Libero",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ2duamF1Ui1TMmlGUGVuTF9lSmFWWGZmQkgwbzRRQl9FbjdFUnlvUnBFMDVaajdWdkNSd3JxRDRIZmVWMmV5T0JrY3h0U3lQUnRZck85VmZJSkpNNngwcmphR2pzTHl2MVY5allESUp3eURKSWpUb2pmZnJlSzZGS0RDRHlfVHI4c2xKTjFaN2hmQdIBlwFBVV95cUxNRmkxWlhYdHE5Z1p6a2JwZ0hWTEhobkgyVTJiTl9IcEc5N0pueGNxUU1NbDhkSDZHc0M0VjBFZUpsU3pCN0pxZVJqUVlDekpzaXNJNjNwNUZCS2E4YkhWYVFqRmVQMXZUUkkza2FETGVQeGxvVW9mRHJabWw0eXpKakJfNl92a0pwcGk5Y3YyZnVvOVJpdGhr?oc=5",
-   "data": "Wed, 18 Nov 2026 08:00:00 GMT",
-   "fonte": "Libero"
-  },
-  {
-   "titolo": "Apple, malfunzionamenti oggi hanno interessato numerosi servizi - RaiNews",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMGhubUhZSXY5Rk14NFg3ZHoxU2tvZWc4Ny0xMHppMnhQT29pT0p2Ti1OakEyazRqVXRFdC1rMzBHZjdacjE3SHYyTXRUODA5YUFrQy1qUDdWSEsyYUtxQWx6N3QwNEhmTElZWTZGOHowaGVPakEzZjdxR2dTWU1DMG1WdUtOd0kybHlibUFzTFNIXzRyVDhFcUJTOEZrdzd3b192VTlBaUJYbkxTQkVMS2x4eWhib0RHNW4td1pkQUZUZlZua1o5bkYyZ0I1V0ZBOGNEQWo3SFFuSUdCSVZYWWdYYUTSAeoBQVVfeXFMTmUtTHJjRW0zYVlCd29VUmxBbjFqRnlNRm5jc0ZXMVBSZ00zQW5Ed0Z6Y1gzSGRnTTFhcHZZR1NfdFYzZVVxRmQzRlQwY05TbVF3b3JxRldRTGJkY0hYdmpVS0ZEQU94ZDlkMHkyMUdza0t6eU0wTWRzOXNLV0R3WEZyT1FmUW5KOWU5Zmw5ZUFnMkNjQW4tVDZtMXZKTUJBbnMzb3VsLVZlSlB3a09iRzJVTlVZTE02T0gzVkU2cnBlc1A1aldWSHpLV0c0eEdaalBXWS1ma3ZzX2xic1ZfSkNQNElUVDk1OXFB?oc=5",
-   "data": "Tue, 17 Nov 2026 08:00:00 GMT",
-   "fonte": "RaiNews"
-  },
-  {
-   "titolo": "Unieuro Apple Black Friday: 6 offerte al top fino al 18 novembre - HDblog.it",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS3RXY2xLZ1VLTnk3aUh0UkE3UXg1NDZfbk1LdHBSQVpLRVh5SFcySk5UZkk0RllPMGtla2hIZnhJWG96N2ppdVVWa0dVekFSVDBmSVhLLWdRSEUxeFFMa3hKRlJ3cVVEbXdqeDZoLXBjSWFFNmkzbjE5ZVFBT0p1QU82RnhxMU8zRXdCZi1vMlBneEFqQjNlaVdVSVI?oc=5",
-   "data": "Tue, 17 Nov 2026 08:00:00 GMT",
+   "titolo": "Apple, un 2027 ricco di tante novità: iPhone 18, Air 2, nuovi iPad e Mac già in primavera - HDblog.it",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUFpUREp3azhZbVpkckgxUkUzdnVVWE9RczQwbGo2VXBvaG9YZ001bUN4dTN6cmFuTzdRVDcyaFlGYnVLNlA1OE13SWdRMElrZWFKWldWc0NJd3R2ODJ5LUhORHZqam5Qa1Y0WlAxUlQySjZDS25LbVRTblladjhQVDZQNG9zV3F0ck1pMjI2ZjVTN0RjOWc?oc=5",
+   "data": "Mon, 23 Nov 2026 09:20:00 GMT",
    "fonte": "HDblog.it"
   },
   {
-   "titolo": "AirPods 5: gli auricolari Apple scendono a 129 euro per il Black Friday - DDay.it",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVzZsTnY5ZC1NS080ZkZPNjBMNVpRRVlHdlNVbUsxemlVNXlaQmRaMFg3TzhMTWhUdU9NenozRkNHSzNhTWdOeTAxaENJS3BUNmRRamVPdjNkY3dXOW9obmM2QU5Fa0xLTURSZUk4ZW9JN29BXzdEMHo3OXFpRm5Da2lqeGpjd3d5VW1BVU15TjJod3BzcmRBU2lLYzllaDR6NUx2dkYyekZJdXp0WmMyN3pjeTRtcEdqQ3c0SWFGM2ZGWVRtb0ZkYWNkcmQ5TTM0?oc=5",
-   "data": "Thu, 19 Nov 2026 12:04:00 GMT",
-   "fonte": "DDay.it"
+   "titolo": "Export, dipartimento Attività produttive premiato in Cina con il Golden Apple Award - | Regione Siciliana",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdmlIekxxN25ROFd0eU5ybk4wcXdKNEZqZW5DU0pyWDdBclJSeGIzZ0xDaG9ZTmtMRUlfTnozZTl3eUo1eWt2NjBac2lDQW9DSWJYTEpCNHlkU1ZHbnl1dktpRDN4MnRTZlFHRTc4YUpIUVVhUHJqeGJCLV9NMnVFV2ZwS0hSOHdOaDZTMEdUeTlydTR4V19MWExxbm96QkRvV2tNVlN0YUxiSms5emNkRlJ0QXJfTDh6eVZTSXZEaw?oc=5",
+   "data": "Wed, 11 Nov 2026 13:12:21 GMT",
+   "fonte": "| Regione Siciliana"
   },
   {
-   "titolo": "Apple punta sulla fascia 'economica' a inizio 2027: arrivano iPhone 18e, nuovo iPad e MacBook Neo 2 - Hardware Upgrade",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbk5ETm81bDVraGNzUlE3UGY0NG8xcnBDV0p5UHkwTU1mVWJuaUx1b2E4dGNpei1MbUp2Vk4zTkloci1PLUZLblI1Yk9ZYnA2Ylg0SVFLTzQwOG5sM2kwSVpVNmZnMndVbE1yZVd3c0UzWlF1Z3R1T0lFRlBQN1cya0dQajRQeVlLTWtQWnlqSklzbUV4akQ3Qng3MVg4YjduSkp5cHd5eHBxSW05R2ZjblFsdHRNM1ZidmllQ25xWlQyWVpQaWp6LWdFeFFZVWphcHNjTlpZWWNJUkk?oc=5",
-   "data": "Mon, 23 Nov 2026 16:01:01 GMT",
-   "fonte": "Hardware Upgrade"
+   "titolo": "Apple, 50 anni di miti e bugie: il garage che non c'era, Jobs cacciato e il fallimento che salvò la Mela - Corriere della Sera",
+   "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPQUVEakpqRHYzUWI3YnRsUHJBb0tWZTZNMGJHUDhxZ2NDbnR6NkdENHExNnVYU2VneVhGdE0yTld3WDcwekJhME1NU01EcXUxZnpGOS1VQnpFMDBGb3cwWEtLRnN2N1RhdUtta2pOdl82RTdkQVV2QVJ2T3dFUmF5emRDaHVXSkY0RWlYMmNqY0dKTHFyTW5saElXQmdZTXFKeThCb2JpU0M0eGhqaWQwekpMRlN4RWhhZGtZRGFyOXA5Z3JwZFkyT2xBem53S2tRakFIUmhDamhkUzVyak50bk9sZlNKOFQxT3gxclBpZ2p0enB4bFoyMjhRODg4aVFIazdwdUJzbmhTZjdJZk96aHZVdGh6bDVCUkxlVkNyUnFjbmJ2WXFr0gGsAkFVX3lxTFBJSjBEQks0Qkx3OUpWQzlzYlVBbnV2SW4xTmNCa0ZNalNjMDh2S2oxeWNjZGtZRDBDOWlqaEZXdzBaUWlDeTB3UXBsRTlyTmpUaHN2a25kcEx2eTBHM2pld2pnZHRmZ2hpOGVjR09OSWJYTE1Zb2RuRHM4a0RkZnA1alJUMHVVZEk5N3h6SHF5Y0JqZkpDdGpZb2pfRjg4SzQwTDA4S2dyc2h3RndkalhqLTJTazl2V2JJVG5IekJ5YVN5SlR6VDZ0bWFLeDQyeXBGeDJ5eDNpbkZvWC01bVVNT3JybkRyTF9YSEV4aklBR25BVXhqbnlpY0dybEhWemJ6d1NDVm83M3oxa2lqbTVhcDFrUDZiTmlqYlBEWFNVQVdQZ0J3RE1GbTd2cg?oc=5",
+   "data": "Sun, 08 Nov 2026 08:00:00 GMT",
+   "fonte": "Corriere della Sera"
+  },
+  {
+   "titolo": "Trimestrale Apple: margini sotto pressione a causa del prezzo delle memorie - Morningstar",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejIwNXhLeFVFVHhFZFhUd05XcTdOZFNFWnV0d0xmdVlPZFdzNFlJLWZsdUU2QTRGNDJ6Y3dFazdMRGRybmczTUpJWkx2MDZkOXVtQ1NiN29hckhXSDdFckV6ZVc3eEpjYnFRVHdvTUk1a0lkOTRXbE5iR0N1YjkwU3hwQ0pyRXRWSG9RT1VPQU5FOUs1cXpReXRnQ3ROb3FSUTFhMnpxOHFiMmlqSjh4b2Fnbw?oc=5",
+   "data": "Tue, 03 Nov 2026 08:00:00 GMT",
+   "fonte": "Morningstar"
+  },
+  {
+   "titolo": "Apple, torna la campagna PRODUCT(RED): i modelli e gli accessori in arrivo - TuttoTech.net",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbU1JWGtnMkoySHpJOENISklQOV9fUkFHYWNId0JUaHQzQ3I1bU9IT3owakxya01QaGVFSXp0ZUZqMjN1Wlo1bmM4TXlCWDRfZFpwck9yR0NIYmgxcDRzUGlSY1JKSjhOQThKUkpqSklRREVMYzNvTXVIQkpoMmI1VElQeXdkVmJsRkdYaWE0NDNZTDJVcE5VbGdXYTdFOWhxVHZGa3c3MWVPekk?oc=5",
+   "data": "Thu, 26 Nov 2026 08:32:09 GMT",
+   "fonte": "TuttoTech.net"
+  },
+  {
+   "titolo": "Black Friday e Cyber Monday 2026: le migliori offerte sui prodotti Apple - www.altroconsumo.it",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZkNmeTRfVmxMY1ZIRW96YzhnUnJYLVVQamNKSlhuMlVCNFAtOTY1QTJfUE9fQlJsZ19aeG5hajF2R1liQm8yV2NXSm5rZXpBLWRvMG51NUhRXzFsbEc2Zkw0dkhCc0xval96N25LQ0J4eDlGc2NFRmVjc1c4X2QxcVVZLTliVTJDdnhISVpnNzBnRXctWDAtQw?oc=5",
+   "data": "Tue, 24 Nov 2026 08:00:00 GMT",
+   "fonte": "www.altroconsumo.it"
+  },
+  {
+   "titolo": "Automobili Lamborghini amplia l'esperienza Apple Vision Pro con la Temerario Spyder - Lamborghini.com",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPXzhUYUxNRG9NamhKOF9ERW1aRU9yaVYydjB5VnZlc3F5VEgtRWtJZnVxb0RZTlFIUE42OG53aWZicTYwWHBtN0szVXViRmZxVnJBSDJjT29wNlBkdUVTRWVWWlVqS2FtM3NFaXlIQUhSWHZ4dlpXNnp3X1N4d0o4TVdWd3JncWRzY2owY19WZnhBT3BvVUpjaGJzbTFWVVY4cjJTdFg2WkJnY0VZM2JMN2NpXzhmeVItdHVTMk5Pb1l5eXhRQjBQbWlKYw?oc=5",
+   "data": "Fri, 20 Nov 2026 12:05:40 GMT",
+   "fonte": "Lamborghini.com"
   }
  ],
  "news_legali": [
@@ -272,10 +272,10 @@
    "fonte": "آي-فون إسلام"
   },
   {
-   "titolo": "Apple verso accordo antitrust Ue: sviluppatori italiani temono limiti al modello di app store - Techpost",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPelRLS0RMdlJjc1pTSDFING1xb1AzaGRISkVrd3FPRkx4TFNwTEZFUUlqZ1JNcWFMS2dnTlpacTcxMzhkV0dUanRfM0h4WFViaHVlV3lhRFFzU3NLOEQwUDZIUkpadzFnSmJwOU9oX2xYeDR6TjRfY1o5YkNaLWJ6TTczRDVPREloSFNNTGVOX2l2TENhRUppZXkyZzg5TXFQTFlxQTlfUUJPVHV3S2NZRFNLU1hPM2NKUnRXTmxLTjRvMmhfREZLYVM0NGZZZTBlTEFkQjBVbi1PNms?oc=5",
-   "data": "Sat, 17 Oct 2026 07:00:00 GMT",
-   "fonte": "Techpost"
+   "titolo": "Apple occhiali smart, WWDC 2027 e Siri per le app - Meteora Web",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMUVNblVYeGNia2hiUVk5Tl9wbzFYTHRocTkteEVacVYyMnpSZVM2UDlmMXY4S0VKcG0tbWJTRDhqTE96WUhmYnR5b2w5Tnk5cmJVbDVnWUZzSWItdHQ3X0p2WEVhYTNnTTFPU2UtWmpXeVpYby1VR3JOejZ6Q2U0dVR0YU1KWWM1YmR5dG52V3BFVTlnRHNYb1JXNFpDX3B2SzFIYVMwOS1NWGplcEpXYU9teVZoZw?oc=5",
+   "data": "Sun, 15 Nov 2026 08:00:00 GMT",
+   "fonte": "Meteora Web"
   }
  ],
  "news_brevetti": [
@@ -290,12 +290,6 @@
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVjFLbmdGbTRsSWdGQ0pvNUxKRlpZbWo4S3dRNXNWamZ6MHBOMExBMlFuQjBwR0dxNFVHVDNsbDVySGZVdWtTLU8tcFo2SDRxUDdnZFN3ZU5IQjU1VnU0d1l1dEJiU3pFVmdXRlh6Zzg5bU52d09wWkd4N0V5V0tMS3ROeTdlR1ZfUzYw?oc=5",
    "data": "Tue, 15 Sep 2026 07:00:00 GMT",
    "fonte": "Melamorsicata"
-  },
-  {
-   "titolo": "Un tribunale statunitense ha stabilito che Apple paghi 5,7 miliardi di dollari a un'azienda per aver usato senza permesso una sua tecnologia brevettata - Il Post",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcGItOEt1U2h4ZUQ0NU9kUkZEcEJqak91WEdLLXFTMVZOV3ZlZ1RxQW92Q2xWMHU0aGdtLTR5Zl9mUm4wcFUtcm5adjhHcG9jOG5OMnlhRERBeU52c2JhdXFCSGo4eWJFcEUtQ09lS3FWcDRmMGxxZ0FJY2NxcGp2M3BnOEpQMmcyVWJ2aXJVa2E?oc=5",
-   "data": "Mon, 28 Sep 2026 07:00:00 GMT",
-   "fonte": "Il Post"
   },
   {
    "titolo": "Causa milionaria contro Apple: nel mirino NameDrop - Tom's Hardware",
@@ -314,6 +308,12 @@
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkTmxNMEE0cFdCaFhkRVlFRjV5a1NhNGdoTENDeWVnMExKUndzU0lPQkxha3dPVmJfR2lUNnZ5b1Frbmp2cXQ4eFRLU1VjdnRoWHktc1lZVFJKakVhUWozVUd1UzdEYmYxMG05R1I2SWRVcDdsWnRKLTA4WQ?oc=5",
    "data": "Mon, 19 Oct 2026 07:00:00 GMT",
    "fonte": "macitynet.it"
+  },
+  {
+   "titolo": "Federal Jury Orders Apple to Pay $5.7 Billion Over Haptics Patent Infringement Case - TIKR.com",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZUp6ckVkaE5JMVZNMmJ3MHNNSDFjNThMSFZzQXpBMzd3T1JiTVJWM0pwbTUtQUwzV09BQXl5eG8yRWp2cW5OSW5NazZiTWdNaHVkemNpckVnMmZabTVINHAtVzZlcW9lci1McXItUFlXZEtKQlNOSkMyOGJNWjcwVFo4VFdLdzFjM3Zj?oc=5",
+   "data": "Mon, 28 Sep 2026 07:00:00 GMT",
+   "fonte": "TIKR.com"
   }
  ]
 }

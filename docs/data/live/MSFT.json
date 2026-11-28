@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-27T14:46:40+00:00",
+ "aggiornato": "2026-11-28T13:57:35+00:00",
  "filing": [
   {
    "tipo": "8-K",
@@ -169,16 +169,16 @@
    "fonte": "Microsoft Source"
   },
   {
-   "titolo": "Avviso su disservizi temporanei Microsoft 365 - Federazione Italiana Pallavolo",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IdW1LYXY2emFyb0NaNHQwelN1WnR4azdBM1M1Z0ZoS0xSdkZVYXFIdTlLenYzMUtHMklJSUZWTmVSRnhJTjhZQzgxVWJoanppMVk4R0hCVi1ZdkxPZFE2ZllGRk9yay1leXl2Rlpyc05ZZ3dTZl9INGVlcDQ?oc=5",
-   "data": "Fri, 13 Nov 2026 08:00:00 GMT",
-   "fonte": "Federazione Italiana Pallavolo"
-  },
-  {
    "titolo": "Outlook down in tutto il mondo, Microsoft: \"Escluso attacco hacker. Ripristino parziale\" - Sky TG24",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY1ZTaTFOdEU0QUxDSWNmMmVPcnRsWGkxUVNrM3liQk1ZZENlOW04aDEwV3FiVlhsS0dRNlFYU3lYcUxzaGU2SGZXTE5xZnJxX2JjLURZSlJHVVF4ZnAtc3pZQ1ZoN1dTdG9HbmRQbzNiTnFFQTFTenIxSktwckxZSzlHbmJmT3dLUEdVdU93?oc=5",
    "data": "Fri, 13 Nov 2026 08:00:00 GMT",
    "fonte": "Sky TG24"
+  },
+  {
+   "titolo": "Avviso su disservizi temporanei Microsoft 365 - Federazione Italiana Pallavolo",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IdW1LYXY2emFyb0NaNHQwelN1WnR4azdBM1M1Z0ZoS0xSdkZVYXFIdTlLenYzMUtHMklJSUZWTmVSRnhJTjhZQzgxVWJoanppMVk4R0hCVi1ZdkxPZFE2ZllGRk9yay1leXl2Rlpyc05ZZ3dTZl9INGVlcDQ?oc=5",
+   "data": "Fri, 13 Nov 2026 08:00:00 GMT",
+   "fonte": "Federazione Italiana Pallavolo"
   },
   {
    "titolo": "Microsoft: \"Ripristinati tutti i servizi dopo il blackout globale\". Le scuse del colosso - RaiNews",
@@ -199,6 +199,12 @@
    "fonte": "Euronews.com"
   },
   {
+   "titolo": "Microsoft, megacrash per mezzo miliardo di utenti: «Ci dispiace» - il manifesto",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMG1NdjZteFlUQ2pCWFBuSXViVnZ4cHZHQk8xLUtocExBQmxYckhWVjRqRVhHVmFrWDFKZldxUm96OU1DVDdoY0psUUVUVklyUDNHSTI2ZkNRU1NvTVRZM2Y2UGtEbE5qbDJWcHpSZTAtMzh2QVIwMTJtYjlzdW5GWkN4eFdoZDQ2WW1j?oc=5",
+   "data": "Sat, 14 Nov 2026 08:00:00 GMT",
+   "fonte": "il manifesto"
+  },
+  {
    "titolo": "Microsoft avverte: “Preparatevi a nuovi blackout digitali nei prossimi mesi” - la Repubblica",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUGhBeDM5Nk9uZGJHZ1ZCdTNwY0tEQW5rdUpobXRGeWRnQWhOeGJEb1ZnRHZoTlZyT0VVZmc5dVo2VDFtMHlhS1dkR0RrdjRkaVpjV3hZVkFuamJLUU1KcVozNXJIVS1fdHpOYkxmcXRzUFNLQ0tjQUdFU0EyTlNub214SHhJTWh5Slgyc2xhRkoxYlhacUF1QTg4S2FqcmhnNWpZ?oc=5",
    "data": "Mon, 23 Nov 2026 11:46:45 GMT",
@@ -209,12 +215,6 @@
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaTJSSnhYZ0V2QVRVejZfYm1oMmdmV2RFNUlUMzNCNzlsdUhUTkU0eDdHdGN4ZFFkX2NxaFZxam52YUxWbHZLeWdRVl95eGp1bEpqN2hnZHpIZVNjNVRTM0xES0poeDkxT0NSTU1nQVRCRnRUcTdHZVl2R2VRUmFmZFc1UHl3ZEtJR09LMTFLZFVzZHF5UmlaanRXV2w4M0dYb1huV0k0SWhrUkE1RVNsdEJOcw?oc=5",
    "data": "Thu, 12 Nov 2026 08:00:00 GMT",
    "fonte": "Il Sole 24 ORE"
-  },
-  {
-   "titolo": "Down Outlook, Microsoft: \"Problema risolto, ripristino del servizio in corso e nessun attacco hacker\". Coinvolti aziende e governi in 74 Paesi - Il Fatto Quotidiano",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd29nWlZTdTVkdWtLaTN5U3VSLXFSVng1emIxWExraVFTTXVzNTVkRE9VVUNKeEJPMzNONVc5SjF6X2VUdVRONTczVDNSeXJxMWJmQ0FWZnJPQlhyUFJiOTVuTmhZcEVZTVVJT3FBOE9VbGZnanphVXNsaGlzVy1PMUZEemhwMXZpYWE2YWxRS0J3bWgtbHE5bA?oc=5",
-   "data": "Fri, 13 Nov 2026 08:00:00 GMT",
-   "fonte": "Il Fatto Quotidiano"
   }
  ],
  "news_legali": [
@@ -225,40 +225,10 @@
    "fonte": "Startmag"
   },
   {
-   "titolo": "Alla fine, cosa abbiamo saputo del blackout Microsoft - ImpresaCity",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObC1FUmpaUVJKU29SYU5VR3hmTFV3WnZINW5PR1ZXMXdYVmZlaGZhbVZOZ3NXQnZHLThTQnlfMHRJazl3WllkS1ZmX0lGMDFkUE55Y3BDbndJRFZCZzRjWUZnRFhCc1B6LUtPVlhhTHI5VkQ4Smp3V3VVSXdzY2lKaDRjaXU5M3dJMUFQLWRlNEI4bjA4R1g0eWttc2hpNG1IeE1QU0Rka1UyQQ?oc=5",
-   "data": "Tue, 17 Nov 2026 16:57:00 GMT",
-   "fonte": "ImpresaCity"
-  },
-  {
-   "titolo": "***Antitrust: autorita' Ue coordinate su gaming, quella italiana guida su Microsoft - Il Sole 24 ORE",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0dlJZMkJEbkFVWEQ5TjFjc0NrNnRaVkhRVkpWQ0hYaW42dmFhYW1MSDVUUUhwZHBmcjNHTUhRdFA0WlE3SHFWVUxJRm96SUtlZWJXLWpJV3IzdW5xVWh4Tk5BNV94cG5iLUJOT3NBVndzLVlU?oc=5",
-   "data": "Wed, 07 Oct 2026 07:00:00 GMT",
-   "fonte": "Il Sole 24 ORE"
-  },
-  {
    "titolo": "Da Diablo a Call of Duty, Antitrust e Ue verificano le spese nascoste nei videogiochi - RaiNews",
    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYXV2bkhyWmo5STUxMk1BVmhySElhd2RIMFRsRVZUbzZWQW9GNzVKZ3FiOHVZcVZoeG05MTB6WjN5dE9Pa0toVlJMWV96ZWRpbGJHSGR5cDNEdTRldkd6QV9xWlVfRDBtcXFHdlFvSkZUbjAwVkY4WndIRWJkXzl4Q2tYRHlZdmFXTkx0UUtKZ1JjWWRKdUJMYWtXekNwODR1VlZrQzlWcFJCOGJrNmE1S0d0U3RYN1h2N3VWYkItU19Xd3k5NlFKVm1nVDBqc3ljMW0zbU9aR0V4QUliSkJVcVVGVThkZ1FqeklKZnZvcmVWTjV5SmI2Q2xn0gH_AUFVX3lxTE9IVDJjYno4OGNEbDVpTDFheHZuWkVOWWxINlpKNXl5NllKa3dlcklHY3JSa0pvUEJBQ2d0eDlvRkM1OE1sUnVOWDdyWkYzLU04M00tbC1xclRhbEcwajJnUWRiWElaY1kwUXJjc01uOC1uUlY0emE1WGZVeUlsNm1hVkZyZVp5dW5zWlk4Y21jekxDLS01RFQyaURpbXJuelBOWUY4bHJnaEt1MTZ0OHVNTHhtY3JDTjV1VGhQVWtKTWtZNWVvTm5xMFZjS1lJVUR1UFlFUGkyQzcxTEYtTk5xbjZ5WENodHpkTmhSM3Z0VXNDSGV1X1RNN1pldnRlZw?oc=5",
    "data": "Wed, 07 Oct 2026 07:00:00 GMT",
    "fonte": "RaiNews"
-  },
-  {
-   "titolo": "Microsoft chiude l’app To Do dopo dieci anni di carriera. Per gli account personali non c’è un sostituto - DDay.it",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdnU5bUtCZHdPS1dTeThSWkJWUGRFaUppczQ2dUhtWTJwM2FzVnlIZ0JTMWhsZjV2SXBHQlNoeDFZWGtCbTAzcFlpcDhxQ29DUGxHUW5RUVBhcGZHYUMwem44eV9RUkhVMHNtLXk4cnlyQnVqSDhEYTdXOWtGS1JaOUlrQ3dORm1uRGFsak56X3EzRDZVZ2c3Ym16QmNNOWZfN3RjTWdEeDBuTE5aNWlOZ3lROGRrSGpqcFVEQWhvdGowUFlQcnBlRG10TG9FRFdfbm9J?oc=5",
-   "data": "Fri, 20 Nov 2026 14:26:00 GMT",
-   "fonte": "DDay.it"
-  },
-  {
-   "titolo": "Microsoft annuncia la nuova app Foto per Windows 11 - Punto Informatico",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS1czVktCeVpUUGR6Mk01eVIzc2NDbU1TZTBscjlkbWRqMVlmNm9UVk9rdjlwRDlnLWp6X0hBT3dOTHFCZW1wSFRTWmh2Zm5PRFlrN3JBa0NQU3RQRTFaMUJTZzM3TktlV3ZIQXpZNHlEUkVWeEhSQkpzTjIxV3JnUk1wWUg?oc=5",
-   "data": "Thu, 15 Oct 2026 07:00:00 GMT",
-   "fonte": "Punto Informatico"
-  },
-  {
-   "titolo": "La panne di Microsoft - RSI Radiotelevisione svizzera",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUGMzNE1EVFpKbE1lZ3Z6Q2VYNldSNUdUal9INmt5SzNkZzR3eldWRzQyY0lBWEhSaVVtckhHR01yckpuWk42VVZLS1l4cGo2eWdsM3RoR3FyYkliTy0xU0R0WVV3YUE3X3hWbVFSZTBtQkxSdHlhc194bEd3dTBaWGJxdVpPU2RNYlQwUl9teVlDU3RoQjFyQ3Fn?oc=5",
-   "data": "Fri, 13 Nov 2026 08:00:00 GMT",
-   "fonte": "RSI Radiotelevisione svizzera"
   },
   {
    "titolo": "Microsoft ha ripristinato tutti i servizi dopo il blackout globale di ieri - Avvenire",
@@ -267,16 +237,46 @@
    "fonte": "Avvenire"
   },
   {
+   "titolo": "Gaming, azioni coordinate nell’Ue. L’Antitrust italiana guida l’attività su videogiochi che fanno capo a Microsoft - iGizmo.it",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaEZqZmR2Y1JlMXNBeEk5dDFoSWYtaUo5M1VucTN5WGsxX1BKMVVmT2hxd0paby1jbzBZcFVQSFp3MExlWEdOX0pES0xoV2tIOGY3SHdpeDA5WFRobUw5anhMcFNkaU9pRzk5VVh2X00wY2JKRkNWWHRzZGIySTl5WXVyYjBYMmtDNHJOQkdGeFY5OURYSzBrbDlNLVZ5cVVvVFFEbzdXLVphWlVoQ0g3TWZpdFlEM2pFYkRnd0ZUZEdTXzJ3YjIxNnpMZHg?oc=5",
+   "data": "Thu, 08 Oct 2026 07:00:00 GMT",
+   "fonte": "iGizmo.it"
+  },
+  {
+   "titolo": "***Antitrust: autorita' Ue coordinate su gaming, quella italiana guida su Microsoft - Il Sole 24 ORE",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0dlJZMkJEbkFVWEQ5TjFjc0NrNnRaVkhRVkpWQ0hYaW42dmFhYW1MSDVUUUhwZHBmcjNHTUhRdFA0WlE3SHFWVUxJRm96SUtlZWJXLWpJV3IzdW5xVWh4Tk5BNV94cG5iLUJOT3NBVndzLVlU?oc=5",
+   "data": "Wed, 07 Oct 2026 07:00:00 GMT",
+   "fonte": "Il Sole 24 ORE"
+  },
+  {
    "titolo": "Microsoft offre l’uscita volontaria a 60mila dipendenti mentre investe nell’AI - Fortune Italia",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPakNkTW1GMHI0Rjg3bUlZTk9OdEVhY0REN055YWw0djZaMENNR0MwVVVRaEFhR3RoeFZ1TGRjemFhYjNEX1FVQ2hKZ1ZrS3FIUjlZQ1pSVzYyT29LSXlwTHpOZzhxS09pcVVsZWViTzE5MF81cEx1S3dZNTU3aEd6MXpSa2d1c0J6QzdzTGxhLTRCSWVyMHJ6SUdQaXRkc2xtbFlYcldmclBuM1ZDZnZMVkhXaTRkUQ?oc=5",
    "data": "Tue, 27 Oct 2026 07:00:00 GMT",
    "fonte": "Fortune Italia"
   },
   {
-   "titolo": "Residenza dati Copilot UE: il piano per Claude - NeoTeo",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUmFJSzR0MU83YkU3RFJ5YWVvbmRITXU4bGlMUE4zdXg3YUpkbnhaRjNkOXFkODYxX3pqMlpxckJRZS11cHhhQTFUdXF2akoxNEtDNlRnZG5EZkZBc2RlVTRmaENpcVJrYjRYQjdiRmtQRlZBY3pvbXo4cVBnVFk5Y1EwZGUwMzZMRXhxdzR6dDF0RlRrNlFkTnFtNjA1bVJqcURMRk9pZGxLeEZZaldfQg?oc=5",
+   "titolo": "Alla fine, cosa abbiamo saputo del blackout Microsoft - ImpresaCity",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObC1FUmpaUVJKU29SYU5VR3hmTFV3WnZINW5PR1ZXMXdYVmZlaGZhbVZOZ3NXQnZHLThTQnlfMHRJazl3WllkS1ZmX0lGMDFkUE55Y3BDbndJRFZCZzRjWUZnRFhCc1B6LUtPVlhhTHI5VkQ4Smp3V3VVSXdzY2lKaDRjaXU5M3dJMUFQLWRlNEI4bjA4R1g0eWttc2hpNG1IeE1QU0Rka1UyQQ?oc=5",
    "data": "Tue, 17 Nov 2026 08:00:00 GMT",
-   "fonte": "NeoTeo"
+   "fonte": "ImpresaCity"
+  },
+  {
+   "titolo": "Microsoft chiude l’app To Do dopo dieci anni di carriera. Per gli account personali non c’è un sostituto - DDay.it",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdnU5bUtCZHdPS1dTeThSWkJWUGRFaUppczQ2dUhtWTJwM2FzVnlIZ0JTMWhsZjV2SXBHQlNoeDFZWGtCbTAzcFlpcDhxQ29DUGxHUW5RUVBhcGZHYUMwem44eV9RUkhVMHNtLXk4cnlyQnVqSDhEYTdXOWtGS1JaOUlrQ3dORm1uRGFsak56X3EzRDZVZ2c3Ym16QmNNOWZfN3RjTWdEeDBuTE5aNWlOZ3lROGRrSGpqcFVEQWhvdGowUFlQcnBlRG10TG9FRFdfbm9J?oc=5",
+   "data": "Fri, 20 Nov 2026 14:26:00 GMT",
+   "fonte": "DDay.it"
+  },
+  {
+   "titolo": "Windows 11, Microsoft sperimenta un nuovo widget per i contatti - HDblog.it",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGNnUDAyaV9TTFN4NHY1QldUcWV5ZjA4U29QVUJBT080NVhjRmRaNVREdzl3bTRSc2NMUkFhM1BCMnRtZWt0VWlHdFJzQVdERXVFc3hnWFprc05qSUxWUzlpVFNLTmV6U3pEaE1BbmR4bzBxUllibmtiMW1oU3RSdlBnXzFDRTJ2cnZSUmFCVmpBdmsxS19UZkRaaw?oc=5",
+   "data": "Wed, 25 Nov 2026 09:50:00 GMT",
+   "fonte": "HDblog.it"
+  },
+  {
+   "titolo": "Microsoft annuncia la nuova app Foto per Windows 11 - Punto Informatico",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS1czVktCeVpUUGR6Mk01eVIzc2NDbU1TZTBscjlkbWRqMVlmNm9UVk9rdjlwRDlnLWp6X0hBT3dOTHFCZW1wSFRTWmh2Zm5PRFlrN3JBa0NQU3RQRTFaMUJTZzM3TktlV3ZIQXpZNHlEUkVWeEhSQkpzTjIxV3JnUk1wWUg?oc=5",
+   "data": "Thu, 15 Oct 2026 07:00:00 GMT",
+   "fonte": "Punto Informatico"
   }
  ],
  "news_brevetti": [
@@ -293,16 +293,16 @@
    "fonte": "Everyeye.it"
   },
   {
-   "titolo": "Pubblicità nei giochi Xbox? Microsoft brevetta un sistema molto discusso - SpazioGames",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQekdDbnpwU3B4U29saVBTZ2ZoWm9OWVM2d3dJd0tDYlU2M3FCeXZ1ODl1cWd3ZERDT2J2QUdoREhJNnVZcmo4ZHBNSXd2OW8tdHNxc2RmcHNvcXFMZkt4czcxVEktVjIzNkRkckpWR3hwOU5EYWdaNVZVU2h5UjRnUV9PTFVTRTE4amNLSzdvMF8tQQ?oc=5",
-   "data": "Wed, 23 Sep 2026 07:00:00 GMT",
-   "fonte": "SpazioGames"
-  },
-  {
    "titolo": "Microsoft e pubblicità nei videogiochi, nuovo brevetto depositato - HDblog.it",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYzRxX3JQRUZ1NzdzOVJRWHVvUk9PdEVNXy1rRWRaSVprYk04QnoxSm5Xam05XzF1TmJuQ1F0cjZjS2NsVlEtRmVzMVlhc3lDVEpzR19keGo2RUJ2VXV0dngwdl82X2pjY0dld1VJRm85NjE5TFFuMENEaTJBUDFaV0JuSkh2ZU83VmpwMVpKR1ItZnJCQ1E?oc=5",
    "data": "Mon, 21 Sep 2026 07:00:00 GMT",
    "fonte": "HDblog.it"
+  },
+  {
+   "titolo": "Pubblicità nei giochi Xbox? Microsoft brevetta un sistema molto discusso - SpazioGames",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQekdDbnpwU3B4U29saVBTZ2ZoWm9OWVM2d3dJd0tDYlU2M3FCeXZ1ODl1cWd3ZERDT2J2QUdoREhJNnVZcmo4ZHBNSXd2OW8tdHNxc2RmcHNvcXFMZkt4czcxVEktVjIzNkRkckpWR3hwOU5EYWdaNVZVU2h5UjRnUV9PTFVTRTE4amNLSzdvMF8tQQ?oc=5",
+   "data": "Wed, 23 Sep 2026 07:00:00 GMT",
+   "fonte": "SpazioGames"
   },
   {
    "titolo": "Pubblicità nel mezzo del gameplay per poter continuare a giocare: è il brevetto di Microsoft - Multiplayer",
